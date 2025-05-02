@@ -159,6 +159,7 @@ class EconPapersCrawler:
             return
 
         # Process remaining pages
+
         page_num += 1
         while page_num <= getattr(self, "max_pages", 1):
             html_content = self.fetch_page(page_num)
@@ -168,6 +169,7 @@ class EconPapersCrawler:
             page_num += 1
 
         # Save all collected data
+
         self.save_data()
         print("\nCrawling completed!")
 
