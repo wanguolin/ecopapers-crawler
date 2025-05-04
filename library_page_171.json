@@ -1,0 +1,157 @@
+{
+    "page_info": {
+        "page_number": 171,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Are the Bombay stock Exchange Sectoral indices of Indian stock market cointegrated? Evidence using fractional cointegration test",
+            "abstract": "The present study is an attempt to test whether sectoral indices of Bombay stock Exchange have diversification benefits in the same. For the analysis, we used daily data spanning from 2/1/1999to 3/31/2011. To test our hypothesis we used Fractional cointegration test. Study found that, ingeneral, no evidence of cointegration in the sectoral indices of Bombay stock Exchange and hence conclude that there is benefit to domestic investors for sectoral diversification in the Bombay stock Exchange Sectoral indices of Indian stock market.",
+            "keywords": [
+                "BSE stock Market",
+                "Fractional cointegration test",
+                "long memory returns",
+                "sectoral",
+                "diversification benefits"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/48590.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Forecasting Irregularly Spaced UHF Financial Data: Realized Volatility vs UHF-GARCH Models",
+            "abstract": "A very promising literature has been recently devoted to the modeling of ultra-high-frequency (UHF) data. Our first aim is to develop an empirical application of Autoregressive Conditional Duration GARCH models and the realized volatility to forecast future volatilities on irregularly spaced data. We also compare the out sample performances of ACD GARCH models with the realized volatility method. We propose a procedure to take into account the time deformation and show how to use these models for computing daily VaR.",
+            "keywords": [
+                "Realized volatility",
+                "Ultra High Frequency GARCH",
+                "time deformation",
+                "financial markets",
+                "Daily VaR."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pqswpaper/152006.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can Post-Earnings Announcement Drift and Momentum Explain Reversal?",
+            "abstract": "Abstract We study the interrelation among the post-earnings announcement drift (PEAD) and momentum short-term anomalies, and the reversal long-term anomaly. Some theories argue that PEAD and momentum are a consequence of underreaction to new information on the market. One theory in particular, suggests that this underreaction occurs because investors are unsure about their interpretations of the impact of new information on the fundamental price, and look for the market consensus interpretation for guidance. This learning process takes time, and until it is complete, prices do not fully incorporate the new information. Furthermore, the more difficult it is to interpret the new information, the more prices underreact to the new information arrival, and the longer it takes for them to fully incorporate this information. On the other hand, there are investors that rely too much on past performance (known as \u00e2\u0080\u009ctrend chasers\u00e2\u0080\u009d). These investors, motivated by the short-term performance during the underreaction period, push prices beyond their fundamentals, resulting in an overreaction whose correction generates long-run reversal. And the more difficult it is to interpret new information, the more likely it is that trend chasers create overreaction, leading to stronger reversals in the future. Therefore, uncertainty about the interpretation of new information can potentially link today\u00e2\u0080\u0099s reversal to past momentum and PEAD. Our major goal is to test this hypothesis. For that, we use a multifactor risk-based model and NYSE-AMEX stock prices for the period starting at January 1975 to December 2010. Our main conclusion points for a statistical and economical relation between past PEAD and reversal. The higher the returns of the PEAD zero-investment portfolio two years ago, the higher the returns of the reversal zero-investment portfolio today.",
+            "keywords": [
+                "Post-Earnings Announcement Drift",
+                "Momentum",
+                "Reversal",
+                "Information",
+                "Learning"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/97458.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Testing the long-run implications of the expectation hypothesis using cointegration techniques with structural change",
+            "abstract": "This paper investigates whether or not multivariate cointegrated process with structural change can describe the Brazilian term structure of interest rate data from 1995 to 2006. In this work the break point and the number of cointegrated vector are assumed to be known. The estimated model has four regimes. Only three of them are statistically different. The first starts at the beginning of the sample and goes until September of 1997. The second starts at October of 1997 until December of 1998. The third starts at January of 1999 and goes until the end of the sample. It is used monthly data. Models that allows for some similarities across the regimes are also estimated and tested. The models are estimated using the Generalized Reduced-Rank Regressions developed by Hansen (2003). All imposed restrictions can be tested using likelihood ratio test with standard asymptotic qui-squared distribution. The results of the paper show evidence in favor of the long run implications of the expectation hypothesis for Brazil.",
+            "keywords": [
+                "Term structure",
+                "cointegration",
+                "structural change"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/15624.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impact of Macroeconomic and Demographic Variables on the Stock Market: Evidence from Tunisian Crisis",
+            "abstract": "This study aims to analyze the long-run as well as the short-run relationship between macroeconomic, demographic variables and the Tunisian stock market for the period subsequent to the financial crisis. Monthly data over the period 2008-2014 and ARDL model have been employed. Results indicate that the Tunisian stock market index, macroeconomic and demographic indicators are cointegrated and, therefore, a long-run relationship exists between them. The long-run coefficients suggest that budget deficit, inflation rate and the number of unemployed graduates had a negative effect, otherwise, money supply and the number of non-resident entries had a positive effect on the Tunisian stock market. Moreover, results from the error correction model show that the Tunisian stock market index is influenced positively by money supply and second order difference of the number of unemployed graduates and negatively by first and second order difference of money supply, inflation rate, first order difference of number of non-resident entries and the number of unemployed graduates.",
+            "keywords": [
+                "macroeconomic variables",
+                "demographic variables",
+                "Tunisian stock market",
+                "ARDL"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/76783.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Outstandingly High Values of the Market Value Ratios as a Symptom of Market Informational Inefficiency: A Study on the Warsaw Stock Exchange (Wyj\u00c2\u00b9tkowo wysokie warto\u00c5\u0093ci wska\u00c5\u00b8nik\u00c3\u00b3w warto\u00c5\u0093ci rynkowej jako przejaw rynkowej nieefektywno\u00c5\u0093ci informacyjnej: badanie na Gie\u00c2\u00b3dzie Papier\u00c3\u00b3w Warto\u00c5\u0093ciowych w Warszawie)",
+            "abstract": "Purpose: The purpose of this article is to examine whether the outstandingly high values of the market value ratios co-occurring with low levels of weak-form informational efficiency proxied by the percentage of the stock returns normality tests in which the null hypothesis could not be rejected. Methodology: The weak-form informational efficiency measure used in the study is based on the strict random walk model proposed by Bachelier. The data collected covered the period from 31/12/2016 to 23/03/2020 and contained financial data of the companies listed on both stock markets of the Warsaw Stock Exchange (WSE), i.e. on the Main Market and NewConnect. The empirical study consisted in comparing the average market value ratios and the market efficiency measures calculated for both the WSE sectors and subsectors. Findings: The analysis of the scatterplots as well as the analysis of the correlation coefficients suggest that the outstandingly high values of the market value ratios do not co-occur with low levels of weakform informational efficiency. Thus, the outstandingly high values of the market value ratios cannot be treated as any clear indication of market inefficiency. Research limitations: The authors encourage other researchers to test weak-form informational efficiency under more general conditions and repeat the study for other datasets. Value: According to the authors\u00e2\u0080\u0099 knowledge, it is the first study making an attempt to capture any connection between the extremely high values of the market value ratios and quantified informational market efficiency in a weak form.",
+            "keywords": [
+                "market value ratios",
+                "efficient market hypothesis",
+                "weak-form efficiency",
+                "stock markets",
+                "random walk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sgmpzwzuw/v_3a18_3ai_3a90_3ay_3a2020_3ap_3a78-91.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investors\u00e2\u0080\u0099 Reaction to a Published Recommendation (Wplyw opublikowanej rekomendacji na reakcje inwestorow)",
+            "abstract": "The aim of the research was to analyze the influence of published stock market recommendations on the behavior of share prices of companies listed on the Warsaw Stock Exchange in the WIG20 index. The presented research examined 364 recommendations from January 2015 to December 2016. The analysis was carried out using the event study methodology to determine the impact of a given event on the behavior of share prices.",
+            "keywords": [
+                "abnormal returns",
+                "event study"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sgmresrep/v_3a1_3ai_3a27_3ay_3a2018_3ap_3a127-135.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Unusual Trading Volume and Earnings Surprises in China\u00e2\u0080\u0099s Market",
+            "abstract": "This study examines the empirical relationship between unusual trading volume and earnings surprises in China's A-share market. We provide evidence that an unusually low trading volume contains negative information about firm fundamentals. Moreover, unusual trading volumes could predict abnormal returns close to the earnings announcement date. The degree of and changes in the divergence of opinion could explain this result. Our study provides an insight into China's market, where short sales are strictly forbidden. We report a strong relationship that is quite different from that described in most studies on the United States market. The differences in the findings are likely due to differences in the nature of the market, which is consistent with Miller (1977).",
+            "keywords": [
+                "Unusual trading volume",
+                "earnings surprises",
+                "divergence of opinion",
+                "stock return",
+                "China's market"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/92162.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Impact of the Outbreak of Russia-Ukraine War on Commodity, Stock and Cryptocurrency Markets (Wplyw wybuchu wojny rosyjsko-ukrainskiej na rynki towarow, akcji i kryptowalut)",
+            "abstract": "Purpose: This paper analyzes the impact of the Russian invasion of Ukraine in February 2022 on returns of three groups of assets, i.e., commodities, stocks, and cryptocurrencies. Methodology: The study was conducted using the event study method which allows for quantifying the reaction of market participants to releases of various types of information. Findings: The cumulative abnormal returns (CARs) suggest a mostly positive effect of the conflict outbreak on returns of several commodities, especially precious metals. The obtained results suggest that in times of global crises, investors may consider precious metals as a safe haven. The study also indicates that on the event day the examined stock markets reacted negatively to information about the war, but to varying degrees. The Russian aggression against Ukraine did not affect the cryptocurrency markets in a statistically significant manner. Research limitations: The future studies related to the issue of the impact of Russian aggression against Ukraine on different markets may utilize larger research samples. They also may look for some factors affecting the reaction of markets to information related to the Russian military aggression, like the size of markets, trading volume, or geographical proximity, and economic dependence in the case of equity markets. Value: The study may provide some practical implications for both investors and regulators, especially in relation to the expected behavior of the markets and their informational efficiency in times of global crisis.",
+            "keywords": [
+                "event study",
+                "global crisis",
+                "Russia-Ukraine war",
+                "Russian invasion of Ukraine 2022"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sgmresrep/v_3a1_3ai_3a38_3ay_3a2023_3ap_3a64-75.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment and economic forces",
+            "abstract": "Economic theory suggests that pervasive factors should be priced in the cross-section of stock returns. However, our evidence shows that portfolios with higher risk exposure do not earn higher returns. More importantly, our evidence shows a striking two-regime pattern for all 10 macro-related factors: high-risk portfolios earn significantly higher returns than low-risk portfolios following low-sentiment periods, whereas the exact opposite occurs following high-sentiment periods. These findings are consistent with a setting in which market-wide sentiment is combined with short-sale impediments and sentiment-driven investors undermine the traditional risk-return tradeoff, especially during high-sentiment periods.",
+            "keywords": [
+                "Investor sentiment",
+                "Macro risk",
+                "Factor",
+                "Beta",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeemoneco/v_3a86_3ay_3a2017_3ai_3ac_3ap_3a1-21.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Connectedness between green bonds, conventional bonds, oil, heating oil, natural gas, and petrol: new evidence during bear and bull market scenarios",
+            "abstract": "This study examines the spillovers between US green bonds, non-green bonds (10-year US Treasuries) and four major energy markets - West Texas Intermediate (WTI) crude oil, heating oil, natural gas, and petrol - during bear and bull market conditions. We combine the Diebold and Yilmaz (2012) spillover index and the quantile connectedness approach developed by Ando et al. (2022) in order to capture financial markets exhibiting higher potential risk and to assess their extreme dependence. The main results show a strong time-varying connectedness between focal asset classes during major crisis periods, including the oil price crash, the China-US trade conflict, the coronavirus crisis and the war between Russia and Ukraine. The network analysis reveals that WTI, heating oil and green bonds act as net transmitters of risk, while the other asset classes serve as net receivers of spillovers. In extreme conditions, spillovers between energy commodities, green bonds and non-green bonds are asymmetric, given that they are not equal in the upper and lower quantiles. Green bonds offer greater diversification benefits when coupled with WTI, heating oil, gasoline, and natural gas, though with varying portfolio weights.",
+            "keywords": [
+                "Green bonds",
+                "Non-green bonds",
+                "Energy markets",
+                "Extreme spillovers",
+                "Hedging"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a91_3ay_3a2024_3ai_3ac_3as0301420724002551.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A calendar effect: Weekend overreaction (and subsequent reversal) in spot FX rates",
+            "abstract": "This paper investigates a calendar effect, namely the weekend overreaction, in spot foreign exchange markets of 8 major and 9 emerging currencies. We find that after a large price difference between Friday close and subsequent Monday open, most markets are likely to reverse in multiple horizons during the following week, which is consistent with the overreaction hypothesis. We develop a reversal trading strategy to exploit this effect which we show are robust to transaction costs and interest rates. In the out-of-sample test, the strategy is able to generate abnormal risk-adjusted returns, which suggests that these currency markets might be weak-form inefficient.",
+            "keywords": [
+                "Calendar effect",
+                "Overreaction",
+                "Weekend effect",
+                "Market inefficiency",
+                "Exchange rates"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeemulfin/v_3a37-38_3ay_3a2016_3ai_3a_3ap_3a158-167.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

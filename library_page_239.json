@@ -1,0 +1,159 @@
+{
+    "page_info": {
+        "page_number": 239,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Does it pay to voluntarily disclose private information?",
+            "abstract": "This paper studies how strategic interaction between players can influence their decisions as to whether to acquire information and whether to reveal their private information to others. We show how a player can increase his utility by disclosing part of his private information, when such disclosure stimulates others to produce new information that is useful for him. We derive conditions for information disclosure to be the equilibrium strategy and solve for the equilibrium.When both traders are risk-neutral they each increase their profits by specializing in the types of information they acquire. This specialization encourages the traders to share information directly or through trades. When the traders have different risk preferences, the more risk averse trader may prefer to reveal his less precise information in order to stimulate information production by less risk averse traders. This strategy can give him higher utility than if he merely acquired information by himself.",
+            "keywords": [
+                "information acquisition",
+                "market microstructure",
+                "private information"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgheccah/0734.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of quantitative easing on aggregate mutual fund flows in the UK",
+            "abstract": "This paper examines the relationship between the Bank of England\u00e2\u0080\u0099s asset purchase programme (March 2009 to November 2012) and aggregate mutual fund allocation. The key findings of the paper are that retail investors increased fund allocation in low risk asset funds and tended to withdraw from high risk asset funds. In the aggregate, institutional investors reallocated, in a more nuanced way, within the mutual fund market towards riskier asset classes.",
+            "keywords": [
+                "Aggregate mutual fund flows",
+                "portfolio reallocation",
+                "quantitative easing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/uwewpaper/20171704.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Reinforcement Learning in Limit Order Markets",
+            "abstract": "Information-based reinforcement learning is effective for trading and price discovery in limit order markets. It helps traders to learn a statistical equilibrium in which traders' expected payoffs and out-sample payoffs are highly correlated. Consistent with rational equilibrium models, the order choice between buy and sell and between market and limit orders for informed traders mainly depends on their information about fundamental value, while uninformed traders trade on a short-run momentum of the informed market orders. The learning increases liquidity supply of uninformed and liquidity consumption of informed, generating diagonal effect on order submission and hump-shaped order books, and improving traders' profitability and price discovery. The results shed a light into the market practice of using machine learning in limit order markets.",
+            "keywords": [
+                "Reinforcement Learning",
+                "Order Book Information",
+                "Limit Orders",
+                "Momentum Trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/utsrpaper/403.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "New Testing Procedures to Assess Market Efficiency with Trading Rules",
+            "abstract": "This paper presents two computational techniques and shows that these techniques can improve tests for market efficiency based on profit of trading rules. The two techniques focus on interval estimates for expected profit per trade, in contrast to the standard approach that emphasizes point estimates for profit per trade (Daskalakis, 2013; Marshall, Cahan, & Cahan, 2008). The first technique uses confidence intervals to determine if the expected profit is significantly different from zero. The second technique uses moving-window resampling, a procedure of drawing sub-samples that overlap and move incrementally along a time series, to determine if the expected profit is sensitive to sample selection. The paper develops formal testing criteria based on each technique and uses simulation to establish existence results about the tests for efficiency: the standard approach can give false negative results and the new tests can give correct negative or correct positive results. Using a random walk, I show situations where the standard approach incorrectly determines that a market is inefficient whereas the new techniques do not make this error; the standard approach can be fooled by randomness of profit. Using a mean reverting process and a trading rule designed to exploit mean reversion, based on Bollinger bands, I show that the new techniques can correctly recognize an inefficient market. Since the new testing procedures can correctly identify an efficient or inefficient market, with an error rate discussed in the paper. These results support Fama\u00e2\u0080\u0099s (1970) position that trading rules can form the basis for the theory of efficient markets. This definition of an efficient market in terms of trading profit is timely given the current dominance of algorithmic trading in secondary markets.",
+            "keywords": [
+                "Efficient market",
+                "trading rule",
+                "expected profit",
+                "testing procedure",
+                "confidence interval",
+                "moving window",
+                "resampling",
+                "random walk",
+                "mean reversion"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/46701.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Portable alphas from pension mispricing",
+            "abstract": "We introduce a new dynamic trading strategy based on the systematic misspricing of U.S. companies sponsoring Defined Benefit pension plans. This portfolio produces an average return of 1.51% monthly between 1989 and 2004, with a Sharpe Ratio of 0.26. The returns of the strategy are not explained by those of primary assets. These returns are not related to those of benchmarks in the alternative investments industry either. Hence, we are in the presence of a \"pure alpha\" strategy that can be ported into a large variety of portfolios to significantly enhance their performance.",
+            "keywords": [
+                "Defined Benefit Plans",
+                "Portable Alpha",
+                "Enhanced Indexing",
+                "Pension Contributions",
+                "Pricing Anomaly"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/upfupfgen/894.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Neural Networks to Predict Financial Time Series in a Minority Game Context",
+            "abstract": "In this paper we consider financial time series from U.S. Fixed Income Market, S&P500, Exchange Market and Oil Market. It is well known that financial time series reveal some anomalies as regards the Efficient Market Hypotesis and some scaling behavior is evident such as fat tails and clustered volatility. This suggests to consider financial time serie as \"pseudo\"-random time series. For this kind of time series the power of prediction of neural networks has been shown to be appreciable. We first consider the financial time serie from the Minority Game point of view and than we apply a neural network with learning algorithm in order to analyze its prediction power. We show that Fixed Income Market presents many differences from other markets in terms of predictability as a measure of market efficiency.",
+            "keywords": [
+                "Minority Game",
+                "Learning Algorithms",
+                "Neural Networks",
+                "Financial Time Series",
+                "Efficient Market Hypotesis"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ufgqdsems/14-2005.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information and Inventories in High-Frequency Trading",
+            "abstract": "We propose an equilibrium model for the short-term informational advantages crucial in high-frequency trading. In this setting, risk-neutral insiders hold martingale inventories. In contrast, inventory aversion leads to autoregressive positions. These vanish in the continuous-time limit, while still yielding approximately the same returns. This illustrates how high-frequency trading allows to monetize information with very little inventory risk.",
+            "keywords": [
+                "high frequency trading",
+                "information asymmetry",
+                "inventory management"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp1535.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Option Trading and Stock Price Informativeness",
+            "abstract": "We examine the impact of single-name option trading on stock price informativeness. By documenting a robust relation and establishing causality, we confirm that option trading causes the stock price to incorporate more firm-specific information. Our findings are through the channels of investors\u00e2\u0080\u0099 acquiring more information and through managers\u00e2\u0080\u0099 voluntary release. The findings are driven by firms with higher information asymmetry and firms with more efficiently priced options.",
+            "keywords": [
+                "option trading",
+                "price informativeness",
+                "stock synchronicity",
+                "information acquisition and production"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp1974.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Information Content of Option Demand",
+            "abstract": "This paper combines the concept of market sidedness with excess option demand (changes in open interest) to solve the empirical challenge of separating directional from uninformed trading motives in widely available, unsigned options data. Our measure of options market sidedness persistently predicts the sign and strength of stock returns. Trading strategies conditional on the measure are highly profitable. For instance, when the measure indicates positive (negative) information, out-of-the-money calls (puts) generate returns of 27% (32%) over roughly four weeks. Risk-adjusted returns of a long-short equity strategy yield more than 2%. An increase in directionally informed demand predicts a decrease in option liquidity and increases in pricing inefficiency.",
+            "keywords": [
+                "Option Demand",
+                "Market Sidedness",
+                "Open Interest",
+                "Liquidity",
+                "Market Microstructure"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp1243.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Technical Trading Revisited: False Discoveries, Persistence Tests, and Transaction Costs",
+            "abstract": "We revisit the apparent historical success of technical trading rules on daily prices of the DJIA from 1897 to 2008. We use the False Discovery Rate as a new approach to data snooping. The advantage of the FDR over existing methods is that it selects more outperforming rules and di- versi es against model uncertainty. Persistence tests show that an investor would never have been able to select ex ante the future best-performing rules. Moreover, even the in-sample performance is completely o set by the introduction of transaction costs. Overall, our results seriously call into question the economic value of technical trading rules.",
+            "keywords": [
+                "Technical Trading",
+                "False Discovery Rate",
+                "Persistence",
+                "Transaction Costs."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp0805.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Demand for Safe Assets",
+            "abstract": "This paper examines how heterogeneity in investment horizons determines the demand for safe assets, bidding strategies in auctions, and post-auction price dynamics. We model a uniformprice double auction with resale where long-term investors hold assets to maturity, while dealer banks distribute the asset in secondary markets. Pure private (common) values emerge when only long-term investors (dealers) participate. Using unique data on Swiss Treasury bond auctions revealing bidders' identities, our empirical findings support key predictions: (1) substantial heterogeneity in demand schedules, with steeper demand curves for dealer banks; (2) Dealer banks' demand becomes steeper with increased demand risk and bid dispersion; and (3) demand elasticity positively predicts post-auction returns.",
+            "keywords": [
+                "auction",
+                "asset demand",
+                "safe asset",
+                "private and common values",
+                "government bonds"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp24110.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Transmission of Monetary Policy to the Cost of Hedging",
+            "abstract": "We analyze the transmission of monetary policy to the costs of hedging using options order book data. Monetary policy transmits to hedging costs both by changing the relevant state variables, such as the value of the underlying, its volatility and tail risk, and by affecting option market liquidity, including the bid-ask spread and market depth. Our estimates suggest that during the peak of the pandemic crisis in March 2020, monetary policy decisions resulted in substantial changes in hedging costs even within short intraday time windows around the decisions, amounting approximately to the annual expenses of a typical equity mutual fund.",
+            "keywords": [
+                "Liquidity",
+                "Monetary policy",
+                "Option order books",
+                "Option markets",
+                "COVID-19 pandemic"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp2503.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

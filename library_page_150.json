@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 150,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Stock Market Volatility around National Elections",
+            "abstract": "This paper investigates a sample of 27 OECD countries to test whether national elections induce higher stock market volatility. It is found that the countryspecific component of index return variance can easily double during the week around an Election Day, which shows that investors are surprised by the election outcome. Several factors, such as a narrow margin of victory, lack of compulsory voting laws, change in the political orientation of the government, or the failure to form a coalition with a majority of seats in parliament significantly contribute to the magnitude of the election shock. Our findings have important implications for the optimal strategies of risk-averse stock market investors and participants of the option markets.",
+            "keywords": [
+                "Political risk",
+                "National elections",
+                "Stock market volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbweuvgra/20062.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Difference in the intraday return-volume relationships of spots and futures: A quantile regression approach",
+            "abstract": "This study examines the difference in the intraday return-volume relationships of spot and index futures. Quantile regression analyses show that the widening effect of the stock trading volume on the distribution of spot returns disappears within a short period of time, whereas that of the futures trading volume remains over the long term. The short-term effect of the stock volume and the long-term effect of the futures volume are both consistent for contemporaneous trading volumes. Furthermore, the futures volume has a significantly positive effect on the option-implied volatility, whereas the stock volume is only associated with the implied volatility of at-the-money options, which can be traded quickly. In contrast, the implied volatility of out-of-the-money options, which are highly speculative, is strongly related to the futures volume. The findings suggest that the stock volume is mainly induced by hedging demand or disagreements of opinion, whereas the futures volume contains information about price movements.",
+            "keywords": [
+                "information channel",
+                "intraday information content",
+                "KOSPI 200 futures",
+                "option-implied volatility",
+                "return-volume relationship",
+                "quantile regression"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwifwedp/201868.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Bifurcation Routes in Financial Markets",
+            "abstract": "The heterogeneity of expectations among traders introduces an important non-linearity into the financial markets. In a series of papers, Brock and Hommes, propose to model economic and financial markets as adaptive belief systems. Asset price fluctuations in adaptive belief systems are characterized by phases of close-to-the-fundamental-price fluctuations, phases of optimism where most agents follow an upward price trend, and phases of pessimism with small or large market crashes. In this paper will be discussed the EMH benchmark and forecasting rules of fundamentals and trend extrapolators. Some illustrative examples are supplied.",
+            "keywords": [
+                "heterogeneity of expectations",
+                "adaptive belief systems",
+                "forecasting rules",
+                "fundamentals",
+                "trend extrapolators equations",
+                "limit cycles",
+                "asymptotical stability"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0109001.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "FACTORES DE RIESGO NO SISTEMATICO EN LA EXPLICACION DE LOS RETORNOS DE LAS ACCIONES EN EL MERCADO BURSATIL CHILENO",
+            "abstract": "El presente trabajo pretende determinar si es posible desarrollar una estrategia de inversi\u00c3\u00b3n exitosa en el mercado burs\u00c3\u00a1til usando factores de riesgo no sistem\u00c3\u00a1tico, tales como aquellos postulados por el an\u00c3\u00a1lisis fundamental y el t\u00c3\u00a9cnico. El trabajo se circunscribe as\u00c3\u00ad en el \u00c3\u00a1rea de Estrategias de Inversi\u00c3\u00b3n dentro del campo mas amplio de los Modelos de Valuaci\u00c3\u00b3n de Activos de Capital y del testeo de la Hip\u00c3\u00b3tesis de Mercado Eficiente, aunque nada se quiere concluir en este ultimo sentido. El estudio se centra en comprobar si existe relaci\u00c3\u00b3n entre ciertas variables representativas de riesgo no sistem\u00c3\u00a1tico y la valorizaci\u00c3\u00b3n de la inversi\u00c3\u00b3n de los activos en el mercado en un determinado periodo. Para lo anterior se utiliza el retorno promedio ajustado por riesgo, definido como la raz\u00c3\u00b3n entre el promedio mensual de valorizaci\u00c3\u00b3n del portafolio y su desviaci\u00c3\u00b3n est\u00c3\u00a1ndar. Finalmente, se concluye que de los factores de riesgo no sistem\u00c3\u00a1tico testeados, cuales son, la raz\u00c3\u00b3n precio a utilidad, la raz\u00c3\u00b3n bolsa a libro, el patrimonio burs\u00c3\u00a1til, el \u00c3\u00adndice de Dow modificado y la raz\u00c3\u00b3n utilidad a capital y reservas, solo esta ultima es \u00c3\u00batil para discriminar entre acciones con alto potencial de valorizaci\u00c3\u00b3n de la inversi\u00c3\u00b3n de aquellas que no lo tienen.",
+            "keywords": [
+                "Chile",
+                "estrategias",
+                "inversi\u00c3\u00b3n",
+                "valuaci\u00c3\u00b3n",
+                "activos",
+                "retorno",
+                "riesgo"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0402010.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "INVESTMENT BASED ON SIZE, VALUE, MOMENTUM AND INCOME MEASURES: A STUDY IN THE TAIWAN STOCK MARKET",
+            "abstract": "Cross-sectional characteristics of stocks such as market value, market-to-book ratio and accumulated past return can be applied to formulate equity portfolios in the stock-picking process to generate good profits in some markets, which relate to the well-known size, value and momentum or contrarian strategies in the literature. Alternatively, income measures in financial statements drive investors in stock markets to buy or sell in an intuitive way that can be also used in the stock-picking process to generate good profits in some markets. This study applies these types of information in the formation period to formulate long-short strategies and investigates both the returns and risk profiles in the holding period afterward and checks whether the measures can be used to generate good profits in the Taiwan markets for the period from January 1980 to June 2020. Given different lengths of the holding period and different equity segments, our empirical analysis shows that strategies filtered by the income measure of gross profitability outperform the counterparts filtered by the operating profitability. Moreover, while the momentum or contrarian effect is not, the size and value effects are helpful to improve the performance of long-short strategies filtered by gross profitability.",
+            "keywords": [
+                "Operating profitability",
+                "gross profitability",
+                "size",
+                "value",
+                "momentum",
+                "contrarian",
+                "long-short strategy"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/wsiafexxx/v_3a17_3ay_3a2022_3ai_3a04_3an_3as2010495222500270.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Riding the Yield Curve: Diversification of Strategies",
+            "abstract": "Riding the yield curve, the fixed-income strategy of purchasing a longer-dated security and selling before maturity, has long been a popular means to achieve excess returns compared to buying-and-holding, despite its implicit violations of market efficiency and the pure expectations hypothesis of the term structure. This paper looks at the historic excess returns of different strategies across three countries and proposes several statistical and macro-based trading rules which seem to enhance returns even more. While riding based on the Taylor Rule works well even for longer investment horizons, our empirical results indicate that, using expectations implied by Fed funds futures, excess returns can only be increased over short horizons. Furthermore, we demonstrate that duration-neutral strategies are superior to standard riding on a risk- adjusted basis. Overall, our evidence stands in contrast to the pure expectations hypothesis and points to the existence of risk premia which may be exploited consistently.",
+            "keywords": [
+                "Term Structure",
+                "Interest Rates",
+                "Market Efficiency",
+                "Taylor Rule"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0410002.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Long-Run Cash-Flow and Discount-Rate Risks in the Cross-Section of US Returns",
+            "abstract": "This paper decomposes the overall market beta of common stocks into four parts reflecting uncertainty related to the long-run dynamics of stock- specific and market-wide cash flows and discount rates. We employ a discrete time version of Merton\u00e2\u0080\u0099s Intertemporal CAPM to test whether these four sources of risk command different risk prices. The model performs well in pricing average returns on single- and double-sorted portfolios according to size, book-to-market, dividend-price ratios and past risk. It generates high estimates for the explained cross-sectional variation in average returns, lower average pricing errors than the Fama-French three factor model and economically and statistically acceptable estimates for the coefficient of relative risk aversion.",
+            "keywords": [
+                "CAPM",
+                "cash-flow risk",
+                "discount-rate risk",
+                "asset pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0503014.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Long-Run Cash-Flow and Discount-Rate Risks in the Cross-Section of US Returns",
+            "abstract": "This paper decomposes the overall market beta of common stocks into four parts reflecting uncertainty related to the long-run dynamics of stock- specific and market-wide cash flows and discount rates. We employ a discrete time version of Merton\u00ef\u00bf\u00bds Intertemporal CAPM to test whether these four sources of risk command different risk prices. The model performs well in pricing average returns on single- and double- sorted portfolios according to size, book-to-market, dividend-price ratios and past risk. It generates high estimates for the explained cross-sectional variation in average returns, lower average pricing errors than the Fama-French three factor model and economically and statistically acceptable estimates for the coefficient of relative risk aversion.",
+            "keywords": [
+                "CAPM",
+                "cash-flow risk",
+                "discount-rate risk",
+                "asset pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0505009.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Low-beta strategies",
+            "abstract": "This paper analyzes trading strategies designed to exploit the low-beta anomaly. Although the notion of buying low-beta stocks and selling high-beta stocks is natural, a choice is necessary with respect to the relative weighting of high-beta stocks and low-beta stocks in the portfolio. Our empirical results for US stocks show that this choice is very important for the risk-return characteristics of the resulting portfolios and their sensitivities to common risk factors. The weighting of stocks within the low-beta and high-beta portfolios and the chosen investment universe are essential design elements of low-beta strategies too. If smaller firms are excluded, risk-adjusted returns of low-beta strategies can even become insignificant.",
+            "keywords": [
+                "low-beta anomaly",
+                "trading strategies",
+                "factor risk premiums",
+                "smart beta"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/1517r.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Cross-sectional analysis of risk-neutral skewness",
+            "abstract": "We investigate the association of various firm-specific and market-wide factors with the riskneutral skewness (RNS) implied by the prices of individual stock options. Our analysis covers 149 U.S. firms over a four-year period. Our choice of firms is based on adequate liquidity and trading interest across different strike prices in the options market, ensuring economically meaningful RNS estimates. We also incorporate significant methodological enhancements. Consistent with earlier results, we find that the RNS of individual firms varies significantly and negatively with firm size, firm systematic risk, and market volatility; and significantly and positively with the RNS of the market index; and most of the variation in individual RNS is explained by firm-specific rather than market-wide factors. We also document several interesting new results that are clearly unambiguous and significantly stronger than in earlier work, or opposite to earlier evidence, or for variables that have been examined for the first time. First, we find that market sentiment has a negative and significant effect on RNS. Second, we find that higher a firm's own volatility, the more negative the RNS, a relationship that is in the same direction as for overall market volatility. Third, greater market liquidity is associated with more negative RNS, but the liquidity that is relevant for RNS is that of the options market, rather than that in the underlying stock. Surprisingly, volatility asymmetry is not relevant for RNS. Finally, the leverage ratio is not negatively but positively and strongly related with RNS.",
+            "keywords": [
+                "risk-neutral distribution",
+                "skewness",
+                "stock options",
+                "ARCH models"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/0911.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is local bias a cross-border phenomenon? Evidence from individual investors' international asset allocation",
+            "abstract": "Extant literature consistently documents that investors tilt their domestic equity portfolios towards regionally close stocks (local bias). We hypothesize that individual investors' local bias is not limited to the domestic sphere but instead also determines their international investment decisions. Our results confirm the presence of a cross-border local bias. Specifically, we show (i) that the stockholdings of individual investors living within regional proximity to a foreign country display a significantly lower foreign investment bias towards investment opportunities in that country and (ii) that this drop in foreign investment bias levels is disproportionately driven by investments in regionally close neighborcountry companies. The impact of cross-border local bias on investors' bilateral foreign equity investments is economically significant and holds even after controlling for previously identified explanations of international asset allocation.",
+            "keywords": [
+                "local bias",
+                "foreign investment bias",
+                "portfolio diversification",
+                "individual investor behavior",
+                "household finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwbubdps/182013.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "IPO investment strategies and pseudo market timing",
+            "abstract": "We analyse the performance of simple investment strategies in IPOs based on a large sample of IPOs in Germany between 1985 and 2002. In particular, we compare the performance of the following strategies: Invest equally weighted in each IPO, invest market value weighted in each IPO, invest in an equally weighted portfolio of recent IPOs or invest in a value weighted portfolio of recent IPOs. We find that investors pursuing the first two investment strategies would realise significantly negative abnormal returns on average. In contrast, applying a bootstrapping procedure, we find that investing according to the latter two investment strategies does not yield significant underperformance. The difference in performance among investment strategies points to the phenomenon that firms going public in hot IPO markets perform worse than those going public in cold markets. We analyse to what extent this phenomenon can be attributed to pseudo market timing. Based on simulations, our results indicate that pseudo market timing can partly explain the performance of IPO investment strategies between 1996 and 2002.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcciehs/36.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

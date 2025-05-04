@@ -1,0 +1,142 @@
+{
+    "page_info": {
+        "page_number": 186,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Directed acyclic graph based information shares for price discovery",
+            "abstract": "The possibility to measure the contribution of agents and exchanges to the price formation process in financial markets acquired increasing importance in the literature. In this paper I propose to exploit a data-driven approach to identify structural vector error correction models (SVECM) typically used for price discovery. Exploiting the non-Normal distributions of the variables under consideration, I propose a variant of the widespread Information Share measure, which I will refer to as the Directed Acyclic Graph based-Information Shares(DAG-IS), which can identify the leaders and the followers in the price formation process through the exploitation of a causal discovery algorithm well established in the area of machine learning. The approach will be illustrated from a semi-parametric perspective, solving the identification problem with no need to increase the computational complexity which usually arises when working at incredibly short time scales. Finally, an empirical application on IBM intraday data will be provided.",
+            "keywords": [
+                "Structural VECM",
+                "Information shares",
+                "Microstructure noise",
+                "Independent component analysis",
+                "Directed acyclic graphs"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeedyncon/v_3a139_3ay_3a2022_3ai_3ac_3as0165188922001397.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Improving international diversification benefits for US investors",
+            "abstract": "There are two main questions that have attracted considerable attention in the financial literature over the last few years: whether international diversification benefits are still substantial in the current context of increasing market correlations and which approach provides better results in terms of out-of-sample returns and risk. In this context, the aim of this study is to provide empirical evidence about the economic gains that a US investor could obtain with a dynamic strategy based on the use of time varying returns and volatility forecasts from a multivariate VAR\u00e2\u0080\u0093DCC approach for the exchange trade funds of US, UK and Japan which are the most actively traded on the New York Stock Exchange in recent years. These findings are relevant not only for academics, but also for practitioners, especially for professional portfolio managers.",
+            "keywords": [
+                "Multivariate VAR\u00e2\u0080\u0093DCC",
+                "International diversification",
+                "Exchange trade funds",
+                "Performance evaluation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a32_3ay_3a2015_3ai_3ac_3ap_3a64-76.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Earnings Announcement Premium and Trading Volume",
+            "abstract": "On average, stock prices rise around scheduled earnings announcement dates. We show that this earnings announcement premium is large, robust, and strongly related to the fact that volume surges around announcement dates. Stocks with high past announcement period volume earn the highest announcement premium, suggesting some common underlying cause for both volume and the premium. We show that high premium stocks experience the highest levels of imputed small investor buying, suggesting that the premium is driven by buying by small investors when the announcement catches their attention.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/13090.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Small World of Investing: Board Connections and Mutual Fund Returns",
+            "abstract": "This paper uses social networks to identify information transfer in security markets. We focus on connections between mutual fund managers and corporate board members via shared education networks. We find that portfolio managers place larger bets on firms they are connected to through their network, and perform significantly better on these holdings relative to their non-connected holdings. A replicating portfolio of connected stocks outperforms a replicating portfolio of non-connected stocks by up to 8.4% per year. Returns are concentrated around corporate news announcements, consistent with mutual fund managers gaining an informational advantage through the education networks. Our results suggest that social networks may be an important mechanism for information flow into asset prices.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/13121.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Why Does the Treasury Issue Tips? The Tips-Treasury Bond Puzzle",
+            "abstract": "We show that the price of a Treasury bond and an inflation-swapped TIPS issue exactly replicating the cash flows of the Treasury bond can differ by more than $20 per $100 notional. Treasury bonds are almost always overvalued relative to TIPS. Total TIPS-Treasury mispricing has exceeded $56 billion, representing nearly eight percent of the total amount of TIPS outstanding. TIPS-Treasury mispricing is strongly related to supply factors such as Treasury debt issuance and the availability of collateral in the financial markets, and is correlated with other types of fixed-income arbitrages, These results pose a major puzzle to classical asset pricing theory. In addition, they raise the issue of why the Treasury issues TIPS, since in so doing it both gives up a valuable fiscal hedging option and leaves large amounts of money on the table.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/16358.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Tail Wags Dog? Time-Varying Information Shares in the Bund Market",
+            "abstract": "The flow of information between futures and spot prices may vary over time, in particular during periods of stress. This article analyses the information content of the Bund Future and German government bonds during 1998 and test whether it is constant over time. The use of high-frequency data permits us to capture possible imperfections in the information flows between the two markets. We measure the contributions of trading on the spot and futures markets to price discovery using the information shares approach by Hasbrouck (1995) as well as a recently proposed approach based on the Gonzalo-Granger decomposition. A state-space approach is used to estimate the underlying VECM in the presence of missing values. We test for structural breaks in the pricing relationship between the spot and futures markets and estimate break dates. Although most information is incorporated into prices in the futures market, this does not mean that the spot market is irrelevant for prices discovery. Under normal market conditions, the underlying bonds contribute to 19 to 33 % of the variation in the efficient price. The informational role of the spot market vanishes during episodes of stress. For example, during the two weeks after the recapitalization of LTCM (September 24th to October 8th, 1998), the information share of the spot market dropped to virtually zero and futures prices did not respond to movements in bond prices. All adjustment towards equilibrium took place in the spot market.",
+            "keywords": [
+                "high-frequency data",
+                "market microstructure",
+                "future markets",
+                "information shares",
+                "kalman filter"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwbubdp1/4189.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Safety First, Loss Probability, and the Cross Section of Expected Stock Returns",
+            "abstract": "Recent studies show that loss probability (LP) is a decisive factor when peopleevaluate risk of assets in laboratory experiments, suggesting a positive relationshipbetween LP and expected stock returns. This corresponds to the classical \u00e2\u0080\u009cSafety-First\u00e2\u0080\u009d principle. We find strong empirical support for this prediction in the U.S.stock market. During our sample period, average risk-adjusted return differencesbetween stocks in the two extreme LP deciles exceed 0.75% per month. The posi-tive LP effect, characterized by the intention of some investors to pay low prices forhigh LP stocks, remains significant after controlling for traditional downside riskmeasures.",
+            "keywords": [
+                "Loss Probability",
+                "Stock Returns",
+                "Mental Accounting",
+                "Safety-First",
+                "RiskAttitudes"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/trrqfrawp/201902.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Cojumping: Evidence from the US Treasury Bond and Futures Markets",
+            "abstract": "The basis between spot and future prices will be affected by jump behavior in each asset price, challenging intraday hedging strategies. Using a formal cojumping test this paper considers the cojumping behavior of spot and futures prices in high frequency US Treasury data. Cojumping occurs most frequently at shorter maturities and higher sampling frequencies. We find that the presence of an anticipated macroeconomic news announcement, and particularly non-farm payrolls, increases the probability of observing cojumps. However, a negative surprise in non-farm payrolls, also increases the probability of the cojumping tests being unable to determine whether jumps in spots and futures occur contemporaneously, or alternatively that one market follows the other. On these occasions the market does not clearly signal its short term pricing behavior.",
+            "keywords": [
+                "US Treasury markets",
+                "high frequency data",
+                "cojump test"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/qutauncer/2010_5f03.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Speed, Algorithmic Trading, and Market Quality around Macroeconomic News Announcements",
+            "abstract": "This discussion paper resulted in a publication in the 'Journal of Banking and Finance', 2014, 38, 89-105.This paper documents that speed is crucially important for high frequency trading strategies based on U.S. macroeconomic news releases. Using order level data of the highly liquid S&P500 ETF traded on NASDAQ from January 6, 2009, to December 12, 2011, we find that a delay of 300 milliseconds (1 second) significantly reduces returns by 3.08% (7.33%) compared to instantaneous execution over all announcements in the sample. This reduction is stronger in case of high impact news and on days with high volatility. In addition, we assess the effect of algorithmic trading on market quality around macroeconomic news. Increases in algorithmic trading activity have a positive (mixed) effect on market quality measures when we use algorithmic trading proxies that capture the top of the orderbook (full orderbook).",
+            "keywords": [
+                "Macroeconomic News",
+                "High Frequency Trading",
+                "Latency Costs",
+                "Market Activity",
+                "Event-Based Trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/tinwpaper/20120121.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Daily Market News Sentiment and Stock Prices",
+            "abstract": "In recent years there has been a tremendous growth in the influx of news related to traded assets in international financial markets. This financial news is now available via print media but also through real-time online sources such as internet news and social media sources. The increase in the availability of financial news and investor\u00e2\u0080\u0099s ease of access to it has a potentially significant impact on market price formation as these news items are swiftly transformed into investors sentiment which in turn drives prices. Various commercial agencies have started developing their own financial news data sets which are used by investors and traders to support their algorithmic trading strategies. Thomson Reuters News Analytics (TRNA)1 is one such data set. In this study we use the TRNA data set to construct a series of daily sentiment scores for Dow Jones Industrial Average (DJIA) stock index component companies. We use these daily DJIA market sentiment scores to study the influence of financial news sentiment scores on the stock prices of these companies using a multi-factor model. We use an augmented Fama French Three Factor Model to evaluate the additional effects of financial news sentiment on stock prices in the context of this model. Our results suggest that even when market factors are taken into account, sentiment scores have a significant effect on Dow Jones constituent company returns and that lagged daily sentiment scores are often significant, suggesting that information compounded in these scores is not immediately reflected in security prices and related return series.",
+            "keywords": [
+                "Sentiment Analysis",
+                "Financial News",
+                "Factor Models",
+                "Asset Pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/tinwpaper/20150090.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Cash Flow and Discount Rate Risk in Up and Down Markets: What is actually priced?",
+            "abstract": "This discussion paper resulted in a publication in the 'Journal of Financial and Quantitative Analysis', 2012, 47(6), 1279-1301.We test whether asymmetric preferences for losses versus gains as in Ang, Chen, and Xing (2006) also affect the pricing of cash flow versus discount rate news as in Campbell and Vuolteenaho (2004). We construct a new four-fold beta decomposition, distinguishing cash flow and discount rate betas in up and down markets. Using CRSP data over 1963--2008, we find that the downside cash flow beta and downside discount rate beta carry the largest premia. We subject our result to an extensive number of robustness checks. Overall, downside cash flow risk is priced most consistently across different samples, periods, and return decomposition methods, and is the only component of beta that has significant out-of-sample predictive ability. The downside cash flow risk premium is mainly attributable to small stocks. The risk premium for large stocks appears much more driven by a compensation for symmetric, cash flow related risk. Finally, we multiply our premia estimates by average betas to compute the contribution of the different risk components to realized average returns. We find that up and down discount rate components dominate the contribution to average returns of downside cash flow risk.",
+            "keywords": [
+                "asset pricing",
+                "beta",
+                "downside risk",
+                "upside risk",
+                "cash flow risk",
+                "discount rate risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/tinwpaper/20100116.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Intervaling Effect on Higher-Order Co-Moments",
+            "abstract": "This paper investigates the sensitivity of higher-order co-moments for different return measurement intervals. The levels of systematic skewness and kurtosis are found to be significantly influenced by the length of return interval. An asset preferred because of its positive co-skewness and low co-kurtosis when measured in one particular interval may have negative co-skewness or high co-kurtosis for another interval. We find the intervaling effect varies according to the level of price adjustment delay as proxied by market capitalization and illiquidity. Findings persist for intervals of up to twelve months, and are consistent during both volatile and stable periods.",
+            "keywords": [
+                "Return Interval",
+                "Co-Skewness",
+                "Co-Kurtosis",
+                "Price Delay"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ucdwpaper/201602.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

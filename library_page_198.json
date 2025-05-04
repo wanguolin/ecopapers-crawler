@@ -1,0 +1,169 @@
+{
+    "page_info": {
+        "page_number": 198,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Dual Industry Effects and Cross-Stock Predictability",
+            "abstract": "This paper introduces the Peer Index (PI), a measure capturing dual industry-related effects in cross-stock predictability: the overall strength of a firm\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s peer group and its relative position within the peer group. PI robustly predicts future stock re-turns, earnings surprises, and earnings growth at both the industry and stock levels across short and longer horizons. Its predictive power persists even after controlling for expected returns derived from machine-learning models applied to firm-own characteristics. We provide evidence that markets underreact to peer-related information, with the PI effect stronger when information uncertainty is higher and investor attention lower, driving cross-stock predictability.",
+            "keywords": [
+                "Cross-Stock Predictability",
+                "Industry Effect",
+                "Asset Pricing",
+                "Economic Links",
+                "Information Aggregation"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/camcamjip/2506.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Media abnormal tone, earnings announcements, and the stock market",
+            "abstract": "We conduct a tone-based event study to examine the aggregate abnormal tone dynamics in media articles around earnings announcements. We test whether they convey incremental information that is useful for price discovery for non-financial S&P 500 firms. The relation we find between the abnormal tone and abnormal returns suggests that media articles provide incremental information relative to the information contained in earnings press releases and earnings calls.",
+            "keywords": [
+                "Abnormal returns",
+                "Abnormal tone",
+                "Earnings announcements",
+                "Event study",
+                "News media",
+                "Sentometrics",
+                "Structural Topic Model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a61_3ay_3a2022_3ai_3ac_3as1386418121000598.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "THE IMPACT OF BUY \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c SELL RECOMMENDATIONS ON BANKS\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 STOCK RETURNS",
+            "abstract": "The aim of this research was to investigate the impact of stock buy-sell recommendations of brokerage houses on the stock returns of banks operating in Borsa Istanbul (BIST). Accordingly, it has been attempted to assess if investors can receive abnormal returns in accordance with the recommendations of brokerage houses using the case study technique. The validity of the semi-strong effective form of investors who made a buying-selling decision based on brokerage house recommendations was investigated. The returns of the banks' stocks were obtained from the data-stream database. The study evaluated buy-sell recommendations for four large brokerage houses and analyzed data from January 2018 through December 2020. The event study method was used, and t-test was performed in order to determine the difference of abnormal returns from zero in the research. As a result of the research, a negative abnormal return was determined on the day of the event and the day after the sell recommendation was given. Besides, a positive abnormal return was determined on the day before the announcement and on the day of the event in the bank stocks on which buy recommendation has been given. In this respect, the average abnormal and cumulative abnormal returns indicated that BIST was not an efficient market in a semi-strong form for the banking sector. When the sell recommendations and their effects are examined within the scope of the research, it is seen that the day before [-1] p=0.016 value was obtained, on the day, [0] p=0.018 value was obtained, the next day and two days later [+1, +2] p=0.077 and 0.046 values were obtained. On the other hand, when the buy recommendations and their effects are examined, it is seen that the day before [-1] p=0.000 and on the day [0] p=0.098 values were obtained. T-test results and p values show that brokerage house recommendations are effective on stock returns in the BIST banking sector, and therefore BIST banking sector is effective in a weak form. The obtained results of the study were crucial for investors who invested in short-term stocks.",
+            "keywords": [
+                "Stock markets",
+                "BIST",
+                "event study",
+                "efficient market hypothesis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/baljournl/2256-0742_3a2022_3a8_3a2_3a1.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Aggregate 52-week high, limited attention, and time-varying momentum profits",
+            "abstract": "We propose an aggregate 52-week high ratio (AH52) to proxy for scarcity of investor attention and show that AH52 positively predicts future momentum profits. The momentum strategy is profitable as one standard deviation increase in AH52 raises momentum profits by 0.90% per month. AH52 subsumes the predictive power of well-documented market state variables such as market illiquidity, market volatility, and down market state. A timing strategy based on AH52 exhibits a higher annualized Sharpe ratio than that of a passive buy-and-hold strategy. The predictive power of AH52 is robust across market capitalizations, sub-periods, alternative measures of aggregate 52-week high, G7 countries, the inclusion of market-wide information, and various momentum strategies.",
+            "keywords": [
+                "52-week high",
+                "Attention",
+                "Momentum"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a141_3ay_3a2022_3ai_3ac_3as037842662200125x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can the Fed talk the hind legs off the stock market?",
+            "abstract": "Deliberately or not, by providing its stance on the prospects of the economy, rationalizing past decisions or announcing future actions, central banks influence financial markets' expectations of its future policy. In bad times, monetary policy communication inducing an upward revision of the path of future policy is good news for stocks. During an expansion the effect is weak and on average negative. The response of equities to central bank talk depends critically on the business cycle. There are strong industry specific effects of monetary policy actions and communication. These industry effects relate to the variation in cyclicality of different industries. Firm-specific effects of monetary policy relate to the leverage, the size and the price-earnings ratio of firms.",
+            "keywords": [
+                "Business cycle",
+                "Credit channel",
+                "Monetary policy",
+                "Monetary policy announcements",
+                "stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/8450.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum investing and a tale of intraday and overnight returns: Evidence from Taiwan",
+            "abstract": "The Taiwan stock market has been widely documented as a remarkable exception of the momentum effect. In this paper, we analyze whether the information contained in past intraday and overnight returns affects future stock returns in different ways. Specifically, we propose that investors tend to underreact to intraday information while overreact to overnight information. Accordingly, we construct two momentum strategies based on past intraday and overnight returns, namely the intraday momentum (IMOM) and overnight momentum (OMOM). We show that the IMOM strategy generates significantly positive returns while the OMOM strategy generates significantly negative returns, and that such phenomena exist up to one year. We further confirm that the IMOM profits are induced by investor underreaction while the OMOM reversals are due to investors' price correction of initial overreaction. Finally, we show that a major advantage of the IMOM strategy is that its profitability is stable over time and is less prone to the momentum crashes.",
+            "keywords": [
+                "Momentum",
+                "Intraday return",
+                "Overnight return",
+                "Investor underreaction",
+                "Taiwan stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a82_3ay_3a2023_3ai_3ac_3as0927538x23002226.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Financial tail risks in conventional and Islamic stock markets: A comparative analysis",
+            "abstract": "This paper makes use of two types of extreme value distributions, namely: the generalized extreme value distribution often referred to as the block of maxima method (BMM), and the peak-over-threshold method (POT) of the extreme value distributions, to model the financial tail risks associated with the empirical daily log-return distributions of the Dow Jones Islamic market (DJIM), the U.S. S&P 500, the S&P Europe (SPEU), and the Asian S&P (SPAS50) indexes during the period between 01/01/1998 and 16/09/2015. Using both the maximum likelihood (ML) method and the bootstrap simulations to estimate the parameters of these extreme value distributions in the left and right tails separately, we find that the empirical distributions of conventional stock markets are characterized by a fat-left tail behaviour, which implies high probability of price drops during a financial crisis, and by a right-tail characterized by a truncation. This finding implies the existence of an upper bound on possible profit during an extreme event. The empirical distribution of the Islamic market is characterized by a thin-left tail behaviour, implying moderately low probability of price drops during a financial crisis, and by a right-tail without truncation implying large probability of positive returns during an extreme event. We divide our sample period into three equal sub-periods in order avoid the impact of outliers and structural breaks. The results in each sub-period remain the same and also suggest that for all stock returns the BMM method performs better than the POT method, and that the Islamic stock market is less risky than the conventional stock markets during extreme events.",
+            "keywords": [
+                "Tail risk",
+                "Extreme value distributions",
+                "Expected shortfall",
+                "Value at risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a42_3ay_3a2017_3ai_3ac_3ap_3a60-82.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Dynamic equilibrium with small fixed transactions costs",
+            "abstract": "This paper studies a dynamic equilibrium with small fixed transactions costs. We consider an overlapping generations economy with two assets of different liquidity. Trading the liquid asset does not involve transactions costs while trading the illiquid asset requires a fixed transaction fee. Both assets cannot be sold short. Agents receive an exogenous income. We look at the equilibrium rates of return of the two assets when the transaction fee is small, under two scenarios: when the number of illiquid assets is constant and the rate of return of liquid assets is zero, and when the number of illiquid assets is constant and a financial intermediary issues a quantity of liquid assets proportional to the liquidity premium (the difference between the rates of return of the two assets). We find that the optimal policy for a young agent is to accumulate the liquid asset in order to convert it into the illiquid asset at successive points in time. An old agent does the opposite and converts a portion of his holding of illiquid assets back into the liquid asset each time he has consumed all his stock of the latter. The liquidity premium is larger in the second scenario where it is proportional to the cubic root of the transaction fee. It is smaller in the first scenario where it is proportional to the square root of the fee.",
+            "keywords": [
+                "Transactions costs",
+                "Fixed costs",
+                "Overlapping generations",
+                "Liquidity premium",
+                "Illiquid",
+                "Dynamic equilibrium"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgessewp/dr-02025.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Non-Fundamental Information and Market-Makers' Behavior during the NASDAQ Preopening Session",
+            "abstract": "This paper examines whether NASDAQ dealers' preopening quotes might be related to non-fundamental information, that is, information about transient trading pressure un- related to fundamentals. Preopening quotes posted by wholesalers (dealers specialized in market-making and thus presumably more exposed to inventory risks) are strongly related to opening price reversals, a measure of transitory price pressure. Wholesalers are more likely to post preopening quotes on days characterized by large liquidity shocks or days following larger order imbalances, but not on days of strong informational asymmetry about fundamentals (days of analyst recommendation releases, earnings announcements or merger announcements). These patterns do not hold for other intermediaries, namely institutional brokers providing sell-side coverage. I also nd that daily order imbalances (another trading pressure measure) are strongly related to the preopening activity of wholesalers but not to any other groups of market-makers with more diversied banking activities. Overall, I interpret this as evidence that non-fundamental information matters during the preopening session and impacts intermediaries' preopening behavior.",
+            "keywords": [
+                "Market Microstructure",
+                "Preopen",
+                "NASDAQ",
+                "Non-fundamental Information",
+                "Price Reversals",
+                "Order Imbalances"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgessewp/dr-12012.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "De jure benchmark bonds",
+            "abstract": "As the most liquid of instruments, benchmark bonds play an important role in price discovery. Where markets fail to create them, however, can governments do so? In Indonesia, Malaysia and Thailand, authorities have designated specific bonds as benchmarks. We measure these bonds\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 liquidity and find that they succeed as benchmarks about 55% of the time. In contrast to the experience of large advanced markets, our estimates suggest that choosing on-the-run issues as de jure benchmark bonds is a poor strategy. Instead, what leads to success in emerging markets is choosing seasoned bonds that already have a record of superior liquidity.",
+            "keywords": [
+                "Benchmark bond",
+                "price discovery",
+                "market liquidity",
+                "informational public good",
+                "recycling",
+                "de jure",
+                "de facto",
+                "wannabe benchmark",
+                "seasoned",
+                "selection bias",
+                "probit model",
+                "inverse Mills ratio",
+                "on the run",
+                "recycled."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/eencamaaa/2020-84.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Leverage and Time-Varying Effects of Monetary Policy on the Stock Market",
+            "abstract": "Using high-frequency identification, we investigate leverage of the firm and economy-wide leverage as determinants of the sensitivity of a firm's stock price to monetary policy announcements. We show that the effect of economy-wide leverage is substantially larger than the effect of the firm's own leverage. It is sufficient for the response of a firm's stock price to strengthen that other firms in the economy become more leveraged. We further show that economy-wide leverage fluctuations explain the time-varying effects of monetary policy on stock prices. Our results are robust controlling for a variety of common business cycle variables and household leverage.",
+            "keywords": [
+                "Monetary policy",
+                "stock returns",
+                "leverage"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/eencamaaa/2023-07.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Speculating against an overconfident market",
+            "abstract": "We distinguish two components of self-confidence in a financial market: private confidence measures the self-confidence level of speculators, while public confidence measures the confidence level they attribute to their competitors. We then study how independent changes in these components affect the equilibrium trading strategies. We conduct the analysis in a financial market with imperfect competition where investors submit limit orders We calculate the unique linear symmetric equilibrium as well as the major indicators of the market. In addition to providing a partial explanation for the excess volatility of asset prices as well as for trading volume unexplained by the arrival of new information, our model highlights the differences between the effects of public versus private confidence.",
+            "keywords": [
+                "overconfidence",
+                "financial markets",
+                "imperfect competition"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ednesedps/62.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

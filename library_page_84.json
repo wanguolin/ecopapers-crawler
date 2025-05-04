@@ -1,0 +1,154 @@
+{
+    "page_info": {
+        "page_number": 84,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Absolving beta of volatility\u00e2\u0080\u0099s effects",
+            "abstract": "The beta anomaly, negative (positive) alpha on stocks with high (low) beta, arises from beta\u00e2\u0080\u0099s positive correlation with idiosyncratic volatility (IVOL). The relation between IVOL and alpha is positive among underpriced stocks but negative and stronger among overpriced stocks (Stambaugh, Yu, and Yuan, 2015). That stronger negative relation combines with the positive IVOL-beta correlation to produce the beta anomaly. The anomaly is significant only within overpriced stocks and only in periods when the beta-IVOL correlation and the likelihood of overpricing are simultaneously high. Either controlling for IVOL or simply excluding overpriced stocks with high IVOL renders the beta anomaly insignificant.",
+            "keywords": [
+                "Beta",
+                "Anomaly",
+                "Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a128_3ay_3a2018_3ai_3a1_3ap_3a1-15.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asymmetric convergence in US financial credit default swap sector index markets",
+            "abstract": "This study examines the asymmetric adjustments to the long-run equilibrium for credit default swap (CDS) sector indexes of three financial sectors \u00e2\u0080\u0093 banking, financial services and insurance \u00e2\u0080\u0093 in the presence of a threshold effect. The results of the momentum-threshold autoregression (M-TAR) models demonstrate that asymmetric cointegration exists for all pairs comprised of those three CDS indexes. The speeds of adjustment in the long-run are much higher in the case of adjustments from below the threshold than from above for all the pairs. The estimates of The MTAR-VEC models suggest that the dual CDS index return in each sector pair participates in the adjustment to equilibrium in the short- and long-run taken together. But in the long-run alone, only one of the two spreads in each pair participates. Policy implications are also provided.",
+            "keywords": [
+                "Credit default swaps",
+                "Threshold",
+                "Asymmetric adjustment",
+                "Widenings",
+                "Narrowings"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a51_3ay_3a2011_3ai_3a4_3ap_3a408-418.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Intraday return inefficiency and long memory in the volatilities of forex markets and the role of trading volume",
+            "abstract": "We investigate the dynamics of efficiency and long memory, and the impact of trading volume on the efficiency of returns and volatilities of four major traded currencies, namely, the EUR, GBP, CHF and JPY. We do so by implementing full sample and rolling window multifractal detrended fluctuation analysis (MF-DFA) and a quantile-on-quantile (QQ) approach. This paper sheds new light by employing high frequency (5-min interval) data spanning from Jan 1, 2007 to Dec 31, 2016. Realized volatilities are estimated using Andersen et al.\u00e2\u0080\u0099s (2001) measure, while the QQ method employed is drawn from Sim and Zhou (2015). We find evidence of higher efficiency levels in the JPY and CHF currency markets. The impact of trading volume on efficiency is only significant for the JPY and CHF currencies. The GBP currency appears to be the least efficient, followed by the EUR. Implications of the results are discussed.",
+            "keywords": [
+                "MF-DFA",
+                "Intraday data",
+                "Efficiency",
+                "Realized variance",
+                "Long-memory",
+                "Quantile-on-quantile"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeephsmap/v_3a506_3ay_3a2018_3ai_3ac_3ap_3a433-450.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "When stock price crash risk meets fundamentals",
+            "abstract": "We investigate the relationship between fundamental strength and stock price crash risk by analyzing a large sample of Chinese firms. We mainly find that firms with stronger (weaker) total fundamental strength, higher (lower) profitability and higher (lower) operating efficiency have lower (higher) stock price crash risk. Moreover, this negative relationship is more pronounced for firms with a great number of short-term institutional investors and opaque firms. Additional test illustrates that internal control could ameliorate this negative relationship. All these findings are robust to alternative measurements of crash risk and endogeneity correction.",
+            "keywords": [
+                "Fundamental strength",
+                "Crash risk",
+                "Information asymmetry",
+                "Opacity",
+                "Internal control",
+                "Institutional investor holdings"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a65_3ay_3a2023_3ai_3ac_3as0275531923001010.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can alternative hedging assets add value to Islamic-conventional portfolio mix: Evidence from MGARCH models",
+            "abstract": "This study assesses the diversification benefits of combining alternative hedging assets (namely Barclay's U.S. bonds index, crude oil, gold and implied volatility index futures) with Islamic and conventional stock portfolios. We apply the relatively recent techniques of dynamic conditional correlation (DCC), asymmetric DCC (ADCC), corrected DCC (cDCC) and GO-GARCH to account for heavy tails and asymmetric returns. We use dynamic correlations to evaluate the diversification benefits of the combined portfolios with the hedging assets. The findings indicate that all the alternative assets are effective in hedging the Islamic stock portfolios compared to their conventional counterparts. The VIX shows highest hedging effectiveness for both Islamic and conventional stock portfolios. Moreover, Islamic stock indices have greater risk and downside risk-reduction benefits when mixed with the alternative assets. In sum, the development of Islamic stock indices provides alternative opportunities to diversify portfolios globally and across asset classes.",
+            "keywords": [
+                "GARCH",
+                "Heavier tail",
+                "Rolling window",
+                "Hedging effectiveness",
+                "Risk and down side risk measures"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a61_3ay_3a2019_3ai_3ac_3ap_3a210-230.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Text Mining and the Information Content of Bank of Canada Communications",
+            "abstract": "This paper uses Latent Semantic Analysis to extract information from Bank of Canada communication statements and investigates what type of information affects returns and volatility in short-term as well as long-term interest rate markets over the 2002-2008 period. Discussions about geopolitical risk and other external shocks, major domestic shocks (SARS and BSE), the balance of risks to the economic projection, and various forward looking statements are found to significantly affect market returns and volatility, especially for short-term markets. This effect is over and above that from the information contained in any policy interest rate surprise.",
+            "keywords": [
+                "Financial markets",
+                "Monetary policy implementation"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bcabocawp/10-31.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Central Bank Communication or the Media\u00e2\u0080\u0099s Interpretation: What Moves Markets?",
+            "abstract": "The goal of this paper is to investigate what type of information from Bank of Canada communication statements or the market commentary based on these statements has a significant effect on the volatility or level of returns in a short-term interest rate market. Two different text mining methods are used to extract interpretable themes from the document set. Bank FAD press release themes emphasizing the balance of risks, effects on GDP, labour, investment, and the CPI, the terrorist attacks of 2001, and the economic effects of SARS, BSE, blackouts, and other shocks all tended to significantly reduce short-term BAX market volatility. In contrast, discussions of oil prices, the Canadian dollar, the inflation projection and whether the economy is at capacity, and certain forward looking statements significantly increased volatility. Market news stories often offset the effects of the Bank\u00e2\u0080\u0099s communication statements and were much more likely to increase market volatility while the Bank reduced it. Market stories were also more likely to have significant effects the greater the difference from the Bank news they covered but could still be important when largely replicating the original information.",
+            "keywords": [
+                "Financial markets",
+                "Asset pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bcabocawp/12-9.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Hedging, Familiarity and Portfolio Choice",
+            "abstract": "We exploit the restrictions of intertemporal portfolio choice in the presence of non-financial income risk to design and implement tests of hedging that use the information contained in the actual portfolio of the investor. We use a unique dataset of Swedish investors with information broken down at the investor level and into various components of wealth, investor income, tax positions and investor demographic characteristics. Portfolio holdings are identified at the stock level. We show that investors do not engage in hedging, but invest in stocks closely related to their non-financial income. We explain this with familiarity, that is, the tendency to concentrate holdings in stocks to which the investor is geographically or professionally close or that he has held for a long period. We show that familiarity is not a behavioural bias, but is information-driven. Familiarity-based investment allows investors to earn higher returns than they would have otherwise earned if they had hedged.",
+            "keywords": [
+                "Asset pricing",
+                "Portfolio decision",
+                "Hedging"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/4789.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Idiosyncratic Volatility Puzzle: Influence of Macro-Finance Factors",
+            "abstract": "In this paper, we scrutinize the cross-sectional relation between idiosyncratic volatility and stock returns. As a novelty, the idiosyncratic volatility is obtained by conditioning upon macro-finance factors as well as upon traditional asset pricing factors. The macro-finance factors are constructed from a large pool of macroeconomic and financial variables. Cleaning for macro-finance effects reverses the puzzling negative relation between returns and idiosyncratic volatility documented previously. Portfolio analysis shows that the effects from macro-finance factors are economically strong. The relation between idiosyncratic volatility and returns does not vary with the NBER business cycles. The empirical results are highly robust",
+            "keywords": [
+                "Idiosyncratic volatility puzzle",
+                "Macro-finance predictors",
+                "Factor analysis",
+                "Business cycle"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/aahcreate/2014-45.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "History versus Geography: The Role of College Interaction in Portfolio Choice and Stock Market Prices",
+            "abstract": "We study the link between portfolio choice and different college-based interaction ? defined as the one that relates the portfolio choice of an investor to that of the other investors who went to the same college. We explain it in terms of a common cultural imprinting and the development of long-term friendship and alumni network and we directly quantify this bonding effect. We use a new dataset with information on portfolio choice ? broken down at the stock level ? wealth, income and demographic characteristics of a big panel of investors as well as information on the college they attended and their family situation at the time. We compare college-based interaction to other forms of social interaction, such as educational, professional and geographical interaction, properly controlling for all the standard motivations of portfolio theory, such as hedging of non-financial income risk, familiarity and information effects, wealth and income effect, a host of demographic, geographic and professional dummies, trend-chasing and momentum behaviour. All the different sources of social interaction significantly affect stock-picking as well as the choice between direct and delegated investment, both statistically and economically. College-based interaction is, however, the most important of them and the third single most important factor affecting stock picking. The impact of college-based interaction aggregates at the market level and affects stock prices. For each company, we construct measures of the degree of strength of college-based interaction among shareholders. We show that an increase in the strength of interaction reduces stock return and volatility. This can be rationalized in terms of recent theories on the impact of dispersion of beliefs in the presence of short-sale constraints.",
+            "keywords": [
+                "Portfolio choice",
+                "Social interaction",
+                "Education",
+                "Asset pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/4815.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Seasonality in the Pakistani Equity Market: The Ramadhan Effect",
+            "abstract": "This paper attempts to explore a seasonal pattern, the Ramadhan effect, in the Pakistani equity market. Ramadhan, the holy month of fasting, is expected to affect the behavior of stock market in Pakistan where the environment in Ramadhan is different from other months as people devote more time to perform rituals and the general economic activity slows down. The effects of Ramadhan on mean return and stock returns volatility are examined by including a dummy variable in regressions and GARCH models respectively. The analysis indicates a significant decline in stock returns volatility in this month although the mean return indicates no significant change.",
+            "keywords": [
+                "Stock Prices",
+                "Pakistan",
+                "Ramadhan",
+                "Seasonality",
+                "Equity Market"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/5032.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Random Walk Model in the Pakistani Equity market: An Examination",
+            "abstract": "This paper examines the validity of the Random Walk Model in the Pakistani equity market. The model, extensively tested in other equity markets, implies that past movements in a stock price are not helpful in predicting future prices of that stock. The model states that changes in stock prices are serially independent and conform to some probability distribution. Conventionally, the independence part is examined through Serial Correlation Test, whereas the distributional aspect is analysed through Frequency Distributions. Same techniques are applied in this paper on daily closing prices of 36 individual stocks, 8 sector indices, and a market index from January 1, 1989 to December 30, 1993. The analysis indicates that the Random Walk Model is not valid in the Pakistani equity market as is the case in other emerging markets. The results show the presence of strong serial dependence in stock returns and indicate the slow adjustment of the market to new information. This points to the weaknesses of the market regarding the dissemination of pertinent information to potential investors, indicating that effective measures should be taken in this regard. The shape of the distribution reveals that stock returns in the Pakistani market, like in other equity markets, do not comply with the normal distribution, implying that theoretical models must be used with caution.",
+            "keywords": [
+                "Stock Prices",
+                "Random Walk",
+                "Pakistan",
+                "Emerging Market",
+                "Normal Distribution"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/5034.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

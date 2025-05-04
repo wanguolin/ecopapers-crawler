@@ -1,0 +1,153 @@
+{
+    "page_info": {
+        "page_number": 133,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Time series momentum and volatility scaling",
+            "abstract": "Moskowitz, Ooi, and Pedersen (2012) show that time series momentum delivers a large and significant alpha for a diversified portfolio of international futures contracts. We find that their results are largely driven by volatility-scaling returns (or the so-called risk parity approach to asset allocation) rather than by time series momentum. Without scaling by volatility, time series momentum and a buy-and-hold strategy offer similar cumulative returns, and their alphas are not significantly different. This similarity holds for most sectors and for a combined portfolio of futures contracts. Cross-sectional momentum also offers a higher (similar) alpha than unscaled (scaled) time series momentum.",
+            "keywords": [
+                "Momentum",
+                "Futures pricing",
+                "International asset allocation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a30_3ay_3a2016_3ai_3ac_3ap_3a103-124.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Liquidity, style investing and excess comovement of exchange-traded fund returns",
+            "abstract": "This study shows that exchange-traded fund (ETF) misvaluation \u00e2\u0080\u0093 based on return differentials between ETFs and their net asset values (NAV) \u00e2\u0080\u0093 comove excessively across ETFs. Excess comovements are positive (negative) and significant across ETFs in similar (distant) investment styles. Further tests based on return reversals suggest that misvaluation stems primarily from the ETF, rather than the NAV price. Excess comovements are greater for funds with high commonality in demand shocks and attractive liquidity characteristics. These findings are consistent with the idea that the high liquidity of ETFs attracts a clientele of short-horizon noise traders with correlated demand for investment styles.",
+            "keywords": [
+                "ETF",
+                "Excess comovement",
+                "Correlated demand",
+                "Liquidity clientele",
+                "Style investing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a30_3ay_3a2016_3ai_3ac_3ap_3a27-53.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short selling and the pricing of closed-end funds",
+            "abstract": "We analyze how short selling affects the pricing of U.S. closed-end funds over the 2010\u00e2\u0080\u00932015 time period. Significant short selling is found in both premium and discount funds and increases as premiums rise. Funds with greater short selling experience significant declines in premiums over the next five days. Our analysis speaks to theories of closed-end fund pricing and is consistent with the neoclassical theory of closed-end fund pricing as described by Ross (2002), Berk and Stanton (2007), and Cherkes, Sagi, and Stanton (2009).",
+            "keywords": [
+                "Closed-end funds",
+                "Short selling"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a33_3ay_3a2017_3ai_3ac_3ap_3a124-142.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price discovery in equity and CDS markets",
+            "abstract": "Price discovery contributions of equity and credit default swap (CDS) markets for U.S. firms with intraday data in 2009\u00e2\u0080\u00932013 are examined using information and component shares metrics. Particular attention is paid to the drawbacks of these metrics because of unobservable factors such as microstructure noise and model error. While no market generally exhibits a price-discovery advantage, the CDS market's contribution increases strongly and significantly for after-hours OTC trading and for negative earnings surprises, especially with high firm-specific uncertainty. We provide some evidence that surprises contained in various macroeconomic announcements are associated with greater relative price discovery in the CDS market.",
+            "keywords": [
+                "Price discovery",
+                "Information Shares",
+                "Information shocks"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a35_3ay_3a2017_3ai_3ac_3ap_3a21-46.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum lost and found in corporate bond returns",
+            "abstract": "In this paper, we propose an overreaction detection method to capture price reversals in the momentum cycle. Motivated by the absence of the momentum effect in investment-grade (IG) bonds, which is uncommon for most financial assets, we verify the method by showing significant improvements in the refined momentum portfolios of U.S. IG bonds from January 1994 to June 2014. The subsample of private or public firms and the relation to investor sentiment also indicate price momentum for both non-investment-grade (NIG) bonds and IG bonds. Our results carry important consistency implications for price continuations across financial assets and markets.",
+            "keywords": [
+                "Corporate bond",
+                "Momentum",
+                "Overreaction",
+                "Quantile risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a38_3ay_3a2018_3ai_3ac_3ap_3a60-82.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Disposition sales and stock market liquidity",
+            "abstract": "I examine the impact of the V-shaped disposition effect, which results in uninformed sales when investors realize large gains and losses. Adverse selection risk is reduced in the presence of more uninformed sales. I show in a model that market makers should post tighter bid-ask spreads and quote prices that are less sensitive to sales. Using stocks with merger and acquisition announcements, which increase the magnitude of investors' unrealized gains or losses and trigger disposition sales in the post-announcement period, I find evidence supporting these predictions.",
+            "keywords": [
+                "V-shaped disposition effect",
+                "Uninformed traders",
+                "Liquidity",
+                "Price impact"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a45_3ay_3a2019_3ai_3ac_3ap_3a19-36.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Social media, financial reporting opacity, and return comovement: Evidence from Seeking Alpha",
+            "abstract": "In this study, we develop a model to analyze the interplay between the coverage of a firm on social media, financial reporting opacity, and stock return comovement. Our model predicts a negative association between social media coverage and comovement as social media facilitates the incorporation of firm-specific information into stock price. It also predicts that the effect of social media coverage on comovement is more pronounced among firms with higher financial reporting opacity. Using data from Seeking Alpha, the largest crowdsourced social media platform that provides \u00e2\u0080\u009cthird-party generated\u00e2\u0080\u009d financial analysis in US, we find results consistent with the model's predictions.",
+            "keywords": [
+                "Social media",
+                "Comovement",
+                "Seeking Alpha",
+                "Financial reporting opacity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a50_3ay_3a2020_3ai_3ac_3as1386418119300126.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Biased short: Short sellers' disposition effect and limits to arbitrage",
+            "abstract": "We investigate whether short sellers are subject to the disposition effect. Consistent with the disposition effect, short sellers are less likely to close a position after experiencing capital losses. This tendency is associated with lower profitability, suggesting a behavioral bias. Furthermore, this tendency is weaker when short sells are likely part of a long-short strategy. In addition, the closing pattern of short sellers exhibits a hump shape relative to capital gains, the opposite of what has been established for individual long-only investors. Overall, short sellers' behavioral biases limit their ability to arbitrage away mispricing caused by other traders' disposition effect.",
+            "keywords": [
+                "Disposition effect",
+                "Behavioral finance",
+                "Short selling"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a49_3ay_3a2020_3ai_3ac_3as1386418118302453.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Navigating crises: Gold's role as a safe haven for U.S. sectors",
+            "abstract": "This paper investigates the correlation between U.S. sectors and gold, and whether gold can serve as a safe haven for investors in specific U.S. sectors during the global financial crisis, COVID-19, and the Russia-Ukraine war. We use data from the Standard & Poor's Depository Receipts (SPDR) Select Sector Exchange Traded Fund (ETF) to capture the performance of the respective sectors. Our findings document that gold is a weak safe haven for most U.S. sectors. Gold is not a safe investment for energy, materials, utilities, and consumer staples. Gold does provide vital protection for financial, consumer discretionary, industrial, technology, and healthcare.",
+            "keywords": [
+                "DCC-GARCH",
+                "Exchange-traded funds",
+                "Safe haven",
+                "U.S. sectors",
+                "COVID-19",
+                "Global Financial Crisis",
+                "Russia-Ukraine war"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a69_3ay_3a2024_3ai_3apb_3as154461232401239x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Effects of investor sentiment on stock return volatility: A spatio-temporal dynamic panel model",
+            "abstract": "Considering the spatial interaction of stocks, we develop a spatio-temporal dynamic panel model to study the effects of investor sentiment on stock return volatility. We construct a sample using data on A-share stocks from the Shanghai Stock Exchange from January 2012 to December 2018. We find that investor sentiment positively influences stock return volatility. Moreover, this influence exhibits both a temporal cumulative and spatial spillover effect. We also find that this spatio-temporal effect is more sensitive to economic than geographic factors. Our findings demonstrate the presence of a spatio-temporal effect on stock return volatility and emphasize the importance of understanding this effect to avoid risk underestimation. Thus, the proposed model can be of use for both investors and policymakers.",
+            "keywords": [
+                "Spatio-temporal dynamic panel model",
+                "Investor sentiment",
+                "Stock return volatility",
+                "Spatio-temporal effect",
+                "Spatial spillover effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a97_3ay_3a2021_3ai_3ac_3ap_3a298-306.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of hedging on risk-averse agents\u00e2\u0080\u0099 output decisions",
+            "abstract": "In this study, we develop a forward-looking hedging factor variant of the output Euler model for an economy featuring uncertainty and risk-averse agents. Our novel approach goes beyond the traditional prospective viewpoint characterized by output growth expectations. Using a hedging factor constructed as the net-long trading measure obtained from quarterly equity futures data, covering the period 1993 to 2020, we identify different channels through which uncertainty about macroeconomic fundamentals affects economic output. The results reveal that the hedging factor influences uncertainty via the market volatility channel. This study provides the first piece of empirical evidence indicating that risk-averse agents place meaningful and significant weight on the hedging factor in economic decisions. The findings, which are robust to various measures of output growth, indicate that the hedging factor is a relevant state variable that influences future output decisions under conditions of macroeconomic uncertainty.",
+            "keywords": [
+                "Hedging factor",
+                "Economic uncertainty",
+                "Output Euler equation",
+                "Risk aversion",
+                "Futures market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a104_3ay_3a2021_3ai_3ac_3as0264999321002273.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Nonlinearity matters: The stock price \u00e2\u0080\u0093 trading volume relation revisited",
+            "abstract": "The purpose of this paper is to investigate the information transfer in the relation between stock prices and trading volume. While several theoretical models establish this relation, determining its direction remains an empirical question. Conventional linear approaches, such as Granger causality, provide only limited insights. Importantly, they do not take into account the nonlinear nature of this relation which is advocated by theoretical models of noninformational trading. Moreover, they cannot deduce the dominant direction of the information transfer. Both shortcomings can be addressed by relying upon the concept of Shannon transfer entropy. In an empirical application to a large sample of stocks, we employ this model-free measure and find: (i) A substantial amount of nonlinear information transfer across stocks, and (ii) this information predominantly flows from returns to trading volume growth. Thus, we present empirical evidence that the relation between these financial variables is in fact likely to be nonlinear.",
+            "keywords": [
+                "Stock Returns",
+                "Trading volume",
+                "Nonlinear dynamics",
+                "Information transfer"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a98_3ay_3a2021_3ai_3ac_3ap_3a371-385.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

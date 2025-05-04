@@ -1,0 +1,165 @@
+{
+    "page_info": {
+        "page_number": 247,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Uncertainty and exchange rate volatility: Evidence from Mexico",
+            "abstract": "This paper analyzes the effect of different types of uncertainty by implementing an in-depth case study of Mexican peso US dollar exchange rate volatility. The paper exploits unique data from the Banco de M\u00c3\u00a9xico's Survey of Professional Forecasters to construct four distinct, direct knightian uncertainty measures, and two macro surprise measures. These measures, as well as text-based and financial data based measures common in the literature, are used to test for distinct uncertainty effects. Exchange rate volatility during 1999\u00e2\u0080\u00932018 is regressed onto uncertainty measures capturing both domestic and international, economic and political uncertainty. The main results show higher knightian uncertainty leads to higher exchange rate volatility. While both domestic and international measures affect exchange rate volatility, international uncertainty measures based on text and financial data (the global EPU and the VIX) and our novel survey-based knightian measure of domestic political uncertainty dominate. The paper also presents evidence of an amplifying effect of domestic economic uncertainty on exchange rate volatility during recession periods. The results are robust to different exchange rate volatility measures and different specifications.",
+            "keywords": [
+                "Exchange rate volatility",
+                "Knightian uncertainty",
+                "Emerging economies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a75_3ay_3a2021_3ai_3ac_3ap_3a704-722.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Qualitative similarity and stock price comovement",
+            "abstract": "I introduce a method for gauging the qualitative similarity of firm-specific information based on linguistic commonality in newswire text. I show that this new qualitative similarity measure predicts future cross-firm return correlation even after accounting for the pair's contemporaneous price comovement, common exposures to systematic risk, firm liquidity, price, index membership, text volume, headquarters location, product similarity, shared mutual fund or institutional ownership, common analyst following and newswire co-mentions. I also demonstrate that content produced solely by journalists cannot predict an economically meaningful portion of future comovement. Out-of-sample tests confirm that knowledge of qualitative similarity can also reduce portfolio risk.",
+            "keywords": [
+                "Information consumption",
+                "Information-driven comovement",
+                "Textual analysis",
+                "Correlation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a91_3ay_3a2018_3ai_3ac_3ap_3a49-69.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Volatility spreads and earnings announcement returns",
+            "abstract": "Prior research documents that volatility spreads predict stock returns. If the trading activity of informed investors is an important driver of volatility spreads, then the predictability of stock returns should be more pronounced during major information events. This paper investigates whether the predictability of equity returns by volatility spreads is stronger during earnings announcements. Volatility spreads are measured by the implied volatility differences between pairs of strike price and expiration date matched put and call options and capture price pressures in the option market. During a two-day earnings announcement window, the abnormal returns to the quintile that includes stocks with relatively expensive call options is more than 1.5% greater than the abnormal returns to the quintile that includes stocks with relatively expensive put options. This result is robust after measuring volatility spreads in alternative ways and controlling for firm characteristics and lagged equity returns. The degree of announcement return predictability is stronger when volatility spreads are measured using more liquid options, the information environment is more asymmetric, and stock liquidity is low.",
+            "keywords": [
+                "Cross-section of equity returns",
+                "Volatility spreads",
+                "Equity options",
+                "Information flow",
+                "Put-call parity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a38_3ay_3a2014_3ai_3ac_3ap_3a205-215.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Financial crisis, liquidity and dynamic linkages between large and small stocks: Evidence from the Athens Stock Exchange",
+            "abstract": "This paper investigates return and volatility spillovers among Large, Medium and Small size stock portfolios in Athens Stock Exchange by employing an augmented univariate and multivariate VAR-EGARCH model. As a robustness test, a Monte Carlo simulation is undertaken in order to disentangle the impact of non-synchronous trading. We find that the transmission mechanism in ASE is less asymmetric after the recent financial crisis. In addition, there are spillovers among Large, Medium and Small size stocks, with a feedback effect revealed as well. The simulation results suggest that non-synchronous trading accounts for spillover effects in volatility in the post-crisis period. Our results entail implications for investors, listed companies and policy makers.",
+            "keywords": [
+                "Return",
+                "Volatility",
+                "Spillovers",
+                "Asymmetric response",
+                "Non-synchronous trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a40_3ay_3a2016_3ai_3ac_3ap_3a46-62.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Testing for cojumps in high-frequency financial data: An approach based on first-high-low-last prices",
+            "abstract": "This paper proposes a new test for simultaneous intraday jumps (cojumps) in a panel of high frequency financial data. We utilize intraday first-high-low-last values of asset prices to construct estimates for the cross-variation of returns in a large panel of high frequency financial data, which we then use to form a test statistic that can detect cojumps. Simulations show that a bias corrected version of the test performs well when microstructure noise is present. Applied to a panel of high frequency Chinese equity data, our test identifies cojumps that coincide with announcements relating to monetary policy and stock market regulations.",
+            "keywords": [
+                "Covariance",
+                "Cojumps",
+                "High-frequency data",
+                "First-high-low-last price",
+                "Realized covariance",
+                "Realized co-range"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a99_3ay_3a2019_3ai_3ac_3ap_3a252-274.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Long-term asset allocation, risk tolerance and market sentiment",
+            "abstract": "This paper studies optimal equity portfolios with long-term horizon under heterogeneous risk aversion levels. We focus on European stocks and empirically show that contemporaneous excess returns of semi-active strategies are negatively associated with market conditions and sentiment. Consistent with our long-horizon perspective, we find that the effects of sentiment measures on semi-active portfolio returns are sizeable and economically relevant, particularly in bull (post-crisis) periods, even after controlling for the five Fama-French factors, momentum, macro indicators and political uncertainty shocks either globally or country-wise. By contrast, the effects of sentiment measures on the passive (benchmark) portfolio appear to be negligible. The results further indicate that realized portfolio returns generated from our long-term strategies are considerably resilient to the episodes of flight-to-safety (risk-off) regimes.",
+            "keywords": [
+                "Asset management",
+                "Portfolio choice",
+                "Investment horizons",
+                "Investor and market sentiment",
+                "Fund performance",
+                "Signal processing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a62_3ay_3a2019_3ai_3ac_3ap_3a1-19.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mean Aversion in and Persistence of Shocks to the US Dollar: Evidence from Nine Foreign Currencies",
+            "abstract": "This paper analyses the statistical behavior of the US dollar, against nine different currencies, over the float period, with a monthly data set. The martingale hypothesis is rejected for all currencies. However, all currencies have a unit root. There is overwhelming evidence for significant positive serial correlation and ARCH effects in the logged series and in the changes of the logs. In addition, the nine logged series are characterized by structural breaks in both the intercept and the slope. Surprisingly, when the changes of the logs are considered, these do not show up any structural breaks, although the sample period has witnessed more than one political, social, and economic regime. All the nine logged currencies are well described by a low-order ARIMA model, with a parcimonious GARCH specification of the conditional variance. These ARIMA models imply mean aversion, rather than mean reversion, and high persistence of shocks. Mean aversion and persistence of shocks are formally tested and found to be significant for all nine currencies. This justifies the title of the paper.",
+            "keywords": [
+                "US dollar",
+                "mean aversion",
+                "persistence of shocks",
+                "market efficiency",
+                "martingale",
+                "structural breaks",
+                "ARIMA",
+                "GARCH"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2013-03-15.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investigating the Efficiency of Bitcoin Futures in Price Discovery",
+            "abstract": "The present study investigates the efficiency of the Bitcoin futures in the price discovery process by assessing the lead-lag relationship between the futures and spot prices of Bitcoin. The study tests whether the Bitcoin futures market is leading the price discovery mechanism for the Bitcoin spot market. The study considers daily closing prices of both Bitcoin spot and future indices from December 12, 2017 to December 31, 2020. The stationarity of the two time-series variables is tested using Augmented Dickey-Fuller test while the long-run co-integrating relationship is tested using Johansen Co-integration test. To test the long-run causality, the Error Correction Mechanism framework (ECM) is used while the Wald test is applied to assess the short-run causality between the Bitcoin future and spot prices. The results of trace and max-eigen statistics indicate that there is long term co-integrating relationship between Bitcoin futures and Bitcoin spot markets. The negative significant coefficient of error correction term indicates that there is long-run causality from the Bitcoin futures towards the Bitcoin spot market. The significant Chi-square test statistics of the Wald test suggest that there is short-run causality from the Bitcoin futures towards the Bitcoin spot market. This shows that the Bitcoin futures market is acting as a leading indicator and the Bitcoin spot market as a lagging indicator. Thus, it is concluded that the price discovery is taking place between Bitcoin futures and the Bitcoin spot market. With the entrance of the new information in the cryptocurrency market, it is first observed in the Bitcoin futures followed by the Bitcoin spot prices.",
+            "keywords": [
+                "Bitcoin",
+                "Efficiency of Bitcoin Futures",
+                "Error Correction Mechanism",
+                "Johansen Co-integration test",
+                "Price Discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2022-03-12.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Energy Prices and Their Impact on US Stock Indices: A Wavelet- based Quantile-on-Quantile Regression Approach",
+            "abstract": "This study delves into the effects of crude oil and gas prices on the United States\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 (US) conventional, Islamic, and environmental, social, and governance (ESG) stock indices from January 2013 to December 2022. Decomposing original time series data to minimise inherent fluctuations and using the Quantile-on-Quantile (QQ) regression approach presents a nuanced view of how these energy prices impact different stock indices. The findings reveal that crude oil prices have a variable impact on the indices: high prices negatively influence the indices, low prices have a positive effect, and moderate prices yield a moderate positive impact. After data decomposition, this positive influence diminishes in higher quantiles, indicating an emerging neutral effect in stabilised conditions. In contrast, gas prices show a limited impact, with high prices slightly benefiting conventional and ESG indices but less so for the Islamic index. This suggests a more pronounced influence of oil prices on the indices, likely due to the dependence of many listed companies on oil. The study emphasises the importance of considering oil-related risks in investment strategies and highlights the asymmetric impact of crude oil prices on the US stock indices. These findings have significant implications for investors and policymakers. They underscore the need for careful consideration of oil price dynamics in investment decisions and the importance of staying vigilant against shifts in oil prices that could lead to market instability.",
+            "keywords": [
+                "Oil Prices",
+                "Gas Prices",
+                "Conventional Stock Index",
+                "ESG Stock Index",
+                "Islamic Stock Index",
+                "Quantile-on-Quantile Approach"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn2/2024-03-24.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The ambiguous December",
+            "abstract": "This study documents a seasonality in capital market ambiguity. It shows that ambiguity tends to increase along the calendar year. Moreover, December records an exceptionally high level of ambiguity. In half of the sample years, December exhibits the highest or the second-highest ambiguity among all months. This pattern is not found for the volatility index (VIX). The \u00e2\u0080\u009cDecember Ambiguity Effect\u00e2\u0080\u009d is robust to numerous tests and persists after controlling for macroeconomic parameters. A possible explanation for this effect is the obsoleteness of information disclosed at the beginning of the year by firms with December fiscal year-end.",
+            "keywords": [
+                "Ambiguity",
+                "Knightian uncertainty",
+                "Stock market seasonality",
+                "Volatility index"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a61_3ay_3a2024_3ai_3ac_3as1544612324000205.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does Bitcoin futures trading reduce the normal and jump volatility in the spot market? Evidence from GARCH-jump models",
+            "abstract": "This paper investigates how Bitcoin futures introduction affects Bitcoin's normal and jump volatility over time. Using GARCH-jump models, we find Bitcoin's normal and jump volatility increase in the short run, move in opposing directions in the mid run, and decrease in the long run. Besides, we examine whether futures trading activity, proxied by unexpected trading volume and open interest, is associated with Bitcoin volatility. We document that Bitcoin's normal and jump volatility covary positively with unexpected trading volume in the short and mid run. Meanwhile, both volatility covary positively (negatively) with unexpected open interest in the short (mid) run.",
+            "keywords": [
+                "Bitcoin",
+                "Bitcoin futures",
+                "Futures trading activity",
+                "Jump risk",
+                "GARCH-jump models"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a47_3ay_3a2022_3ai_3apb_3as1544612322000903.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Option trading volume by moneyness, firm fundamentals, and expected stock returns",
+            "abstract": "I examine the link between option and equity markets by considering the informational content of the option trading volume with respect to moneyness and maturity when the trade direction is unobserved. A high option trading volume of all maturity terms, deep-in-the-money put options, and deep-out-of-the-money call options, predicts higher leverage, increases in default risk, negative earnings surprises, and decreases in future profitability. In addition, option trading volume negatively predicts future stock returns. Information diffusion from the option market to equities plays an important role in accounting for return predictability in option trading volume. Such predictability is less evident in stocks with high institutional ownership and more analyst coverage.",
+            "keywords": [
+                "Cross section of stock returns",
+                "Options",
+                "Option trading volume",
+                "Information diffusion"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a58_3ay_3a2022_3ai_3ac_3as1386418121000306.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "page_info": {
+        "page_number": 234,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Time-varying impact of monetary policy shocks on US stock returns: The role of investor sentiment",
+            "abstract": "This paper investigates how monetary policy shock affects the stock market of the United States (US) conditional on states of investor sentiment. In this regard, we use a recently developed estimator that uses high-frequency surprises as a proxy for the structural monetary policy shocks, which in turn is achieved by integrating the current short-term rate surprises, which are least affected by an information effect, into a vector autoregressive (VAR) model as an exogenous variable. When allowing for time-varying model parameters, we find that, compared to the low investor sentiment regime, the negative reaction of stock returns to contractionary monetary policy shocks is stronger in the state associated with relatively higher investor sentiment. Our results are robust to alternative sample period (which excludes the zero lower bound) and model specification and also have important implications for academicians, investors, and policymakers.",
+            "keywords": [
+                "Investor sentiment",
+                "External instruments",
+                "Monetary policy surprises",
+                "Time-varying parameter VAR model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a58_3ay_3a2021_3ai_3ac_3as1062940821001601.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Irrational fads, short-term memory emulation, and asset predictability",
+            "abstract": "Opponents of the efficient markets hypothesis argue that predictability reflects the psychological factors and \u00e2\u0080\u009cfads\u00e2\u0080\u009d of irrational investors in a speculative market. In that, conventional time series analysis often fails to give an accurate forecast for financial processes due to inherent noise patterns, fat tails, and nonlinear components. A recent stream of literature on behavioral finance has revealed that boundedly rational agents using simple rules of thumb for their decisions under uncertainty provides a more realistic description of human behavior than perfect rationality with optimal decision rules. Consequently, the application of technical analysis in trading could produce high returns. Machine learning techniques have been employed in economic systems in modeling nonlinearities and simulating human behavior. In this study, we expand the literature that evaluates return sign forecasting ability by introducing a recurrent neural network approach that combines heuristic learning and short-term memory emulation, thus mimicking the decision-making process of boundedly rational agents. We investigate the relative direction-of-change predictability of the neural network structure implied by the Lee\u00e2\u0080\u0093White\u00e2\u0080\u0093Granger test as well as compare it to other well-established models for the DJIA index. Moreover, we examine the relationship between stock return volatility and returns. Overall, the proposed model presents high profitability, in particular during \u00e2\u0080\u009cbear\u00e2\u0080\u009d market periods.",
+            "keywords": [
+                "Machine learning",
+                "Neural networks",
+                "Volatility trading",
+                "Stock predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeerevfin/v_3a22_3ay_3a2013_3ai_3a4_3ap_3a213-219.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Technical trading revisited: False discoveries, persistence tests, and transaction costs",
+            "abstract": "We revisit the apparent historical success of technical trading rules on daily prices of the Dow Jones Industrial Average index from 1897 to 2011, and we use the false discovery rate (FDR) as a new approach to data snooping. The advantage of the FDR over existing methods is that it selects more outperforming rules, which allows diversifying against model uncertainty. Persistence tests show that, even with the more powerful FDR technique, an investor would never have been able to select ex ante the future best-performing rules. Moreover, even in-sample, the performance is completely offset by the introduction of low transaction costs. Overall, our results seriously call into question the economic value of technical trading rules that has been reported for early periods.",
+            "keywords": [
+                "Technical trading",
+                "False discovery rate",
+                "Persistence",
+                "Transaction costs"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a106_3ay_3a2012_3ai_3a3_3ap_3a473-491.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information Acquisition and Under-Diversification",
+            "abstract": "If an investor wants to form a portfolio of risky assets and can exert effort to collect information on the future value of these assets before he invests, which assets should he learn about? The best assets to acquire information about are ones the investor expects to hold. But the assets the investor holds depend on the information he observes. We build a framework to solve jointly for investment and information choices, with a variety of preferences and information cost functions. Although the optimal research strategies depend on preferences and costs, the main result is that the investor who can first collect information systematically deviates from holding a diversified portfolio. Information acquisition can rationalize investing in a diversified fund and a concentrated set of assets, an allocation often observed, but usually deemed anomalous.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/13904.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time-varying spot and futures oil price dynamics",
+            "abstract": "We investigate the role of crude oil spot and futures prices in the process of price discovery by using a cost-of-carry model with an endogenous convenience yield and daily data over the period from January 1990 to December 2008. We provide evidence that futures markets play a more important role than spot markets in the case of contracts with shorter maturities, but the relative contribution of the two types of market turns out to be highly unstable, especially for the most deferred contracts. The implications of these results for hedging and forecasting crude oil spot prices are also discussed.",
+            "keywords": [
+                "Cointegration",
+                "Oil market",
+                "Futures prices",
+                "Price Discovery."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/piawpaper/75_2f2010.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Exploring Mispricing in the Term Structure of CDS Spreads",
+            "abstract": "Based on a reduced-form model of credit risk, we explore mispricing in the credit default swaps (CDS) spreads of North American companies and its economic content. Specifically, we develop a trading strategy using the model to trade out of sample market-neutral portfolios across the term structure of CDS contracts. Our empirical results show that the trading strategy exhibits abnormally large returns, confirming the existence and persistence of a mispricing. The aggregate returns of the trading strategy are positively related to the square of market-wide credit and liquidity risks, indicating that the mispricing is more pronounced when the market is more volatile. When implemented on the Markit data, the strategy shows significant economic value even after controlling for realistic transaction costs.",
+            "keywords": [
+                "Credit default swaps",
+                "Mispricing",
+                "Statistical arbitrage",
+                "Affine models",
+                "Market-neutral strategy",
+                "Hedge funds"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ouprevfin/v_3a23_3ay_3a2019_3ai_3a1_3ap_3a161-198..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Micro Dynamics of Macro Announcements",
+            "abstract": "We examine how regularly scheduled macroeconomic announcements for the U.S., Germany and the euro area affect the German stock market, using high\u00e2\u0080\u0093frequency, minute\u00e2\u0080\u0093by\u00e2\u0080\u0093minute DAX data. Our study extends the literature on high\u00e2\u0080\u0093frequency announcement effects in several ways. First, we account for endogenous return dynamics by assessing announcement impacts via response analysis. Second, we examine the announcements effects on market volatility in a more detailed fashion by distinguishing effects of positive and negative surprises. Finally, we adapt the standard weighted\u00e2\u0080\u0093least\u00e2\u0080\u0093squares approach to more adequately analyze both conditional mean and volatility effects.",
+            "keywords": [
+                "announcement effects",
+                "market efficiency",
+                "information spillover",
+                "impulse response analysis",
+                "volatility",
+                "weighted least squares"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cesceswps/_5f4421.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Transmission of Monetary Policy to the Cost of Hedging",
+            "abstract": "We analyze the transmission of monetary policy to the costs of hedging using options order book data. Monetary policy transmits to hedging costs both by changing the relevant state variables, such as the value of the underlying, its volatility and tail risk, and by affecting option market liquidity, including the bid-ask spread and market depth. Our estimates suggest that during the peak of the pandemic crisis in March 2020, monetary policy decisions resulted in substantial changes in hedging costs even within short intraday time windows around the decisions, amounting approximately to the annual expenses of a typical equity mutual fund.",
+            "keywords": [
+                "liquidity",
+                "monetary policy",
+                "option order books",
+                "option markets",
+                "Covid-19 pandemic"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cesceswps/_5f11556.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Double-question Survey Measures for the Analysis of Financial Bubbles and Crashes",
+            "abstract": "This paper proposes a new double-question survey method that elicits information about how individuals.subjective belief valuations are compared and related to their price expectations. An individual respondent is presented with two sets of questions, one that asks about his/her belief regarding the value of an asset (whether it is over- or under-valued), and another regarding his/her expectations of the future price of that asset. Responses to these two questions are then used to measure the extent to which prices are likely to move towards or away from the subjectively perceived fundamental values. Using a theoretical asset pricing model with heterogenous agents we show that there exists a negative relationship between the agents expectations of price changes and their asset valuation. Double question surveys on equity, gold and house prices provide evidence in support of such relationships, particularly in the case of house price expectations. The effects of demographic factors, such as sex, age, education, ethnicity, and income are also investigated. It is shown that for house price expectations such demographic factors cease to be statistically significant once we condition on the respondents. location and their asset valuation indicator. The results of the double-question surveys are then used to construct leading bubble and crash indicators, and their potential value is illustrated in the context of a dynamic panel regression of realized house price changes across a number of key Metropolitan Statistical Areas in the US.",
+            "keywords": [
+                "price expectations",
+                "bubbles and crashes",
+                "house prices",
+                "belief valuations"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cesceswps/_5f6272.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Book-to-Market, Mispricing, and the Cross-Section of Corporate Bond Returns",
+            "abstract": "Methodological insights generating comprehensive transaction-based bond datasets reveal that corporate bonds\u00e2\u0080\u0099 book-to-market ratios predict returns from prices transacted days after signal observation. Senior bonds (even investment-grade) with the 20% highest ratios outperform the 20% lowest by 3%\u00e2\u0080\u00934% annually after non-parametrically controlling for numerous liquidity, default, microstructure, and priced-risk attributes: yield-to-maturity, structural model equity hedges, bid-ask-spread, duration/maturity, credit spread/rating, past returns, coupon, size, age, and industry. Spreads for all-bond samples are larger. An efficient bond market would not exhibit the observed decay in the ratio\u00e2\u0080\u0099s predictive efficacy with implementation delays, smaller yield-to-maturity spreads, or similar-sized spreads across differing liquidity/de-fault bond-types.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/27655.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mispricing and Lasting Arbitrage between Parallel Markets in the Czech Republic",
+            "abstract": "If co-existing parallel markets are efficient, then arbitrage will maintain a correct pricing relationship. A related question is whether two parallel emerging markets offering more or less the same securities but using different institutional designs, can behave as a single, fully integrated market. In this paper we introduce an explicit model of price convergence (with transaction costs), in which price differences are studied using levels of arbitrage activity. For the empirical analysis we use two parallel markets in the Czech Republic 97 the Prague Stock Exchange (PSE) and the RMS (over-the-counter system). In particular, we study the degree of arbitrage activity for different segments of the PSE and the evolution of arbitrage in the early history of these emerging markets. The empirical results provide evidence of market linkage for actively traded stocks. We find a significant relationship between the segment of the market to which a given firm belongs and the estimated level of arbitrage trading. Moreover, the level of arbitrage activity increases over time for all market segments, and, as the markets mature, the differences among the segments gradually disappear.",
+            "keywords": [
+                "Arbitrage",
+                "Co-movements of financial markets",
+                "Emerging markets",
+                "Integration of emerging markets",
+                "Mispricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0012007.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "News sentiment and the investor fear gauge",
+            "abstract": "This note examines the relationship between aggregate news sentiment and changes in the implied volatility index (VIX). A significant negative contemporaneous relationship between changes in VIX and news sentiment is discovered. The relationship is asymmetric whereby changes in VIX are larger following the release of negative news items.",
+            "keywords": [
+                "News sentiment",
+                "VIX",
+                "Implied volatility",
+                "Stock market",
+                "Investor behaviour"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a11_3ay_3a2014_3ai_3a2_3ap_3a122-130.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

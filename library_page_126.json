@@ -1,0 +1,149 @@
+{
+    "page_info": {
+        "page_number": 126,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Mutual Fund Flows and Benchmark Portfolio Returns",
+            "abstract": "I examine trading caused by net flows to mutual funds invested at the Oslo stock exchange. My results show that trading by index-linked mutual funds and actively managed funds are correlated with returns on different segments of the stock exchange. Neither investor sentiment, nor feedback trading explain this correlation. I argue that information cannot explain the results. Hence, I provide evidence that changes in demand matters for stock prices.",
+            "keywords": [
+                "Mutual Funds",
+                "Investment Flows",
+                "Portfolio Returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2017-02-32.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "How Does Volatility of Characteristics-sorted Portfolios Respond to Macroeconomic Volatility?",
+            "abstract": "This paper investigates how volatility of characteristics-sorted portfolios respond to macroeconomic volatility based on Egyptian data covering the period July 2002-June 2015. The paper uses three characteristics, namely size, book-to-market ratio and financial leverage to sort the most active stocks into corresponding characteristics mimicking portfolios. We examine how volatility of single characteristic mimicking portfolios as well as double characteristics mimicking portfolios respond to volatility in macroeconomic variables. The results indicate that the money supply volatility is the dominant source of volatility for the characteristics-sorted portfolios, followed by the inflation volatility. Both investors and policy makers should consider the volatility of money more than the interest rate channel in rebalancing their portfolios and formulating policies. Arguably, the low-frequency volatility of many portfolios tend to decrease during periods of global financial crisis and political uncertainty post the Egyptian revolution in 2011.",
+            "keywords": [
+                "Characteristics-sorted Portfolios",
+                "Macroeconomic Volatility",
+                "Spline-GARCH",
+                "Egyptian Exchange"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2017-04-39.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Efficiency Tests in Foreign Exchange Market",
+            "abstract": "The main purpose of the paper is applying filter rules to examine the efficiency of foreign exchange. This paper uses three strategies of filter rules (buy long, sell short, buy long and sell short strategies) to test the performance of the transaction for EUR, JPY, GBP. The findings show that people will obtain more return by taking buy long/sell short strategies of filter rules without considering transaction cost. However, the transaction of these three foreign exchange rate (EUR, JPY, GBP) will be more efficient by considering transaction cost. The results imply the foreign exchange market is efficient for the EUR, JPY and GBP.",
+            "keywords": [
+                "Filter rule",
+                "Foreign exchange",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2012-02-9.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Flight to Liquidity on the Tokyo Stock Exchange during the 2008 Share Market Crashes",
+            "abstract": "This paper explores the existence of the flight-to-liquidity phenomenon for shares which are traded on the Tokyo Stock Exchange (TSE) during share market crashes. Using data from the First section of the TSE, the existence of a flight-to-liquidity during the 2008 share market crashes is clearly documented. The TSE differs from other major exchanges as price limit rules restrict the daily price movements of shares. It provides a unique setting to test if a flight-to-liquidity occurs even when price limit rules may reduce market liquidity and delay price discovery. This study shows that despite having different trading rules, a flight-to-liquidity occurred during times of market uncertainty as investors were less willing to hold illiquid assets and rushed to sell these assets. The results are robust for smaller crash days and for different proxies of illiquidity.",
+            "keywords": [
+                "Crash",
+                "Flight-to-Liquidity",
+                "Share Returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2015-03-20.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time Series Analysis Indicators under Directional Changes: The Case of Saudi Stock Market",
+            "abstract": "We introduce a set of time series analysis indicators under an event based framework of directional changes (DC) and overshoots. Our aim is to map continuous financial market price data into the so-called DC Framework - A state based discretization of basically dissected price time series. The DC framework analysis relied on understanding the price time series as an event-based process, as an alternative of focusing on their stochastic character. Defining a scheme for state reduction of DC Framework, we show that it has a dependable hierarchical structure that permits for analysis of financial data. We show empirical examples within the Saudi Stock Market. The new DC indicators represent the foundation of a completely new generation of financial tools for studying volatility, risk measurement, and building advanced forecasting and automated trading models",
+            "keywords": [
+                "Directional Changes",
+                "Financial Forecasting",
+                "Automated Trading",
+                "Financial Markets",
+                "Saudi Stock Market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2016-01-08.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do Heterogeneous Beliefs Matter for Asset Pricing?",
+            "abstract": "We study how heterogeneous beliefs affect returns and examine whether heterogeneous beliefs are a priced factor in traditional asset pricing models. To accomplish this task, we suggest new empirical measures based on the disagreement among analysts about expected (short-term and long-term) earnings are good proxies. Having established that heterogeneity of beliefs matters for asset pricing we turn our attention to estimating a structural model in which we use the forecasts of financial analysts to proxy for the beliefs of agents. Finally, we investigate if the amount of heterogeneity in analysts' forecasts can help explain asset pricing puzzles",
+            "keywords": [
+                "Heterogeneous Beliefs",
+                "Asset pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ecmnasm04/477.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "High-Frequency Principal Components and Evolution of Liquidity in a Limit Order Market",
+            "abstract": "The paper applies a popular methodology of competing risks to the analysis of the timing and interaction between the Deutsche Mark/U.S. dollar transactions, quotes, and cancellations in the Reuters D2000-2 electronic brokerage system. Consistently with previous stock market studies, the bid-ask spread and market depth at the best bid and ask quotes are found to be major determinants of limit order market dynamics at ultra-high frequencies. Consistently with the microstructure approach to exchange rate determination, the signed transaction activity appears to be the main factor behind the limit order market dynamics at lower frequencies. Application of principal component analysis to the covariate indices of competing risks identifies five pervasive factors that capture 85% of the Reuters D2000-2 limit order book activity. The multifactor competing risks model substantially improves the quality of short-term probability forecasts for buyer- and seller initiated transactions, relative to popular moving average-type forecasting rules",
+            "keywords": [
+                "foreign exchange",
+                "limit order",
+                "market order",
+                "order flow",
+                "liquidity",
+                "competing risks",
+                "principal component",
+                "probability forecast"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ecmnasm04/579.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Media Frenzies in Markets for Financial Information",
+            "abstract": "Promising emerging equity markets often witness investment herds and frenzies, accompanied by an abundance of media coverage. Complementarity in information acquisition can explain these anomalies. Because information has a high fixed cost of production, its equilibrium price is low when quantity is high. Investors all buy the most popular information because it has the lowest price. Given two identical asset markets, investors herd: asset demand is higher in the market with abundant information because information reduces risk. By lowering risk, information raises the asset's price. Transitions between low-information/low-asset-price and high-information/high-asset-price equilibria raise price volatility and create price paths resembling periodic frenzies. Using equity data and a new panel data set of news counts for 23 emerging markets, the results show that when asset market volatility increases, news coverage intensifies, and that more news is correlated with higher asset prices",
+            "keywords": [
+                "Frenzies",
+                "herds",
+                "media"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ecmnawm04/4.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asymmetric information and the distribution of trading volume",
+            "abstract": "We propose the Volume Coefficient of Variation (VCV), the ratio of the standard deviation to the mean of trading volume, as a new and simple measure of information asymmetry in security markets. We use a microstructure model to demonstrate that VCV is strictly increasing in the proportion of informed trade. Empirically, we obtain VCV from daily observations of trading volume and provide extensive evidence supporting the hypothesis that VCV indicates information asymmetry, by studying return reversals, institutional ownership, and extant firm-level measures of asymmetric information in the cross-section of US stocks. Moreover, VCV increases following exogenous reductions in analyst coverage induced by brokerage closures, and steeply decreases around earnings announcements and other information disclosures.",
+            "keywords": [
+                "VCV",
+                "Trading volume",
+                "Informed trading",
+                "Information asymmetry"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeecorfin/v_3a82_3ay_3a2023_3ai_3ac_3as092911992300113x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Terrorist attacks, investor sentiment, and the pricing of initial public offerings",
+            "abstract": "Using terrorist attacks as exogenous shocks to investor sentiment, we study the impact of investor sentiment on initial public offering (IPO) pricing. IPOs listed within the 30-day period following terrorist attacks, on average, experience lower first-day returns. The documented impact of terrorist attacks is magnified when there is greater IPO valuation uncertainty and when the terrorist attacks are more salient to investors, while mitigated for IPOs \u00e2\u0080\u009ccertified\u00e2\u0080\u009d by reputable intermediaries. We also show that the affected IPOs, on average, have more pessimistic media tone in the post-attack/pre-listing day period. The affected IPOs also tend to have lower levels of price revisions, subscriptions, primary share revisions, and total proceeds. Collectively, our findings underscore the salience of investor sentiment in shaping IPO outcomes.",
+            "keywords": [
+                "Terrorist attacks",
+                "Investor sentiment",
+                "IPO pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeecorfin/v_3a65_3ay_3a2020_3ai_3ac_3as0929119920302248.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Intangible intensity and stock price crash risk",
+            "abstract": "We evaluate the association between intangible intensity and stock price crash risk for U.S. listed firms from 1983 to 2017. The results show that intangible-intensive firms are associated with high crash risk. The decomposition of intangible intensity identifies goodwill as the driving force and documents its predictability for future impairment events. Moreover, intangible intensity affects stock price crash risk mainly through increased information asymmetry, and the positive association increases with stock price synchronicity, CEO risk-taking incentives, and shareholder litigation risk. Our findings demonstrate the fragility of intangible assets and provide implications for financial regulation and portfolio management.",
+            "keywords": [
+                "Intangible intensity",
+                "Information asymmetry",
+                "Crash risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeecorfin/v_3a64_3ay_3a2020_3ai_3ac_3as0929119920301267.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Limited investor attention, relative fundamental strength, and the cross-section of stock returns",
+            "abstract": "We explore the underlying reasons for the apparent mispricing of firms based on fundamental information. We document that a relative fundamental strength strategy that buys (sells) firms with strong (weak) fundamentals is highly profitable for up to three years. The results cannot be explained by either price or earnings momentum, are robust to risk adjustments based on standard asset pricing models, and survive a battery of robustness tests. The strategy also works better among small firms, as well as firms with low analyst coverage and a high probability of informed trading. Our empirical findings support the hypotheses of limited investor attention and informed trading.",
+            "keywords": [
+                "Limited investor attention",
+                "Informed trading",
+                "Fundamental investing",
+                "Long-term reversal"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeebracre/v_3a52_3ay_3a2020_3ai_3a4_3as0890838919300848.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

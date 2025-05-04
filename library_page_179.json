@@ -1,0 +1,162 @@
+{
+    "page_info": {
+        "page_number": 179,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Predictable biases in macroeconomic forecasts and their impact across asset classes",
+            "abstract": "This paper investigates how biases in macroeconomic forecasts are associated with economic surprises and market responses across asset classes around US data announcements. We find that the skewness of the distribution of economic forecasts is a strong predictor of economic surprises, suggesting that forecasters behave strategically (rational bias) and possess private information. Our results also show that consensus forecasts of US macroeconomic releases embed anchoring. Under these conditions, both economic surprises and the returns of assets that are sensitive to macroeconomic conditions are predictable. Our findings indicate that local equities and bond markets are more predictable than foreign markets, currencies and commodities. Economic surprises are found to link to asset returns very distinctively through the stages of the economic cycle, whereas they strongly depend on economic releases being inflation- or growth-related. Yet, when forecasters fail to correctly forecast the direction of economic surprises, regret becomes a relevant cognitive bias to explain asset price responses. We find that the behavioral and rational biases encountered in US economic forecasting also exists in Continental Europe, the United Kingdom and Japan, albeit, to a lesser extent.",
+            "keywords": [
+                "anchoring",
+                "rational bias",
+                "economic surprises",
+                "predictability",
+                "stocks",
+                "bonds",
+                "currencies",
+                "commodities",
+                "machine learning"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/596.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mutual funds\u00e2\u0080\u0099 selective participation and subsequent performance of seasoned equity offerings",
+            "abstract": "Abstract We study the stock-picking ability of the mutual fund industry in China based on its selective participation in the SEO market. Mutual funds, as an industry, have selection ability if SEO firms with more subscriptions by mutual funds have better future performance than those with fewer subscriptions. To isolate the effect of mutual funds\u00e2\u0080\u0099 favorable opinions about the future performance of an SEO firm, we use a statistical model to exclude the impact of a set of extensive factors on the decision to subscribe to an SEO. We use the model residuals as the ex ante favorable expectations about SEO firms by the mutual fund industry. Our findings suggest that those SEO firms being favored by the mutual fund industry perform statistically and economically significantly better than those SEO firms not favored by the industry. Investors can draw valuable inferences from mutual funds\u00e2\u0080\u0099 aggregate decision to participate in the SEO offer market.",
+            "keywords": [
+                "Seasoned equities offerings",
+                "Mutual fund",
+                "Selection ability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprempeco/v_3a56_3ay_3a2019_3ai_3a6_3ad_3a10.1007_5fs00181-018-1420-0.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "ESG unpacked: Environmental, social, and governance pillars and the stock price reaction to the invasion of Ukraine",
+            "abstract": "Abstract How do the individual pillars of environmental, social, and governance (ESG) factors perform in times of war? Focusing on euro area stocks around the Russian invasion of Ukraine in 2022, we investigate this question using an event study methodology. Our findings suggest that firms with higher governance scores experienced stronger abnormal positive stock returns, implying that investors particularly valued well-governed firms amidst the uncertainty and adversity. However, the importance of good governance was lower for countries with higher dependency on oil imports from Russia. In contrast, social and environmental considerations appeared to receive less attention from investors during this crisis period. Our study highlights the heterogeneous nature of ESG factors and underscores how their relevance can be context-dependent, especially in uncertain times marked by geopolitical conflicts.",
+            "keywords": [
+                "Environmetnal",
+                "Social",
+                "Governance",
+                "ESG",
+                "Governance",
+                "Russo\u00e2\u0080\u0093Ukrainian conflict",
+                "Event study"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/spreurasi/v_3a14_3ay_3a2024_3ai_3a3_3ad_3a10.1007_5fs40821-024-00277-4.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are retail traders compensated for providing liquidity?",
+            "abstract": "This paper examines the extent to which individual investors provide liquidity to the stock market and whether they are compensated for doing so. We show that the ability of aggregate retail order imbalances, contrarian in nature, to predict short-term future returns is significantly enhanced during times of market stress, when market liquidity provisions decline. While a weekly rebalanced portfolio long in stocks purchased and short in stocks sold by retail investors delivers 19% annualized excess returns over a four-factor model from 2002 to 2010, it delivers up to 40% annualized returns in periods of high uncertainty. Despite this high aggregate performance, individual investors do not reap the rewards from liquidity provision because they experience a negative return on the day of their trade and they reverse their trades long after the excess returns from liquidity provision are dissipated. During the financial crisis, French active retail stock traders stepped up to the plate, increased stock holdings, and provided liquidity. In contrast, mutual fund investors fled from delegation by selling their mutual funds.",
+            "keywords": [
+                "Liquidity",
+                "Retail investors",
+                "Crisis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a120_3ay_3a2016_3ai_3a1_3ap_3a146-168.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Agnostic fundamental analysis works",
+            "abstract": "To assess stock market informational efficiency with minimal data snooping, we take the view of a statistician with little knowledge of finance. The statistician uses techniques such as least squares to estimate peer-implied fair values from the market values of replicating portfolios with the same accounting statements as the company being valued. Divergence of a company's peer-implied value estimate from its market value represents mispricing, motivating a convergence trade that earns risk-adjusted returns of up to 10% per year and is economically significant for both large and small cap firms. The rate of convergence decays to zero over the subsequent 34 months.",
+            "keywords": [
+                "Valuation",
+                "Asset pricing",
+                "Market efficiency",
+                "Fundamental analysis",
+                "Point-in-Time",
+                "Theil-Sen"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a128_3ay_3a2018_3ai_3a1_3ap_3a125-147.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stocks for the long run? Evidence from emerging markets",
+            "abstract": "We estimate the myopic (single-period) and intertemporal hedging (long-run) demand for stocks in 20 growth-leading emerging market economies during the 1999\u00e2\u0080\u00932012 period. We consider two types of investors: a domestic investor who invests in emerging-market assets only (with returns in local currency) and an international investor who invests in both US and emerging-market assets (with returns in US dollars). We establish economically relevant short-run and long-run demand for stocks in several emerging market economies, for both domestic and international investors. From a welfare perspective, however, the myopic demand for emerging-market stocks is much more important than the hedging demand. Further international diversification and foreign currency hedging by the international investor do not alter this conclusion. Hence, for both domestic and international investors emerging-market stocks are mainly assets for the short run.",
+            "keywords": [
+                "Emerging-market stocks",
+                "Predictability",
+                "Myopic demand",
+                "Intertemporal hedging demand"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejimfin/v_3a47_3ay_3a2014_3ai_3ac_3ap_3a217-238.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Risk synchronization in Australia stock market: A sector analysis",
+            "abstract": "This research employs dynamic connectedness to assess the financial risk synchronization of 11 stock sector indices in Australia spanning May 10, 2001, to April 16, 2021. The results suggest that stock sectors in Australia co-move to a considerable degree with minimal expectations for own contribution to the system. The degree of connectedness rises during major crises. The study adds value to the specific strategies for portfolio allocation, rebalancing, and redeployment of stock sectors amid crises. Evidence also reveals that, except for the persistent net transmitter (Financials) and intermediate geared toward net transmitting (Industrials and Consumer Discretionary), all the remaining sectors offered safe-haven benefits during the global financial crisis and the COVID-19 pandemic. The pairwise dynamic connectedness shows that asset allocation between most pairs sometimes offers hedge, diversification, or safe-haven benefits.",
+            "keywords": [
+                "Stock sectors",
+                "Dynamic connectedness",
+                "Fragility",
+                "Net transmitters",
+                "Net receivers"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a93_3ay_3a2024_3ai_3apa_3ap_3a582-610.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Inflation hedging with commodities: A wavelet analysis of seven centuries worth of data",
+            "abstract": "We perform a test of the inflation hedging properties of commodities on the longest data series ever used for this purpose. We apply wavelet analysis to commodity prices and inflation data from the United Kingdom for the years 1265 through 2017, to detect co-movement across different times and frequencies. We demonstrate robust inflation hedging properties of agricultural, energy, and industrial commodities for the 4- to 8-year horizon through almost the entire seven centuries.",
+            "keywords": [
+                "Inflation hedging",
+                "Commodity markets",
+                "Early commodity prices",
+                "Wavelet analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a181_3ay_3a2019_3ai_3ac_3ap_3a90-94.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor Sentiment Dynamics, the Cross-section of Stock Returns and the MAX Effect",
+            "abstract": "Recent evidence shows that investor sentiment is a contrarian predictor of stock returns with speculative stocks earning lower (higher) future returns than safe stocks following high (low) sentiment states. We extend this argument by conditioning expected stock returns on sentiment dynamics and show that the mispricing of speculative and safe stocks worsens with sentiment continuations but is corrected with sentiment transitions, consistent with the view that the mispricing of these stocks is sentiment-driven. We show that the unconditional contrarian return predictability of sentiment, at least in the short-run, is due to the returns of stocks in sentiment transitions. Results show that ex post, sentiment is a momentum predictor if subsequent sentiment continues; and a contrarian predictor if subsequent sentiment transitions. We also show that the MAX effect can either be positive or negative contingent on sentiment dynamics. The absence of a negative MAX effect following Low sentiment states suggested by prior studies is due to the completely offsetting negative MAX effect when sentiment continues in a Low state and the positive MAX effect when sentiment transitions from a High to a Low state.",
+            "keywords": [
+                "Investor sentiment",
+                "sentiment dynamics",
+                "MAX effect",
+                "cross-sectional returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cbteconwp/17_2f13.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Cross-Sectional and Time-Series Momentum Returns and Market Dynamics: Are Islamic Stocks Different?",
+            "abstract": "We search for differences in both unconditional and conditional momentum returns of Islamic and Non-Islamic stocks and test implications of competing behavioral theories that aim to explain momentum returns. Our results show that there is no significant difference in momentum returns between Islamic versus Non-Islamic stocks with respect to both cross-sectional (CS) and time-series (TS) momentum strategies even when we condition momentum returns on market dynamics, information uncertainty (IU), and idiosyncratic volatility (IV). We also find that the TS strategy outperforms (underperforms) the CS strategy in market continuations (transitions) consistent with the recent evidence in the U.S. market. Furthermore, we find that CS and TS strategies of both Islamic and Non-Islamic stocks are profitable only when the market continues in the same state consistent with overconfidence driving momentum returns of both Islamic and Non-Islamic stocks.",
+            "keywords": [
+                "Islamic stocks",
+                "cross-sectional",
+                "time-series",
+                "momentum returns",
+                "market dynamics"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cbteconwp/17_2f14.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time-variation in the impact of news sentiment",
+            "abstract": "Utilizing firm-specific news sentiment data provided by Thomson Reuters News Analytics, I construct aggregate measures to examine the relationship between news sentiment and stock market returns over the period 2004\u00e2\u0080\u00932010. I find a highly significant relationship between aggregated measures of news sentiment and stock returns that fluctuates over time and by industry. I identify a link between the time-variation of news sentiment impact and industry beta, and determine that levels of investor sentiment (proxied by VIX) play an important role in explaining this variation.",
+            "keywords": [
+                "News sentiment",
+                "Industry portfolios",
+                "Time-variation",
+                "VIX",
+                "Stock Returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a37_3ay_3a2015_3ai_3ac_3ap_3a40-50.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Christmas effect\u00e2\u0080\u0094Special dividend announcements",
+            "abstract": "This paper examines the Halloween effect in special dividend announcements. We find that firms are more likely to announce special dividends at the end of a year, especially in the months of November and December. There is a Halloween effect in the announcements, but more importantly, there is a Christmas effect in the propensity and abnormal returns of special dividends. This paper provides initial evidence on the Christmas effect of special dividend payments. It links monthly effects in stock returns and corporate events to explain the likelihood of the occurrence of special dividend announcements. The results of this paper shed light on why corporate events are more likely to occur in some periods, but less likely to occur in others.",
+            "keywords": [
+                "The Halloween effect",
+                "The Christmas effect",
+                "Special dividends"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a43_3ay_3a2016_3ai_3ac_3ap_3a15-30.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

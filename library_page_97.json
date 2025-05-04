@@ -1,0 +1,150 @@
+{
+    "page_info": {
+        "page_number": 97,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Liquidity at the Oslo Stock Exchange",
+            "abstract": "We analyze the relationship between the long term development in liquidity at the Oslo Stock Exchange and the Norwegian economy for the period 1980 to 2007. We calculate different liquidity measures that captures various dimensions of liquidity over time and across industry groups. Overall, we find that the liquidity at the OSE has improved over the sample period. However, the improvement is most pronounced for the largest firms on the exchange. Interestingly, some measures indicate that the implicit cost of trading has been lower in earlier periods than it is today. Another important finding is that there is a strong counter cyclical relationship between proportional transaction costs measured by the relative spread and the business cycle measured by the output gap. The average relative spread also responds very quickly to the turning points of the business cycle. This result suggest that liquidity measures provide important real time information about the current state of the economy as well as market participants expectations about future economic growth.",
+            "keywords": [
+                "Liquidity",
+                "Market microstructure"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bnoworpap/2008_5f09.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Driven to distraction: Extraneous events and underreaction to earnings news",
+            "abstract": "Psychological evidence indicates that it is hard to process multiple stimuli and perform multiple tasks at the same time. This paper tests the INVESTOR DISTRACTION HYPOTHESIS, which holds that the arrival of extraneous news causes trading and market prices to react sluggishly to relevant news about a firm. Our test focuses on the competition for investor attention between a firm's earnings announcements and the earnings announcements of other firms. We find that the immediate stock price and volume reaction to a firm's earnings surprise is weaker, and post-earnings announcement drift is stronger, when a greater number of earnings announcements by other firms are made on the same day. Distracting news has a stronger effect on firms that receive positive than negative earnings surprises. Industry-unrelated news has a stronger distracting effect than related news. A trading strategy that exploits post-earnings announcement drift is unprofitable for announcements made on days with little competing news.",
+            "keywords": [
+                "limited attention",
+                "behavioral finance",
+                "investor psychology",
+                "capital markets",
+                "post-earnings announcement drift",
+                "market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/3110.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Using neural networks to predict the value of stocks based on news data",
+            "abstract": "This paper is devoted to forecasting the value of shares of large Russian companies traded on the Moscow Stock Exchange based on news. Neural networks transformers are used as models for forecasting. Moreover, classical machine learning methods are also involved in the analysis for comparison with the neural network approach. Major Russian news sources and Telegram channels are used as news data. Models trained on different sources are also compared. As a result of the study, it was found that classical machine learning methods cope better with this task in the general case, but neural networks also show good quality. The paper also provides recommendations on the choice of a news source and the choice of a task statement.",
+            "keywords": [
+                "shape price",
+                "news",
+                "network approach",
+                "Telegr?m"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/upawpaper/0055.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "When Do Central Bank Interventions Influence Intra-Daily and Longer-Term Exchange Rate Movements?",
+            "abstract": "This paper examines dollar interventions by the G3 governments since 1989, and the reasons that trader reactions to these interventions might differ over time and across central banks. Market microstructure theory provides a framework for understanding the process by which sterilized central bank interventions are observed and interpreted by traders, and how this process, in turn, might influence exchange rates. Using intra-daily and daily exchange rate and intervention data, the paper analyzes the influence of interventions on exchange rate volatility, finding evidence of both within day and daily impact effects, but little evidence that interventions increase longer-term volatility.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/9875.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Causality in Quantiles and Dynamic Stock Return-Volume Relations",
+            "abstract": "This paper investigates the causal relations between stock return and volume based on quantile regressions. We first define Granger non-causality in all quantiles and propose testing non-causality by a sup-Wald test. Such a test is consistent against any deviation from non-causality in distribution, as opposed to the existing tests that check only noncausality in certain moment. This test is readily extended to test non-causality in different quantile ranges, and the testing results enable us to identify the quantile range for which causality is relevant. In the empirical studies of 3 major stock market indices, we find that, while the conventional test suggests no causality in mean, there are strong evidences that lagged volume Granger causes return in all but some middle quantiles. In particular, the causal effects have opposite signs at lower and upper quantiles and are stronger at more extreme quantiles. These relations form (symmetric) V shapes across quantiles. They also show that the dispersion of the return distribution increases with volume so that volume has a positive effect on return volatility. It is also shown that the quantile causal effects of lagged return on volume are mainly negative.",
+            "keywords": [
+                "Granger non-causality in quantiles",
+                "quantile causal effect",
+                "quantile regression",
+                "return-volume relation",
+                "sup-Wald test"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/sinwpaper/07-a006.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Uncovering Skilled Short-sellers",
+            "abstract": "Studies on how skilled short-sellers trade typically employ aggregate shorting volume. Unfortunately, aggregate shorting volume is polluted by shorting for hedging, long-short strategies, and liquidity supplying. Using a unique data set that tracks all short-sellers in Brazil at the deal-level, we are able to uncover the skilled short-sellers and study them in isolation. This is revealing. Skilled short-sellers are actually short-term momentum investors (as opposed to contrarian as suggested by aggregate shorting volume), a significant part of their skill comes from market-timing, they are proficient at choosing when to cover their positions and, unlike unskilled short-sellers, display no disposition effect",
+            "keywords": [
+                "short-selling",
+                "skill",
+                "stock-picking",
+                "market-timing",
+                "disposition effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/spawpaper/2017wpecon01.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short-Sellers: Informed but Restricted",
+            "abstract": "According to theory, the level of short-selling can predict short-run future returns throughout two channels. One is related to the demand-side of the stock lending market: short-sellers are informed. The other is related to the supply-side: short-sellers are restricted. Measuring the importance of each channel is empirically challenging once, in general, supply and demand in the stock lending market are not directly observable. This paper takes advantage of a unique dataset that contains actual shifts in lending supply for stocks on the Brazilian market, and proposes an identification strategy for the effects of both supply and demand on stock prices. We find that both channels are important",
+            "keywords": [
+                "Short-seller",
+                "short-selling",
+                "short-selling restrictions"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/spawpaper/2013wpecon5.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The information content of short selling and put option trading: When are they substitutes?",
+            "abstract": "Using January 2005 \u00e2\u0080\u0093 June 2007 trading data for all NYSE stocks we identify the informational patterns and impact of exogenous shocks in short sales and option trades upon stock price changes. We find that short sales have more predictive power than put option trades. However, if short selling volume is low put options trading does have predictive power and thus may be a substitute used by informed investors.",
+            "keywords": [
+                "Short selling",
+                "Put option trades",
+                "Informational patterns",
+                "Price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/taswpaper/23734.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Central Bank Communication Affects Long-Term Interest Rates",
+            "abstract": "We empirically study how the communication of the Central Bank of Brazil affects the term structure of interest rates. Using an algorithm that classifies the words from the Central Bank minutes into predetermined semantic themes, we estimate a time-series factor related to Central Bank optimism. Then, we show that the long-term interest rates are sensitive to the optimism factor: when Central Bank is more optimistic, long-term interest rates fall. The fact that minutes are released one week after the changes in the target rate allows us to identify the effect of the communication in isolation. Our result is in line with the idea that Central Bank communication can be an effective monetary policy instrument through its impact on market expectations, particularly at the longer maturities.",
+            "keywords": [
+                "Brazilian Central Bank",
+                "central bank communication",
+                "text mining"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/spawpaper/2013wpecon7.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Note on the Impact of Portfolio Overlapping in Tests of the Fama and French Three-Factor Model",
+            "abstract": "In the three-factor model of Fama and French (1993), portfolio returns are explained by the factors Small Minus Big (SMB) and High Minus Low (HML) which capture returns related to firm capitalization (size) and the book-to-market ratio (B/M). In the standard approach of the model, both the test portfolios and the factor portfolios SMB and HML are formed on the basis of size and B/M. This gives rise to a potential overlapping bias in the time-series regressions. Based on a resampling method and the split sample approach already proposed by Fama and French (1993), we provide an in-depth analysis of the effect of overlapping for a broad sample of European stocks. We find that the overlapping bias is non-negligible, contrary to what seems to be general opinion. As a consequence, the standard approach of applying the three-factor model tends to overestimate the ability of the model to explain the cross-section of stock returns.",
+            "keywords": [
+                "Asset pricing",
+                "three-factor model",
+                "portfolio overlapping",
+                "size effect",
+                "value premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/frifribow/fribow00433.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Impact of Expectations, Match Importance and Results in the Stock Prices of European Football Teams",
+            "abstract": "In this study we analyse the link between stock returns and results in national league matches for 13 clubs of six different European countries. We assume that the stock prices should only respond to the unexpected component of match results, and we use betting odds to separate the expected component of the results from the unexpected one. We consider both the unweighted results (each match having the same weight in the model) and the results weighted by a new measure of match importance that we develop. We conclude that, when this measure is used to weight the unexpected component of the results, there is a significant link between the results and stock performance for 12 out of the 13 considered clubs. So, this link can be considered to be quite consistent. We also conclude that using this measure of match importance to weight the unexpected component of the match outcomes leads to an improvement in the results we achieve.",
+            "keywords": [
+                "Stock returns",
+                "Football results",
+                "Football teams",
+                "Information in stock markets",
+                "MGARCH."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/gmfwpaper/2014-09.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do Dollar Forecasters Believe too Much in PPP?",
+            "abstract": "This paper extends earlier studies on exchange rate expectations' formation by using new data and adding information about forecasters' reliance on fundamental analysis for the first time. We replicate the conventional result of non rational expectations. Moreover, biases in expectations are identified as professionals significantly belief too much in mean reversion, mean being represented by PPP. When respondents are grouped on their reliance to fundamental analysis, fundamentalists reveal an even stronger bias. Those, who rely the least on fundamentals preferring technical analysis instead , show a significantly smaller bias towards PPP in lieu of expecting too much trend extrapolation. Biased beliefs will grow stronger when the US Dollar is further away from PPP. Finally, the accuracy of the expectations is poor for both groups however we find directional forecasting ability.",
+            "keywords": [
+                "Exchange rate expectations",
+                "forecasting",
+                "fundamental analysis",
+                "technical analysis",
+                "purchasing power parity"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/handpaper/dp-321.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

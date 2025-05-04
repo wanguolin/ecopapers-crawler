@@ -1,0 +1,163 @@
+{
+    "page_info": {
+        "page_number": 45,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Trading activity of VIX futures and options around FOMC announcements",
+            "abstract": "This research investigates the information content of volatility trading in VIX derivatives under a high-frequency framework. We provide empirical evidence that the abnormal order imbalances of VIX futures and call (put) options are significantly negative (positive) during FOMC embargoes. Our results remain robust under various empirical approaches for examining FOMC announcements. We also find that the VIX return (trading volume) is negatively (positively) associated with FOMC announcements. Overall, we document short-lived informational advantages in the VIX derivatives market and provide evidence of potential information leakage during FOMC embargoes.",
+            "keywords": [
+                "VIX",
+                "VIX futures",
+                "VIX options",
+                "Informed trading activity",
+                "FOMC announcements"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a94_3ay_3a2024_3ai_3ac_3as1057521924002539.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Cryptocurrency anomalies and economic constraints",
+            "abstract": "The asset pricing literature documents a growing list of predictable patterns in the cross-section of cryptocurrency returns. But can they be forged into viable trading profits? We answer this question by examining the interplay between economic restrictions and return predictability in cryptocurrency markets. We find that size and volume anomalies originate from micro-cap coins of negligible economic importance. Conversely, the momentum effect prevails in larger cryptocurrencies but incurs substantial trading costs and extracts alphas largely from short positions. Most abnormal returns occur primarily in bull markets and fade over time. Therefore, protocols for identifying tradable cryptocurrency anomalies should focus on long positions, account for transaction costs, consider hard-to-trade coins, and emphasize performance in recent years.",
+            "keywords": [
+                "Cryptocurrency markets",
+                "Asset pricing",
+                "Anomalies",
+                "Return predictability",
+                "Economic constraints",
+                "Trading costs"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a94_3ay_3a2024_3ai_3ac_3as1057521924001509.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Diversification measures: Mutual fund family case",
+            "abstract": "This study introduces a portfolio theory motivated approach to measuring mutual fund family-level risk diversification. The average cross-fund correlation in idiosyncratic returns measures diversification of idiosyncratic risk, while the correlation of predicted returns from the multifactor model measures factor risk diversification within a fund family. We document a substantial cross-sectional variation in family-level diversification measured with our new proxies independent of the number of funds and objectives in the family. While number of objectives is a popular yet possibly misleading measure of diversification, there is a link between portfolio theory-based diversification measures and the number of objectives in a family. On average, fund families with more investment objectives are more diversified in terms of both idiosyncratic and factor risks; yet, in large families, more investment objectives are associated with increased diversification of idiosyncratic risk but decreased diversification of factor risk. Fund family diversification improves family performance during market downturns and in large families. However, fund family diversification does not significantly affect absolute or relative family size, except for the number of investment objectives, which has a negative relation to family size.",
+            "keywords": [
+                "Diversification",
+                "Mutual fund family",
+                "Risk management"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a90_3ay_3a2023_3ai_3ac_3as1057521923004489.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Informed trading and the price impact of block trades: A high frequency trading analysis",
+            "abstract": "Using high frequency data from the London Stock Exchange (LSE), we investigate the relationship between informed trading and the price impact of block trades on intraday and inter-day basis. Price impact of block trades is stronger during the first hour of trading; this is consistent with the hypothesis that information accumulates overnight during non-trading hours. Furthermore, private information is gradually incorporated into prices despite heightened trading frequency. Evidence suggests that informed traders exploit superior information across trading days, and stocks with lower transparency exhibit stronger information diffusion effects when traded in blocks, thus informed block trading facilitates price discovery.",
+            "keywords": [
+                "Informed trading",
+                "Block trades",
+                "Transparency",
+                "Opacity",
+                "Price impact",
+                "Price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a54_3ay_3a2017_3ai_3ac_3ap_3a114-129.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information shocks and short-term market overreaction: The role of investor attention",
+            "abstract": "Employing jumps in stock return as a proxy for information shocks, we empirically discover the short-term overaction in the Chinese stock market. Trading strategies short (long) stocks with the largest (smallest) lagged cumulative jump returns earn sizable positive returns. Besides, the information shocks exhibit significant predictive ability for future returns. The market overreaction is robust to firm characteristics, subperiod analysis, and intraday analysis. Investor attention facilitates this short-term market overreaction.",
+            "keywords": [
+                "Jumps",
+                "Information shocks",
+                "Market overreactions",
+                "Investor attention"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a93_3ay_3a2024_3ai_3ac_3as1057521924001510.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "International stock return predictability: Evidence from new statistical tests",
+            "abstract": "We investigate whether stock returns of international markets are predictable from a range of fundamentals including key financial ratios (dividend-price ratio, dividend-yield, earnings-price ratio, dividend-payout ratio), technical indicators (price pressure, change in volume), and short-term interest rates. We adopt two new alternative testing and estimation methods: the improved augmented regression method and wild bootstrapping of predictive model based on a restricted VAR form. Both methods take explicit account of endogeneity of predictors, providing bias-reduced estimation and improved statistical inference in small samples. From monthly data of 16 Asia-Pacific (including U.S.) and 21 European stock markets from 2000 to 2014, we find that the financial ratios show weak predictive ability with small effect sizes and poor out-of-sample forecasting performances. In contrast, the price pressure and interest rate are found to be strong predictors for stock return with large effect sizes and satisfactory out-of-sample forecasting performance.",
+            "keywords": [
+                "Augmented regression method",
+                "Financial ratios",
+                "Forecasting",
+                "Technical indicators",
+                "Wild bootstrap"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a54_3ay_3a2017_3ai_3ac_3ap_3a97-113.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information-based trading and information propagation: Evidence from the exchange traded fund market",
+            "abstract": "This paper studies the information-based trading of exchange-traded funds (ETFs) and the information propagation from the ETF market to its index. We find that the ETF trading triggered by asymmetric information and belief heterogeneity not only accelerates the ETFs' price discovery process but also increases the flow of information to the tracked index. Moreover, the price efficiency of the index also improves along with these two types of trading and their efficiency effects can be further enhanced by a speedier ETFs' price discovery. These observations portray the mechanism of the inter-market information propagation.",
+            "keywords": [
+                "Disagreement among investors",
+                "Exchange-traded funds",
+                "Information asymmetry",
+                "Market efficiency",
+                "Price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a70_3ay_3a2020_3ai_3ac_3as1057521920301393.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Transitory prices, resiliency, and the cross-section of stock returns",
+            "abstract": "This paper suggests a new measure of stock market resiliency and demonstrates that resiliency is a dimension of liquidity that generates cross-sectional variations in stock returns. Resiliency is defined as quickness of the transitory price recovery from a liquidity shock. Using the Beveridge-Nelson decomposition and the spectral analysis in the frequency domain, we measure resiliency as the speed of mean reversion of transitory price components. Our main finding is that a zero-investment portfolio long in low-resiliency stocks and short in high-resiliency stocks earns significant abnormal returns. We also find that our resiliency measure is complementary to existing liquidity measures.",
+            "keywords": [
+                "Resiliency",
+                "Liquidity",
+                "Transitory prices"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a63_3ay_3a2019_3ai_3ac_3ap_3a243-256.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Return dispersion risk in FX and global equity markets: Does it explain currency momentum?",
+            "abstract": "We investigate the potential link between momentum in currency returns and global economic risk as measured by currency return dispersion (RD). Initial tests contribute to the exchange rate puzzle by showing that a common macroeconomic risk component in currency markets is present in global equity markets. Subsequent tests indicate that the spread on zero-cost currency momentum strategies is larger and highly significant in high RD states compared to low RD states. Also, the relation between these momentum payoffs and global economic risk appears to increase linearly in risk. Based on this evidence, we conclude that global economic risk as proxied by RD helps to explain currency momentum profits.",
+            "keywords": [
+                "Return dispersion",
+                "Momentum",
+                "Currency markets",
+                "Global economic risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a56_3ay_3a2018_3ai_3ac_3ap_3a264-280.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Firm efficiency and stock returns: Australian evidence",
+            "abstract": "We employ a stochastic frontier approach to estimate firm efficiency - the efficiency with which a firm converts its inputs into output. We find a negative relation between firm efficiency and the cross-section of stock returns (\u00e2\u0080\u0098firm efficiency effect\u00e2\u0080\u0099) in the Australian stock market. The firm efficiency effect is robust after controlling for other firm characteristics and is more pronounced in stocks with high limits-to-arbitrage. However, we find no evidence that firm efficiency is a priced factor in the cross-section. Our findings suggest that investors misprice firm efficiency and arbitrage costs perpetuate its return predictability.",
+            "keywords": [
+                "Firm efficiency",
+                "Anomaly",
+                "Asset pricing",
+                "Arbitrage costs",
+                "Stochastic frontier approach",
+                "Risk-based explanation",
+                "\u00e2\u0080\u009cWith its terms of trade declining Australia can no longer rely on the willingness of the rest of the world to pay more for its exports to fund improved living standards. Part of the challenge is improving the efficiency of Australian firms and other organizations that produce the goods and services we consume as a community and export to the rest of the world.\u00e2\u0080\u009d",
+                "- Robert Dolamore, 2014.",
+                "Parliamentary Library of Australia."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a78_3ay_3a2021_3ai_3ac_3as105752192100257x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can the Chinese volatility index reflect investor sentiment?",
+            "abstract": "The volatility index is the implied volatility calculated inversely from the option prices. This study investigates whether the official Chinese volatility index, iVX, can represent investor sentiment. In order to describe investor sentiment comprehensively, we build a three-dimensional investor sentiment measurement system composed of macro, meso and micro level, and decompose iVX into three components to obtain short-term, medium-term fluctuations and long-term trend by EEMD method. The relationships between iVX, its components and sentiment indexes at each level have been analyzed separately, and the empirical results reveal all components of iVX can reflect the investor sentiment at the corresponding level but to which extent they can reflect are not the same. Further we introduce the mixed-frequency dynamic factor analysis to extract the common sentiment factor, which shows stronger correlation with contemporaneous iVX, compared with the sentiment indexes at each level. The ADL model in robustness check also demonstrates the results. Our findings confirm iVX can represent the common sentiment and expectations of Chinese investors in different time scales.",
+            "keywords": [
+                "iVX",
+                "Investor sentiment",
+                "EEMD",
+                "Mixed-frequency dynamic factor analysis",
+                "Correlation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a73_3ay_3a2021_3ai_3ac_3as1057521920302556.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price informativeness and state-owned enterprises: Considering their heterogeneity",
+            "abstract": "State owned enterprises (SOEs) play a pivotal role in the world economy. However, how state ownership affects price informativeness is less-explored, much less the impacts of differing forms of state ownership. We find that the price synchronicity of SOEs is about 9.0% to 15.4% larger than that of non-SOEs, indicating that SOEs have less informative stock prices. Institutional environment and government regulations such as anti-corruption campaigns are important mediating factors in reducing price synchronicity, but the price synchronicity of SOEs is still significantly larger than that of non-SOEs. Differences in state ownership matters for price synchronicity. SOEs associated with local governments (SOELGs), as well as those represented by state assets management bureaus (SAMBs), have larger price synchronicity than non-SOEs. Although SOEs controlled by central governments (SOECGs) also have larger price synchronicity than non-SOEs based on univariate tests, this difference becomes statistically insignificant when controlling for other factors. SOEs are less likely to be publicly exposed for fraud, implying that state ownership provides a buffer for SOEs. Overall, we evidence that state ownership has an important role in deprecating stock-price informativeness, with the impact differing depending on whether SOEs are controlled by central or non-central governments.",
+            "keywords": [
+                "State ownership",
+                "Stock-price informativeness",
+                "Price synchronicity",
+                "Chinese markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a76_3ay_3a2021_3ai_3ac_3as1057521921001216.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

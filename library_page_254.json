@@ -1,0 +1,162 @@
+{
+    "page_info": {
+        "page_number": 254,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Non-fundamental information disclosure and discretionary liquidity trading",
+            "abstract": "We examine how the disclosure of non-fundamental information affects market attributes in the presence of discretionary liquidity traders. We find that the involvement of discretionary liquidity traders augments market liquidity, whereas non-fundamental information disclosure has the reverse effect. Furthermore, the effect of disclosure on the equilibrium number of discretionary liquidity traders depends on whether the speculator discloses information about only noise traders or all liquidity traders. Discretionary liquidity traders may result in multiple equilibria, which are related to the speculator\u00e2\u0080\u0099s disclosure preferences. Under specific conditions, the speculator can select the noise level of disclosed information to optimize profits, offering insights into how speculators make decisions regarding information disclosure in financial markets. Moreover, disclosure can minimize price volatility when the equilibrium number of informed traders is endogenously determined, offering practical guidance on how financial markets should use information disclosure strategies to stabilize stock prices.",
+            "keywords": [
+                "Non-fundamental information",
+                "Discretionary liquidity traders",
+                "Market liquidity",
+                "Information efficiency",
+                "Price volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a147_3ay_3a2025_3ai_3ac_3as0264999325000331.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sensitivity to measurement errors of the distance to the efficient frontier",
+            "abstract": "This paper builds confidence intervals for the distance in the mean-variance plan between any portfolio and the Markowitz efficient frontier. The distance can be calculated in any risk-return direction chosen by the investor. To do so, we introduce random variations of inputs and outputs and estimate the frontier. We then use subsampling approximations to derive confidence intervals around the distance of portfolios to the efficient frontier. This methodology offers a novel statistical approach to mean-variance portfolio choice, which is key for asset management. We apply this approach to show that the distance between the S&P 500 index and the efficient frontier made up of all the shares in the index is significantly different from zero in all testable directions. This result adds robustness to the still controversial Roll critique of the Capital Asset Pricing Model (CAPM). In the general setup of production theory, our paper addresses the sensitivity of the estimated efficiency scores to random variations in the original inputs-outputs.",
+            "keywords": [
+                "Portfolio choice",
+                "Random inputs-outputs",
+                "Directional distance",
+                "FDH estimator",
+                "Efficient frontier"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/solwpaper/2013_2f358148.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Estimation and inference in semiparametric quantile factor models",
+            "abstract": "We consider a semiparametric quantile factor panel model that allows observed stock-specific characteristics to affect stock returns in a nonlinear time-varying way, extending Connor, Hagmann, and Linton (2012) to the quantile restriction case. We propose a sieve-based estimation methodology that is easy to implement. We provide tools for inference that are robust to the existence of moments and to the form of weak cross-sectional dependence in the idiosyncratic error term. We apply our method to daily stock return data where we find significant evidence of nonlinearity in many of the characteristic exposure curves.",
+            "keywords": [
+                "Cross-sectional dependence",
+                "Fama\u00e2\u0080\u0093French model",
+                "Inference",
+                "Quantile",
+                "Sieve estimation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeconom/v_3a222_3ay_3a2021_3ai_3a1_3ap_3a295-323.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Tail Risk in Momentum Strategy Returns",
+            "abstract": "Momentum strategies exhibit rare but dramatic losses (crashes), which we show are a result of the leverage dynamics of stocks in the momentum portfolio. When the economy is in a hidden turbulent state associated with a depressed and volatile stock market, the short-side of the momentum portfolio becomes highly levered, and behaves like a call option on the market index portfolio, making momentum crashes more likely. We develop a hidden Markov model of the unobserved turbulent state that affects the returns on the momentum strategy and the market index portfolios. We find that the use of a combination of Normal and Student-t distributions for the hidden residuals in the model to construct the likelihood of the realized momentum and market index returns dramatically improves the models ability to predict crashes. The same variable that forecasts momentum crashes also forecasts the correlation between momentum strategy and value strategy, two of the benchmark investment styles often used in performance appraisal of quant portfolio managers. The correlation is conditionally negative only when the probability of the economy being in a turbulent state is high. The conditional correlation is zero otherwise, which is two thirds of the time. Half of the negative value-momentum relation is due to leverage dynamics of stocks in the momentum strategy portfolio. The other half is due to a hidden risk factor, likely related to funding liquidity identified in Asness et al. (2013), which emerges only when the economy is more likely to be in the turbulent state.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/18169.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Hedge Effectiveness of the Credit Default Swap Indices: a Spectral Decomposition and Network Topology Analysis",
+            "abstract": "Abstract The hedge effectiveness of the credit default swap (CDS) indices is analyzed. Starting with the CDS eligible for inclusion in the indices, CDX.NA.IG, CDX.NA.HY, iTraxx Europe and iTraxx Xover, a credit portfolio construction algorithm is proposed. It is based on principal components for variable selection. The spectral decomposition defines a deletion criterion that selects alternative portfolios of CDS for comparison to the printed indices. Hedge back testing indicates that as few as 2 names can replicate the behavior of the traded index with volatility reductions of up to an order of magnitude. To understand this, the network topology of the CDS is then studied via hierarchical trees and an associated nested factor model. This shows a \u00e2\u0080\u0098market effect\u00e2\u0080\u0099 across the majority of CDS eligible for a specific index, which equates to low information content versus the broader market. The net result is that a small subset of credits captures the price action.",
+            "keywords": [
+                "Credit default swap index",
+                "CDX",
+                "iTraxx",
+                "Hedge effectiveness",
+                "Spectral decomposition",
+                "Principal component analysis",
+                "Network topology",
+                "Hierarchically nested factor model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kapcompec/v_3a60_3ay_3a2022_3ai_3a4_3ad_3a10.1007_5fs10614-021-10185-8.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The growing impact of US monetary policy on emerging financial markets: Evidence from India",
+            "abstract": "Much research has been devoted to studying the international spillover effects of US monetary policy. However, a lot of the focus has been on the recent unconventional monetary policies undertaken by the Federal Reserve. Combining high frequency financial market data with a time-varying parameter approach we show that US monetary policy decisions have had significant effects on the Indian stock markets well before the use of unconventional policy tools and that these effects have gotten stronger over time. In addition to the conventional channel of surprise changes in the policy rate, we find that US monetary shocks are also transmitted through an uncertainty channel, which is especially important for announcements about large scale asset purchases (quantitative easing). Using firm level stock prices, we also show that the higher sensitivity of the aggregate response is uniform across the stock market and is not driven by the increased exposure of any specific industry to US monetary policy. Instead, our results suggest that it is driven by the portfolio decisions of foreign institutional investors, the exchange rate becoming more sensitive to US monetary policy and the global financial cycle working through volatility and risk aversion.",
+            "keywords": [
+                "International transmission of U.S. monetary policy",
+                "Emerging stock markets",
+                "Foreign institutional investors",
+                "Quantitative easing",
+                "Monetary policy uncertainty"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejimfin/v_3a119_3ay_3a2021_3ai_3ac_3as0261560621001297.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Central bank information effects in Japan: the role of uncertainty channel",
+            "abstract": "Abstract This study identifies central bank information shocks and pure monetary policy shocks for Japan by combining high-frequency identification with sign restrictions. The empirical findings provide robust evidence of the central bank information effect in Japan. Specifically, the central bank\u00e2\u0080\u0099s optimistic outlook, conveyed through contractionary monetary actions, reduces economic uncertainty and leads to increases in stock prices and output. Additionally, changes in uncertainty play a significant role in the transmission of the central bank\u00e2\u0080\u0099s information effect. The overall impact of monetary policy and information shocks, as identified through our method, is found to be larger than that identified using conventional techniques such as Cholesky decomposition.",
+            "keywords": [
+                "Monetary policy",
+                "Information effect",
+                "High-frequency data",
+                "VAR model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprempeco/v_3a68_3ay_3a2025_3ai_3a2_3ad_3a10.1007_5fs00181-024-02656-2.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Optimized pairs-trading strategies in the cryptocurrencies market using genetic algorithms and cointegration",
+            "abstract": "Cryptoassets market is notoriously volatile and risky. In this context, marketneutral type strategies, such as pair-trading, may be relevant. In this article, we focus on the implementation of pair-trading strategies with a wide range of cryptoassets (209) over a period halved from 2021-08-01 to 2024-01-31. To carry out this study, we combine econometric and machine learning techniques to stand out from the existing literature. By using cointegration tests and error correction models, we identify a final sample of 229 pairs suitable for pair-trading strategies. Using a genetic algorithm and pair clustering, we test four strategies employing standard and optimized thresholds. The results highlight the existence of profitable cointegrating relationships and therefore short-term market inefficiencies in the cryptoassets market. Indeed, the best strategy identified in terms of risk-return couple, although it remains risky with a median maxdrawdown of 29%, delivers an average annual Sharpe ratio per pair of 1.53 over the backtesting period.",
+            "keywords": [
+                "Cryptoassets",
+                "Pair-trading",
+                "Cointegration",
+                "Error-correction models",
+                "Genetic algorithm",
+                "Bollinger bands",
+                "Short-term market inefficiencies"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/tutcremwp/2024-11.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Markovian analysis of U.S. Treasury volatility: Asymmetric responses to macroeconomic announcements",
+            "abstract": "Extensive is the literature supporting the announcement effect of the release of pre-scheduled macroeconomic news on U.S. Treasuries conditional moments; nevertheless, none of them considered possible asymmetric responses to these news arrival depending on the latent regimes characterizing the U.S. economy. Owing to the peculiar U.S. interest rate environment over the last 23 years, not allowing for stochastic-switching states even in the GARCH-class models may miss important volatility pattern. Hence, the therein model proposes the first partitioning of Treasuries excess returns in different regimes (normal, crash and low-rate) through hidden Markov chains to, only in a subsequent moment, apply a conditional volatility GARCH-class model augmented by dummy variables accounting for macroeconomic release days. The same model is then re-run to assess the explanatory power of U.S. Treasury auctions within volatility modeling. Results point to a statistically significant and asymmetric effects imparted by both prescheduled macroeconomic releases and new issuances on U.S. Treasury excess returns depending on both the regime and the securities\u00e2\u0080\u0099 maturities, while evidencing the very different characteristics of GARCH and ARCH coefficients depending on the regime.",
+            "keywords": [
+                "U.S. treasuries",
+                "Macroeconomic announcements",
+                "Asymmetric responses",
+                "Garch-class models",
+                "Markov chains",
+                "Volatility Dynamics",
+                "Treasury Auctions",
+                "State-Dependent Model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a239_3ay_3a2024_3ai_3ac_3as0165176524002064.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Maximum Likelihood Estimates of Regression Coefficients with alpha-stable residuals and Day of Week effects in Total Returns on Equity Indices",
+            "abstract": "This Paper summarizes the theory of Maximum Likelihood Estimation of regressions with alpha-stable residuals. Day of week effects in returns on equity indices, adjusted for dividends (total returns) are estimated and tested using this and traditional OLS methodology. I find that the alpha-stable methodology is feasible. There are some differences in the results from the two methodologies. The conclusion remains that if individual coefficients are of interest and the residuals have fat tails and a possible alpha-stable distribution, the results can be checked for robustness using methods such as those employed here.",
+            "keywords": [
+                "alpha stable distribution",
+                "regression",
+                "day of week effects"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/tcdtcduee/tep0108.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Shrinkage Estimation of Covariance Matrix for Portfolio Choice with High Frequency Data",
+            "abstract": "This paper examines the usefulness of high frequency data in estimating the covariance matrix for portfolio choice when the portfolio size is large. A computationally convenient nonlinear shrinkage estimator for the integrated covariance (ICV) matrix of financial assets is developed in two steps. The eigenvectors of the ICV are first constructed from a designed time variation adjusted realized covariance matrix of noise-free log-returns of rel- atively low frequency data. Then the regularized eigenvalues of the ICV are estimated by quasi-maximum likelihood based on high frequency data. The estimator is always positive definite and its inverse is the estimator of the inverse of ICV. It minimizes the limit of the out-of-sample variance of portfolio returns within the class of rotation-equivalent estimators. It works when the number of underlying assets is larger than the number of time series ob- servations in each asset and when the asset price follows a general stochastic process. Our theoretical results are derived under the assumption that the number of assets (p) and the sample size (n) satisfy p/n -> y > 0 as n -> 8. The advantages of our proposed estimator are demonstrated using real data.",
+            "keywords": [
+                "Portfolio Choice",
+                "High Frequency Data",
+                "Integrated Covariance Matrix",
+                "Shrinkage Function"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/rissmuesw/2016_5f014.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "FLIGHTS TO SAFETY",
+            "abstract": "We identify flight-to-safety (FTS) days for 23 countries using only stock and bond returns and a model averaging approach. FTS days comprise less than 2% of the sample, and are associated with a 2.7% average bond-equity return differential and significant flows out of equity funds and into government bond and money market funds. FTS represents flights to both quality and liquidity in international equity markets, but mainly a flight-to-quality in the US corporate bond market. Emerging markets, endowment funds, and hedge funds all perform poorly during FTS, while hedge funds appear to vary their systematic exposures prior to a FTS",
+            "keywords": [
+                "Flight-to-Safety",
+                "Flight-to-Quality",
+                "Stock-Bond Return Correlation",
+                "Liquidity",
+                "Hedge Funds"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/rugrugwps/19_2f968.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

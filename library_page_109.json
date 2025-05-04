@@ -1,0 +1,160 @@
+{
+    "page_info": {
+        "page_number": 109,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The short trading day anomaly",
+            "abstract": "The psychological literature indicates that people's mood affects their choices and judgments. We find that short trading days around holidays on the Tel Aviv Stock Exchange are accompanied by positive abnormal returns and reduced volatility in returns. This anomaly is evident in the main stock indices, as well as most of the economic sector indices. The anomaly seems to be size related, with small and mid-cap indices producing abnormal returns. In addition, the volatility index (VIX) during short trading days tends to be lower than on normal trading days. Our findings suggest that investors can benefit from using two simple trading strategies.",
+            "keywords": [
+                "Behavioral finance",
+                "Financial markets",
+                "Investor sentiment",
+                "Mood",
+                "Pre-holiday effect",
+                "Risk aversion",
+                "Short trading day",
+                "Stock returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a38_3ay_3a2016_3ai_3apa_3ap_3a62-80.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do industries lead stock markets? A reexamination",
+            "abstract": "Hong et al. (2007) report that a number of U.S. industry returns can forecast the stock market using monthly data. Reexamining their results with an extended period, 1946\u00e2\u0080\u00932013, and data, 48 industries, I find that only one to seven industries have significant predictive ability for the stock market, depending on the significance level (10% or 5%) and the model specifications used. However, I find some evidence of the opposite predictive direction from the stock market to industries. The stock market also performs better than industries in predicting economic growth. Using similar data, 34 industries, and period, 1946\u00e2\u0080\u00932002, as Hong et al., I find that the results are less significant after data revisions. My overall results are consistent with the efficient market hypothesis.",
+            "keywords": [
+                "Asset pricing",
+                "Financial markets and macroeconomy",
+                "Information and market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a34_3ay_3a2015_3ai_3ac_3ap_3a195-203.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do short sellers exploit industry information?",
+            "abstract": "This study provides new evidence about short sellers' trading strategies by showing that short sellers exploit firm information in combination with industry information in their trades. In industries with the highest aggregate shorted values, the most-shorted stocks earn about 1.535% lower abnormal returns than other highly shorted stocks in less shorted industries over the next six months. These results are likely driven by short sellers\u00e2\u0080\u0099 preference for complex industries with the highest profit potential. We also show that the aggregate shorted value at the industry level is able to predict important industry shifts, such as declines in sales and increased competition. Overall, our results suggest that short sellers help to reduce information complexity and improve economic efficiency at the industry level.",
+            "keywords": [
+                "Industry information",
+                "Industry restructuring",
+                "Pricing efficiency",
+                "Short selling"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a41_3ay_3a2017_3ai_3ac_3ap_3a118-139.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asymmetric attention and volatility asymmetry",
+            "abstract": "Analyzing a large sample of U.S. firms, we show that the asymmetry of stock return volatility is positively related to investor attention and differences of opinion. Using the number of analysts following a given firm to capture attention and the dispersion in analyst forecasts as a common proxy for differences of opinion, we show that the two effects are complementary. Furthermore, the effect of attention is strongest among stocks with low institutional ownership and high idiosyncratic volatility. Our results are robust to the traditional \u00e2\u0080\u009cleverage effect\u00e2\u0080\u009d explanation of volatility asymmetry. The findings relate to the previously documented relationship between attention and volatility and suggest that volatility asymmetry is driven by asymmetric attention.",
+            "keywords": [
+                "Volatility asymmetry",
+                "Leverage effect",
+                "Analysts",
+                "Investor attention"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a45_3ay_3a2018_3ai_3ac_3ap_3a59-67.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The profitability of low-volatility",
+            "abstract": "Low-risk stocks exhibit higher returns than predicted by established asset pricing models, but this anomaly seems to be explained by the new Fama-French five-factor model, which includes a profitability factor. We argue that this conclusion is premature given the lack of empirical evidence for a positive relation between risk and return. We find that exposure to market beta in the cross-section is not rewarded with a positive premium, regardless of whether we control for the new factors in the five-factor model. We also observe stronger mispricing for volatility than for beta, which suggests that the low-volatility anomaly is the dominant phenomenon. We conclude that the low-risk anomaly is not explained by the five-factor model.",
+            "keywords": [
+                "Low volatility",
+                "Low beta",
+                "Profitability",
+                "Betting against beta"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a43_3ay_3a2017_3ai_3ac_3ap_3a33-42.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Determinants of price discovery in the VIX futures market",
+            "abstract": "We utilize the respective information share and common factor component weight approaches of Hasbrouck (1995) and Gonzalo and Granger (1995) to examine price discovery competition between the VIX and VIX futures. Our results show that VIX futures prices play a dominant role in the overall process of price discovery. An increase in the price difference between the VIX and VIX futures, commonly referred to as the futures basis, causes a corresponding increase in the contribution to price discovery made by VIX futures. Our empirical results also show that news announcements on macro-economic issues in the United States increase the dominant role of VIX futures in the overall process of price discovery. This dominant role remains unchanged when compared to VIX exchange-traded products and the volatility indices on non-US equity exchange-traded funds.",
+            "keywords": [
+                "Price discovery",
+                "VIX",
+                "VIX futures",
+                "Futures basis",
+                "Information shares"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a43_3ay_3a2017_3ai_3ac_3ap_3a59-73.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Foreign institutions, local investors and momentum trading",
+            "abstract": "We study momentum and contrarian trading of foreign and local institutions as well as local individuals using a unique ownership dataset from the Australian stock market. We find that foreign institutions are momentum investors, whereas local investors are contrarians. However, momentum trading by foreign institutions is reversed during the Global Financial Crisis indicating that their trading behavior is time-varying. We further show that momentum trading by foreign institutions decreases following a period of low market return, high market illiquidity, high market volatility, or high volatility of the momentum portfolio. Also, momentum trading by foreign institutions predicts momentum profits. We show that the disposition effect partly explains the contrarian trading by local investors, suggesting that foreign institutions\u00e2\u0080\u0099 tendency to momentum trading cannot be solely attributed to their liquidity provision to local investors.",
+            "keywords": [
+                "Momentum trading",
+                "Investor behavior",
+                "Foreign investors",
+                "Individual investors",
+                "Local investors",
+                "Institutional investors",
+                "Investor types"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a73_3ay_3a2023_3ai_3ac_3ap_3a40-64.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Fundamental strength and short-term return reversal",
+            "abstract": "We document that the fundamental strength (FSCORE) of a firm exerts a significant influence on the performance of short-term reversal strategies. Past losers with strong fundamentals significantly outperform past winners with weak fundamentals. Our FSCORE approach is complementary to Da et al. (2014) cash flow news metrics based on analysts\u00e2\u0080\u0099 forecast revisions in that many firms do not have analyst following. Our approach also seems capable of capturing the lagged effects from past fundamental news shocks. After controlling for fundamental strength, we find that investor sentiment plays a more dominant role than do liquidity shocks in explaining return reversal.",
+            "keywords": [
+                "Short-term return reversal",
+                "Fundamental strength",
+                "Analyst forecast revision",
+                "Slow incorporation of information"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a52_3ay_3a2019_3ai_3ac_3ap_3a22-39.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Retail investor attention and herding behavior",
+            "abstract": "In this paper, we argue that when individual investors can obtain information from public resources such as Google search, the degree of investor attention to a particular underlying company is positively linked with herding behavior for retail investors. Empirical results confirm that Google Search Volume Index can be a proxy for the information demand of uninformed individual investors. Empirical evidence also shows that reaching the price limit generates an attention-grabbing effect. Further, in general, small cap firms generate more intensive individual investor herding. In addition, we explore the asymmetric impact of abnormal search volume index on individual investor herding behavior for bull and bear markets, and confirm that the individual investor buy herding phenomenon is stronger in bull markets, especially for small capitalization firms. In bear markets, with greater price deterioration for large cap firms, we detect herding behavior on the sell side.",
+            "keywords": [
+                "Investor attention",
+                "Information demand",
+                "Herding",
+                "Google search volume index"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a59_3ay_3a2020_3ai_3ac_3ap_3a109-132.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor target prices",
+            "abstract": "We argue that investors have target prices as anchors for the stocks that they own; once a stock exceeds target prices, investors are satisfied and more likely to sell the stock. This increased selling can generate a price drift after good news. Consistent with our argument, using analyst-target-price forecasts as a proxy, we provide evidence that the fraction of satisfied investors generates the post-earnings-announcement drift, and stocks with a high fraction of satisfied investors experience stronger selling around announcements. This pattern is stronger for stocks with low institutional ownership and high uncertainty.",
+            "keywords": [
+                "Investor target price",
+                "Fraction of satisfied investors",
+                "Price drift",
+                "Forward-looking anchor",
+                "Delayed adjustment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a54_3ay_3a2019_3ai_3ac_3ap_3a39-57.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Options trading imbalance, cash-flow news, and discount-rate news",
+            "abstract": "Using publicly available information on option volume totals, we develop new measures of directional option-to-stock (O/S) trading volume imbalance. The novel measures are strongly related to the cash-flow (CF) and discount-rate (DR) news components of unexpected stock returns and consistently predict future abnormal performance. While options markets respond more strongly to CF news than do equity markets, they still do not fully incorporate CF news into prices and therefore lead to returns predictability. This underreaction phenomenon is of smaller magnitude when the options market response is stronger and when short-sale constraints are less binding.",
+            "keywords": [
+                "Option volume",
+                "Cash-flow news",
+                "Underreaction",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a77_3ay_3a2024_3ai_3ac_3as0927539824000264.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The value of information in China\u00e2\u0080\u0099s connected market",
+            "abstract": "The paper studies the role of information in cross-border trading by using the Stock Connect as a novel laboratory. We present evidence that northbound investors have an additional informational advantage over domestic institutional investors regarding firm fundamentals. A long-short strategy earns an average weekly return of 0.34% after adjusting for the Chinese three-factor model. Furthermore, the information advantage of northbound investors is likely to work to a greater effect in asymmetric information environments. Additionally, northbound flows are useful in explaining the subsequent trading activities of domestic investors, which becomes more salient over time and among firms experiencing more attention-induced copycat trading.",
+            "keywords": [
+                "Copycats",
+                "Cross-border flows",
+                "Informed trading",
+                "Stock Connect"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a78_3ay_3a2024_3ai_3ac_3as0927539824000616.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

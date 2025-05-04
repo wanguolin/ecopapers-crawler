@@ -1,0 +1,152 @@
+{
+    "page_info": {
+        "page_number": 236,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Efficiency-Market Hypothesis: case of Tunisian and 6 \u00e2\u0080\u008eAsian stock markets \u00e2\u0080\u008e",
+            "abstract": "In this paper we test the weak form of the Efficient-Market Hypothesis (EMH) using monthly \u00e2\u0080\u008edata of stock prices for the period from 2010M01 to 2019M07 for seven markets (Tunindex) \u00e2\u0080\u008ein Tunisia and 6 Asian countries : Saudi Arabia (TSAI), Japon (Nikkei 225), China (SSEC), \u00e2\u0080\u008eTurkey (BIST100), India (BSE30), and Indonesia (JKSE) by using linear and nonlinear (KSS \u00e2\u0080\u008eand Modified KSS) unit root tests. Our empirical results indicate that the stock markets are \u00e2\u0080\u008eefficient [not efficient] in the weak form of EMH in Tunisia and Saudi Arabia [Japan, \u00e2\u0080\u008eTurkey, India, Indonesia, and China]. The major policy implications is that in these five \u00e2\u0080\u008ecountries (Japan, Turkey, India, Indonesia, and China), fund managers and investors can \u00e2\u0080\u008eenjoy excess returns to their investment. \u00e2\u0080\u008e",
+            "keywords": [
+                "Efficient-Market Hypothesis (EMH)",
+                "BDS test",
+                "Linear Unit root test",
+                "Nonlinear Unit root test, \u00e2\u0080\u008eTunisia and 6 Asian countries"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/103232.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can Canadian Stock market provide complete hedge against Inflation ?",
+            "abstract": "This study empirically assesses the relationship between inflation and stock return in Canadian stock market. The study has covered data for the period 1999 :M1\u00e2\u0088\u00922018 :M4 of canadian economy. Inflation has been decomposed to predicted and unpredicted phase by MA filter. First it has tested three hypothesis within static model : Fisher hypothesis, Fama and Schwert approach, and Fama\u00e2\u0080\u0099s proxy effect framework. These investigations support Fisher Hypothesis. It has showed that Canadian stock market provides a complete hedge against Inflation. Second, since relationships between Stock price and inflation may not be correctly specified in the static linear regression, linear and non linear autoregressive dynamic specification have been tested. ARDL and NARDL model with Expected inflation as regressor conclude that Stock price cannot be used as a hedge against inflation. Finding of NARDL precise that only partial sum of the negative changes in Expected inflation have significant effect on canadian stock market. Then inefficiency of the canadian stock market suggests that information on past values of inflation could provide opportunities for abnormal gains from the canadian stock market.",
+            "keywords": [
+                "Static model",
+                "Fisher hypothesis",
+                "Stock price",
+                "Expected inflation, cointegration, Dynamic model, ARDL, NARDL, symmetrie, asymmetrie."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/99093.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Discerning information from trade data",
+            "abstract": "How best to discern trading intentions from market data? We examine the accuracy of three methods for classifying trade data: bulk volume classification (BVC), tick rule and aggregated tick rule. We develop a Bayesian model of inferring information from trade executions and show the conditions under which tick rules or bulk volume classification predominates. Empirically, we find that tick rule approaches and BVC are relatively good classifiers of the aggressor side of trading, but bulk volume classifications are better linked to proxies of information-based trading. Thus, BVC would appear to be a useful tool for discerning trading intentions from market data.",
+            "keywords": [
+                "Trade classification",
+                "Bulk volume classification",
+                "Flow toxicity",
+                "Volume imbalance",
+                "Market microstructure"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a120_3ay_3a2016_3ai_3a2_3ap_3a269-285.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum Cycles and Limits to Arbitrage Evidence from Victorian England and Post-Depression US Stock Markets",
+            "abstract": "We evaluate the importance of \"Limits to Arbitrage\" to explain profitability of momentum strategies. Specifically, when the availability of arbitrage capital is in short supply, momentum cycles last longer, and breaks in momentum cycles are shorter. We demonstrate the robustness of our findings with a unique database of stock returns from1866-1907 London and the CRSP database. Momentum cycle durations are similar in both databases and all other momentum facts documented in the literature using the CRSP database hold for the Victorian period as well, except for the January reversal due to the absence of capital gains taxation.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/15591.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Natural disasters, investor sentiments and stock market reactions: Evidence from Turkey\u00e2\u0080\u0093Syria earthquakes",
+            "abstract": "This study provides stylised facts on the relationships between natural disasters, investor sentiments and market performance using the recent Turkey\u00e2\u0080\u0093Syria earthquakes. We employ daily stock market data relating to Turkey\u00e2\u0080\u0099s 21 major trading partners and find significant negative impact of the disaster on the sampled countries\u00e2\u0080\u0099 stock market returns, particularly for countries near Turkey.",
+            "keywords": [
+                "Earthquake",
+                "Investor sentiment",
+                "Stock market",
+                "Turkey\u00e2\u0080\u0093Syria",
+                "Trading partners"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a228_3ay_3a2023_3ai_3ac_3as0165176523001787.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Crash Risk in Currency Markets",
+            "abstract": "How much of carry trade excess returns can be explained by the presence of disaster risk? To answer this question, we propose a simple structural model that includes both Gaussian and disaster risk premia and can be estimated even in samples that do not contain disasters. The model points to a novel estimation procedure based on currency options with potentially different strikes. We implement this procedure on a large set of countries over the 1996-2008 period, forming portfolios of hedged and unhedged carry trade excess returns by sorting currencies based on their forward discounts. We find that disaster risk premia account for about 25% of expected carry trade excess returns in advanced countries.",
+            "keywords": [
+                "Carry trade",
+                "Currency crisis",
+                "Currency options",
+                "Disaster risk",
+                "exchange rate",
+                "Financial crisis"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/7322.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Federal reserve private information and the stock market",
+            "abstract": "We study the response of stock prices to monetary policy, distinguishing effects of exogenous shocks from \u00e2\u0080\u009cDelphic\u00e2\u0080\u009d shocks that reveal the Federal Reserve\u00e2\u0080\u0099s macroeconomic forecasts. To decompose monetary policy surprises into these separate components we construct a measure of Federal Reserve private information that exploits differences in central bank and market forecasts. Contractionary policy shocks of either type lower stock prices with exogenous shocks having a larger negative effect. There is some suggestive evidence of an asymmetry; when FOMC meetings are unscheduled or when the fed funds rate reverses direction, stock prices rise in response to a contractionary Delphic shock.",
+            "keywords": [
+                "Monetary policy shocks",
+                "Stock prices",
+                "Federal reserve private information"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a106_3ay_3a2019_3ai_3ac_3ap_3a34-49.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "NFTs, DeFi, and other assets efficiency and volatility dynamics: An asymmetric multifractality analysis",
+            "abstract": "This paper examines the efficiency and asymmetric multifractal features of NFTs, DeFi, cryptocurrencies, and traditional assets using Asymmetric Multifractal Cross-Correlations Analysis covering the period from November 2017 to February 2022. Considering the full sample with a significant variation among asset classes, the study reveals DeFi-DigiByte is the most efficient while the cryptocurrency-Tether is the least efficient. However, S&P 500 showed high efficiency before COVID-19, and DeFi-Enjin Coin advanced as the most efficient asset during COVID-19. The volatility dynamics of NFTs, DeFi, and cryptocurrencies follow strong nonlinear cross-correlations, but evidence of weaker nonlinearity exists in traditional assets. Additionally, the sensitivity to smaller events in bull markets is high for NFTs and DeFi. The findings have significant implications for portfolio diversification when an investor's portfolio set includes traditional assets and cryptocurrency and relatively new blockchain-based assets like NFTs and DeFi.",
+            "keywords": [
+                "NFTs",
+                "DeFi",
+                "Non-fungible tokens",
+                "Asymmetric multifractal analysis",
+                "MF-DFA",
+                "A-MFDFA",
+                "Cryptocurrencies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a87_3ay_3a2023_3ai_3ac_3as1057521923001588.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The insider trading problem in a jump-binomial model",
+            "abstract": "Abstract We study insider trading in a jump-binomial model of the financial market that is based on a marked binomial process and that serves as a suitable alternative to some classical trinomial models. Our investigations focus on the two main questions: measuring the advantage of the insider\u00e2\u0080\u0099s additional information and stating a closed form for her hedging strategy. Our approach is based on the results of enlargement of filtration in a discrete-time setting stated by Blanchet-Scalliet and Jeanblanc (in: From probability to finance, Springer, Berlin, 2020) and on a stochastic analysis for marked binomial processes developed in the companion paper (Halconruy in Electron J Probab 27:1\u00e2\u0080\u009339, 2022). Our work provides in a discrete-time and an incomplete market setting the analogues of some results of Amendinger et al. (Stoch Process Appl 89(1):101\u00e2\u0080\u0093116, 2000; Finance Stoch 7(1):29\u00e2\u0080\u009346, 2003), Imkeller et al. (1998, 2006) and extends in an insider framework some utility maximization results stated in Delbaen and Schachermayer (The mathematics of arbitrage, Springer, Berlin, 2006) and in Runggaldier et al. (in: Seminar on stochastic analysis, random fields and applications III, Springer, Berlin, 2002).",
+            "keywords": [
+                "Insider trading",
+                "Trinomial model",
+                "Enlargement of filtrations",
+                "Malliavin\u00e2\u0080\u0099s calculus",
+                "Utility maximization"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprdecfin/v_3a46_3ay_3a2023_3ai_3a2_3ad_3a10.1007_5fs10203-023-00412-2.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Measuring the Financial Markets' Perception of EMU Enlargement: The Role of Ambiguity Aversion",
+            "abstract": "Market views on EMU enlargement are measured by a new indicator based on the short-term dynamics of forward spreads. Conceptually, this indicator stems from the notion of uncertainty averse agents and equilibrium indeterminacy. The method was applied on data from central European countries, including the Czech Republic, Hungary, Poland and Slovakia. Comparing our results with financial market opinion surveys, the results of the proposed method seems to be in accordance with market expectations.",
+            "keywords": [
+                "Ambiguity aversion",
+                "EMU calculators",
+                "EMU Enlargement",
+                "EMU Poll",
+                "forwards",
+                "uncertainty."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cnbwpaper/2007_2f13.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Expected downside risk and asset prices: characteristics of emerging and developed European markets",
+            "abstract": "Abstract This paper discusses an empirical analysis of the expected downside risk based asset-pricing model on Central and Eastern European and developed Western European markets. The investigated risk measure applies a nonparametric approach that allows getting rid of any assumption on the distribution of returns, moreover, as presented in this paper, captures risk and expected return with superior performance. Furthermore, we also show that dollar-denominated returns often indicate a better fit than regressions in local currency suggesting that international capital inflow does play an important role in asset prices. This latter finding is particularly significant on Developed European capital markets, which is in contradiction with the belief of international investors having a greater influence on emerging markets compared to developed ones.",
+            "keywords": [
+                "Expected downside risk",
+                "EDR",
+                "Asset pricing",
+                "Emerging markets",
+                "Dollar-denominated return"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kapempiri/v_3a44_3ay_3a2017_3ai_3a3_3ad_3a10.1007_5fs10663-016-9329-3.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of ETFs in secondary asset markets: Experimental evidence",
+            "abstract": "We examine how exchange traded funds (ETFs) affect asset pricing, and turnover in a laboratory asset market. We focus on behavior in secondary markets with or without ETF assets and whether there is zero or negative correlation in asset dividends. In the latter case, the diversification benefits of ETFs are most salient. We find that when the dividends are negatively correlated, ETFs reduce asset mispricing without decreasing market activity (turnover). When dividends are uncorrelated, the ETF has no impact on these same measures. Thus, our findings suggest that ETFs do not harm, and may in fact improve, price discovery and liquidity in asset markets.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/eeejeborg/v_3a188_3ay_3a2021_3ai_3ac_3ap_3a674-696.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

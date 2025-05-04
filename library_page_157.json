@@ -1,0 +1,156 @@
+{
+    "page_info": {
+        "page_number": 157,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Cross-Sectional Variation in Stock Returns: Evidence from an Emerging Market",
+            "abstract": "Fama and French (1992) reported that the two fundamental factors, size and book-to-market (BM) explains the cross-sectional variation in stock returns and the relationship between beta and average returns is flat. This study reports the market risk as the most significantly priced factor for Pakistan?s stocks. Investors in Pakistan?s equity market are compensated for the size, BM and momentum factors, but the relationship between risk and return as given by Capital Asset Pricing Model (CAPM) is strong and remains powerful even with the addition of size, BM and momentum factors. The significant role of beta reported for Pakistan?s stocks justifies the use of CAPM in stock valuation.",
+            "keywords": [
+                "Market Beta",
+                "Size",
+                "BM Ratio",
+                "Momentum",
+                "Pakistan Stock Exchange."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/sekiefpro/4807087.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Empirical Analysis of Herd Behavior in Borsa Istanbul",
+            "abstract": "Behavioral finance is a field that has grown toward the end of 20th century as a reaction to the efficient market hypothesis. This new field studies the effect of investor psychology on financial decisions and explains stock market anomalies in financial markets. Herding is such an anomaly that is defined as mimicking others? decisions or market trend. The aim of the study is to detect whether there is herding or not in Borsa Istanbul. To test the existence of herding, stock returns traded on Borsa Istanbul and BIST 100 Index as market indicator are used. Data covers daily returns from 1988 to 2014 and intraday returns from 1995 to 2014. Firstly, herding is analyzed based on the methodology of cross-sectional dispersion of the stocks developed by Christie and Huang (1995) and Chang, Cheng and Khorana (2000). The results indicate that there is no herding for both up and down markets for daily and intraday intervals in Borsa Istanbul. However, tendency of herding is higher in up markets. To enhance and compare the results, the methodology based on the cross-sectional volatility of beta coefficients suggested by Hwang and Salmon (2004) is used. This methodology has provided evidence of herding in Borsa Istanbul. It is also observed that investors follow the market trend more in session two markets rather than session one markets. Thus, it is concluded that investors imitate the others more under normal market conditions rather than noisy market conditions. These results are consistent with the assumptions of Hwang and Salmon (2004).",
+            "keywords": [
+                "Behavioral Finance",
+                "Herd Behavior",
+                "Borsa Istanbul",
+                "Cross-Sectional Dispersion."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sekjijoes/v_3a4_3ay_3a2015_3ai_3a4_3ap_3a27-52.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The application of Value at Risk and Expected Shortfall as Controlling Mechanism of Systematic Risk of Pakistani Stock Market",
+            "abstract": "Fama and French (1992) three factor and Fama and French (2014) five-factor Model estimated relevant idiosyncratic factors and CAPM beta as the systematic risk factor for stock returns? variations. Application of Value at Risk (VaR) and Expected Shortfall (ES) modified the risk management criteria. This study applies traditional one factor, three factor and five factor model on Pakistan?s manufacturing companies. Compares and modifies the stated models while using VaR and ES as systematic risk factor and check the robustness of the significant extent of worst expected loss provided by VaR and ES by measuring 95% and 99% confidence levels and their impact on the stock returns. In comparison with traditional market risk factor, our findings are in favor of VaR and ES factor as it significantly affects the cross-sectional of excess stock returns and fulfills the criteria of risk aversion.",
+            "keywords": [
+                "Value at Risk",
+                "Expected Shortfall",
+                "Fama and French Three Factor Model",
+                "Five Factor Model",
+                "Systematic Risk",
+                "Idiosyncratic Risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/sekiefpro/7108551.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Performance of Actively and Passively Managed Swiss Equity Funds",
+            "abstract": "Using a Switzerland-specific Carhart (1997) model, we study the risk-adjusted performance of actively and passively managed mutual funds investing in Swiss stocks from 1989 to 2007. We also compare the performance of actively managed funds to passively managed funds instead of comparing them to a theoretical index. For a sample of 160 funds with 13\u00e2\u0080\u0099672 monthly observations we find that active as well as passive funds significantly underperform indices on an aggregated basis. However, active large-cap funds significantly underperform and active Small-&Mid-Cap-funds significantly outperform the index. Further, we find that the average manager of an active Swiss equity fund systematically overweights small-cap, value, and low-momentum stocks. When directly comparing active to passive funds, active funds significantly underperform by -1.1% p.a. on average. While active institutional funds can almost keep up with the performance of passive funds, active retail funds cannot and drive the substantial underperformance observed for active funds. Finally, active funds perform better before the millennium than thereafter. This robust result supports the hypothesis of ongoing efficiency increases in the Swiss stock market.",
+            "keywords": [
+                "Mutual Funds",
+                "Index Funds",
+                "Carhart",
+                "Performance",
+                "Switzerland"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sesarsjes/2009-i-1.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock market predictability: Non-synchronous trading or inefficient markets? Evidence from the National Stock Exchange of India",
+            "abstract": "Purpose: The main objective of this study is to obtain new empirical evidence on non-synchronous trading effects through modelling the predictability of market indices. Design / Methodology / Approach: We test for lead-lag effects between the Indian Nifty and Nifty Junior indices using Pesaran-Timmermann tests and Granger-Causality. We then propose a simple test on overnight returns, in order to infer whether the observed predictability is mainly attributable to non-synchronous trading or some form of inefficiency. Findings: The evidence suggests that non-synchronous trading is a better explanation for the observed predictability in the Indian stock market. Research limitations / implications: The indication that non-synchronous trading effects become more pronounced in high-frequency data, suggests that prior studies using daily data may underestimate the impacts of non-synchronicity. Originality / value: The originality of the paper rests on various important contributions: (a) we look at overnight returns to infer whether predictability is more attributable to non-synchronous trading or to some form of inefficiency, (b) we investigate the impacts of non-synchronicity in terms of lead-lag effects rather than serial correlation, and (c) we use high-frequency data which gauges the impacts of non-synchronicity during less active parts of the trading day.",
+            "keywords": [
+                "Non-Synchronous Trading",
+                "Stock Markets",
+                "National Stock Exchange of India",
+                "Granger-Causality",
+                "Pesaran-Timmermann test."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/95302.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "How Do Volatility and Return Series Interact?",
+            "abstract": "Literature in the last forty years is swamped with a myriad of studies on the relationshipbetween asset returns and volatility. Although the correlation between these two variablesis already well-documented, our knowledge regarding their causal relationship remains limited. This study formally investigates the true dynamic relationship between the VIX implied volatility index and the S&P500 returns. Innovation accounting results indicate strong influence of S&P500 returns on VIX but not vice versa. Plus, unexpected S&P500 losses tend to increase VIX temporarily, while return shocks in general have permanent impact on VIX in the adverse direction of the shock.",
+            "keywords": [
+                "Volatility feedback hypothesis",
+                "Leverage effect",
+                "Endogeneity"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/104687.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Applying the Support Vector Machine for Testing Pricing Inefficiency on the Stock Exchange of Mauritius",
+            "abstract": "A popular Machine Learning Technique called the Support Vector Machine (SVM) is adopted on the Stock Exchange of Mauritius (SEM) to determine if stock market returns are predictable based on information from past prices, allowing arbitrage opportunities for abnormal profit generation. The serial correlation test, used as benchmark, and the SVM technique show evidence that previous information on share prices as well as the indicators constructed are useful in predicting share price movements. The implications of the study are that investors have the prospect of adopting speculative strategies and profits from trading based on information and advanced techniques and models are possible.",
+            "keywords": [
+                "support vector machine",
+                "arbitrage pricing theory"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rfaaefjnl/v_3a6_3ay_3a2019_3ai_3a5_3ap_3a177-192.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Long-run price performance of local and dual class IPOs in alternative investment market",
+            "abstract": "Earlier studies document that IPOs are underpriced in the short-run and underperformed in the long-run. In almost all studies, researchers analyze the IPO performance using the dataset from highly liquid markets. However, the pricing behavior of IPOs in the Alternative Investment Market (AIM) is different. There is a reason to expect the price performance of IPOs in the AIM to be significantly different from IPO performance in traditional markets mainly because of the diminished liquidity of AIM offerings as well as the meager disclosures required in comparison to traditional markets. To test our propositions, we select 292 IPOs listed on AIM during the period between 2001 and 2016 and apply the Extreme Bound Analysis (EBA) to determine the factors that cause longer-term performance. This study reports that investors in the alternative markets earn significant positive returns if the stock is held for three years, and the price variation is dependent upon the firm size. This illustrates that investment in small-sized firms seems more profitable as compared to those of large-sized firms in the AIM. Moreover, this study examines statistical evidence bearing on the question of whether early investors in IPOs can expect abnormal excess returns in the long-run.",
+            "keywords": [
+                "IPOs",
+                "long-run price performance",
+                "extreme bounds analysis",
+                "alternative investment market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rfezbefri/v_3a38_3ay_3a2020_3ai_3a1_3ap_3a71-100.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dynamics of Symmetric Informed Trading and Order Flow Shock at Tehran Exchange Stock: A Hidden Markov Model Approach",
+            "abstract": "This paper aiming to accurately estimate the dynamic measures of trades stemming from information asymmetry and diverse opinions among investors. For this purpose, we estimated the daily measures of probability of informed trading (PIN) and symmetric-order flow shock (PSOS) 32 Tehran Stock Exchange (TSE) stocks belonging to 11 industries of TSE during the period from 2015 to 2018. PIN is an indicator of asymmetric information risk and PSOS indicating diverse opinions among investors whose variations and intensity play an important role in price formation and stock liquidity. Results indicate that the minimum and maximum values of PIN and PSOS indices are significantly different from their annual and four-year average. Accordingly, information risk varies remarkably along time and there is a substantial need to use dynamic models to study this risk. In most stocks that have higher market value experience less risks of asymmetric information and diverse opinions shocks than other stocks. Entirely, it appears that the average and the maximum of information risk and diverse opinions shocks at TSE are higher than in developed markets. Also, exchange rate shock in 2018 in Iran considerably increased diverse opinions on petrochemical and metal industries.",
+            "keywords": [
+                "Informed Trading",
+                "Symmetric Order Shock",
+                "Microstructure Model",
+                "Hidden Markov Model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risqjatoe/0217.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does Innovation Explain the Skewness of Stock Returns?",
+            "abstract": "This paper investigates the impact of firm-level innovation on the skewness of stock returns. Using data on a broad sample of equities from the major US stock exchanges, we find that innovative companies exhibit strong positive skewness. Our results are robust to both input and output measures of innovation as we find that increases in both firm-level research and development expenditure (R&D), as well as the number of patents, are positively associated with future stock return skewness. Our results hold using both systematic and idiosyncratic measures of skewness while controlling for various stock characteristics, time, and industry-fixed effects.",
+            "keywords": [
+                "R&D",
+                "Skewness",
+                "Innovation",
+                "Patents"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risambsrv/0036.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Global Component of Sentiment in Futures Markets: Evidence from Covid-19 Pandemic",
+            "abstract": "We examine the impact of the global component of sentiment on the price return and volatility of 25 major futures market indices across the globe, during the Covid-19 pandemic. The global component of sentiment causes investor overreactions. These overreactions accelerate the fall in prices and contribute to the rising volatility levels. The futures prices revert, though gradually, to their fundamental values as information from more reliable sources becomes available. This leads to price recovery and lower volatility levels.",
+            "keywords": [
+                "Global Sentiment",
+                "Coronavirus",
+                "Covid-19",
+                "Futures markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risambsrv/0083.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Relation Between Trading Volume and Return Volatility: Evidence from Borsa Istanbul",
+            "abstract": "This study investigates the relationship between volume and volatility in the context of the Mixture of Distribution Hypothesis (MDH) and Sequential Information Arrival Hypothesis (SIAH) with respect to company size in Borsa Istanbul (BIST). Employing the generalized method of moments (GMM) method and granger causality tests, we find statistical evidence supporting the MDH for large-cap stocks, whereas we document no evidence of contemporaneous interaction between volume and volatility for mid-cap and small-cap stocks. This suggests that the dissemination of information in the stock market appears to be primarily through large firms. Our findings for large cap stocks have not changed across economic states. In terms of SIAH, for the stocks of companies of any size, we document uni-directional causality running from volatility to volume but not the other way around which is not consistent with the SIAH. However, we find supporting evidence of the SIAH for large cap stocks during the expansion periods.",
+            "keywords": [
+                "Mixture of Distribution Hypothesis (MDH)",
+                "Sequential Information Arrival Hypothesis (SIAH)",
+                "Trading Volume",
+                "Return Volatility",
+                "Granger Causality",
+                "GMM"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risbuecrj/0614.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

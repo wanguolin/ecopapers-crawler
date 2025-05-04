@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 39,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The skewness of commodity futures returns",
+            "abstract": "This article studies the relation between the skewness of commodity futures returns and expected returns. A trading strategy that takes long positions in commodity futures with the most negative skew and shorts those with the most positive skew generates significant excess returns that remain after controlling for exposure to well-known risk factors. A tradeable skewness factor explains the cross-section of commodity futures returns beyond exposures to standard risk premia. The impact that skewness has on future returns is explained by investors\u00e2\u0080\u0099 preferences for skewness under cumulative prospect theory and selective hedging practices.",
+            "keywords": [
+                "Skewness",
+                "Commodities",
+                "Futures pricing",
+                "Selective hedging"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a86_3ay_3a2018_3ai_3ac_3ap_3a143-158.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dealing with dealers: Sovereign CDS comovements",
+            "abstract": "We show that sovereign CDS that have common dealers tend to be more correlated, especially when the dealers display similar quoting activity in those contracts over time. This commonality in dealers\u00e2\u0080\u0099 activity is a powerful driver of CDS return comovements, over and above fundamental similarities between countries, including default, liquidity, and macro factors. We posit that the mechanism causing the excess correlation is the buying pressure faced by CDS dealers for credit enhancements and regulatory capital reliefs. An instrumental variable analysis helps alleviate the endogeneity concerns in our analysis.",
+            "keywords": [
+                "Sovereign CDS",
+                "Comovements",
+                "Commonalities",
+                "Dealers"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a90_3ay_3a2018_3ai_3ac_3ap_3a96-112.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Idiosyncratic volatility: An indicator of noise trading?",
+            "abstract": "We investigate the market efficiency implications of firm-specific return variation measured by absolute idiosyncratic volatility. We find that the absolute idiosyncratic volatility (the variance of the residual from an asset-pricing model) displays a positive and robust relationship to mispricing, which reflects an increasing role of noise traders. Previous literature has produced similar \u00e2\u0080\u0093 or opposing \u00e2\u0080\u0093 results. We deepen our understanding of the previous conflicting results by showing that (1) market volatility by itself is associated with mispricing, (2) absolute idiosyncratic volatility is associated with mispricing even when controlling for market volatility, (3) the strength of the association between absolute idiosyncratic volatility and mispricing depends on the level of market volatility, and (4) absolute and relative measures of idiosyncratic volatility have opposing associations with mispricing. Our findings contribute to the existing literature by reconciling the mixed results for the relationship between idiosyncratic volatility and mispricing displayed in the previous literature.",
+            "keywords": [
+                "Idiosyncratic volatility",
+                "Market volatility",
+                "Equity mispricing",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a75_3ay_3a2017_3ai_3ac_3ap_3a136-151.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Q-theory, mispricing, and profitability premium: Evidence from China",
+            "abstract": "Using various empirical measures, we find that, in China, firms with high profitability generate substantially higher future stock returns than those with low profitability. This positive effect of profitability on expected returns is robust to controlling for other firm characteristics and risks. We show that the profitability premium is stronger among firms with low investment friction, which is consistent with the implications of investment-based q-theory asset pricing models. However, the premium is not stronger among firms with high limits to arbitrage, contradicting behavioral mispricing explanations.",
+            "keywords": [
+                "Profitability premium",
+                "Chinese stock market",
+                "Investment frictions",
+                "Q-theory",
+                "Mispricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a87_3ay_3a2018_3ai_3ac_3ap_3a135-149.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Distilling liquidity costs from limit order books",
+            "abstract": "This paper proposes a method to compute ex-ante trading costs at the intraday level from limit order books. Using nearly 500 of the largest traded companies in the NYSE ArcaBook, we show that these costs have nontrivial intraday dynamics, are negatively related to volume and positively related to volatility. When ex-ante trading costs are incorporated into price impact specifications, the results show that this measure provides relevant information about price changes of the market at a high frequency level. Our evidence suggest that ex-ante trading costs constitute a new source of information for the study of intraday liquidity.",
+            "keywords": [
+                "Intraday liquidity",
+                "Limit order books",
+                "Price impact",
+                "Price formation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a94_3ay_3a2018_3ai_3ac_3ap_3a16-34.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Robust trading for ambiguity-averse insiders",
+            "abstract": "In an asset market with explicit trading rules we characterize the trading activity of an ambiguity-averse insider who faces Knightian uncertain over other market participants\u00e2\u0080\u0099 beliefs and implements a robust trading strategy. Such insider employs a max-min choice mechanism, so that in any round of trading she selects as her market order that which maximizes her expected profits against those market beliefs which penalize her most. Her trading strategy is equivalent to that of a risk-averse insider who does not face any Knightian uncertain and possesses risk-sensitive recursive preferences. As she finds it optimal to trade more aggressively and reveal her private information at a faster pace than her risk-neutral (expected-profit maximizer) counterpart, we find that ambiguity-aversion is beneficial to the efficiency of the market.",
+            "keywords": [
+                "Insider trading",
+                "Market efficiency",
+                "Robust trading",
+                "Ambiguity-aversion",
+                "Risk-aversion"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a90_3ay_3a2018_3ai_3ac_3ap_3a113-130.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sector spillovers in credit markets",
+            "abstract": "Cross-sector volatility spillovers can both threaten the financial stability of credit markets and the diversification of a credit bond portfolio. In this article, we measure cross-sector volatility spillovers, casting light on their intensity in the US-denominated investment grade bond universe. We find that volatility spillovers are high in the US credit market and that the insurance, goods and energy sectors have been net contributors to these shocks over the 1996\u00e2\u0080\u00932017 period. A structural analysis of the spillover history based on a three-regime multivariate VAR Markov Switching model is then proposed. It highlights that with different volatility regimes come different volatility spillover structures: the insurance and goods sectors are volatility spillover sources during crisis periods. However, according to our estimates a large portion of spillovers are non-recurring and therefore difficult to anticipate.",
+            "keywords": [
+                "Credit spreads",
+                "Volatility spillovers",
+                "Credit sectors",
+                "Connectedness",
+                "Systemic risk",
+                "Markov switching",
+                "VAR"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a94_3ay_3a2018_3ai_3ac_3ap_3a267-278.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The short-selling skill of institutions and individuals",
+            "abstract": "Using market-wide data from the Brazilian stock lending market at the deal level, we find strong evidence of short-selling skill for institutions and individuals. Skilled short-sellers present out-of-sample performance persistence. Exploring the granularity of our dataset, we find that skilled short-sellers do not display the disposition effect, are more likely to pick value, liquid, high-volatility, and losing stocks, and to initiate a short position before earnings announcements and around sell recommendations.",
+            "keywords": [
+                "Short-selling",
+                "Skilled investors",
+                "Out-of-sample performance",
+                "Short-term momentum",
+                "Disposition effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a101_3ay_3a2019_3ai_3ac_3ap_3a77-91.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A comprehensive appraisal of style-integration methods",
+            "abstract": "The paper provides a comprehensive appraisal of style-integration methods in equity index, fixed income, currency, and commodity futures markets. We confront the na\u00c3\u00afve equal-weight integration (EWI) method with a host of \u00e2\u0080\u0098sophisticated\u00e2\u0080\u0099 style-integrations that derive the style exposures using past data according to utility maximization, style rotation, volatility timing, cross-sectional pricing, style momentum or principal components criteria. The analysis, conducted separately per futures market and cross-markets, reveals that the EWI portfolio is unrivalled in terms of risk-adjusted performance while it sustains a relatively low turnover. The findings are robust to analyses that entertain variants of the sophisticated integrations, longer estimation windows, several asset scoring schemes, data snooping tests, sub-periods evaluation and equities in place of futures.",
+            "keywords": [
+                "Style integration",
+                "Futures markets",
+                "Long-short asset allocation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a105_3ay_3a2019_3ai_3ac_3ap_3a134-150.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Total attention: The effect of macroeconomic news on market reaction to earnings news",
+            "abstract": "We show evidence that consistent with category-learning behavior, investors allocate more attention to macroeconomic news than to firm-specific news, such as earnings announcements. Despite the distracting effect of macroeconomic news on investor attention, we find that earnings announcements with concurrent macroeconomic news announcements actually have significantly stronger immediate market response and weaker post-earnings announcement drift. We hypothesize that the combined total attention to macroeconomic news and earnings announcements helps investors understand both the systematic and firm-specific components of earnings surprises. Consistent with the hypothesis, our results show that the macroeconomic news effect is mainly driven by firms with high exposure to macroeconomic news. Moreover, we show that the effect is stronger when macroeconomic news contains more information and for firms with greater information uncertainty. Finally, we provide evidence that macroeconomic news helps reduce stock return uncertainty and enhance stock price efficiency.",
+            "keywords": [
+                "Earnings announcement",
+                "Macroeconomic news announcement",
+                "Market reaction",
+                "Limited investor attention",
+                "Category-learning behavior"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a97_3ay_3a2018_3ai_3ac_3ap_3a142-156.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do investors follow the herd in option markets?",
+            "abstract": "We investigate the previously unexplored herding behaviour of investors in option markets, by examining equity option contracts traded in the US between 1996 and 2012. We document strong herding effects in option trading activity that are conditional on a set of systematic factors related to periods of market stress. More specifically, we find that option investors tend to herd during periods of high market volatility risk, on dates of macroeconomic announcements, during the financial crisis of 2008, when a large number of market option positions is either opened or closed, and during periods of a large average dispersion of analysts\u00e2\u0080\u0099 forecasts.",
+            "keywords": [
+                "Herding",
+                "Cross-sectional dispersion",
+                "Options"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a119_3ay_3a2020_3ai_3ac_3as0378426616000406.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "I am a blockchain too: How does the market respond to companies\u00e2\u0080\u0099 interest in blockchain?",
+            "abstract": "We investigate the price reaction of listed companies in response to blockchain-related announcements. The average abnormal return based on a global sample of 713 firm announcements is approximately 5% on the announcement day, with significantly higher returns for U.S. firms, smaller firms and announcements in late 2017 and early 2018. We show that abnormal returns are linked to the performance of bitcoin. Additionally, speculative announcements exhibit higher returns than non-speculative announcements, and blockchain-related Form 8-K disclosures have negligible difference in performance compared to their U.S. peers. Whilst we acknowledge the possibility of a latent variable that affects both the abnormal returns and the performance of bitcoin, we hypothesise that investors have confused bitcoin and blockchain, and used the performance of bitcoin as an indicator of the expected success of the blockchain technology.",
+            "keywords": [
+                "Blockchain",
+                "Bitcoin",
+                "Announcement",
+                "Event study",
+                "Investor attention"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a113_3ay_3a2020_3ai_3ac_3as0378426620300078.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "page_info": {
+        "page_number": 164,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "THE MOMENTUM EFFECT IN THE CHILEAN STOCK MARKET",
+            "abstract": "The Momentum effect is a capital market puzzle. International evidence has found anomalies that market efficiency-based explanations have been so far unable to explain. If it is pervasive, the Momentum effect should be present in the Chilean market as well. From the perspective of the existing literature, this is an out-of-sample test of the effect and thus constitutes our main motivation. This paper mainly follows the methodology proposed by Jegadeesh and Titman (1993, 2001) and finds a strong presence of the momentum effect. Ignoring transaction costs, trading strategies consisting of buying past winners and selling past losers, earn significant abnormal returns in the period July 1991 - September 2008. We also study possible empirical regularities in this behavior, finding non discernible patterns in performance. Nonetheless, such patterns arise in terms of persistence: aggregate economic shocks affect the profit levels from a Momentum-based strategy but do not affect its statistically significant presence throughout the business cycle.",
+            "keywords": [
+                "Asset pricing",
+                "market efficiency",
+                "momentum",
+                "trading strategies",
+                "emerging markets",
+                "Chile"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/pchabante/v_3a12_3ay_3a2014_3ai_3a1_3ap_3a1-32.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Tests for Abnormal Returns in the Presence of Event-Induced Cross-Sectional Correlation",
+            "abstract": "We introduce a spatial autoregressive model for cross-sectional correlation of abnormal returns. In the model the abnormal returns of firms in the same industry are correlated, whereas the abnormal returns of firms in different industries are uncorrelated. Tests for abnormal returns which are robust to event-induced cross-sectional correlation are proposed. We apply our tests to U.S. stock returns from Bear Stearns\u00e2\u0080\u0099 collapse and Lehman Brothers\u00e2\u0080\u0099 bankruptcy in 2008. We document evidence of event-induced cross-sectional correlation. Simulations show that tests which estimate the cross-sectional correlation from the event period have size close to the nominal level.",
+            "keywords": [
+                "abnormal return",
+                "cross-sectional correlation",
+                "event study",
+                "spatial autoregressive model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/oupjfinec/v_3a15_3ay_3a2017_3ai_3a2_3ap_3a286-301..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Testing the Monthly Calendar Anomaly of Stock Returns in Pakistan: A Stochastic Dominance Approach",
+            "abstract": "In this paper, we first examine the presence of monthly calendar anomaly in Pakistan Stock Exchange (PSX) using aggregate and firm-level monthly stock returns. Secondly, we classify the sample firms into low-beta, medium-beta, and high-beta firms to examine the monthly anomaly of stock returns for firms having different level of systematic risk. By considering the stochastic dominance approach (SDA), we employ the simulation based method of Barrett and Donald (2003) to identify the dominant month over the period from January 2000 to December 2017. We find significant evidence of the existence of the January effect in both firm and market stock returns. We also find that the January effect exists more prominently in both low-risk and high-risk firms categorised based on their systematic risk. On the other end of the continuum, for moderately risky firms, there is strong evidence of the presence of the December effect. One of possible explanations of the January effect is the yearend bonus received in the month of January. Such bonuses are generally used to purchase stocks, causing the bullish trend of stock prices in January. However, the evidence of the January anomaly in both low-beta and high-beta portfolios returns is puzzling, suggesting that investors may invest in both low- and high-risk stocks when enthusiastically investing in stock market. The findings of the paper suggest that investors may get abnormal returns by forecasting stock return patterns and designing their investment strategies by taking into account the January and December effects and the level of systematic risk associated with the firms.",
+            "keywords": [
+                "Behavioural Finance",
+                "Stochastic Dominance Approach",
+                "Monthly Anomaly",
+                "January Effect",
+                "December Effect",
+                "TOY Anomaly",
+                "Abnormal Returns",
+                "KS Type Test",
+                "PSX"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/pidjournl/v_3a58_3ay_3a2019_3ai_3a1_3ap_3a83-104.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "THE MULTIFACTORIAL PASTOR-STAMBAUGH MODEL: EXPLAINING THE IMPACT OF LIQUIDITY ON THE RATE OF RETURN BASED ON THE EXAMPLE OF THE WARSAW STOCK EXCHANGE",
+            "abstract": "Research background: The liquidity of assets in the financial market is under-stood gener-ally as costs, and the easiest way in which different types of assets can be converted into cash, or to put it simply, sold at the currently available price on the market. For a considerable period of time this category had not been duly considered in the framework of modern finance theory. As a result, a number of basic models constructed within the framework of this theory in its classical form did not include problems with liquidity. This applies to a number of aspects related to liquidity, with one of the most important being the relationship between the liquidity of trading in shares and the results obtained from these rates of return. Purpose of the article: The aim of the article is to determine whether the rate of return on shares increases with the increase in share liquidity and the incremental rate of return on this account decreases with increasing liquidity. The applied re-search methodology is similar to that described by Pastor and Stambaugh (2003). The model used in the empirical study is the expanded model of Fama and Francha (1993) for the liquidity factor. Methods: In this paper I present various factors which will affect the liquidity. The paper will also provide the results of research concerning the relations between spread and stock return on the Warsaw Stock Exchange (WSE). The evidence drawn from WSE stock returns over the period 2004\u00e2\u0080\u00932012 indicates that Amihuda measure and other variables have a significant effect on stock return using the multifactorial Pastor-Stambaugh. Findings & Value added: In the case of the Polish market, it can be stated that in the analysis based on the Pastor-Stambaugh model not all the variables included in this model are statistically significant. However, directional parameters associated with liquidity risk were statistically significant in all analyzed periods, which allows us to confirm the hypothesis that liquidity has a significant influence on the rate of return on shares listed on the Stock Exchange in Warsaw.",
+            "keywords": [
+                "liquidity",
+                "the Pastor-Stambaugh model",
+                "illiquidity premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/pesierequ/v_3a12_3ay_3a2017_3ai_3a2_3ap_3a211-228.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predictability in Stock Returns in an Emerging Market: Evidence from KSE 100 Stock Price Index",
+            "abstract": "We investigate the persistence in monthly KSE100 excess stock returns over the Treasury bills rates using non-Gaussian state space or unobservable component model with stable distributions and volatility persistence. Results from our non-Gaussian state space model, which is an improvement over Conard and Kaul (1988), show that the conditional distribution has a stable of 1.748 and normality is rejected even after accounting for GARCH. There exists a statistically significant predictable component in the KSE 100 excess stock returns. The optimal predictor in the unconditional expectation of the series is estimated to be 0.18 percent per annum. An evidence of highly nonconstant scales in different periods of time exhibits a tendency towards stock market crashes which invites remedial policy action.",
+            "keywords": [
+                "Stock Return Predictability",
+                "Unobserved Components",
+                "Fat Tails",
+                "Stable Distributions"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/pidjournl/v_3a45_3ay_3a2006_3ai_3a3_3ap_3a369-381.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Higher co-moments and asset pricing on emerging stock markets by quantile regression approach",
+            "abstract": "This paper investigates the role of the third and fourth moments which impact on weekly stock return for the all twenty-five emerging stock markets (featured by MSCI - Morgan Stanley Capital International) during the period from April 2005 to November 2017. We employ the traditional CAPM combined with co-skewness and co-kurtosis representing nonlinear shape in risk measurement to estimate return generating under quantile regression in descending order by sorting equally weighted portfolios. The findings show that three of premium including market premium, co-skewness premium and co-kurtosis premium has influenced stock return in each country by 1%; 5%; 10% significance level with five-quantile regression approach. Then, our models with higher co-moments have better explanation for securities in emerging markets rather than traditional CAPM. Importantly, the investors should add more co-skewness securities and eliminate co-kurtosis (or less this factor) to generate more returns among 25 developing markets.",
+            "keywords": [
+                "Co-skewness",
+                "co-kurtosis",
+                "return",
+                "all emerging stock markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/pdcjrnbeh/v_3a14_3ay_3a2018_3ai_3a1_3ap_3a132-142.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A new perspective of the day-of-the-week effect on Bitcoin returns: evidence from an event study hourly approach",
+            "abstract": "Research background: A current strand of the financial literature is focusing on detecting inefficiencies, such as the day-of-the-week effect, in the cryptocurrency market. However, these studies are not considering that there are no daily closes in this market, and it is possible to trade cryptocurrencies on a continuous basis. This fact may have led to biases in previous empirical results. Purpose of the article: We propose to analyse the day-of-the-week effect on the Bitcoin from an alternative perspective where each hourly data in a day is considered an event. Focusing on that objective, we employ hourly closing prices for Bitcoin which are taken from the Kraken exchange, one of the world leading exchanges and trading platforms in the cryptocurrency markets, for the period spanning from January 2016 to December 2021. Methods: Contrary to the previous empirical evidence, we do not calculate daily returns, but rather the first stage of our proposed approach is devoted to analysing the hourly mean returns for each of the 24 hours of the day for each day of the week. We look for statistically significant hourly mean returns that could advance the importance of the hourly differentiation in the Bitcoin market. In a second stage, we calculate different post-event cumulative returns which are defined as the change in log prices over a time interval. Finally, we propose different investment strategies simply based on the significant hourly mean returns we obtain and we evaluate their performance in terms of the Sharpe ratio. Findings & value added: We contribute to the debate about the degree of Bitcoin\u00e2\u0080\u0099s market efficiency by providing an alternative methodology based on an event study hourly approach. Furthermore, we provide evidence that by investing in different post-event hourly windows it is possible to outperform the classic buy-and-hold strategy.",
+            "keywords": [
+                "Bitcoin",
+                "event study",
+                "day-of-the-week effect",
+                "hourly data"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/pesieroec/v_3a13_3ay_3a2022_3ai_3a3_3ap_3a745-782.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "MOOD SWINGS AND THE FIRM SIZE PREMIUM",
+            "abstract": "Evidence accumulated in the literature indicates that the size effect is related to corporate and macroeconomic variables and is paid to compensate for bearing risk. We show that the size premium is also driven by daily variations in investors\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 moods. We focus on two conditions often cited as possible mechanisms that drive variations in mood: Monday and seasonal affective disorder. The findings are consistent with the evidence that mood deteriorates on Mondays and in the fall and are consistent with the claim that the size effect manifests during economic expansion but weakens in the contraction phase of the economic cycle.",
+            "keywords": [
+                "Mood",
+                "Size effect",
+                "Size premium."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/orajrojbe/v_3a9_3ay_3a2024_3ai_3a1_3ap_3a165-176.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Seasonal Effect for Explaining Price Momentum Failure in the Japanese Stock Market",
+            "abstract": "In our study we investigate the presence of calendar patterns on the high volatility of Japanese stock market and their influence on the medium-term price momentum effect as an anomaly in the stock pricing. We document that calendar effects are presented on the Japanese stock market and have a negative influence on the momentum profits, recorded over two months of consistently negative momentum profits. Momentum returns are substantially negative in January, which is in line with other studies (e.g. Jegadeesh and Titman, 1993), and in May. The price momentum strategy loses about 2-4% on average each January and 1.9%-4.2% in May across the 16 portfolios. The investor should consider fundamental characteristics of companies and the stage of the business cycle to increase the momentum profits.",
+            "keywords": [
+                "seasonal effect",
+                "price momentum effect",
+                "Japanese stock market",
+                "cross section",
+                "long-short portfolios"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/nweeajour/y_3a2014_3ai_3a3_3ap_3a25-42.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Value versus Growth: Time-Varying Expected Stock Returns",
+            "abstract": "Is the value premium predictable? We study time-variations of the expected value premium using a two-state Markov switching model. We find that when conditional volatilities are high, the expected excess returns of value stocks are more sensitive to aggregate economic conditions than the expected excess returns of growth stocks. As a result, the expected value premium is time-varying: it spikes upward in the high-volatility state, only to decline more gradually in the ensuring periods. However, out-of-sample predictability of the value premium is close to nonexistent.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/15993.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Legislating Stock Prices",
+            "abstract": "In this paper we demonstrate that legislation has a simple, yet previously undetected impact on firm stock prices. While it is understood that the government and firms have an important relationship, it remains difficult to determine which firms any given piece of legislation will affect, and how it will affect them. By observing the actions of legislators whose constituents are the affected firms, we can gather insights into the likely impact of government legislation on firms. Specifically, focusing attention on \"interested\" legislators' behavior captures important information seemingly ignored by the market. A long-short portfolio based on these legislators' views earns abnormal returns of over 90 basis points per month following the passage of legislation. Further, the more complex the legislation, the more difficulty the market has in assessing the impact of these bills. Consistent with the legislator incentive mechanism, the more concentrated the legislator's interest in the industry, the more informative are her votes for future returns.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/18291.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Resident Networks and Firm Trade",
+            "abstract": "We demonstrate that simply by using the ethnic makeup surrounding a firm's location, we can predict, on average, which trade links are valuable for firms. Using customs and port authority data on the international shipments of all U.S. publicly-traded firms, we show that firms are significantly more likely to trade with countries that have a strong resident population near their firm headquarters. We use the formation of World War II Japanese Internment Camps to isolate exogenous shocks to local ethnic populations, and identify a causal link between local networks and firm trade links. Firms that exploit their local networks (strategic traders) see significant increases in future sales growth and profitability, and outperform other importers and exporters by 5%-7% per year in risk-adjusted stock returns. In sum, our results document a surprisingly large impact of immigrants' economic role as conduits of information for firms in their new countries.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/18312.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

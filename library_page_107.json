@@ -1,0 +1,139 @@
+{
+    "page_info": {
+        "page_number": 107,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Measuring the Influence of the US Market over Observed Interdependencies in Latin America",
+            "abstract": "The modeling of the extremal dependence structure can be made through parametric models classified in two families: Logistic and Mixed, which contain the symmetric and asymmetric models. The bivariate models are very useful in practical applications on the extreme value theory, in particular in a financial area. Considering the strong influence of the North American market on other financial markets, we investigate how does the dependence structure among the Latin American markets change after filtering the influence of the North American market. To remove that influence, we carry on a polynomial regression with GARCH (1,1) errors, and fit the bivariate extreme value models to the pairs of monthly maxima and minima of the standardized regression residuals.",
+            "keywords": [
+                "extreme value theory",
+                "bivariate models",
+                "polinomial regressions",
+                "GARCH models"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/brfjournl/v_3a3_3ay_3a2005_3ai_3a1_3ap_3a123-137.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Market Reaction to Changes in the Brazilian Stock Exchange Indexes",
+            "abstract": "This study investigates the price and volume behavior of stock added and excluded to the IBOVESPA, IBrX50, and IBrX100 indexes during the years 1994 to 2002 and FGV100 index during the years 2000 to 2002. In contrast to findings in the US, we find no evidence of abnormal returns around the announcement of changes in the IBOVESPA. We find short-term positive abnormal return to stocks added to the IBOVESPA and IBrX50. There is evidence of negative cumulative returns for stocks excluded from the indexes. We also find positive abnormal trade volume on the date before the stocks were added to the IBOVESPA index.",
+            "keywords": [
+                "price pressure",
+                "index changes",
+                "Ibovespa",
+                "S&P 500"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/brfjournl/v_3a4_3ay_3a2006_3ai_3a2_3ap_3a141-167.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Maximum Entropy Principle and the Modern Portfolio Theory",
+            "abstract": "In this work, a capital allocation methodology base don the Principle of Maximum Entropy was developed. The Shannons entropy is used as a measure, concerning the Modern Portfolio Theory, are also discuted. Particularly, the methodology is tested making a systematic comparison to: 1) the mean-variance (Markovitz) approach and 2) the mean VaR approach (capital allocations based on the Value at Risk concept). In principle, such confrontations show the plausibility and effectiveness of the developed method.",
+            "keywords": [
+                "asset alocation",
+                "portfolio optimization",
+                "risk measures"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/brfjournl/v_3a1_3ay_3a2003_3ai_3a2_3ap_3a271-300.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Generalization of the Calendar Time Portfolio Approach and the Performance of Private Investors",
+            "abstract": "We present a regression-based generalization of the calendar time portfolio approach which allowsfor the inclusion of continuous and multivariate investor or firm characteristics in the analysis. Ourmethod is simple to apply and it ensures that the statistical results are heteroscedasticity consistentand robust to very general forms of cross-sectional and temporal dependence. Furthermore, ourregression-based technique also remedies several well-known weaknesses of the traditional calendartime portfolio approach. By considering a new, unique dataset on more than 40,000 Europeanprivate investors, we illustrate empirically that erroneously ignoring cross-sectional dependenceinherent in microeconometric panel data can lead to severely biased statistical results. Moreoverwe use our method to validate some of the most popular hypotheses on the performance of privateinvestors.",
+            "keywords": [
+                "Performance measurement",
+                "Robust statistical inference",
+                "Cross-sectional dependence"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bslwpaper/2007_2f14.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "On the Statistical Validation of Technical Analysis",
+            "abstract": "Technical analysis, or charting, aims on visually identifying geometrical patterns in price charts in order to antecipate price \"trends\". In this paper we revisit the issue of thecnical analysis validation which has been tackled in the literature without taking care for (i) the presence of heterogeneity and (ii) statistical dependence in the analyzed data - various agglutinated return time series from distinct financial securities. The main purpose here is to address the first cited problem by suggesting a validation methodology that also \"homogenizes\" the securities according to the finite dimensional probability distribution of their return series. The general steps go through the identification of the stochastic processes for the securities returns, the clustering of similar securities and, finally, the identification of presence, or absence, of informatinal content obtained from those price patterns. We illustrate the proposed methodology with a real data exercise including several securities of the global market. Our investigation shows that there is a statistically significant informational content in two out of three common patterns usually found through technical analysis, namely: triangle, rectangle and head and shoulders.",
+            "keywords": [
+                "An\u00c3\u00a1lise T\u00c3\u00a9cnica",
+                "padr\u00c3\u00a3o geom\u00c3\u00a9trico",
+                "conte\u00c3\u00bado informativo",
+                "homogeneidade"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/brfjournl/v_3a5_3ay_3a2007_3ai_3a1_3ap_3a3-28.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock Market Indices and Sentiment Indicators: Correlations and Causality",
+            "abstract": "This paper focuses on the possible causal relationships between the stock market indices and a set of sentiment indicators in seven European Union countries. The results are not univocal. In some countries, the local stock index seems to behave as a leading indicator with reference to most sentiment indicators, while in others the causal nexus seems to be reversed.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/baseconst/y_3a2013_3ai_3a3_3ap_3a3-24.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Multivariate Realized Stock Market Volatility",
+            "abstract": "We present a new matrix-logarithm model of the realized covariance matrix of stock returns. The model uses latent factors which are functions of both lagged volatility and returns. The model has several advantages: it is parsimonious; it does not require imposing parameter restrictions; and, it results in a positive-definite covariance matrix. We apply the model to the covariance matrix of size-sorted stock returns and find that two factors are sufficient to capture most of the dynamics. We also introduce a new method to track an index using our model of the realized volatility covariance matrix.",
+            "keywords": [
+                "Econometric and statistical methods",
+                "Financial markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bcabocawp/07-20.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Risk premia across asset markets: information from option prices",
+            "abstract": "A measure of risk premium is derived from the comparison of spot and option prices across the US equity and eurodollar markets. Risk premia in both markets co-move with volatility risk. Option prices, however, seem to underreact to changes in return volatility forecasts.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/bisbisqtr/0603h.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Heterogeneous Firm-Level Responses to Trade Liberalisation: A Test Using Stock Price Reactions",
+            "abstract": "This paper presents novel empirical evidence on key predictions of heterogeneous firm models by examining stock market reactions to the Canada-United States Free Trade Agreement of 1989 (CUSFTA). Using the uncertainty surrounding the agreement's ratification, I show that the pattern of abnormal returns of Canadian manufacturing \u00e2\u0080\u00a6firms was broadly consistent with the predictions of a class of models based on Melitz (2003). Increases in the likelihood of ratification led to stock market gains of exporting firms relative to non-exporters. Moreover, gains were higher in sectors with larger cuts in U.S. import tariffs. Decreases in the likelihood of ratification led to opposite stock market reactions. Results for the impact of Canadian tariff reductions are less conclusive but most specifications suggest that exporters also gained relative to non-exporters in response to such reductions. Translating stock market gains into implied profit changes, I find that CUSFTA increased expected per-period profits of exporters by around 6-7% relative to non-exporters.",
+            "keywords": [
+                "Heterogeneous firm models",
+                "stock market event studies",
+                "Canada-U.S. free trade agreement"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cepcepdps/dp1085.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Performance of Value and Growth Stocks in the Aftermath of the Global Financial Crisis",
+            "abstract": "Background: Due to strong empirical evidence from different markets, existence of value premium became a financial theory standpoint. Although previous studies found that value stocks beat growth stocks in bearish and bullish markets, during the GFC, value stocks underperformed growth stocks. Objectives: This paper aims to examine the performance of value and growth stock portfolios after the GFC. Subjects of our analysis are constituent companies of the DJIA index, out of which portfolios of large-cap value and growth stocks have been constructed and evaluated. Methods/Approach: We measure the performance of stock portfolios, which are created based on the na\u00c3\u00afve diversification rule and random weighting approach. Statistical testing includes Levene\u00e2\u0080\u0099s homogeneity test, the Mann-Whitney U test, T-test, and the One-Sample T-test. Results: Growth stock portfolios outperform value stock portfolios after the GFC. The dominance of growth stock portfolios compared to value stock portfolios is significant, and the value premium disappears. Conclusions: Financial theory and investment management implications show that growth stocks have overtaken the dominance over value stocks since 2009. Causes might be in (1) expansionary monetary policy characterized by very low long-term interest rates and (2) high performance of the tech industry to which most growth stocks belong.",
+            "keywords": [
+                "value premium",
+                "Dow Jones Industrial Average",
+                "investment strategies",
+                "na\u00c3\u00afve diversification"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/bitbsrysr/v_3a12_3ay_3a2021_3ai_3a2_3ap_3a268-283_3an_3a1.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "PERFORMANCE EVALUATION, FUND SELECTION AND PORTFOLIO ALLOCATION APPLIED TO COLOMBIA\u00c2\u00b4S PENSION FUNDS",
+            "abstract": "This study examines performance of mandatory and voluntary pension funds in the 2004 - 2008 period. Furthermore, we present a methodology based on principal components that can aid affiliates when selecting funds. Moreover, we examine two portfolio optimization methodologies to evaluate any performance improvements in an evaluation period when choosing a particular methodology. The first one suggested by Markowitz (1952) and the second by Reveiz and Leon (2008b). We find an increase in risk, using several metrics, of mandatory and voluntary pension funds as well as a set of funds that better characterize the common movement of funds\u00c2\u00b4 returns. No evidence was found in regards to economically or statistically significant gains of applying either optimization methodology using several holding periods.",
+            "keywords": [
+                "Pension funds",
+                "performance",
+                "selection",
+                "optimal portfolios",
+                "persistence."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/col000129/008464.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Efecto d\u00c3\u00ada en el mercado accionario Colombiano: Una aproximaci\u00c3\u00b3n no param\u00c3\u00a9trica",
+            "abstract": "En el presente trabajo se muestra evidencia para rechazar la Hip\u00c3\u00b3tesis de Mercado Eficiente (HME) a trav\u00c3\u00a9s de la anomal\u00c3\u00ada efecto d\u00c3\u00ada (day effect). Se utilizan dos aproximaciones: la primera, bajo el supuesto de normalidad, estima un modelo lineal que corrobora los hallazgos de estudios anteriores sobre un efecto significativo del d\u00c3\u00ada de la semana sobre el retorno. La segunda, felixibiliza el supuesto de normalidad aplicando pruebas no param\u00c3\u00a9tricas, y confirma los resultados de la primera aproximaci\u00c3\u00b3n. Se utiliz\u00c3\u00b3 el IGBC y una versi\u00c3\u00b3n diversificada de \u00c3\u00a9ste, la cual responde a la alta concentraci\u00c3\u00b3n del \u00c3\u00adndice en pocas acciones. Este documento corrobora los resultados de otras investigaciones basadas en m\u00c3\u00a9todos param\u00c3\u00a9tricos, y adicionalmente, a partir de pruebas no param\u00c3\u00a9tricas, muestra que existe un efecto d\u00c3\u00ada significativo.",
+            "keywords": [
+                "Eficiencia de mercado",
+                "hip\u00c3\u00b3tesis de mercado eficiente",
+                "m\u00c3\u00a9todos no param\u00c3\u00a9tricos",
+                "IGBC",
+                "retornos."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/col000094/006700.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

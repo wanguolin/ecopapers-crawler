@@ -1,0 +1,146 @@
+{
+    "page_info": {
+        "page_number": 220,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Demand-Based Option Pricing",
+            "abstract": "We model the demand-pressure effect on prices when options cannot be perfectly hedged. The model shows that demand pressure in one option contract increases its price by an amount proportional to the variance of the unhedgeable part of the option. Similarly, the demand pressure increases the price of any other option by an amount proportional to the covariance of their unhedgeable parts. Empirically, we identify aggregate positions of dealers and end users using a unique dataset, and show that demand-pressure effects help explain well-known option-pricing puzzles. First, end users are net long index options, especially out-of-money puts, which helps explain their apparent expensiveness and the smirk. Second, demand patterns help explain the prices of single-stock options.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/11843.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Weak and Semi-Strong Form Stock Return Predictability Revisited",
+            "abstract": "This paper makes indirect inference about the time-variation in expected stock returns by comparing unconditional sample variances to estimates of expected conditional variances. The evidence reveals more predictability as more information is used, and no evidence that predictability has diminished in recent years. Semi-strong form evidence suggests that time-variation in expected returns remains economically important.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/11021.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Programming Language Choices for Algo Traders: The Case of Pairs Trading",
+            "abstract": "Abstract In the last 20 years, relative value strategies have increased in popularity in various asset classes, including equity and commodity markets. Due to an increase in market participants, more sophisticated algorithms than those used in the past are now required to generate excess returns in pairs trading strategies. Sophisticated algorithms can cause an increase in complexity which, in-turn, increases computational run time. In our pairs trading example, C++ provides the best performance, however, it is also the most time consuming to implement. Among the languages that allow for faster development, Cython provides the best balance between run times and ease of prototyping.",
+            "keywords": [
+                "Programming language",
+                "Performance",
+                "Pairs trading",
+                "Trading strategies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kapcompec/v_3a53_3ay_3a2019_3ai_3a4_3ad_3a10.1007_5fs10614-018-9813-x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading Volume and Price Distortion: An Agent-Based Model with Heterogenous Knowledge of Fundamentals",
+            "abstract": "Abstract This paper investigates whether trading volume and price distortion can be explained by the investor\u00e2\u0080\u0099s bounded rationality. Assuming that agents are bounded by their information access and processing, what are the consequences on market dynamics? We expose the result of simulations in an ABM that considers the liquidity as an endogenous characteristic of the market and allows to design investors as bounded rational. In a call auction market, where two risky assets are exchanged, traders are defined as a mix between fundamentalist and trend-follower outlook. Each one differs as to behaviour, order-placement strategy, mood, knowledge, risk-aversion and investment horizon. We place agents in a context of evolving fundamental values and order placement strategy; they perceive the fundamental but they also have some heterogeneous belief perseverance; and they adapt their orders to the market depth so as to maximise their execution probability and their profit. By adding bounded rationality in their information processing, we show that (1) usual features as trend-follower outlook and heterogeneous investment horizon are important features to generate excess volatility of asset prices and market inefficiency; (2) the learning fundamental value stabilises the market price and the trading volume; (3) the order-placement strategy increases trading volume, but reduces market efficiency and stability; (4) the agent\u00e2\u0080\u0099s mood prevents illiquid market and weakly increases the market volatility as classical noise trader agents; (5) the impatience to sell of traders is always present in the market: the market sell orders are always more numerous than the market buy orders.",
+            "keywords": [
+                "Agent-based modelling",
+                "Market microstructure",
+                "Fundamental value",
+                "Trading volume",
+                "Efficient market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kapcompec/v_3a51_3ay_3a2018_3ai_3a4_3ad_3a10.1007_5fs10614-017-9655-y.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price impact of informed trades in the U.S. treasury markets",
+            "abstract": "According to a review of the literature, there is no study that examines how the price impact of informed trades is related to liquidity levels in the U.S. Treasury markets. Using variance decomposition and regime-switching methodologies, we find that the price impact of informed trades is higher in more liquid markets. In the case of on-the-run and off-the-run spot markets, the price impact of informed trades is higher in 2-year and 5-year T-notes markets. In the case of T-notes futures markets, the price impact of informed trades is higher in 10-year futures market. We find that the price impact of uninformed (informed) individual trades decreases (increases) as the time scale increases. The results indicate that the price impact of informed trades is greater between 8:00 am and 3:00 pm when the market is more liquid, and smaller between 3:00 pm and 5:00 pm when the market is less liquid.",
+            "keywords": [
+                "Order imbalance",
+                "Probability of informed trading",
+                "Private information",
+                "Price impact of a trade."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/lrclareco/v_3a3_3ay_3a2015_3ai_3a3_3ap_3a29-40.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Jump Diffusion Processes and Emerging Bond and Stock Markets: An Investigation Using Daily Data",
+            "abstract": "The underlying stochastic processes that drive returns in several emerging bond and stock markets are investigated using the pure diffusion, the jump diffusion, the ARCH pure diffusion, and the ARCH jump diffusion models. The results indicate that jump diffusion models fit the data better than pure diffusion models. Possible sources and linkages of information surprises in emerging stock and bond markets are also investigated. Bond and stock returns of the same country exhibit simultaneous jumps, indicating a possible linkage of the two markets. U.S. equity returns respond to jumps in emerging bond markets but not to jumps in emerging stock markets.",
+            "keywords": [
+                "emerging markets",
+                "ARCH",
+                "jump diffusion",
+                "information surprises",
+                "distribution characteristics"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/mfjjournl/v_3a1_3ay_3a1997_3ai_3a3_3ap_3a169-197.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Beta-Anomaly: Evidence from the Indian Equity Market",
+            "abstract": "Abstract The study investigates the existence of beta-anomaly in the Indian equity market. A growing body of literature shows that financial markets do not reward the risk (defined in terms of standard deviation or market beta). These results (known as \u00e2\u0080\u0098low-risk anomaly\u00e2\u0080\u0099 and \u00e2\u0080\u0098low-beta-anomaly\u00e2\u0080\u0099) are quite puzzling from the theoretical perspective. This study presents an empirical test of the capital asset pricing model (CAPM) in the Indian equity market to examine the existence of low risk/low beta anomaly. The study covers 650 actively traded stocks for a period of 189 months from July 2002 to March 2018, and the Fama\u00e2\u0080\u0093MacBeth procedure has been used for testing CAPM. The beta-shorted portfolios are formulated using both equal and value-weights. The results of the study were found robust after controlling for outliers and correcting the bias in standard errors, as suggested by Petersen (in Rev Financ Stud 22(1):435\u00e2\u0080\u0093480, 2009). We confirm the presence of \u00e2\u0080\u0098low-beta-anomaly\u00e2\u0080\u0099 in India. A non-linear relationship was found between CAPM beta and expected returns. This relationship follows a quadratic function, where expected returns initially increase with beta and then start declining, resulting in the negative risk premium for high-beta portfolios.",
+            "keywords": [
+                "Beta-anomaly",
+                "CAPM",
+                "Fama\u00e2\u0080\u0093MacBeth procedure",
+                "Low-risk anomaly",
+                "Non-linearity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kapapfinm/v_3a28_3ay_3a2021_3ai_3a1_3ad_3a10.1007_5fs10690-020-09316-2.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time-Varying Effect of Short Selling on Market Volatility During Crisis: Evidence from COVID-19 and War in Ukraine",
+            "abstract": "In this paper, we empirically investigate the effect of short selling on market volatility during exogenously-induced uncertainties. Using the Covid-19 pandemic and the onset of the Russian-Ukraine Conflicts periods as event study, we employ the asymmetric EGARCH model. We show high persistence and asymmetric effects of market volatility during the pre-covid outbreak and post-covid outbreak periods. We find evidence that short selling increases market volatility during the pre-covid outbreak period while the period of the Russian-Ukraine conflict is characterized by reduced volatility. We find no evidence of short selling effect on market volatility during the post-covid outbreak period. Our findings provide significant implications for short-selling strategies during crisis periods.",
+            "keywords": [
+                "short-selling",
+                "market volatility",
+                "COVID-19",
+                "Russian-Ukraine conflict"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/menjournl/v_3a8_3ay_3a2022_3ai_3a2_3ap_3a233-243.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "EVALUATION OF LONG-TERM MEMORY IN COLOMBIAN STOCK MARKET BY HURST COEFFICIENT, EVALUACION DE LA MEMORIA DE LARGO PLAZO DEL MERCADO BURSATIL COLOMBIANO MEDIANTE EL COEFICIENTE DE HURST",
+            "abstract": "The efficient market hypothesis states that financial asset returns follow a random walk and depend on the information made available to the market instantly, therefore they can not be predicted. On the other hand, the Fractal market hypothesis says that prices depend of each behavior investor and his investment horizon, producing chaotic behavior in the markets. This paper tests the existence of chaotic behavior in major financial series of the Colombian stock market using the Hurst coefficient, whose estimation can be affected by autocorrelation. Therefore, the first part of the methodology focuses on removing the autocorrelations by ARIMA and GARCH filters, while the second part corresponds to the detectection of behavior by calculating the Hurst coefficient. The results reveal that the Colombian financial assets are persistent.",
+            "keywords": [
+                "Chaos Theory",
+                "EMH",
+                "FMH",
+                "GARCH",
+                "ARIMA"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ibfriafin/v_3a7_3ay_3a2014_3ai_3a4_3ap_3a1-10.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "INVESTOR REACTION IN STOCK MARKET CRASHES AND POST-CRASH MARKET REVERSALS",
+            "abstract": "We study investor overreaction using data for five major stock market crashes during the 1987-2008 period. We find some evidence of investor overreaction in all five stock market crashes. The prices of stocks investors bid down more than the average during crashes tend to increase more than the average in post-crash market reversals. In line with CAPM, we find that high beta stocks lose more value in crashes and gain more value in post-crash market reversals relative to low beta stocks. We further find that smaller firms and those with a low market-to-book ratio lose more value in stock market crashes. However, they do not gain more value in post-crash market reversals, implying that investor reaction against these firms in stock market crashes is not an overreaction. In examining industry-specific behavior, our results indicate that investors overbid down the prices of high-tech stocks in the 1997 crash and manufacturing stocks in the 2008 crash relative to other stocks. However, the prices of stocks in these industries increased more than other stocks in the post-crash market reversals, implying investor overreaction for these industries in these stock market crashes",
+            "keywords": [
+                "Stock Market Crash",
+                "Post-Crash Market Reversal",
+                "Determinants of Stock Returns",
+                "Investor Overreaction"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ibfijbfre/v_3a9_3ay_3a2015_3ai_3a5_3ap_3a57-70.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment and the cross-section of stock returns: new theory and evidence",
+            "abstract": "Abstract We extend the noise trader risk model of Delong et al. (J Polit Econ 98:703\u00e2\u0080\u0093738, 1990) to a model with multiple risky assets to demonstrate the effect of investor sentiment on the cross-section of stock returns. Our model formally demonstrates that market-wide sentiment leads to relatively higher contemporaneous returns and lower subsequent returns for stocks that are more prone to sentiment and difficult to arbitrage. Our extended model is consistent with the existing empirical evidence on the relationship between sentiment and cross-sectional stock returns. Guided by the extended model, wen also decompose investor sentiment into long- and short-run components and predict that long-run sentiment negatively associates with the cross-sectional return and short-run sentiment positively varies with the cross-sectional return. Consistent with these predictions, we find a negative relationship between the long-run sentiment component and subsequent stock returns and positive association between the short-run sentiment component and contemporaneous stock returns.",
+            "keywords": [
+                "Investor sentiment",
+                "Predictive return",
+                "Noise trader risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a53_3ay_3a2019_3ai_3a2_3ad_3a10.1007_5fs11156-018-0756-z.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Forward Unbiasedness in the Short End of the Interest Rate Market",
+            "abstract": "Forward rate unbiasedness postulates that the forward rate is an unbiased estimator or predictor of the future spot rate. This case of risk neutrality has been tested extensively especially in the foreign exchange market. This paper departs from this line of research and studies unbiasedness at the short end of the interest rate market. Although, a priori, an investment of 6 months and an investment of three months rolled over for an additional 3 months are commonly believed to be riskless at first approximation, our results show otherwise. The precision of our estimators unveil a small but statistically significant risk premium. The latter has two components, a constant risk premium and a time-variable one. The constant risk premium is estimated to be 14.4 basis points. The time-variable risk premium ranges between a maximum of 184.6 basis points, and a minimum of -123.2 basis points, and averages 5.4 basis points. The methodology in this paper is amenable and adaptable, with little adjustments, to other maturities. This is an agenda for the future.",
+            "keywords": [
+                "unbiasedness",
+                "short term",
+                "interest rate market",
+                "neutrality",
+                "risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ibnibrjnl/v_3a11_3ay_3a2018_3ai_3a2_3ap_3a70-78.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

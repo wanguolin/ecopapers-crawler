@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 235,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Are interconnectedness and spillover alike across green sectors during the COVID-19 and the Russia\u00e2\u0080\u0093Ukraine conflict?",
+            "abstract": "This study investigates interconnectedness and spillover dynamics among nineteen clean energy equity sub-sectors during the COVID-19 pandemic and the Russia-Ukraine conflict. Using the Time-Varying Parameter Vector Autoregression (TVP-VAR) Joint Connectedness approach, the findings reveal intensified interconnectedness during crises, with the Total Connectedness Index (TCI) surpassing 100 % during COVID-19, while stabilizing amid the Russia-Ukraine conflict, indicating a partial resilience in clean energy markets. Sub-sectors such as Energy Management, Recycling, and Water consistently serve as risk transmitters, while Wind and Geothermal absorb risks, emphasizing heterogeneous roles within the sector. This high level of interconnectedness limits the ability to reduce risks within the clean energy sector alone during turbulent times. Policy interventions, such as subsidies and regulatory support for critical risk-transmitting sub-sectors, could stabilize the market and reduce systemic vulnerabilities. Sectors like Solar and Smart Grid adapt to market conditions, taking on different roles depending on crisis-specific factors, particularly in response to energy security and sustainability policies. Investors may enhance their portfolio stability by focusing on the risk-absorbing sub-sectors, such as Wind and Geothermal, and also adopting dynamic asset allocation strategies during crises.",
+            "keywords": [
+                "Clean energy",
+                "Dynamic connectedness",
+                "Return and volatility spillovers",
+                "TVP-VAR extended joint connectedness"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a144_3ay_3a2025_3ai_3ac_3as0140988325001161.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Understanding the impact of monetary policy announcements: The importance of language and surprises",
+            "abstract": "Monetary policy announcements have a significant impact on financial market liquidity. This study provides a novel perspective on the factors driving this relationship in the market for 10-year Treasury note futures: Target rate surprises and the complexity of the monetary policy statement language are important determinants. Differences of opinion resulting from interpretation of complex language appear to result in more trading volume despite relatively low levels of liquidity (a negative liquidity-volume relationship), while large target rate surprises reduce trading activity (a positive liquidity-volume relationship). The dynamic changes over time, as unconventional polices are adopted by monetary authorities and, high frequency traders become more pervasive. Central bankers may aid market liquidity by minimizing surprises, and issuing statements that are easier to understand (with shorter sentences and more familiar words).",
+            "keywords": [
+                "Monetary policy decisions",
+                "Financial markets",
+                "Federal Reserve",
+                "Linguistic complexity",
+                "FOMC statements",
+                "10-year Treasury note futures"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a80_3ay_3a2017_3ai_3ac_3ap_3a33-50.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Direct and Indirect Effects of COVID-19 Pandemic on Implied Stock Market Volatility: Evidence from Panel Data Analysis",
+            "abstract": "We investigate the effects of a google trend synthetic index concerning corona virus, as a composite indicator of searching term and theme, on the implied volatility of thirteen major stock markets, covering Europe, Asia, USA and Australia regions by using panel data analysis along with several model specifications and robustness tests. Increased search queries for COVID-19 not only have a direct effect on implied volatility, but also have an indirect effect via stock returns highlighting a risk-aversion channel operating over pandemic conditions. We show that these direct and indirect effects are stronger in Europe relative to the rest of the world. Moreover, in a PVAR framework, a positive shock on stock returns may calm down google searching about COVID-19 in Europe. Our findings suggest that google based anxiety about COVID-19 contagion effects leads to elevated risk-aversion in stock markets. Understanding the links between investors\u00e2\u0080\u0099 decision over a pandemic crisis and asset prices variability is critical for understanding the policy measures needed in markets and economies.",
+            "keywords": [
+                "COVID-19 pandemic",
+                "google trends",
+                "implied volatility",
+                "stock returns",
+                "panel data"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/100020.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are Retail Traders Compensated for Providing Liquidity?",
+            "abstract": "This paper examines the extent to which individual investors provide liquidity to the stock market, and whether they are compensated for doing so.We show that the ability of aggregate retail order imbalances, contrarian in nature, to predict short-term future returns is significantly enhanced during times of market stress, when market liquidity provisions decline. While a weekly rebalanced portfolio long in stocks purchased and short in stocks sold by retail investors delivers 19% annualized excess returns over a four factor model from 2002 to 2010, it delivers up to 40% annualized returns in periods of high uncertainty. Despite this high aggregate performance, individual investors do not reap the rewards from liquidity provision because (i) they experience a negative return on the day of their trade, and (ii) they reverse their trades long after the excess returns from liquidity provision are dissipated.",
+            "keywords": [
+                "Financial crisis",
+                "Individual investor",
+                "Liquidity",
+                "Retail investor"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/10285.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The demand for safe assets",
+            "abstract": "This paper examines how heterogeneity in investment horizons determines the demand for safe assets, bidding strategies in auctions, and post-auction price dynamics. We model a uniform-price double auction with resale where long-term investors hold assets to maturity, while dealer banks distribute the asset in secondary markets. Pure private (common) values emerge when only long-term investors (dealers) participate. Using unique data on Swiss Treasury bond auctions revealing bidders' identities, our empirical findings support key predictions: (1) substantial heterogeneity in demand schedules, with steeper demand curves for dealer banks; (2) dealer banks' demand becomes steeper with increased demand risk and bid dispersion; and (3) demand elasticity positively predicts post-auction returns.",
+            "keywords": [
+                "Auction",
+                "Asset demand",
+                "Safe asset",
+                "Private and common values",
+                "Government bonds"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/snbsnbwpa/2025-03.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time-Varying Spot and Futures Oil Price Dynamics",
+            "abstract": "We investigate the role of crude oil spot and futures prices in the process of price discovery by using a cost-of-carry model with an endogenous convenience yield and daily data over the period from January 1990 to December 2008. We provide evidence that futures markets play a more important role than spot markets in the case of contracts with shorter maturities, but the relative contribution of the two types of market turns out to be highly unstable, especially for the most deferred contracts. The implications of these results for hedging and forecasting crude oil spot prices are also discussed.",
+            "keywords": [
+                "cointegration",
+                "oil market",
+                "futures prices",
+                "price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cesceswps/_5f3015.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Other January Effect: International Evidence",
+            "abstract": "This paper investigates the predictive power of stock market returns in January for the subsequent eleven months' returns across 19 countries, thereby contributing to the literature on stock market seasonalities. Only two out of 19 countries' stock markets exhibit a robust Other January E ect. In light of this evidence, we conclude that the Other January E ect is not an international phenomenon.",
+            "keywords": [
+                "Stock market efciency",
+                "Other January Efect",
+                "Stock market anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cqewpaper/0809.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Who benefits from regional trade agreements? The view from the stock market",
+            "abstract": "The consequences of regional trade agreements (RTAs) on countries\u00d7\u00b3 welfare are disputed. In this paper, we assess these effects using stock returns from a recent data set that spans over 200 RTA announcements, 80 economies, and 20 years. We measure the effects of news concerning RTAs on the returns of national stock markets, after adjusting these returns for international stock market movements. We then link these abnormal returns to features of the RTA members and the agreements themselves. We find strong evidence of the natural trading partner hypothesis; stock markets rise more when RTAs are signed between countries that already engage in high volumes of trade. Stock markets also rise more when poorer countries sign RTAs, and when RTAs are signed with smaller partners. We also find no evidence that capital markets expect significant trade diversion effects.",
+            "keywords": [
+                "Trade agreements",
+                "Event study",
+                "Natural partners",
+                "Low income",
+                "International finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeecrev/v_3a68_3ay_3a2014_3ai_3ac_3ap_3a31-47.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Low frequency effects of macroeconomic news on government bond yields",
+            "abstract": "Are macroeconomic releases important drivers of Treasury bond yields? We develop a two-step regression strategy that fully exploits the available high-frequency market reaction data to identify the impact of macroeconomic releases and to quantify the effects at lower frequencies. While macroeconomic surprises explain only one tenth of the daily variation in bond yields, their explanatory power improves substantially at lower frequencies, accounting for one third of quarterly variations. The finding is explained by the persistent effects that macroeconomic surprises exert on bond yields, and a less persistent impact of residual factors, which tend to average out when focusing on longer-horizon changes.",
+            "keywords": [
+                "Macroeconomic announcement",
+                "News",
+                "Treasury bond yield"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeemoneco/v_3a92_3ay_3a2017_3ai_3ac_3ap_3a31-46.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Quantile connectedness among digital assets, traditional assets, and renewable energy prices during extreme economic crisis",
+            "abstract": "This study delves into an exploration of quantile connectedness across the domains of digital and traditional financial assets with the renewable energy prices index. The daily frequency dataset, spanning from January 02, 2018, to December 04, 2023, encapsulates diverse economic crises. Our inquiry elucidates distinctive patterns by employing empirical analyses utilizing quantile connectedness and Time-Varying Parameter Vector Autoregressive (TVP-VAR) methodologies. In this context, DeFi assets (Chain-link) emerge as the primary recipient of information shocks, while Bitcoin distinguishes itself as the preeminent transmitter of such shocks within the network. Notably, digital assets manifest heightened volatility in contrast to traditional and energy indices. Furthermore, our findings underscore that the gaming industry, specifically focusing on Non-Fungible Tokens (NFT), presents itself as the most fitting asset for portfolio inclusion. This assertion gains credence from its comparatively lower degree of connectedness with other underlying assets. These findings have significant implications for investors and portfolio managers, furnishing valuable insights into the dynamics of asset interdependencies. Consequently, this aids in cultivating a more discerning approach to investment decision-making.",
+            "keywords": [
+                "Quantile connectedness",
+                "DeFi",
+                "NFT",
+                "Financial assets",
+                "Renewable energy",
+                "Portfolio diversification"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeetefoso/v_3a208_3ay_3a2024_3ai_3ac_3as0040162524004335.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Realized moments and the cross-sectional stock returns around earnings announcements",
+            "abstract": "We examine the predictability of realized measures on the cross-section of stock returns around earnings announcements. We construct realized measures (variance, skewness, kurtosis, and relative jump) using high-frequency intraday stock prices. Our results show that realized variance, skewness, and relative jumps strongly predict stock returns around earnings announcements but realized kurtosis does not. These findings are robust to various event windows, after controlling for firm characteristics, and to a range of additional tests. We further show that the predictability of realized measures is not affected by unexpected earnings. The findings also suggest that pre-announcement realized measures absorb part of the information contained in unexpected earnings.",
+            "keywords": [
+                "Realized measures",
+                "Cross-sectional stock returns",
+                "Earnings announcements"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a79_3ay_3a2022_3ai_3ac_3ap_3a408-427.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Islamic vs Conventional Canadian stock markets: what difference ?",
+            "abstract": "This study empirically assesses the relationship between inflation and stock return in conventional and Islamic Canadian stock markets. The study has covered monthly data for the period 2004:M08\u00e2\u0088\u00922018 :M4 of canadian economy. We propose a multivariate X-MGARCH or X- MGARCH-X volatility model to assess the dependence of Conventional and Islamic canadian stock market returns on inflation (expected and/or unexpected inflation) and volatility dynamic interdependence of returns (first and second moments). We also examine the constant and dynamic of conditional correlation in both stock market. The main result supports the hypotheses of constant conditional correlation (CCC) and Fisher hypothesis for Islamic canadian stock market. While the Conventional stock market is an efficient one. The volatility spillover is examined estimating an X-DVECH model. The dynamic conditional correlation (DCC) provides evidence of cross border relationship within stocks. We do find also evidence of negative (positive) significant effect of inflation on Islamic (conventional) stock market return volatility.",
+            "keywords": [
+                "Conventional /Islamic Canadian stock return",
+                "Conditional Correlations (CC)",
+                "Dynamic CC (DCC) and Constant CC models (CCC)",
+                "Fisher hypothesis",
+                "MGARCH -DVECH model",
+                "X-MGARCH and X-MGARCH-X models."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/99608.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

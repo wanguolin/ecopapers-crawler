@@ -1,0 +1,159 @@
+{
+    "page_info": {
+        "page_number": 177,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Sorry Doesn't Cut It, or Does It? Insights from Stock Market Responses to Corporate Apologies",
+            "abstract": "This paper examines the stock market reaction to corporate apologies. We construct a comprehensive database of corporate apologies issued for major chemical disasters between 1985 and 2017. Results from event studies and cross-sectional regressions suggest that 1) on average there is no significant stock market response after a firm apologizes; but when we allow for heterogeneity in the type of apologies, we find that 2) some apologies are associated with significant abnormal returns. In particular, firms that shift the blame to others consistently experience positive abnormal returns, while firms that admit to making mistakes tend to face negative stock market reactions in the longer-term. Greater media coverage for the chemical spill and the apology is associated with a negative and positive stock market response, respectively. Our findings are consistent with a signaling theory of apologies and help shed light on corporate crisis management and understanding of what makes an effective apology.",
+            "keywords": [
+                "Corporate apologies",
+                "Chemical disasters",
+                "Stock returns",
+                "Crisis management",
+                "Environmental apologies",
+                "Reputational risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejeborg/v_3a205_3ay_3a2023_3ai_3ac_3ap_3a68-86.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can behavioral biases explain the rejections of the expectation hypothesis of the term structure of interest rates?",
+            "abstract": "We test whether the rejections of the expectations hypothesis can be explained by two behavioral biases: the law of small numbers and conservatism. We use the term structure to decompose excess bond returns into components related to expectation errors and expectation revisions, enabling a direct test of behavioral models using the expectations of market participants. We find systematic patterns in expectation errors, and expectation revisions, which are consistent with these two biases. We show that a trading strategy that exploits these biases delivers significant economic profits and that our results are unlikely to be driven by a time-varying risk premium.",
+            "keywords": [
+                "Behavioral bias",
+                "Expectations hypothesis of the term structure of interest rates",
+                "Representativeness",
+                "Law of small numbers",
+                "Conservatism"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a58_3ay_3a2015_3ai_3ac_3ap_3a179-193.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Macroeconomic surprises, market environment and safe-haven currencies",
+            "abstract": "In this paper, we study the reaction of the CHF and JPY to macroeconomic surprises and changes in the broader market environment before and during the crisis using high-frequency data. We show that both currencies are traditionally highly sensitive to macroeconomic surprises. This link, however, was significantly magnified during the crisis and effects persisted during times when monetary authorities implemented specific measures to limit the appreciation trend. We also find some evidence that, during the crisis, the CHF and JPY tended to respond more strongly to surprises generating an appreciation than to surprises leading to a depreciation. Both currencies also systematically respond to changes in the general market environment. This result is robust to the use of two measures of the market environment: VIX and on a novel index based on Bloomberg wires. Finally, our results suggest that negative macroeconomic surprises and deteriorations in the market environment are two distinct channels generating appreciation pressure on these two safe-haven currencies.",
+            "keywords": [
+                "Safe-haven currencies",
+                "Swiss franc",
+                "yen",
+                "macroeconomic surprises",
+                "risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/snbsnbwpa/2016-15.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do arbitrageurs amplify economic shocks?",
+            "abstract": "We test the hypothesis that arbitrageurs amplify economic shocks in equity markets. The ability of speculators to hold short positions depends on asset values. Shorts are often reduced following good news about a stock. Therefore, the prices of highly shorted stocks are excessively sensitive to shocks compared with stocks with little short interest. We confirm this hypothesis using several empirical strategies including two quasi-experiments. In particular, we establish that the price of highly shorted stocks overshoots after good earnings news due to short covering compared with other stocks.",
+            "keywords": [
+                "Shorting",
+                "Short covering",
+                "Leverage",
+                "Destabilizing arbitrage"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a103_3ay_3a2012_3ai_3a3_3ap_3a454-470.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can economic policy uncertainty and investors sentiment predict commodities returns and volatility?",
+            "abstract": "The objective of this paper is to employ the novel technique of nonparametric causality-in-quantiles to examine the predictability of returns and volatility of six important commodities over the weekly period July 1996\u00e2\u0080\u0093June 2016. We use a news-based measure of economic uncertainty, bullish and bearish investor sentiments and identify the structural breaks in commodities returns through modified Iterated Cumulative Sum of Squares (ICSS) algorithm; breaks render inference based on linear models less reliable. The results of our nonparametric causality-in-quantiles tests show that investors\u00e2\u0080\u0099 sentiments (both bullish and bearish) have a causal impact, over the entire conditional distribution all most at all quantiles in both global financial crisis (GFC) and full sample, on the mean and variance of commodities returns which is also more profound compared to economic policy uncertainty (EPU). The commodity investors may include the general sentiments prevailing in equity markets in their information set while making investment decisions.",
+            "keywords": [
+                "Economic policy uncertainty",
+                "Investor sentiments",
+                "Commodities",
+                "Nonparametric causality"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a53_3ay_3a2017_3ai_3ac_3ap_3a208-218.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A generalised seasonality test and applications for cryptocurrency and stock market seasonality",
+            "abstract": "This study develops a novel generalised seasonality test that utilises sequential dummy variable regressions for seasonality periodicity equal to prime numbers. It allows to test for existence of any seasonal patterns against the broad null hypothesis of no seasonality and to isolate most prominent seasonal cycles while using harmonic mean p-values to control for multiple testing. The proposed test has numerous applications in time series analysis. As an example, it is applied to identify seasonal patterns in 76 national stock markets and 772 cryptocurrency markets to detect trading cycles, determine their length, and test the weak-form efficient market hypothesis. Cryptocurrency markets are shown to be less efficient than national stock markets, with predominantly irregular seasonality periodicity that cannot be reduced to conventional weekly, monthly, or annual cycles.",
+            "keywords": [
+                "Cryptocurrency",
+                "Market efficiency",
+                "Seasonality",
+                "Seasonality test"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a86_3ay_3a2022_3ai_3ac_3ap_3a172-185.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are there any other safe haven assets? Evidence for \u00e2\u0080\u009cexotic\u00e2\u0080\u009d and alternative assets",
+            "abstract": "This paper empirically investigates the existence of possible safe haven properties across \u00e2\u0080\u009cexotic\u00e2\u0080\u009d and alternative asset classes during the Global Financial Crisis (GFC) and Eurozone Sovereign Debt Crisis (ESDC). We extend the existent safe haven literature by focusing on a new dataset into a dynamic framework, which takes into account the fractional structure of the assets and is suitable to identify their recursive relationship, as well as the specific points in calendar time at which the assets act as safe havens. The main results indicate that the safe haven hypothesis is accepted for gold along with wine, commodities, crude oil and shipping index, although across different turmoil periods. On the other hand, real estate seems to display signs of contagious pattern during the last decades\u00e2\u0080\u0099 turmoil period, while rare coins show some weak evidence of contagious behavior at the beginning of GFC. These results imply that investors and portfolio managers should search for \u00e2\u0080\u009cnew\u00e2\u0080\u009d safe haven assets during a turbulent and ultra-low interest rate period in order to improve their portfolio diversification strategies.",
+            "keywords": [
+                "Safe haven",
+                "\u00e2\u0080\u009cExotic\u00e2\u0080\u009d assets",
+                "Alternative assets",
+                "Fractionally cointegrated VAR (FC-VAR)",
+                "Wavelet coherence"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a69_3ay_3a2020_3ai_3ac_3ap_3a614-628.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Modeling garch processes in base metals returns using panel data",
+            "abstract": "This paper investigates returns-volatility for six base metals traded on London Metal Exchange. Dividing the daily sample that extends from January 2, 2007 until February 15, 2018, to three periods, the financial crisis, \u00e2\u0080\u009cstabilization\u00e2\u0080\u009d and \u00e2\u0080\u009cprosperity.\u00e2\u0080\u009d The study applies panel data with Generalized Auto-Regressive Conditional Heteroskedasticity (GARCH) models. The analysis shows high conditional variance for the first two periods. The best model is the panel model with random effects for the first period and with fixed effects for the second. For the \u00e2\u0080\u009cprosperity\u00e2\u0080\u009d period, the best model is \u00e2\u0080\u009cpooled regression.\u00e2\u0080\u009d For this period, one cannot dictate any accumulation of variances.",
+            "keywords": [
+                "Base metals",
+                "Pooled regression",
+                "Least square dummy variable (LSDV)",
+                "Generalized auto-regressive conditional heteroskedasticity (GARCH)",
+                "London Metal Exchange (LME)",
+                "Aluminum",
+                "Bai and Perron multiple structural change tests"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a74_3ay_3a2021_3ai_3ac_3as0301420721004207.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predicting future exchange rate changes based on interest rates and holding-period returns differentials net of the forward risk premium effects",
+            "abstract": "One of the well-known puzzles in the empirical exchange rate literature is the forward premium anomaly; the interest rates differential between two countries predicts the opposite direction of their future exchange rate changes compared to the predictions of the uncovered interest rate parity (UIRP) under the rational expectations hypothesis (REH). In this paper, we show that the above puzzle can be attributed to the time-variation of the exchange rate risk premium (known as forward risk premium). This premium can also explain the failure of the holding-period returns differential to provide unbiased predictions of the future exchange rate changes. To control for the risk premium effects, in this paper we suggest a new forward premium regression framework adjusting the interest rates differential for these effects which are estimated by a two-country term structure model. We provide evidence that the suggested framework can predict the correct direction of the future exchange rate changes for a number of developed countries with liquid currencies. However, its predictive power is small due to excess volatility of the exchange rate changes.",
+            "keywords": [
+                "Exchange rate risk premium",
+                "Forward premium anomaly",
+                "Term structure of interest rates",
+                "Holding-period returns",
+                "Simultaneous systems of equations",
+                "Real exchange rate."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a79_3ay_3a2022_3ai_3ac_3ap_3a694-715.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor attention and Google Search Volume Index: Evidence from an emerging market using quantile regression analysis",
+            "abstract": "This study investigates whether the investor attention measured by the Google Search Volume Index (GSVI) is effective in forecasting stock returns. The evolving literature on investor attention suggests that higher GSVI can predict higher returns for the first one or two weeks, but with a subsequent price reversal. We use a more recent dataset that covers S&P BSE 500 companies listed on the Indian stock exchange for 2012\u00e2\u0080\u00932017 and employ the quantile regression approach because it alleviates the statistical problems arising from biased distribution data. The results suggest that a higher GSVI predicts positive and significant returns in the subsequent first and second weeks. Higher quantiles of GSVI experience higher excess returns. The panel cointegration test results support the findings regarding the cointegration of the GSVI and stock returns. Our empirical evidence shows that our model is robust when using a trading strategy based on the Fama-French four-factor model. Thus, the model with GSVI acts as a better predictor of both the direction and magnitude of the excess returns than the model without GSVI.",
+            "keywords": [
+                "Stock returns",
+                "Google searches",
+                "Investor attention/sentiment",
+                "Quantile regression"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a50_3ay_3a2019_3ai_3ac_3ap_3a1-17.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dissecting the idiosyncratic volatility puzzle: A fundamental analysis approach",
+            "abstract": "This paper argues fundamental information help resolve information uncertainty that leads to high idiosyncratic volatility premium. The IVOL-return relation is negative for stocks with poor fundamental strength but positive for stocks with strong fundamental strength. The arrival of fundamental news weakens the negative IVOL effect. Our findings are robust for alternative model specifications. Moreover, the negative IVOL effect dominates the positive IVOL effect due to arbitrage asymmetry that buying is easier than short selling stocks. Consistent with arbitrage asymmetry, the negative IVOL effect is stronger for stocks with low institutional ownership and following high investor sentiment. Overall, we provide a simple fundamental-based explanation for idiosyncratic volatility puzzle.",
+            "keywords": [
+                "Idiosyncratic volatility",
+                "Fundamental strength",
+                "Arbitrage asymmetry"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a66_3ay_3a2023_3ai_3ac_3as0275531923002118.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price Discovery in Canadian Government Bond Futures and Spot Markets",
+            "abstract": "In this paper we look at the relative information content of cash and futures prices for Canadian Government bonds. We follow the information-share approaches introduced by Hasbrouck (1995) and Harris et al (1995), applying the techniques in Gonzalo-Granger (1995), to evaluate the relative contributions of trading in the cash and futures markets to the price discovery process. Both approaches estimate a vector error correction model that permits the separation of long-run price movements from short-run market microstructure effects. As well, we follow Yan and Zivot (2004) who introduce size measures of a market's adjustment to a new equilibrium during the price discovery process. We find that, on an average day, just over 70% of price discovery occurs on the futures market where bid-ask spreads are lower and trading activity is higher. The size of the responses to shocks and the time taken to adjust to a new equilibrium are found to be significantly larger for the cash market.",
+            "keywords": [
+                "Financial markets",
+                "Market structure and pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bcabocawp/07-4.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

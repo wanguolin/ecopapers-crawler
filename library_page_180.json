@@ -1,0 +1,157 @@
+{
+    "page_info": {
+        "page_number": 180,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Another January effect\u00e2\u0080\u0094Evidence from stock split announcements",
+            "abstract": "This paper examines whether there is a January effect in the propensity and abnormal returns of stock split announcements. It provides primary evidence in the investigation of using monthly effects to explain the patterns of stock splits. The results show that the January effect exists in the likelihood of the occurrence of share splits and in the associated short-term abnormal returns. We also find that another monthly effect\u00e2\u0080\u0094the Halloween effect\u00e2\u0080\u0094exists in stock split announcements. However, the January effect has a much larger and considerably more significant impact on the probability and returns of these announcements. The results of this paper shed light on why we observe patterns in the announcement of corporate events.",
+            "keywords": [
+                "The January effect",
+                "The Halloween effect",
+                "Stock splits"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a44_3ay_3a2016_3ai_3ac_3ap_3a123-138.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "30-Day Interbank futures: Investigating the process of price discovery following RBA cash target rate announcements",
+            "abstract": "The article examines microstructure issues in the Australian Interbank futures market by analyzing the price adjustment process following scheduled cash target rate announcements by the Reserve Bank of Australia. In characterizing the market response, three distinct stages of price formation and liquidity provision are identified. Market expectations around the RBA decision are derived explicitly from 30-Day Interbank futures. The first trade following the RBA decision occurs after 220s on average, and after 234s (1.73 trades) the market has adjusted to the theoretical settlement price. Deviations from theoretical prices post-announcement are common, particularly when a large amount of uncertainty exists around the RBA decision. The potentially costly issue of stale price quotes is also addressed.",
+            "keywords": [
+                "Target rate announcement",
+                "Futures markets",
+                "Price discovery",
+                "RBA"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a22_3ay_3a2012_3ai_3a4_3ap_3a1006-1023.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The influence of investor sentiment on the monetary policy announcement liquidity response in precious metal markets",
+            "abstract": "In addition to a myriad of industrial uses, precious metals play an important role in the global financial system; they are increasingly popular as an investment and form part of a well-diversified portfolio in addition to acting as central bank reserves. Understanding how macroeconomic events shape liquidity in this market is important for a number of market participants, and also helps policy makers assess the efficacy of the policy transmission mechanism. Using high-frequency data, we consider liquidity provision in the period around monetary policy announcements and relate this to prevailing levels of investor sentiment. We are able to contrast changes in liquidity in the gold and silver markets, and across three instruments (futures, ETFs, and physical/bullion). We show that liquidity is removed from the market around 5-minutes prior to the announcement and reverts to normal within 10-minutes (gold market) and 20-minutes (silver market). The magnitude of the liquidity response is determined by both the prevailing level of investor sentiment and the size of the monetary policy surprise \u00e2\u0080\u0093 with the greatest liquidity response (in both speed and magnitude) occurring in the least liquid instruments/markets. Both sentiment and monetary policy surprises have a greater impact on liquidity during periods of low sentiment, consistent with greatest demand for assets possessing \u00e2\u0080\u0098safe-haven\u00e2\u0080\u0099 qualities occurring during such periods.",
+            "keywords": [
+                "Monetary policy decisions",
+                "Liquidity",
+                "Investor sentiment",
+                "Gold",
+                "Silver"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a60_3ay_3a2019_3ai_3ac_3ap_3a19-38.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The prevalence of price overreactions in the cryptocurrency market",
+            "abstract": "This paper examines the prevalence of price overreactions for twelve cryptocurrencies compared to the US stock market. For this purpose, we implement a dynamic modeling approach to define and test for overreactions for interday and various intraday price levels. We find evidence that price overreactions are highly prevalent in the cryptocurrency market for all frequencies, strongly supporting the overreaction hypothesis. This result is largely comparable for cryptocurrency and stock markets despite the fact that both markets are fundamentally different. However, the returns of an overreaction trading strategy are significantly higher for cryptocurrencies due to larger overreactions as the most important factor for profitability. In addition, our results also show that negative overreactions are slightly more prevalent than positive overreactions.",
+            "keywords": [
+                "Cryptocurrency",
+                "Overreaction",
+                "Mean reversion",
+                "Turning point",
+                "Stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a65_3ay_3a2020_3ai_3ac_3as1042443120300780.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price overreactions in the commodity futures market: An intraday analysis of the Covid-19 pandemic impact",
+            "abstract": "The objective of this paper is to examine the overreaction behavior of 20 commodity futures based on intraday data from November 20, 2019 to June 3, 2020 with a focus on the impact of the Covid-19 pandemic. A dynamic and non-parametric approach is applied on intraday data for four different frequencies (from 1 min to 1 h) and two different sub-periods (pre-Covid-19 pandemic and during Covid-19 pandemic) in order to detect overreaction behavior which is defined as a large change of prices followed by proportional price reversals. Our empirical findings show that the overreaction hypothesis is confirmed for the considered commodity futures. Furthermore, both the number and the amplitude of overreactions is higher during the Covid-19 pandemic. Our findings also indicate that soft and metal commodities show much less overreactions than precious metals and especially energy commodities. In particular, crude oil futures exhibit a different overreaction behavior compared to other commodities since it has a higher number of negative than positive overreactions during the Covid-19 pandemic. We also find that the data frequency is independent of the overreacting behavior in both periods as the results continuously improve when having more observations due to higher frequencies. Finally, we find that extreme overreactions during the Covid-19 pandemic provide a great potential for profitable trading returns, which can be exploited by traders.",
+            "keywords": [
+                "Commodities",
+                "Overreaction",
+                "Mean reversion",
+                "Turning point",
+                "Trading strategy"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a71_3ay_3a2021_3ai_3ac_3as0301420720309946.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Informed trading in government bond markets",
+            "abstract": "Using comprehensive administrative data from the UK, we examine trading by different investor types in government bond markets. Our sample covers virtually all secondary market trading in gilts and contains detailed information on each transaction, including the identities of both counterparties. We find that hedge funds\u00e2\u0080\u0099 daily trading positively forecasts gilt returns in the following one to five days, which is then fully reversed in the following month. A part of this short-term return predictability is due to hedge funds\u00e2\u0080\u0099 ability to predict other investors\u00e2\u0080\u0099 future demand. Mutual fund trading also positively predicts gilt returns, but over a longer horizon of one to two months. This return pattern does not revert in the following year and is partly due to mutual funds\u00e2\u0080\u0099 ability to forecast changes in short-term interest rates.",
+            "keywords": [
+                "Government bonds",
+                "Informed trading",
+                "Return predictability",
+                "Asset managers"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a142_3ay_3a2021_3ai_3a3_3ap_3a1253-1274.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor attention factors and stock returns: Evidence from China",
+            "abstract": "We provide a theoretical model in which investor attention affects the cross-section of equity returns. Based on the reaction of three types of investors to market signals, we derive a negative (positive) correlation between the proportion of continuous attentive (new attentive) investors and stock returns. We also provide empirical support for the model by constructing two asset pricing factors that capture both the level and change in investor attention. We assess their ability to explain the cross-section of equity returns in China's stock market. Our attention-augmented models outperform baseline models in explaining a broad range of return anomalies.",
+            "keywords": [
+                "Investor attention",
+                "Equity returns",
+                "Factor",
+                "Anomaly",
+                "China"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a77_3ay_3a2022_3ai_3ac_3as1042443121002031.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum returns and information uncertainty: Evidence from China",
+            "abstract": "A recent theory of information uncertainty (IU) postulates a negative (positive) relationship between IU and future returns (momentum returns). We extend this theory by showing that its predictions could be conditioned by differences in behavioral biases induced by culture. We find that greater IU does not necessarily result in lower future returns in China unlike in the U.S. In fact for some IU proxies, high IU firms have higher future returns. Second, we confirm earlier evidence of a weak momentum effect in the Chinese stock market which is consistent with the low level of individualism among Chinese investors reported in the literature. Third we find that momentum returns of firms with greater IU are not necessarily higher than firms with lower IU.",
+            "keywords": [
+                "Momentum returns",
+                "Information uncertainty",
+                "Cultural differences",
+                "Behavioral biases",
+                "China"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a30_3ay_3a2014_3ai_3ac_3ap_3a173-188.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Technical trading rules, loss avoidance, and the business cycle",
+            "abstract": "We show that simple technical trading rule (TTR) strategies substantially reduce investment left tail risk. An investor following a TTR strategy can also avoid a high percentage of extremely negative returns. This percentage increases substantially during recessions. Interestingly, tail risk reduction does not come at a cost of lower performance \u00e2\u0080\u0093 risk adjusted returns of TTR strategies are in fact higher than those of a buy-and-hold strategy. Our findings are robust to changes in trading strategy specifications. They hold in 38 international equity markets, as well as in a large sample of individual US stocks, and survive a reality check bootstrap.",
+            "keywords": [
+                "Tail risk",
+                "Technical trading rules",
+                "Loss avoidance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a82_3ay_3a2023_3ai_3ac_3as0927538x23002433.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does Information Acquisition Alleviate Market Anomalies? Categorization Bias in Stock Splits",
+            "abstract": "Using a unique proprietary account-level trading dataset in China, we investigate how active information acquisition alleviates price-based return comovement, a typical anomaly in stock splits. We find that: 1) individual trading drives the comovement and the trading correlation between split stocks and the low-price portfolio increases significantly after splits; 2) individuals can learn the firm fundamentals through information acquisition, which effectively alleviates their categorized bias; and 3) the role of information acquisition is more significant in environments characterized by greater uncertainty. Our results are robust to different specifications and alternative measures. Taken together, this paper emphasizes the important role of information acquisition in alleviating behavioral bias and improving decision-making.",
+            "keywords": [
+                "Information acquisition",
+                "Comovement",
+                "Investor trading behavior",
+                "Stock splits"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ouprevfin/v_3a23_3ay_3a2019_3ai_3a1_3ap_3a245-277..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Expectation Dispersion, Uncertainty, and the Reaction to News",
+            "abstract": "Releases of key macroeconomic indicators are closely watched by financial markets. We investigate the role of expectation dispersion and economic uncertainty for the stock-market reaction to indicator releases. We find that the strength of the financial market response to news decreases with the preceding dispersion in expectations about the indicator value. Uncertainty, in contrast, increases the response. We rationalize our findings in a model of imperfect information. In the model, dispersion results from a perceived weak link between macroeconomic indicators and fundamentals that reduces the informational content of indicators, while higher fundamental uncertainty makes this informational content more valuable.",
+            "keywords": [
+                "expectation dispersion",
+                "uncertainty",
+                "macroeconomic news",
+                "stock market",
+                "event study",
+                "forecaster disagreement"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cesceswps/_5f8801.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Cross-Sectional and Time-Series Momentum Returns and Market States",
+            "abstract": "Recent evidence on momentum returns shows that the time-series (TS) strategy outperforms the cross-sectional (CS) strategy. We present new evidence that this happens only when the market continues in the same state, UP or DOWN. In fact, we find that the TS strategy underperforms the CS strategy when the market transitions to a different state. Our results also show that the difference in momentum returns between TS and CS strategies is related to both the net long and net short positions of the TS strategy.",
+            "keywords": [
+                "momentum returns",
+                "cross-sectional",
+                "time-series",
+                "market states"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/78989.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

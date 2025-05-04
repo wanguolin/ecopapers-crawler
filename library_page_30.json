@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 30,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Risk, return, and liquidity during Ramadan: Evidence from Indonesian and Malaysian stock markets",
+            "abstract": "Indonesia and Malaysia are common in religion; however, the two countries have different developments in their equity markets. This study investigates the risk, return, and liquidity during Ramadan for the Indonesia and Malaysia stock markets. We find that the volatility is higher around Ramadan for the Indonesia stock market, while displays dynamic patterns in different phases around the month of Ramadan for Malaysia. Despite the changing risk during Ramadan, the risk-adjusted return remains unchanged. Furthermore, this study finds that the liquidity in most stock index markets of the two countries is higher around Ramadan. These findings support the notion that Ramadan affects investors\u00e2\u0080\u0099 risk-taking attitude and facilitates the trade in stocks.",
+            "keywords": [
+                "Ramadan effect",
+                "Volatility",
+                "Liquidity",
+                "Indonesia stock market",
+                "Malaysia stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a42_3ay_3a2017_3ai_3ac_3ap_3a233-241.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment, soccer games and stock returns",
+            "abstract": "This study investigates the nature of stock price reactions of publicly-traded soccer clubs following league matches. Consolidating data on soccer games and betting odds, results suggest that the magnitude and the character of investor reactions vary considerably after the release of negative and positive information. Price response to positive information increases in surprise to resolution of uncertainty, while bad information connotes negative and vast reactions regardless of the surprise component. Moreover, negative news is more slowly absorbed by the stock market than positive news. Finally, investor reactions are larger following the games with considerable emotional component.",
+            "keywords": [
+                "Investor mood",
+                "Soccer",
+                "Sports betting",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a43_3ay_3a2018_3ai_3ac_3ap_3a90-98.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trader positions and the price of oil in the futures market",
+            "abstract": "The relationship between trader positions in the futures market and Brent oil\u00e2\u0080\u0099s one-month futures price is examined in the context of linear and Markov-switching vector autoregressions. We consider positions by producers, money managers and swap dealers on the Brent crude futures contract. The Bayesian information criterion is used to determine whether the additional regime in the Markov-switching setting is warranted by the data. In the presence of a second regime we quantify the impact of shocks to prices or positions using regime-dependent impulse responses. We find that producers and swap dealers reduce their net positions following a positive price shock, whereas money managers increase them. There is weaker evidence of Brent\u00e2\u0080\u0099s price reacting to shocks in trader positions.",
+            "keywords": [
+                "Brent",
+                "Futures",
+                "CFTC",
+                "Markov switching"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a82_3ay_3a2022_3ai_3ac_3ap_3a448-460.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predictability of the simple technical trading rules: An out-of-sample test",
+            "abstract": "In a true out-of-sample test based on fresh data we find no evidence that several well-known technical trading strategies predict stock markets over the period of 1987 to 2011. Our test safeguards against sample selection bias, data mining, hindsight bias, and other usual biases that may affect results in our field. We use the exact same technical trading rules that Brock, Lakonishok, and LeBaron (1992) showed to work best in their historical sample. Further analysis shows that this poor out-of-sample performance most likely is not due to the market becoming more efficient \u00e2\u0080\u0093 instantaneously or gradually over time \u00e2\u0080\u0093 but probably a result of bias.",
+            "keywords": [
+                "Technical analysis",
+                "Market efficiency",
+                "Out-of-sample tests",
+                "Return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeerevfin/v_3a23_3ay_3a2014_3ai_3a1_3ap_3a30-45.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Divergent opinions on social media",
+            "abstract": "This study analyzes the informational value of tweets in which opinions diverge from the consensus. I identify them using each firm's most positive and negative intraday social media sentiments. I find that these divergent opinions\u00e2\u0080\u0094specifically, negative ones\u00e2\u0080\u0094predict stock returns without subsequent reversals. Additionally, they contain incremental information on firm fundamentals identified by subsequent revisions to analysts' target prices and earnings forecasts. Finally, I find that return predictability is attributed to the fundamental information contained in the divergent opinions. My analysis sheds light on the role of divergent opinions on social media.",
+            "keywords": [
+                "Social media",
+                "Divergent opinions",
+                "Linguistic tone",
+                "Firm fundamentals"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a86_3ay_3a2023_3ai_3ac_3ap_3a182-196.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Inferring private information from online news and searches: Correlation and prediction in Chinese stock market",
+            "abstract": "In this paper, we employ the difference between Baidu News (information supply) and Baidu Index (information demand) as the novel proxy for private information. The empirical results show that online news and searches are positively correlated with stock performance indicators. While, private information displays negative correlation with turnover and volatility. Besides, online news and searches hold solid predictive power for indicators. By comparison, private information only demonstrates reliable predictability with volatility. All these findings have some implications for investors who are interested in investing in Chinese stock market.",
+            "keywords": [
+                "Private information",
+                "Baidu news",
+                "Baidu index",
+                "Prediction",
+                "Chinese stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeephsmap/v_3a528_3ay_3a2019_3ai_3ac_3as0378437119308398.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does idiosyncratic volatility matter? \u00e2\u0080\u0094 Evidence from Chinese stock market",
+            "abstract": "Is idiosyncratic volatility priced? The existing literature finds conflicting results on the cross-sectional relation between expected returns and idiosyncratic volatility. This paper examines the relation between idiosyncratic volatility and expected returns in Chinese Stock Market. We find there is a significantly positive relation between idiosyncratic volatility and expected returns when we use Fama\u00e2\u0080\u0093French five-factor model to estimate idiosyncratic volatility. However, the positive relation disappears when we use GARCH (1,1) model to estimate idiosyncratic volatility. This result indicates that in Chinese Stock Market, the idiosyncratic volatility premium is just an apparent phenomenon, whether the idiosyncratic volatility matter or not depend on the way we estimate the idiosyncratic volatility. The result is robust after controlling for investors\u00e2\u0080\u0099 lottery preference, investors\u00e2\u0080\u0099 sentiment and other factors.",
+            "keywords": [
+                "Idiosyncratic volatility premium",
+                "Five-factor model",
+                "Investors\u00e2\u0080\u0099 sentiment",
+                "Lottery preference",
+                "Property of actual controller"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeephsmap/v_3a516_3ay_3a2019_3ai_3ac_3ap_3a393-401.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Informed trading in the CDS and OTM put option markets",
+            "abstract": "This paper investigates the role of liquidity in the price discovery process. Specifically, we focus on how informed traders straddle the credit default swap (CDS) and option markets, with OTM put options particularly, and how their choice where to trade depends on the relative liquidity in these markets. We employ daily data of the two most actively traded North American CDX Investment Grade and High Yield indexes from 2010 to 2018. Our empirical results show that relative liquidity is a key factor in where informed trading occurs in CDS and put option markets. Our results suggest that liquidity is the main factor that determines the leadership of the price discovery process between the two markets. When the CDS market is relatively illiquid, informed investors trade in the options market such as OTM put options.",
+            "keywords": [
+                "Credit default swap",
+                "Options",
+                "Cross-market arbitrage",
+                "Market efficiency",
+                "Informed trading",
+                "Price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a79_3ay_3a2022_3ai_3ac_3ap_3a353-367.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Quantifying the correlation of media coverage and stock price crash risk: A panel study from China",
+            "abstract": "In this paper, we explore the correlation between media coverage and stock price crash risk of all the listed stocks in China stock market. Particularly, we utilize the news report frequencies, sourcing from traditional media (TMC) and Internet media (IMC), as proxies for media coverages and investigate their correlations with stock price crash risk under panel regression models. We find that TMC is positively related to stock price crash risk one year after, indicating that prior rise of TMC would be a red alert for future price drop. While, no significant coefficients are detected with IMC, showing that IMC are of no influence with future stock price crash risk. We also perform the robustness check with other stock price crash risk measurement proxy, and the results are in line with those of the original study.",
+            "keywords": [
+                "Internet media",
+                "Traditional media",
+                "Stock price crash risk",
+                "Chinese stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeephsmap/v_3a537_3ay_3a2020_3ai_3ac_3as0378437119313688.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Cryptocurrency momentum effect: DFA and MF-DFA analysis",
+            "abstract": "Cryptocurrency has experienced the skyrocketing and falling back in 2018. Beyond the hype, the specific price movements of different cryptocurrencies should be investigated in a more careful way. Since the cryptocurrency market is a non-linear complex system which are not suitable analyzed by tradition methods, this paper introduces methods from econophysics. Mono-fractal analysis (detrended fluctuation analysis, DFA) is applied to investigate the price movement. Further, multi-fractal fluctuation detrended analysis (MF-DFA) is used for robustness test. Through analyzing four representative cryptocurrencies, our paper finds a strong momentum effect in BTC and ETH market, and a reversion effect in XRP and EOS when large fluctuation occurs. These findings may provide a reference for trading strategy in alternative asset allocations.",
+            "keywords": [
+                "Cryptocurrency",
+                "Momentum effect",
+                "DFA",
+                "MF-DFA"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeephsmap/v_3a526_3ay_3a2019_3ai_3ac_3as0378437119304480.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Quantifying the cross sectional relation of daily happiness sentiment and stock return: Evidence from US",
+            "abstract": "In this paper, we utilize the natural log value of Twitter happiness index as the measurement for investor daily happiness sentiment (DHS) and investigate its cross-sectional correlations with twelve US indices. With correlation coefficients and Granger causality tests, we find contemporaneous and long-term interactions between DHS and indices returns. In addition, we discover noticeable return differences across quantile subgroups and the differences are further qualified with significant statistics. We also carry out another robustness check with altered quantile setting. In general, the robustness results show no divergence with prior empirical findings.",
+            "keywords": [
+                "Twitter happiness index",
+                "US Indices",
+                "Correlation coefficients",
+                "Granger causality test",
+                "Cross sectional relation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeephsmap/v_3a538_3ay_3a2020_3ai_3ac_3as0378437119315031.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Quantifying the correlation and prediction of daily happiness sentiment and stock return: The Case of Singapore",
+            "abstract": "In this paper, with the newly emerged Twitter happiness index, we employ the VAR regression, linear, and nonlinear Granger causality tests to investigate the predictive correlations between daily happiness sentiment (DHS) and Singapore Straits Times Index (STI) stock performance indicators. The empirical results reveal that DHS presents significant predictability with future STI return. While, for the realized volatility, no compelling forecasting powers are detected. We also perform another two subsample tests as robustness checks. In general, the subsample results are in line with those of the full sample.",
+            "keywords": [
+                "Twitter happiness index",
+                "Singapore Straits Times Index",
+                "VAR regression",
+                "Nonlinear Granger causality test"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeephsmap/v_3a533_3ay_3a2019_3ai_3ac_3as0378437119311550.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

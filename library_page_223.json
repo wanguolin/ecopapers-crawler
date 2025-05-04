@@ -1,0 +1,169 @@
+{
+    "page_info": {
+        "page_number": 223,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "A partially linear approach to modelling the dynamics of spot and futures prices",
+            "abstract": "This paper considers the dynamics of spot and futures prices in the presence of arbitrage. A partially linear error correction model is proposed where the adjustment coefficient is allowed to depend non-linearly on the lagged price difference. The model is estimated using data on the DAX index and the DAX futures contract. We find that the adjustment is indeed nonlinear. The linear alternative is rejected. The speed of price adjustment is increasing almost monotonically with the magnitude of the price difference.",
+            "keywords": [
+                "Futures Markets",
+                "Cointegration",
+                "Partially linear models",
+                "Nonparametric methods"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/1301.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price pressures",
+            "abstract": "We study price pressures in stock prices-price deviations from fundamental value due to a risk-averse intermediary supplying liquidity to asynchronously arriving investors. Empirically, twelve years of daily New York Stock Exchange intermediary data reveal economically large price pressures. A $100,000 inventory shock causes an average price pressure of 0.28% with a half-life of 0.92 days. Price pressure causes average transitory volatility in daily stock returns of 0.49%. Price pressure effects are substantially larger with longer durations in smaller stocks. Theoretically, in a simple dynamic inventory model the 'representative' intermediary uses price pressure to control risk through inventory mean reversion. She trades off the revenue loss due to price pressure against the price risk associated with remaining in a nonzero inventory state. The model's closed-form solution identifies the intermediary's relative risk aversion and the distribution of investors' private values for trading from the observed time series patterns. These allow us to estimate the social costs-deviations from constrained Pareto efficiency-due to price pressure which average 0.35 basis points of the value traded.",
+            "keywords": [
+                "Liquidity",
+                "Inventory Risk",
+                "Intermediary",
+                "Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/201014.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A partially linear approach to modelling the dynamics of spot and futures prices",
+            "abstract": "In this paper we consider the dynamics of spot and futures prices in the presence of arbitrage. We propose a partially linear error correction model where the adjustment coefficient is allowed to depend non-linearly on the lagged price difference. We estimate our model using data on the DAX index and the DAX futures contract. We find that the adjustment is indeed nonlinear. The linear alternative is rejected. The speed of price adjustment is increasing almost monotonically with the magnitude of the price difference.",
+            "keywords": [
+                "Futures Markets",
+                "Cointegrated Systems",
+                "Partially Linear Models",
+                "Nonparametric Methods"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/200812.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do Markets Care About Central Bank Governor Changes? Evidence from Emerging Markets",
+            "abstract": "Central bank governor changes in emerging markets may convey important signals about future monetary policy. Based on a new daily data set, this paper examines the reactions of foreign exchange markets, domestic stock market indices and sovereign bond spreads to central bank governor changes. The data cover 20 emerging markets over the period 1992-2006. We find that the replacement of a central bank governor negatively affects financial markets on the announcement day. This negative effect is mainly driven by irregular changes, i.e., changes occurring before the scheduled end of tenure, sending negative signals about perceived central bank independence. Personal characteristics of the central banker, to the contrary, are less important for market reactions. We find no evidence that changes in the central banker's conservatism affect the reactions of the markets. Finally, market reactions are similar in countries with high and low degrees of central bank independence.",
+            "keywords": [
+                "central bank governor turnover",
+                "monetary policy",
+                "emerging markets",
+                "risk premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwgdec08/29.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The information content of implied volatilities and model-free volatility expectations: Evidence from options written on individual stocks",
+            "abstract": "The volatility information content of stock options for individual firms is measured using option prices for 149 U.S. firms and the S&P 100 index. ARCH and regression models are used to compare volatility forecasts defined by historical stock returns, at-the-money implied volatilities and model-free volatility expectations for every firm. For one-day-ahead estimation, a historical ARCH model outperforms both of the volatility estimates extracted from option prices for 36% of the firms, but the option forecasts are nearly always more informative for those firms that have the more actively traded options. When the prediction horizon extends until the expiry date of the options, the option forecasts are more informative than the historical volatility for 85% of the firms. However, the model-free volatility expectations are generally outperformed by the at-the-money implied volatilities.",
+            "keywords": [
+                "Volatility",
+                "Stock options",
+                "Information content",
+                "Implied volatility",
+                "Model-free volatility expectations",
+                "ARCH models"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/0907.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The European gas market: new evidences",
+            "abstract": "Abstract A single price for the European gas market has been the ultimate goal for European countries. Deregulation of the gas market started in Europe in the late 1990s and three European packages for the creation of a single market for natural gas and electricity have already been issued. The aim of this paper is twofold: to verify whether natural gas prices are converging into a single price in Europe and to identify the reference trading hub for the European market. We study the evolution of natural gas prices during the last decade (2007\u00e2\u0080\u00932017) at various trading hubs with the goal of identifying their level of integration. We examine the integration by testing for the presence of a common stochastic trend among the prices reported at the hubs. In order to detect the reference hub we test for a lead lag relationship between each pair of trading hubs. Our results show a high level of integration among the European trading hubs with the Dutch hub, TTF, playing the role of the reference trading hub.",
+            "keywords": [
+                "Single price",
+                "Gas market integration",
+                "ECM",
+                "Granger causality"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprannopr/v_3a299_3ay_3a2021_3ai_3a1_3ad_3a10.1007_5fs10479-020-03714-5.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market Instability and Technical Trading at High Frequency: Evidence from NASDAQ Stocks",
+            "abstract": "The promotion of financial stability is the mission of central banks and market authorities. This mission is more difficult to accomplish when trading activity is associated with financial instability in the form of intraday price jumps. While the literature has widely shown that exogenous news releases trigger these jumps, very little is known about the consequences of endogenous technical trading on market instability. Using high-frequency 5-minute data on 460 NASDAQ stocks from February to September 2017, we provide new evidence that sharp price movements during the day are also triggered by technical trading around special market configurations. When technical trading activity dominates, intraday price jumps are detected more frequently, and their direction becomes significantly predictable, particularly in small caps and in the energy sector. Our results support the view that the explanations for intraday market instability are not limited to news releases.",
+            "keywords": [
+                "Market instability",
+                "Jumps",
+                "Volatility",
+                "Trading signals",
+                "Technical analysis",
+                "High-frequency data",
+                "NASDAQ",
+                "Sectoral analysis",
+                "Small-cap stocks"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ajflouvlr/2021016.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Monetary Policy and Commodity Prices: an endogenous analysis using an SVAR approach",
+            "abstract": "This work analyzes the relationship between real interest rates and commodity prices. According to Frankel\u00c2\u00b4s hypothesis (1986-2006): low real interest rates lead to high real commodity prices\". However, some empirical evidence suggests that commodity prices can predict monetary policy. In this way, there is an endogeneity between commodity prices and monetary policy. Using Frankel\u00c2\u00b4s model we include a Taylor rule equation in this theoretical model, which let us analyze the endogeneity problem. In order to find empirical support of this model, we estimate SVAR and, using quarterly data from 1962:Q1 to 2009:Q1, we find that the overshooting of commodity prices to 1% increase of real interest rate can be a minimum of 2.86% and a maximum of 5.97% depending on the chosen model. The increase of real interest rate given a 1% increase in commodity prices is positive and significant but of small magnitude (0.20% - 0.05%).\"",
+            "keywords": [
+                "Monetary Policy",
+                "Commodity Prices",
+                "SVAR models."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/col000094/007183.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Political news and stock market reactions: evidence from Turkey over the period 2008\u00e2\u0080\u00932017",
+            "abstract": "The primary objective of the study is to examine the impact of political news (good and bad news) on the returns and volatility of Borsa Istanbul 100 Index (BIST-100). Sample data cover the period from January 2008 to December 2017. The main sample was divided into two subperiods to insulate the dominating impacts of both the 2008 Global Financial Crisis and 2013 Federal Reserve Tapering on Turkish stock markets. The daily stock market data were collected from the Electronic Data Delivery System (EVDS) web service, while political news headlines were collected from the Guardian newspaper. Different nonlinear volatility models (symmetric and asymmetric Generalized AutoRegressive Conditional Heteroskedasticity [GARCH]-type models) were used to model and estimate BIST-100 volatility in response to political news. The findings of the paper highlight four main results. First, there seems to be a significant impact of political news on the returns and volatility of BIST-100 index. Second, negative shocks derived from bad news tend to have a significant impact on the returns and volatility of BIST-100, while positive shocks derived from good news do not tend to have any significant impact on the returns, but decreased returns volatility. Third, political news, both good and bad, can affect stock return and stock return volatility in different directions, and this direction is time-varying. Fourth, the findings strongly reveal the presence of \u00e2\u0080\u009cLeverage Effect\u00e2\u0080\u009d in the returns of BIST-100 index. Therefore, one can say that political uncertainty is still a problem for the Turkish stock market.",
+            "keywords": [
+                "uncertainty",
+                "shock",
+                "return",
+                "volatility",
+                "BIST-100",
+                "GARCH"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/vrsijomae/v_3a55_3ay_3a2019_3ai_3a2_3ap_3a83-98_3an_3a7.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "News announcements, market activity and volatility in the Euro/Dollar foreign exchange market",
+            "abstract": "This paper deals with the impact of nine categories of scheduled and unscheduled news announcements on the Euro/Dollar return volatility. We highlight and analyze the pre-announcement, contemporaneous and postannouncement reactions. Using high-frequency intraday data and within the framework of ARCH-type and realized volatility models, we show that volatility increases in the pre-announcement periods, particularly before scheduled events. Market activity also significantly impacts return volatility as expected by the theoretical literature on order flow.",
+            "keywords": [
+                "foreign exchange market",
+                "volatility",
+                "news announcements",
+                "high frequency data"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/corlouvco/2003029.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Modelling and measuring price discovery in commodity markets",
+            "abstract": "In this paper we present an equilibrium model of commodity spot (St) and future (Ft) prices, with finite elasticity of arbitrage services and convenience yields. By explicitly incorporating and modeling endogenously the convenience yield, our theoretical model is able to capture the existence of backwardation or contango in the long-run spot-future equilibrium relationship, (St-\u00c3\u009f2Ft ). When the slope of the cointegrating vector \u00c3\u009f2>1 (\u00c3\u009f2",
+            "keywords": [
+                "Backwardation",
+                "Cointegration",
+                "Commodity",
+                "markets",
+                "Contango",
+                "Convenience",
+                "Yield",
+                "Future",
+                "prices",
+                "Price",
+                "discovery",
+                "Permanent-transitory",
+                "decomposition"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ctewbrepe/wb074510.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The economic value of cross-predictability: A performance-based measure",
+            "abstract": "Cross-predictability denotes the fact that some assets can predict other assets' returns. I propose a novel performance-based measure that disentangles the economic value of cross-predictability into two components: the predictive power of one asset's signal for other assets' returns (cross-predictive signals) and the amount of an asset's return explained by other assets' signals (cross-predicted returns). Empirically, the latter component dominates the former in the overall cross-prediction effects. In the crosssection, cross-predictability gravitates towards small firms that are strongly mispriced and difficult to arbitrage, while it becomes more difficult to cross-predict returns when market capitalization and book-to-market ratio rise.",
+            "keywords": [
+                "Empirical Asset Pricing",
+                "Portfolio Choice",
+                "Expected Returns",
+                "Cross-Predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwsafewp/300646.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

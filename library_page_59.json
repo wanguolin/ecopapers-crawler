@@ -1,0 +1,150 @@
+{
+    "page_info": {
+        "page_number": 59,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Efficiency of the Foreign Exchange Market of Papua New Guinea During the Recent Float",
+            "abstract": "This paper examines the validity of the efficient market hypothesis (EMH) for the foreign exchange market of Papua New Guinea (PNG) using data on spot exchange rates for four major foreign currencies during the recent float. The unit root test results indicate that all the four exchange rates are random walks supporting the weak-form of the EMH. However, the Johansen multivariate cointegration test, the Granger causality test and variance decomposition analysis provide evidence that there are long-run as well as short-run predictable relationships among the spot exchange rates, refuting the validity of EMH in its semi-strong form. Further, evidence is found that the Australian dollar plays a vital role in driving the movements of exchange rates in PNG. These results have important implications for participants in the foreign exchange market and policy makers in PNG.",
+            "keywords": [
+                "Efficient market hypothesis",
+                "Papua New Guinea",
+                "foreign exchange market",
+                "Japanese yen",
+                "Variance decomposition"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpit/0406007.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Future of the Stock Market Channel In Egypt",
+            "abstract": "The paper attempted to identify the degree of predictability of stock market returns from monetary variables and whether the stock market could be an alternate channel for transmitting monetary policy rather than the traditional money and credit channels. The empirical investigation was conducted using Bayesian VAR models consisting of four endogenous variables with four lags and a constant. Monthly data used in the estimation are the actively traded stocks HFI returns to represent market performance and inflation rate, as well as growth in both M1 and M2, and growth of credit to the private sector to represent the monetary stance. Empirical investigation showed, currently, the effectiveness of the credit channel in transmitting the monetary policy as well as the balance sheet channel. Nevertheless, the results provided evidence that in the future the stock market could be an effective channel in transmitting the monetary policy rather than the traditional credit channel.",
+            "keywords": [
+                "Baysian VAR Models",
+                "Egyptian Stock Market",
+                "Monetary Channels"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0204002.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Optimal Arbitrage Trading",
+            "abstract": "We consider the position management problem for an agent trading a mean- reverting asset. This problem arises in many statistical and fundamental arbitrage trading situations when the short-term returns on an asset are predictable but limited risk-bearing capacity does not allow to fully exploit this predictability. The model is rather simple; it does not require any inputs apart from the parameters of the price process and agent's relative risk aversion. However, the model reproduces some realistic patterns of traders' behaviour. We use the Ornstein-Uhlenbeck process to model the price process and consider a finite horizon power utility agent. The dynamic programming approach yields a non-linear PDE. It is solved explicitly, and simple formulas for the value function and the optimal trading strategy are obtained. We use Monte-Carlo simulation to check for the effects of parameter misspecification.",
+            "keywords": [
+                "arbitrage trading",
+                "mean-reverting process",
+                "stochastic optimal control"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0309012.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can a Stock Index be Less Efficient than Underlying Shares? An Analysis Using Malta Stock Exchange Data",
+            "abstract": "Researchers often assume that stock market indices are the best possible yardstick in terms of market efficiency. The paper investigates this concept using data from the Malta Stock Exchange (MSE). The fact that a significant number of MSE shares do not trade everyday, may imply that the most liquid shares on this exchange are more efficient than the market index, whose value is dependent on shares of varying liquidity levels - including the less liquid ones. The paper applies various tests to compare the pricing efficiency of the MSE Index to that of the most liquid share quoted on the exchange. It is found that the MSE Index is still more efficient than the latter share.",
+            "keywords": [
+                "Malta Stock Exchange",
+                "Non-Synchronous Trading",
+                "Stock Markets."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0507006.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Anomalous Price Behavior Following Earnings Surprises: Does Representativeness Cause Overreaction?",
+            "abstract": "Behavioral Finance aims to explain empirical anomalies by introducing investor psychology as a determinant of asset pricing. This study provides strong evidence that anomalous stock price behavior following earnings announcements is due to a representativeness bias. It investigates current and past earnings surprises and subsequent market reaction for listed US companies over the period 1983-1999. The results suggest that investors overreact to past earnings surprises. As, on average, extreme past surprises are not confirmed by actual earnings figures, they are followed by stock market reactions of the opposite sign. Moreover, the longer the similar earnings surprise series, the higher the subsequent reversal.",
+            "keywords": [
+                "Behavioral finance",
+                "overreaction",
+                "representativeness bias",
+                "earnings announcements"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0505018.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market efficiency reloaded: why insider trades do not reveal exploitable information",
+            "abstract": "Insider trading studies related to the German market have emphasized that outside investors may earn excess returns by mimicking the transactions of corporate directors. Such a result, provided that it holds, would constitute a serious violation of the efficient market hypothesis. The results presented in this paper, though, show that this anomaly is mainly caused by a subset of stocks with high arbitrage risk as measured by their idiosyncratic volatility. This restrains arbitrageurs from engaging in otherwise profitable and price-correcting trades. As arbitrage risk is positively related to a stock's bid/ask-spread, we show that the information conveyed by insider trades cannot be exploited in terms of generating abnormal returns once these transaction costs are taken into account. We conclude that the market's under-reaction to reported insider trades can mainly be explained by the cost associated with risky arbitrage. Our findings provide evidence that the German stock market is efficient with respect to insider trades in the sense that prices reflect publicly available information to the point where the marginal benefit of acting on information exceeds marginal costs.",
+            "keywords": [
+                "Insider Trading",
+                "Directors' Dealings",
+                "Arbitrage Risk",
+                "Market Efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcefswp/200804.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An Analysis of the Impacts of Non-Synchronous Trading On",
+            "abstract": "The serial correlation effects which non-synchronous trading can induce in financial data have been documented by various researchers. In this paper we investigate non-synchronous trading effects in terms of the predictability that may be induced in the values of stock indices. This analysis is applied to emerging-market data, on the grounds that such markets might be less liquid and thus prone to a higher degree of non- synchronous trading. We use both a daily data set and a higher frequency one, since the latter is a prerequisite for capturing intra-day variations in trading activity. When considering one-minute interval data, we obtain clear evidence of predictability between indices with different degrees of non-synchronous trading. We then propose a simple test to infer whether such predictability is mainly attributable to non- synchronous trading or an actual delayed adjustment on part of traders. The results obtained from an intra-day analysis suggest that the former cause seems a better explanation for the observed predictability. Future research in this area is needed to shed light on the degree of data predictability which may be exclusively attributed to non-synchronous trading, and how empirical results may be influenced by the chosen data frequency.",
+            "keywords": [
+                "Non-Synchronous Trading",
+                "Stock Markets",
+                "National Stock Exchange of India",
+                "High-Frequency Data."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0504020.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The liquidity premium in CDS transaction prices: Do frictions matter?",
+            "abstract": "Based on individual CDS transactions cleared by the Depository Trust & Clearing Corporation, we show that illiquidity strongly affects credit default swap premiums. We identify the following effects: First, transaction direction affects prices, as buy (sell) orders lead to premium increases (decreases). Second, larger transactions have a higher price impact. This finding stands in stark contrast to corporate bond markets. Third, traders charge higher premiums as a price for liquidity provision, not as compensation for asymmetric information. Fourth, buyside investors pay significantly higher prices than dealers for demanding liquidity. Last, inventory risk seems to matter little in explaining liquidity premiums.",
+            "keywords": [
+                "CDS",
+                "illiquidity",
+                "temporary price impact",
+                "market power",
+                "immediacy",
+                "DTCC"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/1212r2.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price discovery in spot and futures markets: A reconsideration",
+            "abstract": "We reconsider the issue of price discovery in spot and futures markets. We use a threshold error correction model to allow for arbitrage opportunities to have an impact on the return dynamics. We estimate the model using quote midpoints, and we modify the model to account for time-varying transaction costs. We find that a) the futures market leads in the process of price discovery and that b) the presence of arbitrage opportunities has a strong impact on the dynamics of the price discovery process.",
+            "keywords": [
+                "price discovery",
+                "futures markets",
+                "threshold error correction",
+                "common factor weights"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/0917r.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of investor sentiment on the German stock market",
+            "abstract": "This paper develops a broad-based sentiment indicator for Germany and investigates whether investor sentiment can explain stock returns on the German stock market. Based on a principal component analysis, we construct a sentiment indicator that condenses information of several well-known sentiment proxies. We show that this indicator explains the return spread between sentiment sensitive stocks and stocks that are not sensitive to sentiment fluctuations. Specifically, stocks that are difficult to arbitrage and hard to value are sensitive to the indicator. However, we do not find much predictive power of sentiment for future stock returns.",
+            "keywords": [
+                "investor sentiment",
+                "stock returns",
+                "German stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/1003r.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Liquidity commonality beyond best prices",
+            "abstract": "This paper investigates the commonality of liquidity in an open limit order book market. We find that commonality in liquidity becomes stronger the deeper we look into the limit order book. While commonality is only about 2% at the best prices, it increases up to about 20% inside the limit order book. Furthermore, we find strong time variation in commonality both on an intradaily basis and with the movement of the market return. Our study thus suggests that previous estimates of commonality do not hold for liquidity beyond best prices. Therefore, systematic liquidity risk in a limit order book market is much higher than previous evidence implies.",
+            "keywords": [
+                "Order-Driven Markets",
+                "Liquidity Commonality"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/0604.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Transaction costs and value premium",
+            "abstract": "Value premium has been well documented in the finance literature. This paper empirically examines whether the value strategy of buying value stocks and selling growth stocks is profitable after controlling for transaction costs. Using the limited dependent variable estimate of transaction costs as in Lesmond, Ogden, and Trzcinka (1999), we find that value premium disappears as implementation of a value strategy involves substantial transaction costs. Our results after controlling for size and liquidity are robust to different ways of categorizing value and growth stocks used in the existing literature (Lakonishok, Shleifer, and Vishny (1994), and Fama and French (1993, 2006)) and to different methods of measuring transaction costs.",
+            "keywords": [
+                "Transaction costs",
+                "value stocks",
+                "growth stocks",
+                "value premium",
+                "liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/0706.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "page_info": {
+        "page_number": 14,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Impact of COVID-19 on Performance of Pakistan Stock Exchange",
+            "abstract": "The objective of this study is to determine the impact of COVID-19 on the performance of Pakistani Stock Market. This study uses the data of COVID-19 related positive cases, fatalities, recovers and the closing prices of PSX 100 index of the first half of 2020. The findings of the study suggest that only COVID-19 recoveries are influencing the performance of the index and the daily positive cases and fatalities are insignificantly related to the performance. Further studies can be performed by incorporating other variables such as economic growth, interest rate and inflation rate along with the COVID-19 related variables at a cross-country level.",
+            "keywords": [
+                "COVID-19 and Stock Market",
+                "Pakistan Stock Market and Pandemic",
+                "Financial Markets and Pandemics."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/101540.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "ILLIX - A New Index for Quantifying Illiquidity",
+            "abstract": "Illiquidity is a major issue in today\u00e2\u0080\u0099s risk management, yet there exists no straight-forward quantification of liquidity or illiquidity. We present eight possible measures of liquidity which are partially based on micro-structural market data and examine their evolution over time in the context of the development of financial markets. These eight measures are used for creating the new illiquidity index ILLIX. We outline the calculation of this index and show that it can describe well the liquidity situation in the North American market over the period between 1998 and 2009.",
+            "keywords": [
+                "Liquidity",
+                "Illiquidity",
+                "Financial Markets",
+                "Risk Management",
+                "Market Efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risjofitr/1467.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "\u00e2\u0080\u009cAn empirical investigation of the stock price dynamics between Athens, Istanbul and London",
+            "abstract": "The purpose of this article is to investigate the possibility of short and long term statistical relationships among the stock markets of Greece, Turkey and the U.K. \u00e2\u0080\u0098Causality\u00e2\u0080\u0099 tests provide a statistical framework of testing the extent of possible links among the above equity markets. Our results indicated the existence of long term dynamics which run from the bigger to the smaller markets i.e. Athens Stock Exchange is led by the markets of London and Turkey. The long run dynamics are observed only when the London Stock Exchange is included in the long run solution of the system, giving evidence that the factor which contributes to the integration of the international stock exchanges is international investors.",
+            "keywords": [
+                "Informational Efficiency",
+                "Causality dynamics",
+                "Cointegration"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risecoint/0052.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impact of Political News: Evidence from Russia",
+            "abstract": "In recent times political events started to exert more and more significant impact on national financial systems due to sharpening of political problems in various countries. Undoubtedly, their influence can be followed in price dynamics of stocks which are trading in the securities market. The need to understand political news impact on the market as a whole and its separate industries is faced by investors and market agents for proper orientation in market environment. Since this issue provides rather controversial results in different studies, the authors set the aim to investigate the Russian market with the use of GARCH models. Such approach allowed determining precisely the political events\u00e2\u0080\u0099 influence on return and volatility of market assets as well as leverage and clusterization effects. The obtained results may be beneficial for investors, operating in the Russian stock market, other market agents and specialists in the field of financial science.",
+            "keywords": [
+                "stock market",
+                "impact of political events",
+                "stock price dynamics",
+                "investment strategies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/vrsaicuec/v_3a64_3ay_3a2017_3ai_3a3_3ap_3a271-287_3an_3a1.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Predictability of High-Frequency Returns in the Cryptocurrency Markets and the Adaptive Market Hypothesis",
+            "abstract": "The objective of this study was to examine the level and behaviour of the weak-form efficiency of the 16 most capitalised cryptocurrencies using intraday data. The study employed martingale difference hypothesis tests utilising the rolling window method. The predictability of high frequency returns varied over time. For most of the time, the cryptocurrencies were unpredictable. Nevertheless, their weak-form efficiency appeared to decrease along with an increase in frequency. In general, most cryptocurrencies were marked by high levels of unpredictability. However, there were some significant differences between the most and least efficient ones. To exploit market inefficiencies, investors should focus on higher frequencies. Higher frequencies should also be a concern to regulators when it comes to ensuring market efficiency.",
+            "keywords": [
+                "cryptocurrency markets",
+                "adaptive market hypothesis",
+                "efficient market hypothesis [EMH]",
+                "predictability of returns",
+                "intraday returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/vrsceuecj/v_3a12_3ay_3a2025_3ai_3a59_3ap_3a34-48_3an_3a1003.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The adaptive market hypothesis and the return predictability in the cryptocurrency markets",
+            "abstract": "This study employs robust martingale difference hypothesis tests to examine return predictability in a broad sample of the 40 most capitalized cryptocurrency markets in the context of the adaptive market hypothesis. The tests were applied to daily returns using the rolling window method in the research period from May 1, 2013 to September 30, 2022. The results of this study suggest that the returns of the majority of the examined cryptocurrencies were unpredictable most of the time. However, a great part of them also suffered some short periods of weak-form inefficiency. The results obtained validate the adaptive market hypothesis. Additionally, this study allowed the observation of some differences in return predictability between the examined cryptocurrencies. Also some historical trends in weak-form efficiency were identified. The results suggest that the predictability of cryptocurrency returns might have decreased in recent years also no significant relationship between market cap and predictability was observed.",
+            "keywords": [
+                "cryptocurrency markets",
+                "adaptive market hypothesis",
+                "efficient market hypothesis",
+                "cryptocurrency return predictability",
+                "weak-form efficiency of cryptocurrency markets",
+                "martingale difference hypothesis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/vrsecobur/v_3a9_3ay_3a2023_3ai_3a1_3ap_3a94-118_3an_3a2.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Financial signaling with open market share repurchases and private redemptions",
+            "abstract": "Financial decisions can be used to convey information to uninformed market participants aiming to mitigate pricing inefficiencies. Corporate share repurchases are particularly interesting since they have emerged as an integral component of corporate payout policy with a global spread. The objective of this paper is to quantify the market reaction to the disclosure of buybacks that simultaneously apply open market buyback and private redemption and assess the signaling hypothesis. The results provide evidence for a positive market reaction following the announcement of this type of repurchase. In the same way the findings support the signaling hypothesis and suggest that the magnitude of the post-announcement price alteration is related to the announcement characteristics.",
+            "keywords": [
+                "Share Repurchase",
+                "Buyback",
+                "Open Market Repurchase",
+                "Signaling",
+                "Valuation"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwimbwps/93.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Go Down Fighting: Short Sellers vs. Firms",
+            "abstract": "This study examines battles between short sellers and firms. Firms use a variety of methods to impede short selling, including legal threats, investigations, lawsuits, and various technical actions intended to create a short squeeze. These actions create short sale constraints. Consistent with the hypothesis that short sale constraints allow stocks to be overpriced, firms taking anti-shorting actions have in the subsequent year very low abnormal returns of about \u00e2\u0088\u00922% per month.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprasset/v_3a2_3ay_3a2012_3ai_3a1_3ap_3a1-30..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Order Aggressiveness and Quantity: How Are They Determined in a Limit Order Market?",
+            "abstract": "Dealers trading in a limit order market must choose both the order aggressiveness and the quantity for their orders. We empirically investigate how dealers jointly make these decisions in the foreign exchange market using a unique simultaneous equations model. The model uses an ordered probit model to account for the discrete nature of order aggressiveness and a censored regression model to capture the clustering of orders placed at the smallest available quantity, $1 million. We find evidence of a clear trade-off between order aggressiveness and quantity: more aggressive orders tend to be smaller in size. The increased competition (demand) suggested by increased depth on the same (opposite) side of the market leads to less (more) aggressive orders in smaller (larger) size. This holds for the depths at both the best and off-best prices, even though off-best depths are not observable to dealers.",
+            "keywords": [
+                "Exchange rates",
+                "Financial markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bcabocawp/07-23.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impacts of COVID-19 crisis on spillovers between the oil and stock markets: Evidence from the largest oil importers and exporters",
+            "abstract": "This study examines the multiscale spillovers and nonlinear causalities between the crude oil futures market and the stock markets of the United States (US), Canada, China, Russia, and Venezuela before and during the COVID-19 pandemic. Using the wavelet coherency method, we find strong co-movement between the oil futures market and these five stock markets, particularly from March 2020 to May 2020 (initial period of the COVID-19 outbreak) at high frequency. Furthermore, we find positive co-movements at low frequency during the overall COVID-19 period. This finding suggests that the bearish trend of stock markets is associated with a downward movement in oil prices. Using the wavelet-based Granger causality approach, we find that the oil and stock indices have less co-movement on a smaller scale but greater movement on a larger scale across all periods. As an exception, the Russian market is significantly influenced by oil prices, even on a small scale, before the COVID-19 period, but not after the beginning of the pandemic. We also find effects in the opposite direction\u00e2\u0080\u0094the Canadian and U.S. markets influence oil prices on a small scale during the COVID-19 period, an effect that is not visible for the U.S. market in the pre-COVID-19 sample. The results also show a significant bidirectional causality from oil to stock markets and vice versa during Russian-Saudi oil price war at high scale. Furthermore, we find that investors should hold more oil futures than stock shares in their portfolios for all periods. This evidence confirms that oil instruments are important for hedging during normal periods and act as safe-haven assets during crisis periods. We observe that the U.S. and Canadian stock markets were more affected by oil price shocks than were other countries.",
+            "keywords": [
+                "Oil",
+                "Stock markets",
+                "Spillovers",
+                "Frequency",
+                "COVID-19"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecanpo/v_3a73_3ay_3a2022_3ai_3ac_3ap_3a345-372.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "INITIAL PUBLIC OFFERINGS IN CHILE",
+            "abstract": "This paper studies short- and long-run Initial Public Offering (IPO)performance in Chile. Using both a market index and sector indices as benchmarks, our IPO sample shows significant short-run Cumulative Abnormal Return (CAR) of 4.8% and an insignificant CAR up to 4 years after the initial date. While the proceeds collected are negatively related to short-run underpricing, the quality of the underwriter shows a positive relationship to the same variable. When we classify underwriters as \u00e2\u0080\u009clong term players\u00e2\u0080\u009d or \u00e2\u0080\u009csporadics\u00e2\u0080\u009d, the former show a significantly higher short-run CAR. These results persist in the long-run CAR but without statistical significance. The regulatory environment and the strength of institutional investors seem to play an important role in determining short-run underpricing in Chile. Timing evidence shows a puzzling negative relation between the market\u00e2\u0080\u0099s P/E ratio and the number of companies going public.",
+            "keywords": [
+                "Emerging Markets",
+                "Chile"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/pchabante/v_3a1_3ay_3a1998_3ai_3a1_3ap_3a7-31.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Effects of Earnings Surprises in Quarterly Reports on S&P 500 Components",
+            "abstract": "In this article, we examine with event study methodology how quarterly corporate reports affect share prices. We examine two tightly connected questions: (1) are the effects of earnings surprises in the published earnings per share (EPS) immediately incorporated into the share prices, and (2) can differences in pricing reactions between the sectors of the general stock market and the tech companies, which are more uncertainly valued be shown? According to the results in case of positive and negative EPS surprises (deviation by more than \u00c2\u00b12% from analyst consensus) price reactions are almost complete and happen in the same direction as the deviation promptly, which however are not followed by significant abnormal returns starting from the second day after the announcement. In the group of positive news, the price reaction stemming from EPS surprises proved to be significantly higher in case of tech companies, however there is no significant difference between the two groups in case of negative surprises.",
+            "keywords": [
+                "event studies",
+                "corporate announcements",
+                "market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/pfqjournl/v_3a64_3ay_3a2019_3ai_3a2_3ap_3a239-259.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

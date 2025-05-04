@@ -1,0 +1,159 @@
+{
+    "page_info": {
+        "page_number": 137,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Can investor sentiment predict the size premium?",
+            "abstract": "This study uses theoretical arguments from the psychology and financial decision-making literature to assess the extent to which investor sentiment contributes to explaining the size premium. We use daily, weekly and monthly data for 1965\u00e2\u0080\u00932017, and several investor sentiment measures often used in the recent literature, including stock market-based, survey-based and press-based proxies. We provide empirical evidence that small stock premiums correlate with and are predictable through the use of a set of lagged investor sentiment measures. Our findings hold true for different sample periods and various modeling specifications.",
+            "keywords": [
+                "Investor sentiment",
+                "Market anomalies",
+                "Size effect",
+                "Size premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a63_3ay_3a2019_3ai_3ac_3ap_3a10-26.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Risk appetite, idiosyncratic volatility and expected returns",
+            "abstract": "This paper examines the variations in idiosyncratic volatility in stock returns over time, and evaluates the role of investor sentiment in explaining these variations. This study uses Fama and French's (2015) 5-factor model to calculate the idiosyncratic volatility with data from the Center for Research in Security Prices (CRSP) for 1980\u00e2\u0080\u00932016, and analyzes the effects of investors' risk appetite reflected by market-based, press-based, and survey-based proxies for investor sentiment on the relationship between expected returns and idiosyncratic volatility. The findings demonstrate that risk appetite plays a significant role in explaining and predicting variations in this relationship over time. Specifically, when risk appetite increases, there is a shift from safer to more speculative stocks that is translated into positive effect on the relationship between expected returns and idiosyncratic volatility. In contrast, a lack of appetite for risk has the opposite effect. The results are robust using different subsamples and econometric procedures.",
+            "keywords": [
+                "Cross-section of stock returns",
+                "Idiosyncratic volatility",
+                "Predictability",
+                "Investor sentiment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a65_3ay_3a2019_3ai_3ac_3as1057521919301760.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Fundamental strength strategy: The role of investor sentiment versus limits to arbitrage",
+            "abstract": "This paper evaluates the return predictability of fundamental strength in a two-dimensional framework that considers both investor sentiment and limits to arbitrage simultaneously. Sentiment and limits to arbitrage have independent and overlapping explanatory power on the return predictability of fundamental strength. The return predictability of fundamental strength is more pronounced among stocks with high arbitrage costs following high sentiment. Among stocks with low arbitrage costs, the fundamental strength strategy is profitable only following high sentiment. However, among stocks with high arbitrage costs, the same strategy can earn economically and statistically significant profits even following low sentiment. Consistent with Miller (1977), we emphasize the interaction of sentiment and limits to arbitrage on stock valuation.",
+            "keywords": [
+                "Investor sentiment",
+                "Limits to arbitrage",
+                "Fundamental strength",
+                "Mispricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a71_3ay_3a2020_3ai_3ac_3as1057521919304284.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investing in gold \u00e2\u0080\u0093 Market timing or buy-and-hold?",
+            "abstract": "The literature on gold is dominated by empirical studies on its diversification, hedging, and safe haven properties. In contrast, the question \u00e2\u0080\u009cWhen to invest in gold?\u00e2\u0080\u009d is generally not analyzed in much detail. We test more than 4000 seasonal, technical, and fundamental timing strategies for gold and find evidence for some market timing ability and economic gains relative to a passive buy-and-hold benchmark. However, since the results are not robust to data-snooping biases and limited to specific evaluation periods, we conclude that our findings support the efficiency of the gold market.",
+            "keywords": [
+                "Gold",
+                "Market efficiency",
+                "Investment strategies",
+                "Monthly seasonalities",
+                "Fundamental factors",
+                "Technical indicators",
+                "Superior predictive ability test"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a71_3ay_3a2020_3ai_3ac_3as1057521918306227.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock returns, trading volume, and volatility: The case of African stock markets",
+            "abstract": "The presence of the African Stock Markets (ASMs) in the global frontier markets indices confirms their global portfolio diversification role. This study investigates the asymmetric and intertemporal causality among the stock returns, trading volume, and volatility of eight ASMs. Results based on the linear model reveal that return generally Granger cause trading volume. However, evidence from the quantile regression shows that lagged trading volume has a negative causal effect on returns at low quantiles and positive causal effects at high quantiles. This evidence is consistent with volume-return equilibrium models, disposition and overconfidence models, and information asymmetry models. The positive causal effects of volatility on volume support the dispersion of beliefs model. In contrast, intertemporal evidence of contemporaneous and lagged causal relationships from trading volume to volatility supports the mixture of distribution hypothesis, sequential information acquisition hypothesis, and dynamic efficient market hypothesis. Volume-return and return-volume causality dynamics are quantile-specific and therefore driven by market conditions. However, the volume-volatility causality is dependent on volatility regimes. The linear model results confirm how model misspecification can distort and even reverse empirical evidence relative to nonlinear models.",
+            "keywords": [
+                "Return",
+                "Volume",
+                "Volatility",
+                "Causality",
+                "Quantile",
+                "ASMs"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a82_3ay_3a2022_3ai_3ac_3as1057521922001399.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Flight-to-safety and retail investor behavior",
+            "abstract": "Flight-to-safety (FTS) episodes are associated with substantial yet short-lived changes in expected returns on equities and bonds. These price changes are typically surrounded by active trading and/or risk transfer between different investors. Using aggregate net exchanges, flows from bond to equity mutual funds, in the US for a period 1984 until 2015, I empirically investigate retail investor behavior around FTS episodes. Overall, I find a reversal statistical relation between net exchanges and market excess returns. A one-standard-deviation shock to net exchanges leads to an increase of market excess return of 1.75%, of which 72% is reversed within 5 months. In particular, FTS episodes are preceded by periods where more risk averse investors, e.g. retail investors, rebalance their portfolios towards risky assets. A trading strategy that is based on signals from past net exchanges outperforms the market portfolio, significantly during FTS periods by 1.4% monthly. However, I find that the observed reversal relationship is not necessarily due to price \u00e2\u0080\u0098noise\u00e2\u0080\u0099 induced by uninformed trading. It is more reasonable that the sudden increase in market stress and selling of risky assets is caused by other demand/supply shocks driven by increased economic uncertainty.",
+            "keywords": [
+                "Flight-to-safety",
+                "Mutual funds",
+                "Fund flows",
+                "Net exchanges",
+                "Economic uncertainty",
+                "Risk aversion",
+                "Price noise"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a81_3ay_3a2022_3ai_3ac_3as1057521922001090.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment and the dispersion of stock returns: Evidence based on the social network of investors",
+            "abstract": "This paper extracts an investor sentiment indicator for the 30 DJIA stocks based on the textual classification of 289,024 online tweets posted on the so-called StockTwits, and examines its contemporaneous and predictability effects on the dispersion of stock returns using the quantile regression technique. We find that both contemporaneous and predictability effects of sentiment are heterogeneous throughout the return distribution. Specifically, sentiment is positively contemporaneously associated with stock returns at higher quantiles. However, it is a strong negative predictor of future returns at lower quantiles. Overall, our findings are broadly consistent with most behavioural theories and show that sentiment mainly affects the valuation of assets in extreme market conditions.",
+            "keywords": [
+                "Investor sentiment",
+                "StockTwits",
+                "Stock returns",
+                "Quantile regression"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a78_3ay_3a2021_3ai_3ac_3as1057521921002362.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Index tracking and beta arbitrage effects in comovement",
+            "abstract": "This paper develops a stylised model for S&P 500 index changes with two beta-based styles: index trackers and beta arbitrageurs who trade in both high and low beta event stocks to exploit mean reversion towards one. Arbitrageurs engage in common or contrarian trading patterns relative to index funds depending on whether historical betas are below or above one. Thus, the overall comovement effect has two distinct components. After index additions, pre-event low beta stocks drive the overall beta increases due to common demand \u00e2\u0080\u0093 albeit for different reasons - from indexers and arbitrageurs. By contrast, arbitrageur shorting of high beta additions diminishes or sometimes reverses the beta increases for these stocks driven by indexers. Analogous results hold for index deletions.",
+            "keywords": [
+                "Investment styles",
+                "beta arbitrageurs",
+                "index changes"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a83_3ay_3a2022_3ai_3ac_3as1057521922002812.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Tracking investor gambling intensity",
+            "abstract": "We provide a simple method to track firm-specific investor gambling intensity based on the publicly available transaction data. This identification approach effectively incorporates information on what and how much to buy in the trading decision of an investor with a gambling preference. With empirical analysis based on data of the Chinese stock market from January 2003 to May 2021, we document that investor gambling intensity is strongly persistent and significantly predicts future stock returns, which is not a rediscovery of the well-known lottery effect. Stocks with high aggregate gambling intensity underperform stocks with low aggregate gambling intensity by approximately 117 basis points over the following month. Several potential explanations for such empirical findings are examined, and we document support for the explanation based on information diffusion.",
+            "keywords": [
+                "Investor gambling preference",
+                "Gambling intensity",
+                "Return predictability",
+                "Information diffusion"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a86_3ay_3a2023_3ai_3ac_3as1057521922004185.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do online searches actually measure future retail investor trades?",
+            "abstract": "Using the total daily amount traded exclusively by retail investors in the Brazilian stock market from 2018 to 2020, we find that online searches exhibit a strong association with the future trades of retail investors and that this relationship is observable under different market conditions. Moreover, we also document that the alternative approaches commonly used in the literature to capture investor attention with online searches, such as tickers versus company names, market index attention versus aggregated individual stock attention, or log-differences versus abnormal log-differences of search volumes, are all consistent measures to capture future investor trades. Overall, our findings strongly support the view that online searches are a coherent proxy for the presence of retail investors in the stock market.",
+            "keywords": [
+                "Investor attention",
+                "Online searches",
+                "Retail investors",
+                "Google trends"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a86_3ay_3a2023_3ai_3ac_3as1057521923000686.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Where is the distribution tail threshold? A tale on tail and copulas in financial risk measurement",
+            "abstract": "Estimating the market risk is conditioned by the fat tail of the distribution of returns. But the tail index depends on the threshold of this distribution fat tail. We propose a methodology based on the decomposition of the series into positive outliers, Gaussian central part and negative outliers and uses the latter to estimate this cutoff point. Additionally, from this decomposition, we estimate extreme dependence correlation matrix which is used in the measurement of portfolio risk. For a sample consisting of six assets (Bitcoin, Gold, Brent, Standard&Poor-500, Nasdaq and Real Estate index), we find that our methodology presents better results, in terms of normality and volatility of the tail index, than the Kolmogorov\u00e2\u0080\u0093Smirnov distance, and its unnecessary capital consumption is lower. Also, in the measurement of the risk of a portfolio, the results of our proposal improve those of a t-Student copula and allow us to estimate the extreme dependence and the corresponding indexes avoiding the implicit restrictions of the elliptic and Archimedean copulas.",
+            "keywords": [
+                "Tail index",
+                "Fat tail",
+                "Extreme dependence",
+                "Confidence level"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a86_3ay_3a2023_3ai_3ac_3as1057521923000285.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market conditions and order-type preference",
+            "abstract": "This paper proposes a methodology to investigate the relative preference of limit orders when changes in market conditions lead to temporary violations of the zero-profit condition. We formulate this preference as a function of the intraday structural price components of information and liquidity, the time variation in which is driven by expectations of an expandable set of measures of time varying market conditions. This is then used to investigate when the equilibrium zero-profit condition might be violated, which would lead to a preference for a particular order type. The resulting theoretical and empirical predictions of advanced microstructural pricing models suggest that limit orders should be preferred during periods of intense market activity, such as periods of high volume and short duration, when the price components are positively correlated, and during periods of less intense activity when the components are negatively correlated.",
+            "keywords": [
+                "Limit vs. market orders",
+                "Intraday volatility",
+                "Implied spread",
+                "Risk aversion"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a87_3ay_3a2023_3ai_3ac_3as1057521923000753.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

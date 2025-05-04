@@ -1,0 +1,141 @@
+{
+    "page_info": {
+        "page_number": 19,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Memory moves markets",
+            "abstract": "I show that memory-induced attention can distort prices in financial markets. I exploit rigid earnings announcement schedules to identify which firms are associated in investors\u00e2\u0080\u0099 memory. Firms with randomly overlapping earnings announcements are associated in memory because many investors experience them in the same context. Months later, when only one of the two firms announces earnings, this context is cued, and triggers the recall of the other, associated firm. On such days, I find that memory-induced attention leads to buying pressure in the associated firm\u00e2\u0080\u0099s stock. The strength of this effect varies as predicted by associative memory theory.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/ehllserod/125551.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Spillovers between exchange rate pressure and CDS bid-ask spreads, reserve assets and oil prices using the quantile ARDL model",
+            "abstract": "This paper examines the quantile relationships between the Saudi Riyal (SAR) exchange rate pressure, Credit default swap (CDS) spreads, total reserve assets, and oil prices. Using the available monthly data ranging from 2008 to 2018 and employing the error correction model, the results show a negative and significant relationship between the long-run coefficient of the SAR exchange rate pressure and the long run coefficients of both the CDS and the oil price. However, the long run coefficient of the foreign reserves is statistically insignificant, thus indicating that the exchange rate pressure, CDS spread and oil price variables are cointegrated. As for the short-run coefficients, we find that the lag SAR pressure affects the current pressure. Moreover, the short-run coefficient of the foreign reserves affects negatively the SAR pressure. Moreover, using the quantile ARDL (QARDL) model, we find a significant relationship particularly in the extreme quantiles, regardless of the level or the log level series. Under the long-run coefficients, the positive (negative) relationship characterizes the nexus of the reserves-pressure and the CDS-pressure (oil-pressure) on the SAR. As for the short-run coefficients, we find that an increase in the lag SAR pressures contributes to the current pressure across all quantiles, whereas an increase in the reserves reduces the pressure in the extreme quantiles. These results have important implications for policy makers.",
+            "keywords": [
+                "Exchange rate pressure",
+                "CDS Bid-ask spreads",
+                "Reserve assets",
+                "Oil prices",
+                "Quantile ARDL Model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ciicepiie/2022-q2-170-4.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "What Motivates CEO and CFO Trading \u00e2\u0080\u0093 Contrarian Beliefs or Superior Information?",
+            "abstract": "This paper examines whether trading by CEOs and CFOs is motivated by contrarian beliefs or superior information about future cash flow realizations. Although both CEOs and CFOs earn significant abnormal returns following their trades, we find that CFO trades are associated with higher abnormal returns than CEO trades. Initial analysis suggests that these abnormal returns are related to both contrarian beliefs and superior information about future cash flow realizations. However, when we analyze the trading behavior in terms of routine trading and opportunistic trading, we find that both CEOs and CFOs earn abnormal returns from opportunistic trading and these trades are motivated solely by contrarian beliefs. Our results have important implications for insider trading in the US.",
+            "keywords": [
+                "Insider trading",
+                "CEO",
+                "CFO",
+                "Contrarian beliefs",
+                "Superior information",
+                "Opportunistic and routine trading."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/swnwpaper/2018-10.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Spillovers between exchange rate pressure and CDS bid-ask spreads, reserve assets and oil prices using the quantile ARDL model",
+            "abstract": "This paper examines the quantile relationships between the Saudi Riyal (SAR) exchange rate pressure, Credit default swap (CDS) spreads, total reserve assets, and oil prices. Using the available monthly data ranging from 2008 to 2018 and employing the error correction model, the results show a negative and significant relationship between the long-run coefficient of the SAR exchange rate pressure and the long run coefficients of both the CDS and the oil price. However, the long run coefficient of the foreign reserves is statistically insignificant, thus indicating that the exchange rate pressure, CDS spread and oil price variables are cointegrated. As for the short-run coefficients, we find that the lag SAR pressure affects the current pressure. Moreover, the short-run coefficient of the foreign reserves affects negatively the SAR pressure. Moreover, using the quantile ARDL (QARDL) model, we find a significant relationship particularly in the extreme quantiles, regardless of the level or the log level series. Under the long-run coefficients, the positive (negative) relationship characterizes the nexus of the reserves-pressure and the CDS-pressure (oil-pressure) on the SAR. As for the short-run coefficients, we find that an increase in the lag SAR pressures contributes to the current pressure across all quantiles, whereas an increase in the reserves reduces the pressure in the extreme quantiles. These results have important implications for policy makers.",
+            "keywords": [
+                "Exchange rate pressure",
+                "CDS Bid-ask spreads",
+                "Reserve assets",
+                "Oil prices",
+                "Quantile ARDL Model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeinteco/v_3a170_3ay_3a2022_3ai_3ac_3ap_3a66-78.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An Empirical Analysis of the Shanghai and Shenzhen Limit Order Books",
+            "abstract": "This paper investigates the market microstructure of the Shanghai and Shenzhen Stock Exchanges. The two major Chinese stock markets are pure order-driven trading mechanisms without market makers, and we analyze empirically both limit order books. We begin our empirical modeling using the vector autoregressive model of Hasbrouck and extend the model to incorporate other information in the limit order book. We also study the market impact on A shares, B shares and H shares, and analyze how the market impact of stocks varies cross sectionally with market capitalization, tick frequencies, and turnover. Furthermore, we find that market impact is increasing in trade size. Order imbalances predict the next day's returns, with small order imbalances having a negative effect.",
+            "keywords": [
+                "limit order book",
+                "Chinese stock market",
+                "microstructure",
+                "VAR model"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/rutrutres/201319.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Next Tick on Nasdaq: Does Level II Information Matter?",
+            "abstract": "The Nasdaq stock market provides information about buying and selling interest in what is called the Level II display. Using a bivariate VAR model of trades and quotes, I assess the effect of Level II prices and depths on short-run quote dynamics. I also determine the influence of individual market makers and electronic networks and find evidence of strategic behavior. Finally, I produce a set of dynamic market price responses to buy and sell orders, and I find that these estimates vary with standard measures of liquidity.",
+            "keywords": [
+                "Nasdaq",
+                "Level II",
+                "microstructure",
+                "tick"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/rutrutres/200202.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Strategic Interaction in A Stock Trading Chat Room",
+            "abstract": "We consider a model of an internet chat room with free entry but secure identity. Traders exchange messages in real time of both a fundamental and non-fundamental nature. We explore conditions under which traders post truthful information and make trading decisions. We also establish a symmetric Bayesian Nash equilibrium in which momentum traders profit from their exposure to informed traders in the chat room. The model generates a number of empirical predictions: (1) the non-skillful traders follow the skillful traders; (2) the more skillful traders are more frequently followed by others; (3) the non-skillful traders benefit from following. We test and confirm all three predictions using a data set of chat room logs from the Activetrader Financial Chat Room.",
+            "keywords": [
+                "chat room",
+                "strategic information",
+                "individual traders",
+                "behavioral finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/rutrutres/201317.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is Talk Cheap Online: Strategic Interaction in A Stock Trading Chat Room",
+            "abstract": "We consider a model of an internet chat room with free entry but secure identity. Traders exchange messages in real time of both a fundamental and non-fundamental nature. We explore conditions under which traders post truthful information and make trading decisions. We also a describe an equilibrium in which momentum traders profit from their exposure to informed traders in the chat room. The model generates a number of empirical predictions: (1) unskillful traders post more often than skillful traders; (2) skillful traders will not follow unskillful traders in stock picking; (3) The optimal strategy for unskillful traders is to follow skillful traders in stock picking. We test and affirm all three predictions using a unique data set of chat room logs from the Activetrader Financial Chat Room.",
+            "keywords": [
+                "chat room",
+                "strategic information"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/rutrutres/200701.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Market Reaction To Stock Splits\u00e2\u0080\u0093Evidence From Germany",
+            "abstract": "This paper investigates the market reaction to stock splits, using a set of German firms. Similar to the findings in the U.S., I find significant positive abnormal returns around both the announcement and the execution day of German stock splits. I also observe an increase in return variance and in liquidity after the ex-day. Apparently, legal restrictions strongly limit the ability of German companies to use a stock split for signaling. I find that abnormal returns around the announcement day are consistently much lower in Germany than in the U.S. Further, I find that abnormal returns around the announcement day are not related to changes in liquidity, but (negatively) to firm size, thus lending support to the neglected firm hypothesis. On the methodological side the effect of thin trading on event study results is examined. Using trade-to-trade returns increases the significance of abnormal returns, but the difference between alternative return measurement methods is relatively small in short event periods. Thus, the observed market reaction cannot be attributed to measurement problems caused by thin trading.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/sbrabstra/v_3a54_3ay_3a2002_3ai_3a3_3ap_3a270-297.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Information Contained in the Exercise of Executive Stock Options",
+            "abstract": "This paper investigates whether insiders use private information in their decision to exercise executive stock options. Consistent with existing research, exercises overall do not yield subsequent abnormal returns. Categorising exercises by the proportion of stock sold at exercise yields a marked and significant difference in subsequent performance between those accompanied by a \u00c3\u00a2\u00e2\u0082\u00ac\u00cb\u009chigh\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 and \u00c3\u00a2\u00e2\u0082\u00ac\u00cb\u009clow\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 sale proportion respectively. Further, near-the-money exercises produce negative abnormal returns, consistent with such exercises being expensive. The disparity in US and UK executives\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 exercise behaviour may be related to the extent to which executive remuneration is linked to shareholder wealth, highlighting the difficulties associated with designing effective remuneration packages for executives",
+            "keywords": [
+                "executive stock options",
+                "insider trading",
+                "event studies"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/scescecfa/193.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Nonlinear diachronic effects between stock returns and mutual fund flows: Additional empirical evidence from the Athens Stocks Exchange",
+            "abstract": "This short paper examines the nonlinear interaction between mutual fund flows and stock returns in Greece. We investigate the possibility of a nonlinear causality mechanism through which mutual funds flows may affect stock returns and vice versa. The statistical evidence derived from linear and nonlinear causality tests indicate that there is indeed a bidirectional nonlinear causality between mutual fund flows and stock returns. We also detect a unidirectional causality from the Dow Jones Index to the domestic stock price index and the domestic mutual fund flows.",
+            "keywords": [
+                "Mutual fund flows",
+                "Stock returns",
+                "Linear and Nonlinear Granger Causality."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/crtwpaper/0825.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Non linear diachronic effects between stock returns and mutual fund flows: Additional empirical evidence from the Athens Stocks Exchange",
+            "abstract": "This short paper examines the nonlinear interaction between mutual fund flows and stock returns in Greece. We investigate the possibility of a nonlinear causality mechanism through which mutual funds flows may affect stock returns and vice versa. The statistical evidence derived from linear and nonlinear causality tests indicate that there is indeed a bidirectional nonlinear causality between mutual fund flows and stock returns. We also detect a unidirectional causality from the Dow Jones Index to the domestic stock price index and the domestic mutual fund flows.",
+            "keywords": [
+                "Mutual fund flows",
+                "Stock returns",
+                "Linear and Nonlinear Granger Causality."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/crtwpaper/0824.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "page_info": {
+        "page_number": 105,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Does seasonality persists in Indian stock markets?",
+            "abstract": "The 'conventional wisdom' about efficient markets is that there are little excess returns, relative to the market returns (and the level of risk) that one can make by analysing historical data. But researchers have gathered systematic evidence about markets violating this conventional wisdom. Some of these are calender effects, small-firm or size effect etc. This paper examines a calender effect known as `the-month-of-the-year-effect' and examine whether this much-hyped anomaly is a persisting feature in the Indian market. The paper shows that the previous evidence on seasonality could be the result of the very nature of parametric methods, that it gets influenced by extreme observations. Otherwise, seasonality is not a feature of the current Indian stock markets.",
+            "keywords": [
+                "financial market anomaly",
+                "stock market seasonality",
+                "month of the year effect",
+                "Indian stock market",
+                "January Effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/24185.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Put-call parity violations and return predictability: Evidence from the 2008 short sale ban",
+            "abstract": "We investigate the link between stock and options markets during the 2008 U.S. short sale ban. First, we find definitive evidence that the ban indeed caused stock overvaluation. Second, we show that the short sale ban caused a significant increase in put-call parity violations only in the direction of the short sale constraints and it significantly enhanced the stock return predictability of put-call parity violations. Third, the overvaluation is really large. A portfolio formed on the trading signal that the put-call parity violation is in the top quintile underperforms the lowest quintile portfolio by a statistically and economically significant abnormal daily return of 5.6% during the short sale ban period. We employ a novel and rigorous method of using TAQ intraday data to ensure that our high-low violation arbitrage portfolio as well as the five Fama-French factors used to estimate the abnormal returns are implementable by a hypothetical investor exempt from the shorting ban.",
+            "keywords": [
+                "Short sale ban",
+                "Put-call parity",
+                "Return predictability",
+                "Limits to arbitrage",
+                "Market efficiency",
+                "Information flow"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a106_3ay_3a2019_3ai_3ac_3ap_3a276-297.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The processing of non-anticipated information in financial markets: Analyzing the impact of surprises in the employment report",
+            "abstract": "This paper delineates the simultaneous impact of non-anticipated information on mean and variance of the intraday return process by including appropriate variables accounting for the news flow into both the mean and the variance function. This allows us to differentiate between the consistent price reaction to surprising news and the traders' uncertainty about the precise price impact of this information. Focussing on the US employment report, we find that headline information is almost instantaneously incorporated into T-bond futures prices. Nevertheless, large surprises, and 'bad' news in particular, create considerable uncertainty. In contrast, if surprises in related headlines cross-validate each other, less room for differences of opinion is left, and hence volatility is decreased.",
+            "keywords": [
+                "high-frequency data",
+                "information processing",
+                "macroeconomic announcements",
+                "Treasury bond futures",
+                "trading process",
+                "volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcofedp/0206.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "End-of-the-year economic growth and time-varying expected returns",
+            "abstract": "We show that macroeconomic growth at the end of the year (fourth-quarter or December) strongly predicts the returns of the aggregate market, small- and large-cap stocks, portfolios sorted on book-to-market and dividend yields, bond returns, and international stock returns, whereas economic growth during the rest of the year does not predict returns. End-of-the-year economic growth rates contain considerably more information about expected returns than standard variables used to predict returns, are robust to the choice of macro variables, and work in-sample, out-of-sample, and in subsamples. To explain these results, we show as the second main fi?nding of our paper that economic growth and growth in economic confidence (consumer con?dence and business con?dence) are strongly correlated during the fourth quarter, but not during the other quarters. In summary, we therefore show that when economic growth is low at the end of the year, confi?dence in the economy is also low such that investors require higher future returns. During the rest of the year, there are no such relations between growth, confi?dence, and returns.",
+            "keywords": [
+                "End-of-the-year (fourth-quarter) economic growth",
+                "expected returns",
+                "consumer con?fidence",
+                "purchasing managers index",
+                "risk compensation"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/aahcreate/2012-42.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Bayesian learning in financial markets: Testing for the relevance of information precision in price discovery",
+            "abstract": "An important claim of Bayesian learning and a standard assumption in price discovery models is that the strength of the price impact of unanticipated information depends on the precision of the news. In this paper, we test for this assumption by analyzing intra-day price responses of CBOT T-bond futures to U.S. employment announcements. By employing additional detail information besides the widely used headline figures, we extract release-specific precision measures which allow to test for the claim of Bayesian updating. We find that the price impact of more precise information is significantly stronger. The results remain stable even after controlling for an asymmetric price response to 'good' and 'bad' news.",
+            "keywords": [
+                "Bayesian learning",
+                "information precision",
+                "macroeconomic announcements",
+                "asymmetric price response",
+                "financial markets",
+                "high-frequency data"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/0410.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short And Long-Term Dynamics Of Herd Behaviour At The Johannesburg Stock Exchange",
+            "abstract": "This study uses the Autoregressive Distributed Lag (ARDL) approach to cointegration to examine the short- and long-term dynamics of investors\u00e2\u0080\u0099 herd behaviour at the JSE. The results from the ARDL model suggest that herding exists at the JSE. The study also noted that herd behaviour takes place with lapses in time; however the unrestricted error correction results suggest that such behaviour has a high speed of adjustment, implying that herding is a short-lived phenomenon. Since the direction of the market affects investors\u00e2\u0080\u0099 behaviour, the study also investigated the asymmetric effects of herding behaviour during rising versus falling markets. While herding behaviour was identified during a rising market, the results did not support the presence of herd behaviour in a falling market.",
+            "keywords": [
+                "Herding behaviour",
+                "Behavioural finance",
+                "ARDL."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/afjjournl/v_3a17_3ay_3a2015_3ai_3a2_3ap_3a84-102.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Intraday Information Transmission in the South African Equities Market",
+            "abstract": "Price discovery is an integral function of financial exchanges, while volatility is a primary concern of market participants. Few studies consider both within an intraday equities context. This paper examines the FTSE/JSE Top 40 index and index futures market, and determines this market\u00e2\u0080\u0099s: (i) price discovery process; (ii) respective contributions to the price discovery process; and (iii) volatility spillover process. Volatility spillover is estimated with dynamic conditional correlation GARCH models. Price discovery is futures-led (5-minute interval) \u00e2\u0080\u0093 although bi-directional in shorter intervals. Common Factor Weights show that price discovery is dominated by the futures market. Volatility spillover is a bi-directional process.",
+            "keywords": [
+                "Information Transmission",
+                "Price Discovery",
+                "Volatility Spillover",
+                "FTSE/JSE Top 40",
+                "and Intraday"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/afjjournl/v_3a20_3ay_3a2018_3ai_3a2_3ap_3a1-20.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Futures Basis of RSS3 in the Agricultural Futures Exchange of Thailand",
+            "abstract": "Ribbed smoked rubber sheet no.3 (RSS3) is one of the agricultural commodities in the Agricultural Futures Exchange of Thailand (AFET). Recently, its futures basis has shown volatile behavior. This could reflect its inefficiency as a hedging tool and the inefficiency in AFET itself. This research examines the predictive power of some economic factors. The monthly data during June 2004 to October 2008 were used in the multiple regression analysis. The findings give evidence of statistically significant explanatory powers of the market and macroeconomic information in estimating the futures basis. The AFET could thus be categorized as semi-strong efficiency form of price. The efficiency could be increased by the effective dissemination of knowledge and information to investors to support their investment decision. In addition, the agricultural price risk should be managed through market-based tools.",
+            "keywords": [
+                "futures basis",
+                "RSS3",
+                "AFET"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/aejapecjn/v_3a18_3ay_3a2011_3ai_3a1_3ap_3a15-30.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Impact of Rand/US Dollar Exchange Rate Volatility on the Performance of Futures Markets for Agricultural Commodities",
+            "abstract": "This paper investigates the forecasting power of stock prices using two methods, namely, the random walk and the non-parametric methods. Using daily prices of the FTSE/JSE All Share index it is found that non-parametric methodology reveals distributional behaviour in the time series that is not captured by the random walk model. Based on the out-of-sample predicted mean square error, the F-test for two variances (those of both the observed series and the predicted one) and the bootstrap confidence interval and volatility, this method predicts the future behaviour of stock prices more accurately than the traditional random walk model has done.",
+            "keywords": [
+                "Exchange rate volatility",
+                "futures market",
+                "EMH",
+                "GARCH",
+                "bootstrapping technique"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/afjjournl/v_3a13_3ay_3a2011_3ai_3a1_3ap_3a28-46.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Comparison of News Impacts on Sectoral Stock Returns during the COVID-19 Pandemic in Turkey",
+            "abstract": "This study examines how the volatility of the sectoral stock returns within Borsa \u00c4\u00b0stanbul are affected during the COVID-19 pandemic. The analysis uses daily stock return data for four main sector indices: services, finance, industry, and technology. The sample period of the study covers 03.03.2015\u00e2\u0080\u009311.03.2021, and 12.03.2020-03.04.2021 is separately analyzed for the COVID-19 period. When E-GARCH models and news impact curves are analyzed, it is found that the services sector stock returns volatility differs from other sectoral stock return.",
+            "keywords": [
+                "COVID-19",
+                "Stock returns",
+                "Investment decisions",
+                "E-GARCH model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/anajournl/v_3a7_3ay_3a2021_3ai_3a2_3ap_3a35-46.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Borsa \u00c4\u00b0stanbul\u00e2\u0080\u0099da COVID-19 Etkisi: K\u00c4\u00b1sa D\u00c3\u00b6nemli Sekt\u00c3\u00b6rel Piyasa Tepkilerinin Endeks Baz\u00c4\u00b1nda \u00c3\u0096l\u00c3\u00a7\u00c3\u00bclmesi",
+            "abstract": "\u00c3\u0087al\u00c4\u00b1\u00c5\u009fman\u00c4\u00b1n amac\u00c4\u00b1, COVID-19 pandemisinin Borsa \u00c4\u00b0stanbul (B\u00c4\u00b0ST) \u00c3\u00bczerindeki k\u00c4\u00b1sa d\u00c3\u00b6nemli etkisini \u00c3\u00b6l\u00c3\u00a7mek ve endekslerin pandemi ile ili\u00c5\u009fkili olaylar kar\u00c4\u00b1\u00c5\u009f\u00c4\u00b1nda verdikleri tepkilerde bir farkl\u00c4\u00b1la\u00c5\u009fma olup olmad\u00c4\u00b1\u00c4\u009f\u00c4\u00b1n\u00c4\u00b1 tespit etmektir. Bu ama\u00c3\u00a7la B\u00c4\u00b0ST\u00e2\u0080\u0099te yer alan sekt\u00c3\u00b6rel endekslerden aras\u00c4\u00b1ndan se\u00c3\u00a7ilmi\u00c5\u009f 12 endeks \u00c3\u00bczerinde incelemeler yap\u00c4\u00b1lm\u00c4\u00b1\u00c5\u009f, olay analizi y\u00c3\u00b6ntemi kullan\u00c4\u00b1larak pandemi ile ili\u00c5\u009fkili ikisi pozitif ikisi negatif olmak \u00c3\u00bczere 4 olaya kar\u00c5\u009f\u00c4\u00b1 endekslerin tepkileri kar\u00c5\u009f\u00c4\u00b1la\u00c5\u009ft\u00c4\u00b1r\u00c4\u00b1lm\u00c4\u00b1\u00c5\u009ft\u00c4\u00b1r. Se\u00c3\u00a7ilen olay g\u00c3\u00bcnleri 30 Ocak 2020 tarihinde D\u00c3\u00bcnya Sa\u00c4\u009fl\u00c4\u00b1k \u00c3\u0096rg\u00c3\u00bct\u00c3\u00bc (DS\u00c3\u0096) taraf\u00c4\u00b1ndan Uluslararas\u00c4\u00b1 halk sa\u00c4\u009fl\u00c4\u00b1\u00c4\u009f\u00c4\u00b1 acil durumu ilan\u00c4\u00b1, 11 Mart 2020\u00e2\u0080\u0099de T\u00c3\u00bcrkiye\u00e2\u0080\u0099de ilk vakan\u00c4\u00b1n g\u00c3\u00b6r\u00c3\u00bclmesi, 4 May\u00c4\u00b1s 2020\u00e2\u0080\u0099de normalle\u00c5\u009fmeye ili\u00c5\u009fkin planlamalar\u00c4\u00b1n duyurulmas\u00c4\u00b1 ve 9 Kas\u00c4\u00b1m 2020\u00e2\u0080\u0099de a\u00c5\u009f\u00c4\u00b1 \u00c3\u00a7al\u00c4\u00b1\u00c5\u009fmalar\u00c4\u00b1n\u00c4\u00b1n ba\u00c5\u009far\u00c4\u00b1ya ula\u00c5\u009ft\u00c4\u00b1\u00c4\u009f\u00c4\u00b1 haberinin duyurulmas\u00c4\u00b1d\u00c4\u00b1r. Bulgular de\u00c4\u009ferlendirilirken Mart ay\u00c4\u00b1 boyunca meydana gelen farkl\u00c4\u00b1 olaylar\u00c4\u00b1n etkileri de g\u00c3\u00bcnl\u00c3\u00bck anormal getiriler dikkate al\u00c4\u00b1narak yorumlanmaya \u00c3\u00a7al\u00c4\u00b1\u00c5\u009f\u00c4\u00b1lm\u00c4\u00b1\u00c5\u009ft\u00c4\u00b1r. Elde edilen sonu\u00c3\u00a7lar pandemi ile ili\u00c5\u009fkili olaylar kar\u00c5\u009f\u00c4\u00b1s\u00c4\u00b1nda duyarl\u00c4\u00b1l\u00c4\u00b1\u00c4\u009f\u00c4\u00b1 en y\u00c3\u00bcksek olan endekslerin Teknoloji, Ula\u00c5\u009ft\u00c4\u00b1rma, Turizm, KOB\u00c4\u00b0 ve Bili\u00c5\u009fim sekt\u00c3\u00b6rlerine ait oldu\u00c4\u009funu g\u00c3\u00b6stermi\u00c5\u009ftir. Bu endekslerde pozitif olaylar kar\u00c5\u009f\u00c4\u00b1s\u00c4\u00b1nda pozitif, negatif olaylar kar\u00c5\u009f\u00c4\u00b1s\u00c4\u00b1nda negatif anormal getiriler meydana gelmi\u00c5\u009ftir. Banka ve \u00c4\u00b0leti\u00c5\u009fim endekslerinde olu\u00c5\u009fan anormal getiriler ise \u00c3\u00b6ncekilerle genellikle ters y\u00c3\u00b6nl\u00c3\u00bc olarak ortaya \u00c3\u00a7\u00c4\u00b1km\u00c4\u00b1\u00c5\u009ft\u00c4\u00b1r.",
+            "keywords": [
+                "COVID-19",
+                "Borsa",
+                "Olay \u00c3\u0087al\u00c4\u00b1\u00c5\u009fmas\u00c4\u00b1",
+                "Anormal Getiriler",
+                "Sekt\u00c3\u00b6r Endeksleri"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ahsjournl/v_3a6_3ay_3a2021_3ai_3a2_3ap_3a439-463.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "BORSA \u00c4\u00b0STANBUL\u00e2\u0080\u0099DA \u00c4\u00b0LK HALKA ARZLARIN UZUN D\u00c3\u0096NEM PERFORMANS ANAL\u00c4\u00b0Z\u00c4\u00b0: NORMAL\u00c3\u009cST\u00c3\u009c GET\u00c4\u00b0R\u00c4\u00b0 M\u00c3\u009cMK\u00c3\u009cN M\u00c3\u009c?",
+            "abstract": "Bu \u00c3\u00a7al\u00c4\u00b1\u00c5\u009fman\u00c4\u00b1n amac\u00c4\u00b1, 2002-2006 d\u00c3\u00b6neminde Borsa \u00c4\u00b0stanbul\u00e2\u0080\u0099da ilk defa halka arz edilen hisse senetlerinin uzun d\u00c3\u00b6nem performanslar\u00c4\u00b1n\u00c4\u00b1 analiz etmek suretiyle, yat\u00c4\u00b1r\u00c4\u00b1mc\u00c4\u00b1lar\u00c4\u00b1na istatistiksel olarak anlaml\u00c4\u00b1 bir uzun d\u00c3\u00b6nem normal\u00c3\u00bcst\u00c3\u00bc getiri sa\u00c4\u009flay\u00c4\u00b1p sa\u00c4\u009flamad\u00c4\u00b1\u00c4\u009f\u00c4\u00b1n\u00c4\u00b1 ara\u00c5\u009ft\u00c4\u00b1rmakt\u00c4\u00b1r. \u00c4\u00b0lk defa halka arz edilen hisse senetlerinin getirileri bir, \u00c3\u00bc\u00c3\u00a7 ve be\u00c5\u009f y\u00c4\u00b1ll\u00c4\u00b1k d\u00c3\u00b6nem i\u00c3\u00a7in sat\u00c4\u00b1n al elde tut y\u00c3\u00b6ntemi kullan\u00c4\u00b1larak hesaplanm\u00c4\u00b1\u00c5\u009ft\u00c4\u00b1r. Normal\u00c3\u00bcst\u00c3\u00bc getirilerin hesaplanmas\u00c4\u00b1nda CAPM\u00e2\u0080\u0099den (Sermaye Varl\u00c4\u00b1klar\u00c4\u00b1n\u00c4\u00b1 Fiyatlama Modeli) faydalan\u00c4\u00b1lm\u00c4\u00b1\u00c5\u009ft\u00c4\u00b1r. \u00c3\u0087al\u00c4\u00b1\u00c5\u009fmada, pozitif normal\u00c3\u00bcst\u00c3\u00bc getiriye sahip hisse senedi say\u00c4\u00b1s\u00c4\u00b1n\u00c4\u00b1n elde tutma d\u00c3\u00b6nemi uzad\u00c4\u00b1k\u00c3\u00a7a art\u00c4\u00b1\u00c5\u009f g\u00c3\u00b6sterdi\u00c4\u009fi tespit edilmi\u00c5\u009ftir. \u00c4\u00b0lk defa halka arz edilen hisse senetlerinden olu\u00c5\u009fturulan portf\u00c3\u00b6ylerin bir y\u00c4\u00b1ll\u00c4\u00b1k elde tutma d\u00c3\u00b6nemi i\u00c3\u00a7in % -13,2, \u00c3\u00bc\u00c3\u00a7 y\u00c4\u00b1ll\u00c4\u00b1k elde tutma d\u00c3\u00b6nemi i\u00c3\u00a7in % 19,4 ve be\u00c5\u009f y\u00c4\u00b1ll\u00c4\u00b1k elde tutma d\u00c3\u00b6nemi i\u00c3\u00a7in % 79,2 ortalama normal\u00c3\u00bcst\u00c3\u00bc getiriye sahip oldu\u00c4\u009fu belirlenmi\u00c5\u009ftir. Ancak bir y\u00c4\u00b1ll\u00c4\u00b1k elde tutma d\u00c3\u00b6nemi i\u00c3\u00a7in y\u00c3\u00bcksek fiyatlama olgusunun varl\u00c4\u00b1\u00c4\u009f\u00c4\u00b1, \u00c3\u00bc\u00c3\u00a7 y\u00c4\u00b1ll\u00c4\u00b1k elde tutma d\u00c3\u00b6nemi i\u00c3\u00a7in ise d\u00c3\u00bc\u00c5\u009f\u00c3\u00bck fiyatlama olgusunun varl\u00c4\u00b1\u00c4\u009f\u00c4\u00b1 istatistiksel olarak anlaml\u00c4\u00b1 \u00c3\u00a7\u00c4\u00b1kmazken, be\u00c5\u009f y\u00c4\u00b1ll\u00c4\u00b1k elde tutma d\u00c3\u00b6nemi i\u00c3\u00a7in d\u00c3\u00bc\u00c5\u009f\u00c3\u00bck fiyatlama olgusunun varl\u00c4\u00b1\u00c4\u009f\u00c4\u00b1 istatistiksel olarak anlaml\u00c4\u00b1 \u00c3\u00a7\u00c4\u00b1km\u00c4\u00b1\u00c5\u009ft\u00c4\u00b1r. Bu durum, yat\u00c4\u00b1r\u00c4\u00b1mc\u00c4\u00b1lar\u00c4\u00b1n ilk defa halka arz edilen hisse senetlerine be\u00c5\u009f y\u00c4\u00b1ll\u00c4\u00b1k elde tutma d\u00c3\u00b6nemini kapsayacak \u00c5\u009fekilde yat\u00c4\u00b1r\u00c4\u00b1m yapmalar\u00c4\u00b1 halinde normal\u00c3\u00bcst\u00c3\u00bc getiri sa\u00c4\u009flayacaklar\u00c4\u00b1na i\u00c5\u009faret etmektedir.",
+            "keywords": [
+                "\u00c4\u00b0lk Halka Arz",
+                "Uzun D\u00c3\u00b6nem Performans",
+                "Normal\u00c3\u00bcst\u00c3\u00bc Getiri"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ahsjournl/v_3a2_3ay_3a2017_3ai_3a1_3ap_3a6-19.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

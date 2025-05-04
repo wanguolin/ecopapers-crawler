@@ -1,0 +1,155 @@
+{
+    "page_info": {
+        "page_number": 246,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The Effects of Monetary Policy on Stock Market Bubbles: Some Evidence",
+            "abstract": "We estimate the response of stock prices to monetary policy shocks using a time-varying coefficients VAR. Our evidence points to protracted episodes in which stock prices end up increasing persistently in response to an exogenous tightening of monetary policy. That response is at odds with the \"conventional\" view on the effects of monetary policy on bubbles, as well as with the predictions of bubbleless models. We also argue that it is unlikely that such evidence can be accounted for by an endogenous response of the equity premium to the monetary policy shock. (JEL E43, E44, E52, G12, G14)",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/aeaaejmac/v_3a7_3ay_3a2015_3ai_3a1_3ap_3a233-57.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Uncertainty in the Black\u00e2\u0080\u0093Litterman model: Empirical estimation of the equilibrium",
+            "abstract": "The Black\u00e2\u0080\u0093Litterman model is a widely used and well established application of the Bayesian framework to asset allocation problems. It is, however, difficult to calibrate, as it requires the specification of abstract uncertainty parameters. We propose a new, more flexible model that allows the empirical estimation of the equilibrium, alleviating the need for parametrization. In an empirical application, we illustrate the sensitivity of the classical Black\u00e2\u0080\u0093Litterman model to the choice of the uncertainty parameter. We then demonstrate that the flexible model successfully exploits information in the cross-section of index constituents\u00e2\u0080\u0099 returns to find an optimal trade-off in calibration of the uncertainty.",
+            "keywords": [
+                "Asset allocation",
+                "Bayesian",
+                "Black\u00e2\u0080\u0093Litterman model",
+                "Error components models",
+                "Model uncertainty",
+                "Portfolio choice"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a72_3ay_3a2023_3ai_3ac_3ap_3a251-275.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Flight-to-liquidity: Evidence from China's stock market",
+            "abstract": "In an order-driven and strictly regulated stock market, illiquidity risks' effects on asset pricing should be highlighted, particularly in such extreme market conditions as those in China. This paper utilizes panel data from China's stock market in an attempt to answer whether the illiquidity risk in various dimensions\u00e2\u0080\u0094including price impacts, the transaction speed, trading volume, transaction costs, and asymmetric information\u00e2\u0080\u0094can explain stock returns. We find that almost all dimensions of stock illiquidity are positively associated with excess stock returns. More importantly, smaller, less-liquid stocks suffer more liquidity costs, providing a strong evidence for \u00e2\u0080\u009cflight-to-liquidity.\u00e2\u0080\u009d Additionally, the transaction costs and asymmetric information, denoted by bid-ask spreads, robustly account for these illiquidity effects on stock pricing and differ from the findings in the U.S. market. We also find that the \u00e2\u0080\u009cflight-to-liquidity\u00e2\u0080\u009d can partially explain the idiosyncratic volatility puzzle, investors' gambling, and herding psychologies. This study provides substantial policy implications in regulation and portfolio management for emerging markets.",
+            "keywords": [
+                "Stock illiquidity",
+                "Stock returns",
+                "High frequency bid-ask spreads",
+                "Financial anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeememar/v_3a38_3ay_3a2019_3ai_3ac_3ap_3a159-181.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A frequency-domain alternative to long-horizon regressions with application to return predictability",
+            "abstract": "This paper aims at improved accuracy in testing for long-run predictability in noisy series, such as stock market returns. Long-horizon regressions have previously been the dominant approach in this area. We suggest an alternative method that yields more accurate results. We find evidence of predictability in S&P 500 returns even when the confidence intervals are constructed using model-free methods based on subsampling.",
+            "keywords": [
+                "Predictive regression",
+                "Semiparametric method",
+                "Local-to-unity",
+                "Long memory",
+                "Long-horizon regression",
+                "Subsampling"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a28_3ay_3a2014_3ai_3ac_3ap_3a261-272.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Implied volatility information of Chinese SSE 50 ETF options",
+            "abstract": "This paper examines the impact of the implied volatility information in SSE 50 ETF options on the underlying securities volatility. After segmenting options according to option type, moneyness, time to maturity and trading years, we confirm that options contain implied volatility information about the underlying securities, and there is a significant positive effect of the volatility risk premium on the volatility of underlying securities. As for the regression coefficient of volatility risk premium, the call option is higher than the put option due to the investors' risk aversion, and the long-term option is higher than the short-term option. With the moneyness from DOTM to DITM, the call options decrease while the put options increase for the existence of skew and kurtosis risk.",
+            "keywords": [
+                "Implied volatility information",
+                "Chinese SSE 50 ETF options",
+                "Volatility risk premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a82_3ay_3a2022_3ai_3ac_3ap_3a609-624.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The dynamic behavior of evolving efficiency: Evidence from the UAE stock markets",
+            "abstract": "The study examines the dynamic behavior of evolving efficiency in the United Arab Emirates (UAE) stock markets (i.e. the Dubai Financial Market (DFM) and the Abu Dhabi Stock Exchange (ADSE)) within four subsamples representing four key timeframes: prior to the 2008 global financial crisis (GFC), during the GFC, the Arab uprising crisis (AUC) and the 2014 oil prices crisis (OPC). On the empirical level, the modified logperiodogram (MLP) fractional differencing semi-parametric method is used to measure evolving efficiency. We find that the DFM and ADSE exhibit evidence of evolving efficiency. Both markets are found to be generally inefficient with a trend of improvement towards the weak-form of efficiency. This suggests that stock prices are predictable and possible arbitrage opportunities are present. The study also finds that the evolving efficiency process is: i) time-variant; and ii) exhibits evidence of conditional volatility and volatility persistence. However, we find no evidence of a leverage effect and asymmetric long memory volatility. These findings hold in the full sample and across all subsamples. Finally, we find that the long memory volatility model, in particular FIAPARCH, outperform the GARCH models in long-term, out-of-sample forecasting performance. The study also suggests that shocks resulting from crises do not provide stronger evidence for the dynamic behaviors of evolving efficiency. Our findings are among the foremost criteria for making investment decisions, and can reliably serve the needs of investors in their capital budgeting in order to ideally allocate their investment funds.",
+            "keywords": [
+                "Evolving efficiency",
+                "Volatility persistence",
+                "Financial crisis",
+                "GARCH"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a73_3ay_3a2019_3ai_3ac_3ap_3a119-135.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A study of linkages between frontier markets and the U.S. equity markets using multivariate GARCH and transfer entropy",
+            "abstract": "This paper studies the integration of 20 frontier equity markets with the U.S. equity markets using variance ratios, conditional correlations and transfer entropies. The results show considerable regional variation in the level of integration. The volatility transfers, conditional correlations and transfer entropy are significantly affected by the housing market crisis of 2008\u00e2\u0080\u00932009. The European debt crisis of 2011\u00e2\u0080\u00932012 has less significant impact on the integration measures.",
+            "keywords": [
+                "Frontier markets",
+                "Transfer entropy",
+                "Dynamic conditional correlation",
+                "Contagion",
+                "Housing market crisis",
+                "European debt crisis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeemulfin/v_3a32-33_3ay_3a2015_3ai_3a_3ap_3a95-115.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asymmetric information, heterogeneous prior beliefs, and public information",
+            "abstract": "We present a dynamic trading model that assumes traders face not only asymmetric information but also heterogeneous prior beliefs under a mandatory public disclosure requirement. We find that the overconfident insider chooses to trade in an alternating way in the sense that he underreacts to his information in the first period, overreacts in the second, underreacts in the third, overreacts in the fourth, and so on. The irrational insider trades in this way not only to dissimulate his information but also to equalize his profits across periods. The coexistence of public disclosure and heterogeneous prior beliefs leads to large and fluctuant trading volumes, and the more underconfident the insider is, the greater is the degree of fluctuation. Also, contrarian and momentum trading arise endogenously as a result of the insider's irrationality and the public disclosure. Finally, we present the economic explanation for our model by giving the Granger causality relationship between the amended price series and the insider's trading order series.",
+            "keywords": [
+                "Public disclosure",
+                "Insider trading",
+                "Price discovery",
+                "Heterogeneous prior beliefs",
+                "Granger causality"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a46_3ay_3a2016_3ai_3ac_3ap_3a100-120.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Machine learning for US cross-industry return predictability under information uncertainty",
+            "abstract": "This paper investigates the association between industry information uncertainty and cross-industry return predictability using machine learning in a general predictive regression framework. We show that controlling for post-selection inference and performing multiple tests improves the in-sample predictive performance of cross-industry return predictability in industries characterized by high uncertainty. Ordinary least squares post-least absolute shrinkage and selection operator models incorporating lagged industry information uncertainty for the financial and commodity industries are critical to improving prediction performance. Furthermore, in-sample industry return forecasts establish heterogeneous predictability over US industries, in which excess returns are more predictable in sectors with medium or low uncertainty.",
+            "keywords": [
+                "Predictive regression",
+                "OLS post-LASSO",
+                "Post-selection inference",
+                "Industry-rotation portfolio"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a64_3ay_3a2023_3ai_3ac_3as0275531923000193.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Expectation disarray: Analysts' growth forecast anomaly in China",
+            "abstract": "Analysts' growth forecasts positively predict stock returns in China, opposite to the results found in the US. Strategies that buy stocks with high growth forecasts and sell those with low growth forecasts earn annual abnormal returns of up to 20% (with t-values exceeding three). These results are stronger for longer-horizon forecasts and ex-ante more informative forecasts. In addition, the deviation of analysts' forecasts from unbiased forecasts based on statistical models positively predicts abnormal returns. Although the relationship between analysts' forecasts and returns in China is opposite to that in the US, these forecasts positively predict actual growth and are often too extreme, as in the US. Our results suggest that investors in China overlook valuable information contained in analysts' forecasts.",
+            "keywords": [
+                "Stock return",
+                "Analyst forecast",
+                "China",
+                "Expectation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a82_3ay_3a2023_3ai_3ac_3as0927538x23002639.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The effects of monetary policy on stock returns: Financing constraints and \u00e2\u0080\u009cinformative\u00e2\u0080\u009d and \u00e2\u0080\u009cuninformative\u00e2\u0080\u009d FOMC statements",
+            "abstract": "We use firm-level data to reexamine the issue of possibly different impacts of \u00e2\u0080\u009cinformative\u00e2\u0080\u009d and \u00e2\u0080\u009cuninformative\u00e2\u0080\u009d FOMC statements on stock returns in the period from 1999 to 2007. Our paper finds that stock returns respond significantly to surprise monetary shocks based on the informative FOMC statements; there is little evidence to show that stock returns respond to surprise monetary shocks based on uninformative statements.",
+            "keywords": [
+                "Monetary policy",
+                "Stock returns",
+                "Informative FOMC statement",
+                "Financial constraints"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a29_3ay_3a2014_3ai_3ac_3ap_3a273-290.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Realized correlation analysis of contagion",
+            "abstract": "This paper investigates the cross-market contagion between spot and futures US stock markets by examining the significance and properties (textbook and lead-lag asymmetries) of realized correlation, testing the assumptions of the cost-of-carry model, as well as testing the in-sample predictive significance of heterogeneity and jumps to realized correlation. Evidence from the US stock market suggests realized correlation can be very helpful analyzing contagion. There is strong evidence of statistically significant cross-market contagion in the US stock markets, when realized correlation is used as conditional correlation, across all methods employed. To the best of my knowledge, this paper is the first to nonparametrically analyze contagion based on realized correlation.",
+            "keywords": [
+                "Contagion",
+                "Cost-of-carry",
+                "Asymmetries",
+                "Heterogeneity",
+                "Jumps",
+                "Liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a60_3ay_3a2016_3ai_3ac_3ap_3a138-148.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

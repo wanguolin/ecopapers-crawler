@@ -1,0 +1,134 @@
+{
+    "page_info": {
+        "page_number": 80,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "DO SEASONAL ANOMALIES STILL EXIST IN CENTRAL AND EASTERN EUROPEAN COUNTRIES? A CONDITIONAL VARIANCE APPROACH",
+            "abstract": "Given the Efficient Market Hypothesis (EMH), the aim of this paper is to investigate three seasonal anomalies, both in return and volatility \u00e2\u0080\u0093 that is, the day-of-the-week effect, the week-of-the-month effect, and the month-of-the effect, respectively, for a sample of 11 countries from Central and Eastern Europe area from 2000 to 2015 by employing a conditional variance approach. Our results show that the EMH does not hold for all the markets we have surveyed. Moreover, the seasonal effects are also present in the volatility equations. Therefore, these markets are not efficient, giving rise to arbitrage opportunities. Hence, the investors may take advantage of these anomalies by designing profitable trading strategies which account for transaction costs and make abnormal returns.",
+            "keywords": [
+                "seasonal anomalies",
+                "efficient market hypothesis",
+                "arbitrage",
+                "stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2017_3ai_3a4_3ap_3a60-83.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Replicating Anomalies",
+            "abstract": "The anomalies literature is infested with widespread p-hacking. We replicate the entire anomalies literature in finance and accounting by compiling a largest-to-date data library that contains 447 anomaly variables. With microcaps alleviated via New York Stock Exchange breakpoints and value-weighted returns, 286 anomalies (64%) including 95 out of 102 liquidity variables (93%) are insignificant at the conventional 5% level. Imposing the cutoff t-value of three raises the number of insignificance to 380 (85%). Even for the 161 significant anomalies, their magnitudes are often much lower than originally reported. Out of the 161, the q-factor model leaves 115 alphas insignificant (150 with t",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/23394.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predicting bid-ask spreads using long memory autoregressive conditional poisson models",
+            "abstract": "We introduce a long memory autoregressive conditional Poisson (LMACP) model to model highly persistent time series of counts. The model is applied to forecast quoted bid-ask spreads, a key parameter in stock trading operations. It is shown that the LMACP nicely captures salient features of bid-ask spreads like the strong autocorrelation and discreteness of observations. We discuss theoretical properties of LMACP models and evaluate rolling window forecasts of quoted bid-ask spreads for stocks traded at NYSE and NASDAQ. We show that Poisson time series models significantly outperform forecasts from ARMA, ARFIMA, ACD and FIACD models. The economic significance of our results is supported by the evaluation of a trade schedule. Scheduling trades according to spread forecasts we realize cost savings of up to 13 % of spread transaction costs.",
+            "keywords": [
+                "bid-ask spreads",
+                "forecasting",
+                "high-frequency data",
+                "stock market liquidity",
+                "count data time series",
+                "long memory Poisson autoregression"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwsfb649/sfb649dp2011-044.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Has there always been underpricing and long-run underperformance? IPOs in Germany before World War I",
+            "abstract": "This paper provides empirical evidence on initial public offerings (IPOs) by investigating the pricing and long-run performance of IPOs using a unique data set collected on the German capital market before World War I. Our findings indicate that underpricing of IPOs has existed, but has significantly decreased over time in our sample. Employing a mixture of distributions approach we also find evidence of price stabilization of IPOs. Concerning long-run performance, investors who bought their shares in the early after-market and held them for more than three years experienced significantly lower returns than the respective industry as a whole..",
+            "keywords": [
+                "Initial Public Offerings",
+                "Underpricing",
+                "Long-Run Underperformance",
+                "Prize Stabilization",
+                "Impact of Changing Stock-Market Regulation and Institution"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/200012.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price adjustment to news with uncertain precision",
+            "abstract": "Bayesian learning provides a core concept of information processing in financial markets. Typically it is assumed that market participants perfectly know the quality of released news. However, in practice, news' precision is rarely disclosed. Therefore, we extend standard Bayesian learning allowing traders to infer news' precision from two different sources. If information is perceived to be imprecise, prices react stronger. Moreover, interactions of the different precision signals affect price responses nonlinearly. Empirical tests based on intra-day T-bond futures price reactions to employment releases confirm the model's predictions and reveal statistically and economically significant effects of news' precision.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/zbwsfb649/sfb649dp2008-025.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Quantifying high-frequency market reactions to real-time news sentiment announcements",
+            "abstract": "We examine intra-day market reactions to news in stock-specific sentiment disclosures. Using pre-processed data from an automated news analytics tool based on linguistic pattern recognition we extract information on the relevance as well as the direction of company-specific news. Information-implied reactions in returns, volatility as well as liquidity demand and supply are quantified by a high-frequency VAR model using 20 second intervals. Analyzing a cross-section of stocks traded at the London Stock Exchange (LSE), we find market-wide robust news-dependent responses in volatility and trading volume. However, this is only true if news items are classified as highly relevant. Liquidity supply reacts less distinctly due to a stronger influence of idiosyncratic noise. Furthermore, evidence for abnormal highfrequency returns after news in sentiments is shown.",
+            "keywords": [
+                "firm-specific news",
+                "news sentiment",
+                "high-frequency data",
+                "volatility",
+                "liquidity",
+                "abnormal returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwsfb649/sfb649dp2009-063.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price adjustment to news with uncertain precision",
+            "abstract": "We analyze how markets adjust to new information when the reliability of news is uncertain and has to be estimated itself. We propose a Bayesian learning model where market participants receive fundamental information along with noisy estimates of news' precision. It is shown that the efficiency of a precision estimate drives the the slope and the shape of price response functions to news. Increasing estimation errors induce stronger nonlinearities in price responses. Analyzing high-frequency reactions of Treasury bond futures prices to employment releases, we find strong empirical support for the model's predictions and show that the consideration of precision uncertainty is statistically and economically important.",
+            "keywords": [
+                "Bayesian learning",
+                "macroeconomic announcements",
+                "information quality",
+                "precision signals"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/0804r.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Quantifying high-frequency market reactions to real-time news sentiment announcements",
+            "abstract": "We examine intra-day market reactions to news in stock-specific sentiment disclosures. Using pre-processed data from an automated news analytics tool based on linguistic pattern recognition we extract information on the relevance as well as the direction of company-specific news. Information-implied reactions in returns, volatility as well as liquidity demand and supply are quantified by a high-frequency VAR model using 20 second intervals. Analyzing a cross-section of stocks traded at the London Stock Exchange (LSE), we find market-wide robust news-dependent responses in volatility and trading volume. However, this is only true if news items are classified as highly relevant. Liquidity supply reacts less distinctly due to a stronger influence of idiosyncratic noise. Furthermore, evidence for abnormal highfrequency returns after news in sentiments is shown.",
+            "keywords": [
+                "Firm-specific News",
+                "News Sentiment",
+                "High-frequency Data",
+                "Volatility",
+                "Liquidity",
+                "Abnormal Returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/200931.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price adjustment to news with uncertain precision",
+            "abstract": "Bayesian learning provides the core concept of processing noisy information. In standard Bayesian frameworks, assessing the price impact of information requires perfect knowledge of news' precision. In practice, however, precision is rarely dis- closed. Therefore, we extend standard Bayesian learning, suggesting traders infer news' precision from magnitudes of surprises and from external sources. We show that interactions of the different precision signals may result in highly nonlinear price responses. Empirical tests based on intra-day T-bond futures price reactions to employment releases confirm the model's predictions and show that the effects are statistically and economically significant.",
+            "keywords": [
+                "Bayesian Learning",
+                "Macroeconomic Announcements",
+                "Information Quality",
+                "Precision Signals"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/200828.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do Domestic Investors Have More Valuable Information About Individual Stocks Than Foreign Investors?",
+            "abstract": "Using trade data from Korea from December 1996 to November 1998, we find evidence that domestic individual investors have a short-lived private information advantage for individual stocks over foreign investors, but almost no evidence that domestic institutional investors have such an advantage. Foreign investors trade at worse prices than resident investors for large trades, for smaller stocks, and more so for sales than for purchases. Foreign investors sell to domestic investors before a stock has a large positive abnormal return and buy from domestic investors before a stock has a large negative abnormal return. Using intraday data, the large trades of domestic individual investors have more information than the large trades of foreign investors or of domestic institutional investors.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/8073.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Breadth of Ownership and Stock Returns",
+            "abstract": "We develop a model of stock prices in which there are both differences of opinion among investors as well as short-sales constraints. The key insight that emerges is that breadth of ownership is a valuation indicator. When breadth is low i.e., when few investors have long positions in the stock this signals that the short-sales constraint is binding tightly, implying that prices are high relative to fundamentals and that expected returns are therefore low. Thus reductions (increases) in breadth should forecast lower (higher) returns. Using quarterly data on mutual fund holdings over the period 1979-1998, we find evidence supportive of this prediction: stocks whose change in breadth in the prior quarter places them in the lowest decile of the sample underperform those in the top change-in-breadth decile by 6.38% in the first twelve months after portfolio formation. After adjusting for size, book-to-market and momentum, the corresponding figure is 4.95%.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/8151.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market Liquidity as a Sentiment Indicator",
+            "abstract": "We build a model that helps explain why increases in liquidity - such as lower bid-ask spreads, a lower price impact of trade, or higher share turnover - predict lower subsequent returns in both firm-level and aggregate data. The model features a class of irrational investors, who underreact to the information contained in order flow, thereby boosting liquidity. In the presence of short-sales constraints, unusually high liquidity is a symptom of the fact that the market is currently dominated by these irrational investors, and hence is overvalued. This theory can also explain how managers might successfully time the market for seasoned equity offerings (SEOs), by simply following a rule of thumb that involves issuing when the SEO market is particularly liquid. Empirically, we find that: i) aggregate measures of equity issuance and share turnover are highly correlated; yet ii) in a multiple regression, both have incremental predictive power for future equal-weighted market returns.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/8816.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "page_info": {
+        "page_number": 188,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Price Discovery and Foreign Participation in the Republic of Korea\u00e2\u0080\u0099s Government Bond Cash and Futures Markets",
+            "abstract": "This paper examines the impact of foreign participation in Korean Treasury Bond (KTB) futures and its role in price discovery for KTBs, using daily transactions data from the over-the-counter market for KTBs and from the Korea Exchange for the futures. Our analysis suggests that foreign trading in the KTB futures market leads the price discovery process for the underlying bonds. Empirical results show that foreigners\u00e2\u0080\u0099 daily net long positions in the futures market exert significant influence in KTB and KTB futures prices. We also find that it is the unexpected component of foreign investors\u00e2\u0080\u0099 net long futures positions that explains a significant share of the pricing effects, suggesting that how foreign trading responds to news carries additional information content.",
+            "keywords": [
+                "price discovery",
+                "emerging market bonds",
+                "foreign participation"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/risadbewp/0427.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Positive Stock Information In Out-Of-The-Money Option Prices",
+            "abstract": "We examine whether the option market leads the stock market with respect to positive in addition to negative price discovery. We document that out-of-the-money (OTM) option prices, which determine the Risk-Neutral Skewness (RNS) of the underlying stock return\u00e2\u0080\u0099s distribution, can embed positive information regarding the underlying stock. A long-only portfolio of stocks with the highest RNS values yields significant positive alpha in the post-ranking week during the period 1996-2014. This outperformance is mainly driven by stocks that are relatively underpriced but are also exposed to greater downside risk. These findings are consistent with a trading mechanism where investors choose to exploit perceived stock underpricing via OTM options due to their embedded leverage, rather than directly buying the underlying stock to avoid exposure to its potential downside. Due to the absence of severe limits-to-arbitrage for the long-side, the price correction signalled by RNS is very quick, typically overnight.",
+            "keywords": [
+                "Option-Implied Information",
+                "Price Discovery",
+                "Risk-Neutral Skewness",
+                "Stock Underpricing",
+                "Downside Risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/qmwqmwecw/859.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asset Price Dynamics in a Financial Market with Heterogeneous Trading Strategies and Time Delays",
+            "abstract": "In this paper we present a continuous time dynamical model of heterogeneous agents interacting in a financial market where transactions are cleared by a market maker. The market is composed of fundamentalist, trend following and contrarian agents who process information from the market with different time delays. Each class of investor is characterized by path dependent risk aversion. We also allow for the possibility of evolutionary switching between trend following and contrarian strategies. We find that the system shows periodic, quasi-periodic and chaotic dynamics as well as synchronization between technical traders. Furthermore, the model is able to generate time series of returns that exhibit statistical properties similar to those of the S&P500 index, which is characterized by excess kurtosis, volatility clustering and long memory.",
+            "keywords": [
+                "Dynamic asset pricing",
+                "Heterogeneous agents",
+                "Complex dynamics",
+                "Strange attractors",
+                "Chaos",
+                "Intermittency",
+                "Stock market dynamics",
+                "Synchronization."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/sapwpaper/wp88.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The predictive power of the present value model of stock prices",
+            "abstract": "Using monthly data from 1926:01 to 2003:12 for the United States, this paper examines the predictability of real stock prices based on the dividend-price ratio. In particular, we focus on estimating and forecasting a nonlinear exponential smooth autoregressive model (ESTAR). One motivation for nonlinearity in asset markets is the presence of transaction costs, which result in a nonlinear adjustment process towards equilibrium through arbitrage. Using a novel approach that allows for the joint testing of nonlinearity and nonstationarity, we are able to reject the null hypothesis of linearity and that of a nonlinear unit root. We also find evidence of a nonlinear cointegrating relationship between stock prices and dividends where the error correction term follows a globally stationary ESTAR process. This evidence together with nonlinear impulse response functions, which show that large deviations have faster speeds of mean reversion than small deviations indicates that while stock prices may reflect their fundamentals in the long run, they may deviate substantially from their fundamentals for periods of time. Using an ESTAR-EGARCH model of the dividend-price ratio we find empirical support for in-sample and out-of-sample long-horizon predictability, and we explain why it is often difficult to exploit this predictability using real-time forecasts.",
+            "keywords": [
+                "Present Value Model of Stock Prices",
+                "Nonlinear Unit Root Tests",
+                "Nonlinear Cointegration Tests",
+                "ESTAR- EGARCH model",
+                "Long Horizon Predictability Tests"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/scescecfa/102.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Election Cycles and Stock Market Reaction: International Evidence",
+            "abstract": "This study investigates movements of the stock return volatility during election periods (from one-year before an election to one-year after the election) with the use of data from 16 countries. The main findings of this study are (1) stock return volatility declines over time as elections approach, (2) the level of the stock return volatility during election periods is lower than that during non-election periods, and (3) the stock return volatility rises quickly during election months and immediately after the elections. The first and second findings confirm conjectures made on the dynamic pattern of the volatility in previous studies such as Pantzalis et al. (2000) and Wisniewski (2009).",
+            "keywords": [
+                "Elections",
+                "Stock Return Volatility",
+                "Uncertainty"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/riskiepwp/2012_5f004.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Volatility Forecasts, Trading Volume and the ARCH vs. Option-Implied Volatility Tradeoff",
+            "abstract": "Market expectations of future return volatility play a crucial role in finance; so too does our understanding of the process by which information is incorporated in security prices through the trading process. This paper seeks to learn something about both of these issues by investigating empirically the role of trading volume (a) in predicting the relative informativeness of volatility forecasts produced by ARCH models versus the volatility forecasts derived from option prices, and (b) in improving volatility forecasts produced by ARCH and option models and combinations of models.",
+            "keywords": [
+                "TRADE",
+                "EXPECTATIONS",
+                "FORECASTS"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/sfusfudps/dp01-1.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Co-Skewness across Return Horizons*",
+            "abstract": "In this article, the impact of investment horizon on asset co-skewness is examined both empirically and theoretically. We first detail a strong horizon-based estimation bias for co-skewness. An asset that has positive co-skewness at one horizon may have negative co-skewness for others. This phenomenon is particularly evident for small-capitalization stocks. We then propose a theoretical model to estimate long-horizon co-skewness using data observed at the shortest horizon, which emphasizes the role of adjustment delays in the pricing of market-wide information among securities. Co-skewness is only found to be priced in the cross-section of stock returns for a small range of short horizons, calling into question the universal validity of the three-moment model.",
+            "keywords": [
+                "asset pricing",
+                "co-skewness",
+                "intertemporal correlation",
+                "the horizon effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/oupjfinec/v_3a21_3ay_3a2023_3ai_3a5_3ap_3a1483-1518..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Copula ADCC-GARCH model can help PIIGS to fly",
+            "abstract": "Recent crises have revived the interest of researchers to investigate the economic characteristics of regions such as the PIIGS, which have been the Eurozone\u00e2\u0080\u0099s most troubled economies. We show that it is possible to obtain benefits from investing in these markets by using time-varying returns and volatility forecasts from a Copula-ADCC-GARCH with structural breaks model. The results show that the use of this approach leads to a significant improvement of the Sharpe ratio when compared to the na\u00c3\u00afve strategy and the optimal portfolios based on a simple multivariate GARCH approach such as the DCC model, even when different transaction costs are considered.",
+            "keywords": [
+                "PIIGS",
+                "Copulas",
+                "Multivariate GARCH models",
+                "Optimization problems"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a50_3ay_3a2017_3ai_3ac_3ap_3a1-12.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "INFORMATION SPILLOVERS IN THE SPOT AND ETF INDICES IN TAIWAN",
+            "abstract": "This paper empirically explores the impact of the spot index on the exchange trade fund (ETF) indices in Taiwan, with the vector autoregressive (VAR) model revealing positive relationships between the six time-series variables. Our results indicate that the ETF 52 index has the greatest volatility as well as the most negative returns, whilst also suggesting the existence of at least five cointegrating vectors among the variables; thus, through the concept of cointegration, we demonstrate that vectors will not arbitrarily wander far from each other in long-run relationships. We also examine Granger (1980) causality in the relationships between the variables and find that the guiding relationship exists within the spot index, with stronger indications of the spot index leading the ETF indices. Among the six time-series variables, depending on the decomposition of the forecast residual variance, the spot index is the least affected by external forces. Furthermore, the spot index is affected mainly by its own shocks, and less so by those of the other time-series variables. Although the spot index variance decomposition can identify all but its own excess shocks, none of the indices can consistently trace out the effects of one-unit impulses.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ibfgjbres/v_3a3_3ay_3a2009_3ai_3a1_3ap_3a117-131.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Determinants of Market Frictions in the Corporate Market",
+            "abstract": "We construct an empirical measure of market frictions in the corporate market based on the difference between the corporate bond spread and the credit default swap spread for a large number of firms in a new, large dataset that we construct. Under fairly standard assumptions, the two spreads should be equal; if they diverge, we argue that significant market frictions are present that prevent investors' from arbitraging away what in effect are opportunities to earn a risk-free profit. We find that, after accounting for several technical factors, the measure changes over time in coincidence with well-known events that affected the corporate market in the past several years. In addition, several macroeconomic and financial variables appear to account for a substantial part of the changes in corporate market frictions over time. We also conduct an event-study type of analysis to relate our measure to monetary-policy-related events, such as changes in the target federal funds rate, speeches by Federal Reserve officials, and data releases that are closely followed by FOMC observers, such as the monthly employment reports and CPI releases",
+            "keywords": [
+                "Credit Default Swaps",
+                "Corporate Bonds",
+                "Market Frictions"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/scescecf5/379.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Improving Diversification Opportunities for Socially Responsible Investors",
+            "abstract": "Abstract Socially responsible investment (SRI) has grown enormously and has expanded globally in recent years. It allows SRI investors to reduce their portfolio risk assumptions through international diversification. In this context, the aim of this paper is twofold (i) to examine price and volatility linkages among the most representative SRI indexes for North America, Europe, and Asia-Pacific employing a multivariate approach and (ii) to provide the out-of-sample performance of an optimal portfolio constructed on the basis of time-varying return and volatility forecasts from this specification approach. Our overall results show that using this technique, it is possible to reduce risk and out-perform the na\u00c3\u00afve rule, which is usually employed in this type of investment. These findings are relevant not only for academics but also for practitioners, especially for professional managers of SRI portfolios.",
+            "keywords": [
+                "Socially responsible investment",
+                "International diversification",
+                "Information transmission",
+                "Optimal strategy",
+                "Na\u00c3\u00afve rule",
+                "Performance evaluation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kapjbuset/v_3a140_3ay_3a2017_3ai_3a2_3ad_3a10.1007_5fs10551-015-2691-4.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "International equity portfolio investment and enforcement of insider trading laws: a cross-country analysis",
+            "abstract": "Abstract In this study, we examine the effects of stringent insider trading laws\u00e2\u0080\u0099 enforcement, institutions and stock market development on international equity portfolio allocation using data from 44 countries over the period 2001\u00e2\u0080\u00932015. Our results suggest that stringent insider trading laws and their enforcement exert a positive and significant impact on international portfolio investment allocation. Further analysis indicates that the interaction between a country\u00e2\u0080\u0099s institutional quality, stock market development and enforcement of insider trading laws have a positive and significant effect on international equity portfolio allocation. The findings of this study have implications for the design of portfolio investment trading strategies and contribute to the literature on foreign equity investment decisions.",
+            "keywords": [
+                "Insider trading laws",
+                "Institutional quality",
+                "Stock market development",
+                "Foreign equity portfolio flows"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a53_3ay_3a2019_3ai_3a2_3ad_3a10.1007_5fs11156-018-0751-4.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

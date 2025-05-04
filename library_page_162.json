@@ -1,0 +1,135 @@
+{
+    "page_info": {
+        "page_number": 162,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The difference in the intraday return-volume relationships of spot and futures: A quantile regression approach",
+            "abstract": "This study illuminates the difference in the intraday return-volume relationships of spot and index futures. The quantile regression analyses show that the widening effect of the spot trading volume on the distribution of spot returns disappears within a short period of time, whereas that of the futures trading volume on the distribution of spot returns remains over the relatively long term. The short-term effect of the spot volume and the long-term effect of the futures volume are consistent for trading volume shocks. The findings suggest that the spot volume is primarily induced by the demand for hedging or differences of opinion, whereas the futures volume contains information about price movements.",
+            "keywords": [
+                "index futures",
+                "information channel",
+                "intraday information content",
+                "option- implied volatility",
+                "quantile regression",
+                "return-volume relationship"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/zbwifweej/201926.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sentiment dynamics and stock returns: the case of the German stock market",
+            "abstract": "We use weekly survey data on short-term and medium-term sentiment of German investors in order to study the causal relationship between investors' mood and subsequent stock price changes. In contrast to extant literature for other countries, a tri-variate vector autoregression for short-run sentiment, medium-run sentiment and stock index returns allows to reject exogeneity of returns. Depending on the chosen VAR specification, returns are found to either follow a feedback process caused by medium-run sentiment, or returns form a simultaneous systems together with the two sentiment measures. An out-of-sample forecasting experiment on the base of estimated VAR models shows significant exploitable linear structure for the richer VAR(5) model. Out-of-sample trading experiments underscore the potential for excess profits from a VAR-based strategy compared to the buy-and-hold benchmark.",
+            "keywords": [
+                "Investor sentiment",
+                "opinion dynamics",
+                "return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwifwkwp/1470.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The relation between overreaction in forecasts and uncertainty: A nonlinear approachvon",
+            "abstract": "This paper examines if overreaction of oil price forecasters is related to uncertainty. Furthermore, it takes into account impacts from oil price return and oil price volatility on forecast changes. The panel smooth transition regression model from Gonz\u00c3\u00a1lez et al. (2005) is applied with different specifications of the transition functions to account for nonlinear relations. Data on oil price expectations for different time horizons are taken from the European Central Bank Survey of Professional Forecasters. The results show that forecast changes are governed by overreaction. However, overreaction is markedly reduced when high levels of uncertainty prevail. On the other hand, noisy signals and positive oil price returns tend to cause higher overreaction.",
+            "keywords": [
+                "Overreaction",
+                "Uncertainty",
+                "Panel Smooth Transition Regression"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwhwwirp/158.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sicherheits-orientiertes Portfoliomanagement",
+            "abstract": "Ende der 90er Jahre schien eine intensive Auswahl der Investments kaum notwendig, da fast jede Aktienanlage deutliche Kursgewinne versprach. Nach dem j\u00c3\u00a4hen Absturz an den B\u00c3\u00b6rsen haben die Anleger einen betr\u00c3\u00a4chtlichen Teil ihres Aktienverm\u00c3\u00b6gens verloren. Damit r\u00c3\u00bccken wieder verst\u00c3\u00a4rkt Anlagestrategien in den Vordergrund, die das Risiko der Anlagealternativen geb\u00c3\u00bchrend ber\u00c3\u00bccksichtigen. In diesem Beitrag sollen dem entsprechende Portfoliostrategien vorgestellt und deren Ergebnisse verglichen werden. Dazu werden vorab in einem allgemeinen Teil die notwendigen theoretischen Konzepte und Pr\u00c3\u00a4missen dargestellt, auf denen die nachfolgenden Portfolios basieren.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/zbwhswwdp/092005.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price Discovery and Asymmetric Volatility Spillovers in Indian Spot-Futures Gold Markets",
+            "abstract": "This study attempts to examine the price discovery process and volatility spillovers in Gold futures and spot markets of National Commodity Derivatives Exchange (NCDEX) by employing Johansen\u00e2\u0080\u0099s Vector Error Correction Model (VECM) and the Bivariate ECM-EGARCH(1,1) model. The empirical result confirms that the spot market of Gold plays a dominant role and serves as effective price discovery vehicle. Besides the study results show that the spillovers of certain information take place from spot market to futures market and the spot market of gold have the capability to expose the all new information through the channel of its new innovation.",
+            "keywords": [
+                "Price Discovery",
+                "Asymmetric Volatility Spillover",
+                "Cointegration",
+                "VECM",
+                "EGARCH Model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/teijournl/v_3a5_3ay_3a2012_3ai_3a3_3ap_3a65-80.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "High-Frequency Trading around Macroeconomic News Announcements: Evidence from the U.S. Treasury Market",
+            "abstract": "This paper investigates high-frequency (HF) market and limit orders in the U.S. Treasury market around major macroeconomic news announcements. BrokerTec introduced i-Cross at the end of 2007 and we use this exogenous event as an instrument to analyze the impact of HF activities on liquidity and price efficiency. Our results show that HF activities have a negative effect on liquidity around economic announcements: they widen spreads during the pre-announcement period and lower depth on the order book during the post-announcement period. The negative impact on liquidity mainly derives from HF trades. Nonetheless, HF trades improve price efficiency during both the preannouncement and post-announcement periods.",
+            "keywords": [
+                "Financial",
+                "markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bcabocawp/14-56.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are Swap and Bond Markets Alternatives to Each Other in Turkey?",
+            "abstract": "Cross currency swaps are agreements to exchange interest payments and principals denominated in two different currencies and usually have one leg fixed and the other floating. The interest rate on the fixed leg is closely related to the yields on the securities of the same tenure and currency. In Turkey, cross currency swaps and treasury bonds have similar cash flow structures and risk profiles. Hence these markets are usually considered as alternatives to each other. In this context, using daily data for the period August 2008 \u00c3\u00af\u00c2\u00bf\u00c2\u00bd January 2012, this study investigates the level relationship between the cross currency swap rates and treasury bond yields of 1-month to 4-year tenures by the cointegration testing procedure suggested by Pesaran, Shin and Smith (PSS). Our empirical results indicate that, at shorter tenures, cross currency swap rates and treasury bond yields have a one-to-one long-run equilibrium relationship and hence the deviations from the equilibrium are quickly arbitraged away. On the other hand, the relationship becomes weaker as the tenure exceeds 6 months and completely disappears after 1 year. We also carry out some robustness checks and the results obtained from these analyses support our initial findings.",
+            "keywords": [
+                "covered interest parity",
+                "limits to arbitrage",
+                "bond market",
+                "currency swap",
+                "cointegration"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/tcbwpaper/1223.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Private information flow and price discovery in the U.S. treasury market",
+            "abstract": "Using intraday data, we identify the intensity of private information flow in the U.S. Treasury market. Our results show that the intensity of private information flow is highly correlated with public information shocks and higher for longer maturity bonds. More importantly, we find that bond price changes associated with high intensity of private information flow tend to be persistent, whereas those associated with low intensity of private information flow are more likely reversed. While public information and private information are the main determinants of bond price variations on days with news announcements, private information and liquidity shocks are important determinants of bond price variations on days with no significant events. Finally, we show that the depth of limit order book is inversely related to the intensity of private information flow. Nevertheless, informed dealers do not seem to use hidden orders to disguise their trading intentions.",
+            "keywords": [
+                "Private information flow",
+                "Public information shocks",
+                "Price discovery",
+                "Order flow impact",
+                "Bond return volatility",
+                "Depth of limit order book"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a47_3ay_3a2014_3ai_3ac_3ap_3a118-133.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Retail Short Selling and Stock Prices",
+            "abstract": "Using proprietary data on millions of trades by retail investors, we provide the first large-scale evidence that retail short selling predicts negative stock returns. A portfolio that mimics weekly retail shorting earns an annualized risk-adjusted return of 9%. The predictive ability of retail short selling lasts for one year and is not subsumed by institutional short selling. In contrast to institutional shorting, retail shorting best predicts returns in small stocks and those that are heavily bought by other retail investors. Our findings are consistent with retail short sellers having unique insights into the retail investor community and small firms\u00e2\u0080\u0099 fundamentals.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a30_3ay_3a2017_3ai_3a3_3ap_3a801-834..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Speculation and the Term Structure of Interest Rates",
+            "abstract": "We develop and estimate a tractable equilibrium term structure model populated with rational but heterogeneously informed traders that take on speculative positions to exploit what they perceive to be inaccurate market expectations about future bond prices. The speculative motive is an important driver of trading volume. Yield dynamics due to speculation are (1) statistically distinct from classical term structure components due to risk premiums and expectations about future short rates and are orthogonal to public information available to traders in real time and (2) quantitatively important, accounting for a substantial fraction of the variation of long maturity U.S. bond yields. Received May 12, 2014; editorial decision May 10, 2016 by Editor Pietro Veronesi.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a30_3ay_3a2017_3ai_3a11_3ap_3a4003-4037..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "De Facto Seniority, Credit Risk, and Corporate Bond Prices",
+            "abstract": "We study the effect of a bond\u00e2\u0080\u0099s place in its issuer\u00e2\u0080\u0099s maturity structure on credit risk. Using a structural model as motivation, we argue that bonds due relatively late in their issuers\u00e2\u0080\u0099 maturity structure have greater credit risk than do bonds due relatively early. Empirically, we find robust evidence that these later bonds have larger yield spreads and greater comovement with equity and that the magnitude of the effects is consistent with model predictions for investment-grade bonds. Our results highlight the importance of bond-specific credit risk for understanding corporate bond prices. Received January 1, 2016; editorial decision June 6, 2017 by Editor Robin Greenwood.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a30_3ay_3a2017_3ai_3a11_3ap_3a4038-4080..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Language and Domain Specificity: A Chinese Financial Sentiment Dictionary*",
+            "abstract": "We use Word2vec to develop a financial sentiment dictionary from 3.1 million Chinese-language financial news articles. Our dictionary maps semantically similar words to a subset of human-expert generated financial sentiment words. In validation tests, our dictionary scores the sentiment of articles consistently with human reading of full articles. In return association tests, our dictionary outperforms and subsumes previous Chinese financial sentiment dictionaries, such as direct translations of Loughran and McDonald\u00e2\u0080\u0099s (2011, Journal of Finance, 66, 35\u00e2\u0080\u009365) English-language financial dictionary. We also generate a list of politically related positive words that is unique to China; we find that this list has a weaker association with returns than does the list of other positive words. We demonstrate that state media uses more politically related positive and fewer negative words, and exhibits a sentiment bias. This bias renders the state media\u00e2\u0080\u0099s sentiment as less return-informative. Our findings demonstrate that dictionary-based sentiment analysis exhibits strong language and domain specificity.",
+            "keywords": [
+                "Financial word dictionary",
+                "Chinese",
+                "Sentiment analysis",
+                "Political words",
+                "Financial news"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ouprevfin/v_3a26_3ay_3a2022_3ai_3a3_3ap_3a673-719..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

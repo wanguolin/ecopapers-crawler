@@ -1,0 +1,136 @@
+{
+    "page_info": {
+        "page_number": 70,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "\u00e2\u0080\u009cSafe\u00e2\u0080\u009d stocks",
+            "abstract": "Abstract We define \u00e2\u0080\u009csafe stocks\u00e2\u0080\u009d as those that have the characteristics of low market betas, high Sharpe ratios and low tail risk compared to the market portfolio. A profitable dividend yield (PDY) portfolio formed by combining stocks with high gross profitability with high dividend yield possesses all of these features. Despite their low betas, PDY portfolios have outstanding Sharpe ratios, more positive skewness and lower kurtosis in their returns than the market. Furthermore, an index of market-wide tail risk based on pseudo-bonds credit spreads loads negatively on the market\u00e2\u0080\u0099s returns but has no significant effects on PDY portfolio returns, suggesting that PDY portfolios come close to the ideal of a safe asset as defined in this paper.",
+            "keywords": [
+                "Gross profitability",
+                "Dividend yield",
+                "Profitable dividend yield strategy",
+                "Pseudo-bonds",
+                "Option-based credit spreads"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/palassmgt/v_3a19_3ay_3a2018_3ai_3a2_3ad_3a10.1057_5fs41260-017-0050-y.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Forecasting index changes in the German DAX family",
+            "abstract": "Abstract Combining market data with a publicly available monthly snapshot of Deutsche B\u00c3\u00b6rse\u00e2\u0080\u0099s index ranking list, I create a model that predicts index changes in the DAX, MDAX, SDAX, and TecDAX from 2010 to 2019 before they are officially announced. Even though I empirically show that index changes are predictable, they still earn sizeable post-announcement 1-day abnormal returns up to 1.42% and \u00e2\u0088\u0092 1.54% for promotions and demotions, respectively. While abnormal returns are larger in smaller stocks, I find no evidence that they are related to funding constraints or additional risk for trading on wrong predictions. A trading strategy that trades according to my model yields an annualized Sharpe ratio of 0.83 while being invested for just 4 days a year.",
+            "keywords": [
+                "Index rebalancing",
+                "Passive investment",
+                "Index effect",
+                "Index investing",
+                "Trading strategy"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/palassmgt/v_3a21_3ay_3a2020_3ai_3a2_3ad_3a10.1057_5fs41260-020-00153-6.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "ANALYSIS OF MONTHLY RATES OF RETURN IN APRIL ON THE EXAMPLE OF SELECTED WORLD STOCK EXCHANGE INDICES",
+            "abstract": "The article presents a study of the effectiveness of 22 selected stock indices with the use of the rates of return in the month of April. The portfolio replicating the stock index was bought at the closing prices on the last session in March, and sold at the closing prices on the last session in April. The presence of market inefficiency is demonstrated in cases of the following indices: All-Ord, AMEX, BUX, CAC40, DAX, DJIA, DJTA, DJUA, EOE, FTSE100, SMI, SP500, but for the following indices: B-Share, Bovespa, Buenos, Hang-Seng, MEX-IPC, Nasdaq, Nikkei, Russel, TSE and WIG, the obtained monthly rates of return were statistically equal to zero. In the last part of the article, the correlation coefficients of rates of return for analyzed indices in month of April were surveyed.",
+            "keywords": [
+                "market efficiency",
+                "financial market seasonality",
+                "market anomalies",
+                "April effect."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/pesierequ/v_3a11_3ay_3a2016_3ai_3a2_3ap_3a307-325.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Analysis of monthly rates of return in April and correlation analysis of monthly rates of return in April on the example of selected world stock exchange indices",
+            "abstract": "The article presents a study of effectiveness of 22 selected stock indices with the use of the rates of return in the month of April. The portfolio replicating the stock index was bought at the close prices on the last session in March, and sold at the close prices on the last session in April. The presence of market inefficiency is demonstrated in the following cases: All-Ord, AMEX, BUX, CAC40, DAX, DJIA, DJTA, DJUA, EOE, FTSE100, SMI, SP500. There was no incidence rates of return significantly different from zero while maintaining a month long investment strategy for indexes such as: B-Share, Bovespa, Buenos, Hang-Seng, MEX-IPC, Nasdaq, Nikkei, Russel, TSE and WIG. The last part of the article is dedicated to correlation coefficients of rates of return for analyzed indices in month of April.",
+            "keywords": [
+                "market efficiency",
+                "financial market seasonality",
+                "market anomalies",
+                "April effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/peswpaper/2015_3ano127.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Exchange Rate Developments of Cryptocurrencies Based on Event Study Analysis",
+            "abstract": "As the cryptocurrency market dynamically evolves, important financial and economic issues arise. The main focus of the present research is on the price of cryptocurrencies. Following the exploration of the literature base, special emphasis was put on the comparison between the crypto market and markets for different asset classes (gold, stocks, foreign currency) and on the identification of connection points. Next, the article focuses on the period after 2020, and applies the event study methodology in order to establish, how the two cryptocurrencies with the highest market capitalization (Bitcoin and Ethereum) reacted to selected events. These events mainly encompassed hacker attacks aimed at the systems that form the basis of the operation of cryptocurrencies, and also certain steps regarding their regulation and application. Overall, it was established that hacker attacks did not have a significant effect on the exchange rates of the two examined cryptocurrencies. Effects of regulatory action on prices are mixed, however even significant effects can be regarded as short-lived.",
+            "keywords": [
+                "cryptocurrencies",
+                "Bitcoin",
+                "Ethereum",
+                "event study"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/pfqjournl/v_3a67_3ay_3a2022_3ai_3a2_3ap_3a231-247.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Studying the effect of assets return rate on stock price of the companies accepted in Tehran stock exchange",
+            "abstract": "One of the criteria to evaluate management ability of a company to gain return is assets return rate, with regard to existing resources. Management is expected to use the current assets so that the maximum return is gained.The present study aims at investigating assets return rate impact on stock prices of the companies accepted in Tehran stock exchange. In this research, assets return rate is considered as independent variable, and stock price as dependent variable, and company size, company age, and beta coefficient as control variables from 2001 to 2010. Research method is correlation in terms of hypothesis testing, and through multi-variable regression statistic analysis has been done. The research findings indicate strong impact and relationship between independent and dependent variables, and the research hypothesis has been accepted.",
+            "keywords": [
+                "Stock price",
+                "assets return rate",
+                "investment",
+                "company size."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/pdcjrnbeh/v_3a8_3ay_3a2012_3ai_3a2_3ap_3a12-22.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Company size, book-to-market and momentum effects, and other deviations from the CAPM - evidence from the Warsaw stock exchange",
+            "abstract": "Capital Asset Pricing Model is one of the most popular models applied to explain the risk premium for capital employment. The model has been tested for developed capital markets with conclusions that emphasised many of its imperfections. Some of these imperfections are connected with company characteristics, such as a company\u00e2\u0080\u0099s size, book-to-market value etc. The aim of the research is to test whether the anomalies of the CAPM that have been pointed out so far are also true for Poland. I concentrate on companies listed on the Warsaw Stock Exchange during 2007-2010. The event study is applied to identify these anomalies. The research results reveal that the expected returns approximated by the CAPM are contaminated during the evaluation process. This is in line with the conclusions of a previous research paper discussing developed countries.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/pdcjrnbeh/v_3a9_3ay_3a2013_3ai_3a3_3ap_3a79-86.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Linkages between Public Sentiments and Stock Market Dynamics in the Context of the Efficient Market Hypothesis",
+            "abstract": "The paper studies whether the dynamics of stock market indices of twelve EU member states are in accordance with the Efficient Market Hypothesis and if any publicly available information can be used to forecast their movements. We fit GARCH(1,3) models to time series of the indices over the period 01.1998 to 05.2013 at monthly frequency in order to examine the informational efficiency of markets. All models show that some publicly available information is underutilized, which hints at the possibility to increase forecasting accuracy by inclusion of additional variables. Additionally in six out of the twelve studied countries information about the economic expectations of the public can forecast index movements. Those results underline the idea that more complex behaviorally- informed models can improve our understanding of the financial markets dynamics.",
+            "keywords": [
+                "public sentiments",
+                "efficient market hypothesis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/nweiisabg/y_3a2014_3ai_3a3_3ap_3a58-71.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Study of Market Efficiency and Volatility of Jeera Future Trading",
+            "abstract": "In 2004, the Jeera futures contract was launched on the National Commodity & Derivatives Exchange Limited (NCDEX) platform. Since Jeera was launched on the NCDEX it has witnessed volatility, and in the last 10 years, the Jeera rates have doubled on the spot markets. This was due to a fall in production \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c especially in Gujarat. To examine the performance of the Jeera futures market and its efficiency, econometric models, specifically Johansen\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Co-integration, the Vector Error Correction Model, the Impulse Response and the Variance Decomposition, are used on data from 2005 to 2019 from the NCDEX. The analysis revealed a longterm correlation between spot and futures prices, demonstrating that futures contracts are a viable hedging tool. Information flows unidirectionally from spot markets to future markets. Both markets undergo error correction to restore market equilibrium. The Granger causality test is utilised to assess the causal connection between future and spot prices. The augmented GARCH model was utilised to examine the contemporaneous relationship between spot volatility and unexpected futures trading activity, and the Granger Causality test was utilised to determine causality. The finding supports regulators\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2, real hedgers\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2, and other traders\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 concerns.",
+            "keywords": [
+                "Future trading",
+                "Market efficiency",
+                "Agri -commodities",
+                "Jeera"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/nweeajour/y_3a2024_3ai_3a4_3ap_3a796-809.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "AN ADAPTATIVE EVOLUTIONARY MODEL OF FINANCIAL INVESTORS",
+            "abstract": "The main purpose of the paper is to determine a general behavior of a multi-agent model capable of describing the process of deliberation of an investors group witch may repeatedly decide whether to buy or sell an asset. Each adaptive agent was modeled as",
+            "keywords": [
+                "Programming Models",
+                "Genetic algorithms",
+                "Information efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/orajournl/v_3a4_3ay_3a2009_3ai_3a1_3ap_3a897-901.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The \"CAPS\" Prediction System and Stock Market Returns",
+            "abstract": "We study the predictive power of approximately 2.5 million stock picks submitted by individual users to the \"CAPS\" website run by the Motley Fool company (www.caps.fool.com). These picks prove to be surprisingly informative about future stock prices. Indeed, a strategy of shorting stocks with a disproportionate number of negative picks on the site and buying stocks with a disproportionate number of positive picks produces a return of over nine percent per annum over the sample period. These results are mostly driven by the fact that negative picks on the site strongly predict future stock price declines; positive picks on the site produce returns that are statistically indistinguishable from the market. A Fama French decomposition suggests that these results are largely due to stock-picking rather than style factors or market timing.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/17298.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Disagreement and Asset Prices",
+            "abstract": "How do differences of opinion affect asset prices? Do investors earn a risk premium when disagreement arises in the market? Despite their fundamental importance, these questions are among the most controversial issues in finance. In this paper, we use a novel data set that allows us to directly measure the level of disagreement among Wall Street mortgage dealers about prepayment speeds. We examine how disagreement evolves over time and study its effects on expected returns, return volatility, and trading volume in the mortgage-backed security market. We find that increased disagreement is associated with higher expected returns, higher return volatility, and larger trading volume. These results imply that there is a positive risk premium for disagreement in asset prices. We also show that volatility in and of itself does not lead to higher trading volume. Rather, it is only when disagreement arises in the market that higher uncertainty is associated with more trading. Finally, we are able to distinguish empirically between two competing hypotheses regarding how information in markets gets incorporated into asset prices. We find that sophisticated investors appear to update their beliefs through a rational expectations mechanism when disagreement arises.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/18619.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

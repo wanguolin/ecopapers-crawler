@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 212,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "What determines the stock market's reaction to monetary policy statements?",
+            "abstract": "We find that information communicated through monetary policy statements has important business cycle dependent implications for stock prices. For example, during periods of economic expansion, stocks tend to respond negatively to announcements of higher rates ahead. In recessions, however, we find a strong positive reaction of stocks to seemingly similar signals of future monetary tightening. We provide evidence that the state dependence in the stock market's response is explained by information about the expected equity premium and future corporate cash flows contained in monetary policy statements. We also show state dependence in the average stock returns on days of scheduled FOMC meetings and in the impact of monetary policy statements on stock and bond return volatility.",
+            "keywords": [
+                "Monetary policy",
+                "FOMC statements",
+                "Stock market",
+                "Business cycle"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeerevfin/v_3a21_3ay_3a2012_3ai_3a4_3ap_3a175-187.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Clarifying the dynamics of the relationship between option and stock markets using the threshold vector error correction model",
+            "abstract": "This work examines how the option and stock markets are related when using the threshold vector error correction model (hereinafter referred to as threshold VECM). Moreover, compared to previous studies in the literature of application of threshold models, this study not only investigates the impacts of price transmission mechanisms on stock return means but also the volatilities of returns. The model is tested using the U.S. S&P 500 stock market. The empirical findings of this investigation are consistent with the following notions. First, the equilibrium re-establishment process depends primarily on the option market and is triggered only when price deviations exceed a critical threshold. Second, arbitrage behaviors between the option and stock markets increase volatility in these two markets and reduce their correlation.",
+            "keywords": [
+                "Option",
+                "Threshold model",
+                "Implied stock prices",
+                "BS model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeematcom/v_3a79_3ay_3a2008_3ai_3a3_3ap_3a511-520.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Comparative analysis of the multifractality and efficiency of exchange markets: Evidence from exchange rates dynamics of major world currencies",
+            "abstract": "This paper studies the exchange rates of four major currencies against the United States dollar(USD), including the euro(EUR), the pound(GBP), the Canadian dollar(CAD), and the Japanese yen(JPY) from 2005 to 2019 through multifractal detrended fluctuation analysis (MF-DFA). The four exchange rate series exhibit significant multifractal properties on the whole time scale and the yen has the lowest multifractal properties among the four exchange rate series, showing the highest market efficiency. The multifractal properties of the four exchange rate series are due to both long-range correlation and fat-tail characteristics of non-Gaussian probability density function. The cross-correlations among different exchange markets reflect the internal linkages between different exchange markets. This paper also aims to compare the multifractality degrees of euro, pound, Canadian dollar, and yen exchange markets in three sub-samples divided by the 2008 financial crisis and the Federal Reserve\u00e2\u0080\u0099s announcement of its withdrawal from quantitative easing(QE) policy in 2014, finding that the four exchange markets all have multifractal structural properties with different levels in the sample and sub-samples that cause inefficiency with different levels in these foreign exchange markets. This may help study the impacts of these events on efficiency and risks in these exchange markets in each sub-sample from the statistical and fractal perspectives. This study has theoretical and practical significance in the application of Effective Market Hypothesis (EMH) in exchange market. Results of this study may also provide important implications for further study on the dynamic mechanism and efficiency in exchange market and help investors effectively control the market risks.",
+            "keywords": [
+                "MF-DFA",
+                "Multifractal properties",
+                "Exchange market",
+                "Market efficiency",
+                "Exchange rates"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeephsmap/v_3a535_3ay_3a2019_3ai_3ac_3as0378437119313627.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Russia\u00e2\u0080\u0093Ukraine war and energy market volatility: A novel application of the volatility ratio in the context of natural gas",
+            "abstract": "The major aim of this paper is to analyze the influence of the recent Russia\u00e2\u0080\u0093Ukraine war on the volatility dynamics of the natural gas market for the 1 June 2011\u00e2\u0080\u009331 December 2022 period. Given the emergence of the S&P GSCI Natural Gas as the first most dominant energy natural gas market in the World, we use the daily return data of the S&P GSCI natural gas index for the empirical analysis. As a novel approach, we apply the Volatility Ratio, a contemporary technical statistic measure, to assess the behavior of the volatility-of-volatility at different time horizons in the natural gas market. Empirical findings of this paper reveal that the volatility-of-volatility had been rapidly dying down before the war, subsequently taking a longer time to die down in the S&P GSCI natural gas index. Further, the findings imply that periods of uncertainties trigger investors\u00e2\u0080\u0099 intent to make some best possible decisions and formulate superior strategies, without necessarily displaying any herding tendency of imitating their counterparts. Being the first study to apply the new volatility ratio analysis in accomplishing the aim of this research, our findings lay an economic foundation for necessary policy formulation and interventions to safeguard the energy market investors and counteract detrimental effects on society and economy at large, in the wake of any future Black Swan events such as the Russia\u00e2\u0080\u0093Ukraine conflict and the COVID-19 pandemic.",
+            "keywords": [
+                "Russia\u00e2\u0080\u0093Ukraine war",
+                "Energy market",
+                "Volatility ratio",
+                "Volatility-of-Volatility",
+                "Natural gas"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a85_3ay_3a2023_3ai_3apa_3as0301420723005032.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Multifractal analysis of Shanghai and Hong Kong stock markets before and after the connect program",
+            "abstract": "In this paper, we study the multifractal scaling behaviour in Shanghai and Hong Kong stock markets by means of multifractal detrended fluctuation analysis (MF-DFA) and multifractal detrended cross-correlation analysis (MF-DCCA). The results show that the multifractal degrees of each stock market are larger after the Shanghai\u00e2\u0080\u0093Hong Kong Stock Connect Program (SHSCP) than before. Scaling analysis demonstrates that multifractality exists in cross-correlations, and the cross-correlation coefficients after the SHSCP are larger than those before the SHSCP. Moreover, an analysis of the origin of multifractality indicates that long-range correlation and fat-tailed distribution play important roles in the contributions of multifractality. Finally, the results via the sliding window procedure indicate that the multifractal degrees after the SHSCP are not significantly affected by the stock market turbulence in 2015.",
+            "keywords": [
+                "Stock markets",
+                "SHSCP",
+                "MF-DFA",
+                "MF-DCCA",
+                "Sliding window"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeephsmap/v_3a503_3ay_3a2018_3ai_3ac_3ap_3a611-622.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "What moves markets?",
+            "abstract": "What share of asset price movements is driven by news? We build a large, time-stamped event database covering scheduled macro news as well as unscheduled events and find that news account for up to 35% of bond and stock price movements in the United States and euro area since 2002. This suggests that a much larger share of return variation can be traced back to observable news than previously thought. Moreover, we provide stylized facts about the type of news that matter most for asset prices, spillover effects between the US and euro area, and the predictability of monetary policy shocks.",
+            "keywords": [
+                "Macro news",
+                "Asset prices",
+                "High-frequency identification",
+                "Event database",
+                "Monetary policy"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeemoneco/v_3a145_3ay_3a2024_3ai_3ac_3as0304393224000138.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Liquidity shock and stock returns in the Japanese equity market",
+            "abstract": "We investigate the relationship between liquidity shocks and stock returns in the Japanese equity market. As in the US equity market, we observe an irrational phenomenon: Stocks with positive liquidity shocks have higher future returns than stocks with negative liquidity shocks. This phenomenon may be caused by an underreaction to liquidity shocks. We show that illiquidity strongly contributes to this underreaction, unlike the US equity market. Additionally, we uncover new facts that were not previously known. We show that liquidity shocks caused by bad news is more quickly priced than those caused by good news. We also find that pricing on liquidity shocks in the cross-section may be affected by time-varying market liquidity shocks.",
+            "keywords": [
+                "Liquidity shock",
+                "Stock market reactions",
+                "Underreaction",
+                "Japan"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a75_3ay_3a2022_3ai_3ac_3as0927538x22001445.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do market participants misprice lottery-type assets? Evidence from the European soccer betting market",
+            "abstract": "This paper addresses findings from previous asset pricing research that reveal lottery-like stocks are mispriced. This conclusion, however, relies on asset pricing models which might suffer from the joint hypothesis problem: That is, abnormal returns can reflect market inefficiencies, a bad asset pricing model or both. I contribute to the discussion by examining lottery-type assets on the European betting market. Compared to stock markets, betting markets offer the advantage that no asset pricing model is necessary to test market efficiency because outcomes are observable at a terminal point. I use a unique data set of soccer odds covering both a betting exchange and the bookmaker market. The findings reveal a favorite-longshot bias in both market structures confirming the findings from previous literature that lottery-type assets are mispriced. An expected utility model and a prospect theory model confirm that the favorite-longshot bias on the betting exchange is due to misperception of probabilities rather than risk-love. Although bookmakers also bias odds there is evidence that bookmakers are rational in protecting themselves from adverse selection and/or in increasing their turnover. This conclusion is supported by further analysis on the tennis betting market.",
+            "keywords": [
+                "Lottery-type assets",
+                "Favorite-longshot bias",
+                "Betting exchange",
+                "Bookmaker market",
+                "Misperception",
+                "Adverse selection"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a75_3ay_3a2020_3ai_3ac_3ap_3a1-18.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does short selling affect the clustering of stock prices?",
+            "abstract": "We examine the role of short selling activity on the level of price clustering in equity markets. Consistent with the negotiation hypothesis of Harris (1991), we find that at monthly level, higher shorting activity significantly decreases the clustering of daily closing prices on round increments of $0.05. Moreover, at intraday level, transaction prices tend to cluster less on round increments of $0.05 when short sellers are more active. Our findings suggest that both intraday and closing stock prices tend to be more uniformly distributed and hence informationally efficient in the presence of short sellers.",
+            "keywords": [
+                "Short selling",
+                "Price clustering",
+                "Round prices",
+                "Intra-day clustering"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a76_3ay_3a2020_3ai_3ac_3ap_3a270-277.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Individual investor ownership and the news coverage premium",
+            "abstract": "If widely-circulated news providers cater to the information demands of individual investors, stocks with high individual ownership should receive more news coverage, theoretically resulting in lower volatility and a lower cost of capital. In this paper, I explore this hypothesis by utilizing the extensive news sources available in Bloomberg Terminals to construct a monthly panel dataset of S&P 500 firms between 2012 and 2019. I verify that companies with a higher percentage of individual investor ownership receive more news coverage, and that this effect is strongest among larger firms. In order to quantify the importance of this mechanism for stock prices, I estimate a panel VAR model and conduct a counterfactual analysis where the news coverage response to exogenous shifts in ownership composition is effectively \u00e2\u0080\u009cshut off\u00e2\u0080\u009d. The counterfactual analysis implies that an increase in news coverage triggered by a one standard deviation rise in individual ownership reduces annual stock volatility by 0.51% and annual returns by 0.135%, suggesting that the individual investor-news coverage channel partially offsets the more well-documented informational advantages of institutional ownership.",
+            "keywords": [
+                "Stock returns",
+                "Financial news coverage",
+                "Individual ownership",
+                "Panel VAR"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a80_3ay_3a2021_3ai_3ac_3ap_3a494-507.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor Sentiment and Stock Price Premium Validation with Siamese Twins from China",
+            "abstract": "We apply the principal component analysis (PCA) and the partial least squares (PLS) methods to construct investor sentiment measurements and decompose them into total, local and global indices for the Mainland China (A-shares) and Hong Kong (H-shares) stock markets. Our results show that total investor sentiment is a strong predictor for the A-shares market, but it has hardly any effect in the H-shares market. We find that the sentiment differential, either total or local, has a positive relationship with the aggregate excess returns differential between the two markets, but the Hong Kong sentiment alone, either total or local, does not play much role. We further find that the sentiment differential is positively associated with the price premium of A-shares over H-shares. Our results are robust even after we add traditional factors.",
+            "keywords": [
+                "Investor sentiment",
+                "Return predictability",
+                "Cross-listed",
+                "Price premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeemulfin/v_3a57-58_3ay_3a2020_3ai_3a_3as1042444x2030044x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Out-of-sample equity premium predictability: An EMD-denoising based model",
+            "abstract": "The poor out-of-sample forecasting performance of the stock returns of various predictors has been widely confirmed in the literature, which casts doubt on the reliability of stock-return predictability. However, the reliability of return predictability is closely related to the noise contained in the data. In this study, we design a new method to address the noise in the framework of empirical mode decomposition. The EMD method provides an efficient return decomposition, and based on which we selectively remove high-frequency components that are more likely to be contaminated by outliers. Our new model delivers statistically and economically significant out-of-sample gains relative to the historical average. The predictive ability mainly originates from the business-cycle risk and survives a series of robustness tests.",
+            "keywords": [
+                "Out-of-sample forecasting",
+                "EMD decomposition",
+                "Denoising method",
+                "Return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a88_3ay_3a2024_3ai_3ac_3as0927538x24002889.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

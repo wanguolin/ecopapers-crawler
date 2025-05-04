@@ -1,0 +1,143 @@
+{
+    "page_info": {
+        "page_number": 184,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "On the relationship between sovereign bonds and credit default swaps in Portugal*",
+            "abstract": "This paper aims at identifying the relationship between government bonds spreads and credit default swaps premiums in Portugal for long and short maturities, covering a period that includes the beginning of the 2008 international financial crisis. We estimate Autoregressive Distributed Lag error correction models for the sub periods prior and after the moment crisis started. Results reveal the absence of cointegration over the sample period, with important differences prior and after 2010 in both maturities. There is no evidence of long-run relationship between both markets in both maturities, as the 2007 crisis has interrupted the long run relationship that was observed in the 5-year segment, and enacted a long run relationship in shorter maturities. The credit default swaps market performs a leading role on price determination in short- and long-run before the crisis but the role of the bond spread as a credit risk information has increased during the crisis.",
+            "keywords": [
+                "Credit default swaps",
+                "sovereign bonds",
+                "unit roots",
+                "regime changes",
+                "cointegration",
+                "ARDL."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sekjijoes/v_3a5_3ay_3a2016_3ai_3a1_3ap_3a18-36.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The strategic allocation to style-integrated portfolios of commodity futures",
+            "abstract": "Our study lies at the intersection of the literature on the diversification benefits of commodity futures and the literature on style integration. It augments the traditional asset mix of investors with a long\u00e2\u0080\u0093short portfolio that integrates the styles that matter to the pricing of commodity futures. Treating the style-integrated portfolio of commodities as part of the strategic mix of investors is found to enhance out-of-sample performance and reduce crash risk compared to the alternatives considered thus far. The conclusion holds across traditional asset mix, portfolio allocation methods, integration strategies, and sub-periods. The diversification benefits of style integration also persist, albeit lower, in a long-only setting.",
+            "keywords": [
+                "Commodity futures",
+                "Style integration",
+                "Strategic asset allocation",
+                "Diversification"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejocoma/v_3a28_3ay_3a2022_3ai_3ac_3as2405851322000174.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "What can we learn from firm-level jump-induced tail risk around earnings announcements?",
+            "abstract": "In this study, we provide empirical evidence that firm-level jump-induced tail risk (measured by a jump-implied variance contribution index [JIVX]) prospectively predicts cross-sectional stock returns around earnings announcements. The effect size is nontrivial. A practical trading strategy that buys announcers with high pre-news JIVX values and sells announcers with low pre-news JIVX values, earns a net risk-adjusted average return of 82 basis points (bps) three days after the news release. Notably, the empirical success of the JIVX predictor is distinct from model-free implied skewness and kurtosis measures and withstands a battery of robustness checks.",
+            "keywords": [
+                "Tail risk",
+                "Jump-implied variance contribution index",
+                "Earnings announcements",
+                "Implied moments"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a138_3ay_3a2022_3ai_3ac_3as0378426622000097.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price Momentum In Stocks: Insights From Victorian Age Data",
+            "abstract": "We find that price momentum in stocks was a pervasive phenomenon during the Victorian age (1866-1907) as well. Momentum strategy profits have little systematic risk even at business cycle frequencies; disappear periodically only to reappear later; exhibit long run reversal; and are higher following up markets, suggesting limited availability of arbitrage capital relative to opportunities during those times. Since there were no capital gains taxes during the Victorian age, the long run reversal of momentum profits must have a fundamental component, that is unrelated to tax based trading, identified by Grinblatt and Moskowitz (2004) using CRSP era data.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/14500.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short- and Long-Horizon Behavioral Factors",
+            "abstract": "We propose a theoretically-motivated factor model based on investor psychology and assess its ability to explain the cross-section of U.S. equity returns. Our factor model augments the market factor with two factors which capture long- and short-horizon mispricing. The long-horizon factor exploits the information in managers' decisions to issue or repurchase equity in response to persistent mispricing. The short-horizon earnings surprise factor, which is motivated by investor inattention and evidence of short-horizon underreaction, captures short-horizon anomalies. This three-factor risk-and-behavioral model outperforms other proposed models in explaining a broad range of return anomalies.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/24163.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The role of hedge funds in the Swiss franc foreign exchange market",
+            "abstract": "This paper investigates the role of hedge funds within the Swiss franc (CHF) foreign exchange (FX) market, using a novel and comprehensive flow dataset that covers a large proportion of the CHF FX market. Employing a two-stage-least-squares (2SLS) approach, I isolate the causal effect of hedge funds\u00e2\u0080\u0099 net flow on CHF returns, taking into account reverse causality. The analysis reveals that hedge funds\u00e2\u0080\u0099 net flow significantly impacts CHF returns, with a net buying of one billion leading to an approximate 0.4% increase in returns. In contrast, the net flow from other market participants has a negligible impact, even when potential reverse causality is dismissed. This influence of hedge funds\u00e2\u0080\u0099 net flow becomes particularly noticeable on days when the Swiss National Bank (SNB) delivers contractionary monetary policy surprises. On such days, even a small surprise amplifies the impact of hedge funds\u00e2\u0080\u0099 net flow significantly. The analysis of market participants\u00e2\u0080\u0099 trading prices substantiates the hypothesis that hedge funds, due to their expertise in FX forecasting and best execution as well as superior transaction timing abilities, in aggregate tend to trade at more advantageous prices than other market participants.",
+            "keywords": [
+                "Swiss franc",
+                "Market microstructure",
+                "Asymmetric information",
+                "Monetary policy shocks"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/snbsnbwpa/2024-05.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum Trading, Return Chasing, and Predictable Crashes",
+            "abstract": "We combine self-collected historical data from 1867 to 1907 with CRSP data from 1926 to 2012, to examine over 140 years of risk and return of one of the most popular mechanical trading strategies?momentum. We find that the momentum strategy has earned abnormally high risk-adjusted returns?a three factor alpha of 1 percent per month between 1927 and 2012 and 0.5 percent per month between 1867 and 1907?both statistically significantly different from zero. However, the momentum strategy also exposed investors to large losses (crashes) during both periods. Momentum crashes were predictable. Crashes were more likely when momentum had recently performed well (both eras), interest rates were relatively low (1867?1907), or momentum had recently outperformed the stock market (CRSP era) - times when borrowing or attracting return chasing ?blind capital? would have been easier. We argue based on a stylized model and simulated outcomes from a richer model that a money manager who competes for funds from return-chasing investors and is compensated via fees that are convex in the amount of money managed and the return on that money has an incentive to remain invested in momentum even when the crash risk is known to be high.",
+            "keywords": [
+                "Limits-to-arbitrage",
+                "Momentum"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/10234.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Federal Reserve Private Information and the Stock Market",
+            "abstract": "We study the response of stock prices to monetary policy, distinguishing the effects of exogenous policy actions from ``Delphic\" actions that reveal the Federal Reserve's macroeconomic forecasts. To decompose composite monetary policy surprises into these separate components, we exploit differences in central bank and private sector forecasts to construct a measure of Federal Reserve private information. Contractionary monetary policy shocks of either type cause a fall in stock prices with exogenous shocks having a larger negative effect. However there is an important asymmetry; when FOMC meetings are unscheduled or when the fed funds rate reverses direction, stock prices actually rise in response to a contractionary Delphic shock.",
+            "keywords": [
+                "Monetary Policy Shocks",
+                "Stock Prices",
+                "Federal Reserve Private Information"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/77608.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Macro News and Micro News: Complements or Substitutes?",
+            "abstract": "We study how the arrival of macro-news affects the stock market\u00e2\u0080\u0099s ability to incorporate the information in firm-level earnings announcements. Existing theories suggest that macro and firm-level earnings news are attention substitutes; macro-news announcements crowd out firm-level attention, causing less efficient processing of firm-level earnings announcements. We find the opposite: the sensitivity of announcement returns to earnings news is 17% stronger, and post-earnings announcement drift 71% weaker, on macro-news days. This suggests a complementary relationship between macro and micro news that is consistent with either investor attention or information transmission channels.",
+            "keywords": [
+                "macro news",
+                "earnings announcements",
+                "market efficiency",
+                "investor attention",
+                "information transmission",
+                "complementary relationship"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/108224.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Macro news and micro news: Complements or substitutes?",
+            "abstract": "We study how the arrival of macro-news affects the stock market's ability to incorporate the information in firm-level earnings announcements. Existing theories suggest that macro and firm-level earnings news are attention substitutes; macro-news announcements crowd out firm-level attention, causing less efficient processing of firm-level earnings announcements. We find the opposite: the sensitivity of announcement returns to earnings news is 17% stronger, and post-earnings announcement drift 71% weaker, on macro-news days. This suggests a complementary relationship between macro and micro news that is consistent with either investor attention or information transmission channels.",
+            "keywords": [
+                "Macro news",
+                "Earnings announcements",
+                "Market efficiency",
+                "Investor attention",
+                "Complementary relationship"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a145_3ay_3a2022_3ai_3a3_3ap_3a1006-1024.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are cryptocurrencies becoming more interconnected?",
+            "abstract": "This paper studies the dynamic market linkages among cryptocurrencies during August 2015\u00e2\u0080\u0093July 2020 and finds a substantial increase in market linkages for both returns and volatilities. We use different methodologies to check the different aspects of market linkages. Financial and regulatory implications are discussed.",
+            "keywords": [
+                "Cryptocurrencies",
+                "Market linkages",
+                "Diversification"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a199_3ay_3a2021_3ai_3ac_3as0165176521000021.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The link between cryptocurrencies and Google Trends attention",
+            "abstract": "This paper revisits the linkage between cryptocurrencies and public disclosed preferences, proxied by online searches. We show that cryptocurrencies are not related to a general uncertainty index as measured by the Google Trends data by Castelnuovo and Tran (2017). Instead, cryptocurrencies are linked to a Google Trends attention measure specific for this market. In particular, we find a bidirectional flow of information between Google Trends attention and cryptocurrency returns up to six days. Moreover, information flows from cryptocurrency volatility to Google Trends attention seem to be larger than those in the other direction. Finally, we report a significant tail dependence between cryptocurrency returns and Google Trends. These relations hold for the five cryptocurrencies analyzed and different compositions of the proposed Google Trends Cryptocurrency index.",
+            "keywords": [
+                "Cryptocurrencies",
+                "Google Trends",
+                "Transfer entropy",
+                "Market attention"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a47_3ay_3a2022_3ai_3apa_3as1544612321005833.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

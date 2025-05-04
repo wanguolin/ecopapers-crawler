@@ -1,0 +1,153 @@
+{
+    "page_info": {
+        "page_number": 222,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The Cross-Section of Risk and Returns",
+            "abstract": "A common practice in the finance literature is to create characteristic portfolios by sorting on characteristics associated with average returns. We show that the resultant portfolios are likely to capture not only the priced risk associated with the characteristic but also unpriced risk. We develop a procedure to remove this unpriced risk using covariance information estimated from past returns. We apply our methodology to the five Fama-French characteristic portfolios. The squared Sharpe ratio of the optimal combination of the resultant characteristic-efficient portfolios is 2.13, compared with 1.17 for the original characteristic portfolios.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a33_3ay_3a2020_3ai_3a5_3ap_3a1927-1979..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asset markets can achieve efficiency in the directed search framework",
+            "abstract": "Using a directed search model, modified from random matching, this paper investigates how trading frictions in asset markets affect portfolio choices, asset prices, and welfare. By solving the model numerically, it is demonstrated that the asset price increases (decreases) in the matching efficiency, if the relative risk aversion is smaller (larger) than unity. Efficient asset allocation is achieved in the directed search framework, while random matching is known not to achieve efficient allocation.",
+            "keywords": [
+                "directed search",
+                "asset market",
+                "social welfare",
+                "intermediation"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/oskwpaper/0933.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dynamic Functional Regression with Application to the Cross-section of Returns",
+            "abstract": "Motivated by testing the significance of risk factors for a cross-section of returns, we develop an inferential framework which involves function-on-scalar regression. Asymptotic theory is developed assuming the factors form a weakly dependent vector-valued time series, and the regression errors are weakly dependent functions. To accommodate the empirical behavior of the cross-section of returns and of the factors, we allow both the factors and the error functions can exhibit mild departures from stationarity. This requires new asymptotic theory which leads to several tests for the significance of function-valued regression coefficients. The new approach to the study of the significance of risk factors for a cross-section of returns complements the established Fama\u00e2\u0080\u0093French approach based on portfolio construction. It is more suitable if the statistical significance of the risk factors is to be rigorously controlled.",
+            "keywords": [
+                "Cross-section of returns",
+                "functional regression",
+                "Hilbert space",
+                "weak dependence",
+                "time series"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/oupjfinec/v_3a16_3ay_3a2018_3ai_3a3_3ap_3a461-485..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "When Opportunity Knocks: Cross-Sectional Return Dispersion and Active Fund Performance",
+            "abstract": "Active opportunity in the market, measured by cross-sectional dispersion in stock returns, significantly influences fund performance. Active strategies have the greatest impact on returns during periods of high dispersion, when alpha produced by the most active funds significantly exceeds that produced in other months. The outperformance of the most relative to the least active funds is also concentrated in months of high dispersion. Deciding when to invest in active funds, therefore, can be as important to generating outperformance as deciding which funds to invest in. Switching between highly active and passive funds based on dispersion produces significant alpha of over 2.7% p.a. after fees. This paper adds a new dimension to understanding how active funds can be used to generate value, by combining identification of which managers have the greatest potential to outperform the market with insight into when the market is most conducive to outperformance.",
+            "keywords": [
+                "Mutual funds",
+                "Return dispersion",
+                "Active management"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/nowjnlcfr/104.00000040.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "EFECTO FIN DE SEMANA Y FIN DE MES EN EL MERCADO BURSATIL CHILENO",
+            "abstract": "The present work corroborates the existence of two anomalies that question the hypothesis of efficient markets in the Chilean stock market, these are the \u00e2\u0080\u009ceffect weekend\u00e2\u0080\u009d or \u00e2\u0080\u009ceffect monday\u00e2\u0080\u009d and the \u00e2\u0080\u009ceffect month end\u00e2\u0080\u009d. Using the daily values of closing of stock-exchange index IPSA, and following the methodology used by Kenneth R. French, the hypotheses \u00e2\u0080\u009cTrading Time\u00e2\u0080\u009d and \u00e2\u0080\u009cCalendar Time\u00e2\u0080\u009d were checked to contrast the \u00e2\u0080\u009ceffect weekend\u00e2\u0080\u009d. In order to contrast the \u00e2\u0080\u009ceffect month end\u00e2\u0080\u009d it was made an analysis of averages and variances and, later, a study of temporary windows.",
+            "keywords": [
+                "Hip\u00c3\u00b3tesis de Mercados Eficientes",
+                "Efecto fin de semana",
+                "Efecto fin de mes"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/3252.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Illiquidity and Stock Returns: Cross-Section and Time-Series Effects: A Replication",
+            "abstract": "This paper replicates and extends the Amihud (2002) study that links liquidity to asset pricing. Using the current version of the CRSP dataset, we obtain essentially the same results that Amihud presents. The same methods applied to more recent data show a much weaker relation between liquidity and asset pricing. Finally, we compare the explanatory power of Amihud\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s illiquidity measure to that of other simple measures that use the same data for their calculation. We find that the Amihud illiquidity measure is no better than substantially simpler measures.",
+            "keywords": [
+                "Liquidity",
+                "Asset Pricing",
+                "Replication Studies",
+                "Price-Volume Relations",
+                "Transaction Costs"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/nowjnlcfr/104.00000058.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sequential monitoring of portfolio betas",
+            "abstract": "Abstract We suggest statistical instruments for on-line surveillance of the portfolio characteristic beta from the one factor model (CAPM). The aim is to check at every new date, whether the investor\u00e2\u0080\u0099s portfolio exhibits the required beta factors. Daily realized betas calculated with intraday information constitute the time series of interest. We consider both the conventional as well as our novel two scale realized beta estimators. The proposed monitoring schemes are designed to provide timely signals that the actual portfolio betas may deviate from the desired values in a statistically significant way. The empirical study illustrates the proposed methodology for US market data.",
+            "keywords": [
+                "One factor model",
+                "Control charts",
+                "On-line monitoring",
+                "Realized beta",
+                "Statistical process control"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprstpapr/v_3a59_3ay_3a2018_3ai_3a2_3ad_3a10.1007_5fs00362-016-0783-6.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "News reaction in financial markets within a behavioral finance model with heterogeneous agents",
+            "abstract": "This paper presents a Heterogeneous Agent Model of a financial market with chartist and fundamentalist traders that exhibit bounded rationality and short-term thinking to explain the effect of under and overreaction to news. The existence of the Market Maker's finite price adjustment speed leads to the fact that prices do not adjust instantaneously to new information. Chartists use moving average rules to make their investment decisions. Chartist can transform an underreaction-only scenario into a market with overreaction. The use of long moving average rules might even make the market unstable. Furthermore, noise in financial markets can lead to long time decoupling from fundamental value. Higher market efficiency (low deviations from fundamental value), on the other hand, is achieved if high rationality and long-term thinking for the agents is assumed.",
+            "keywords": [
+                "Heterogeneous",
+                "Agent",
+                "Model",
+                "stock market",
+                "under and overreaction to news",
+                "moving average rules",
+                "financial stability"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwdarddp/dar_5f54196.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "US Corporate Bond Yield Spread. A default risk debate",
+            "abstract": "According to theoretical models of valuing risky corporate securities, risk of default is primary component in overall yield spread. However, sizable empirical literature considers it otherwise by giving more importance to non-default risk factors. Current study empirically attempts to provide relative solution to this conundrum by presuming that problem lies in the subjective empirical treatment of default risk. By using post-hoc estimator approach of Lubotsky & Wittenberg (2006), we construct an efficient indicator for risk of default, by using sample of 252 US non-financial corporate data (2000-2010). On average, our results validate that almost 48% of change in yield spread is explained by default risk especially in recent financial crisis period (2007-2009). Hence, our results relatively suggest that potential problem lies in the ad-hoc measurement methods used in existing empirical literature.",
+            "keywords": [
+                "Default risk",
+                "Credit spread",
+                "Risk-aversion",
+                "Measurement error",
+                "Index construction"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwesprep/73690.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Evidences of Efficient Investment Portfolio in Indian Capital Markets - An Analysis Based on BSE and NSE Indices",
+            "abstract": "A decent budgetary portfolio is nothing more, and nothing less, than an accumulation of advantages that develop in quality and produce abundance money for the financial specialist to spend or reinvest. Markowitz (1959) is one of the pioneers of present day portfolio hypothesis. Generally, the measure of danger utilized as a part of portfolio advancement models is the fluctuation. On the other hand, option measures of danger i.e., beta (un-standardized coefficient) has been utilized by Sharpe as a part of single file model. This paper goes for applying so as to build an ideal portfolio Sharpe's single record model. For this reason the day by day shutting costs of 50 organizations recorded on the National Stock Exchange (NSE) which include the Nifty Index would be considered for the period July 2012 to June 2014. The study shows financial specialist ought to be making interest in HCL Technologies Ltd. with an extent of 77.91%, and Housing Development Finance Corporation Ltd. with an extent of 22.09%. Financial specialist is obliged to short offer Bharat Petroleum Corporation Ltd., Asian Paints Ltd., United Spirits Ltd., and Bharti Airtel Ltd., stocks to expand portfolio return. This paper would be of extensive importance and valuable to the different financial specialists in determination of stocks for their portfolios.",
+            "keywords": [
+                "Indian capital market",
+                "Efficient Investment Portfolio",
+                "Stock markets",
+                "Investment",
+                "BSE",
+                "NSE"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwesprep/117335.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "When to Put All Your Eggs in One Basket.....When Diversification Increases Portfolio Risk!",
+            "abstract": "Portfolio diversification may not always lower the portfolio risk, but may actually increase it. It depends on the long memory and distributional stability characteristics of the underlying rates of return. This disturbing result is based on the theoretical Fama- Samuelson proposition of 1965-67. However, there exists now ample empirical evidence for such peculiar results, since most financial return series show long memory, e.g., the S&P500 Index return series. Illiquid real estate and bank loan values are sometimes subject to catastrophic discontinuities. Adding these assets to the portfolio may increase its risk drastically.",
+            "keywords": [
+                "portfolio management",
+                "distibutional stability",
+                "long memory",
+                "financial risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0411037.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Option return predictability with machine learning and big data",
+            "abstract": "Drawing upon more than 12 million observations over the period from 1996 to 2020, we find that allowing for nonlinearities significantly increases the out-of-sample performance of option and stock characteristics in predicting future option returns. Besides statistical significance, the nonlinear machine learning models generate economically sizeable profits in the long-short portfolios of equity options even after accounting for transaction costs. Although option-based characteristics are the most important standalone predictors, stock-based measures offer substantial incremental predictive power when considered alongside option-based characteristics. Finally, we provide compelling evidence that option return predictability is driven by informational frictions, costly arbitrage, and option mispricing.",
+            "keywords": [
+                "Machine learning",
+                "big data",
+                "option return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/2108.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

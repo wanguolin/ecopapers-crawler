@@ -1,0 +1,162 @@
+{
+    "page_info": {
+        "page_number": 211,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Investment behavior of retail investors in response to COVID-19 economic impact payments",
+            "abstract": "This study investigates the impact of Economic Impact Payments (EIPs) on retail stock trading and the stock market using Robinhood data. We find that during the EIP period, there was a surge in retail investors who adopted a contrarian strategy by purchasing stocks that experienced significant declines due to COVID-19. However, these stocks relatively underperformed over the following six months, suggesting potential biases in retail investment decisions. Furthermore, a decrease in market quality was observed in these stocks.",
+            "keywords": [
+                "Individual investors",
+                "Economic stimulus",
+                "Robinhood"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a233_3ay_3a2023_3ai_3ac_3as0165176523003956.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mass shootings, investors\u00e2\u0080\u0099 panic, and market anomalies",
+            "abstract": "Do mass shootings exacerbate investors\u00e2\u0080\u0099 sentiments towards the stock market? We empirically examine this question using 1947 cases of mass shootings in the US from February 2014 to May 2023. We document that investors react negatively to mass shootings, as evidenced by the drop in market index immediately following the incidence. Further analysis indicates that the impact varies by sectors and the impact of the shootings on market performance is correlated with the intensity of internet-related search about the event.",
+            "keywords": [
+                "Mass shooting",
+                "Investor panic",
+                "Stock market",
+                "Anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a231_3ay_3a2023_3ai_3ac_3as0165176523003099.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Monetary shocks and the analyst coverage of the firm",
+            "abstract": "Contractionary monetary shocks, which are known to reduce growth and tighten lending, significantly reduce firm-level analyst coverage. The reduction in analyst coverage of high-leverage firms is almost 50% larger, and faster, than the reduction in the coverage of low-leverage firms.",
+            "keywords": [
+                "Monetary policy",
+                "Analyst coverage",
+                "Leverage"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a218_3ay_3a2022_3ai_3ac_3as0165176522002804.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Inflation and Bitcoin: A descriptive time-series analysis",
+            "abstract": "This study examines the time-series relation between Bitcoin and forward inflation expectation rates. Using a vector autoregressive process, we find that changes in Bitcoin Granger cause changes in the forward inflation rate. Furthermore, imposing an exogenous shock to Bitcoin\u00e2\u0080\u0099s price results in a persistent increase in the forward inflation rate. Our findings provide support for the notion that Bitcoin may be used as a hedge against inflation as changes in the price of Bitcoin tend to lead changes in the expected inflation.",
+            "keywords": [
+                "Bitcoin",
+                "Cryptocurrency",
+                "Digital currency",
+                "Inflation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a203_3ay_3a2021_3ai_3ac_3as0165176521001257.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The relationship between the volatility of returns and the number of jumps in financial markets",
+            "abstract": "The contribution of this paper is two-fold. First we show how to estimate the volatility of high frequency log-returns where the estimates are not a affected by microstructure noise and the presence of L\u00c3\u00a9vy-type jumps in prices. The second contribution focuses on the relationship between the number of jumps and the volatility of log-returns of the SPY, which is the fund that tracks the S&P 500. We employ SPY high frequency data (minute-by-minute) to obtain estimates of the volatility of the SPY log-returns to show that: (i) The number of jumps in the SPY is an important variable in explaining the daily volatility of the SPY log-returns; (ii) The number of jumps in the SPY prices has more explanatory power with respect to daily volatility than other variables based on: volume, number of trades, open and close, and other jump activity measures based on Bipower Variation; (iii) The number of jumps in the SPY prices has a similar explanatory power to that of the VIX, and slightly less explanatory power than measures based on high and low prices, when it comes to explaining volatility; (iv) Forecasts of the average number of jumps are important variables when producing monthly volatility forecasts and, furthermore, they contain information that is not impounded in the VIX.",
+            "keywords": [
+                "Volatility",
+                "forecasts",
+                "High-frequency",
+                "data",
+                "Implied",
+                "volatility",
+                "VIX",
+                "Jumps",
+                "Microstructure",
+                "noise"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ctewbrepe/wb097508.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock pricing in Latin America: The synchronicity effect",
+            "abstract": "This paper investigated whether the stock price synchronicity level (SPSL) is a pricing factor in the Latin American scenario. To do so, the shares with the highest liquidity level listed in the stock exchange in five Latin American (LA) countries (Argentina, Brazil, Chile, Mexico and Peru) were used. The results indicated that the SPSL is associated with a positive premium. This premium was obtained by the CAPM model and by the Fama-French three- and five-factor models. There was evidence that the average SPSL increases in periods of greater turmoil in the financial markets. Moreover, it was found that the SPSLs are not associated monotonically with the efficiency levels of stock prices. Overall, the use of the SPSL factor in asset pricing models reduced the bias in estimating the stock premiums in LA.",
+            "keywords": [
+                "Synchronicity",
+                "Idiosyncratic risk",
+                "Latin America",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeememar/v_3a39_3ay_3a2019_3ai_3ac_3ap_3a1-17.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Autocorrelation and partial price adjustment",
+            "abstract": "Stock return autocorrelation contains spurious components\u00e2\u0080\u0094the nonsynchronous trading effect (NT) and bid\u00e2\u0080\u0093ask bounce (BAB)\u00e2\u0080\u0094and genuine components\u00e2\u0080\u0094partial price adjustment (PPA) and time-varying risk premia (TVRP). We identify a portion that can unambiguously be attributed to PPA, using three key ideas: theoretically signing and/or bounding the components; computing returns over disjoint subperiods separated by a trade to eliminate NT and greatly reduce BAB; and dividing the data period into disjoint subperiods to obtain independence for statistical power. Analyzing daily individual and portfolio return autocorrelations in sixteen years of NYSE intraday transaction data, we find compelling evidence that PPA is a major source of the autocorrelation.",
+            "keywords": [
+                "Stock return autocorrelation",
+                "Nonsynchronous trading",
+                "Partial price adjustment",
+                "Market",
+                "Microstructure",
+                "Open-to-close return"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a24_3ay_3a2013_3ai_3ac_3ap_3a78-93.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Volatility spillovers between oil and coal prices and its implications for energy portfolio management in China",
+            "abstract": "In the structure of energy consumption of China, coal and oil rank the top and the second place. It is obviously important to better understand the dynamics of the price volatility between crude oil and coal in China, and then to build a reasonable energy portfolio. As the listing of China's crude oil futures offers a new sample to study the volatility contagion of oil and coal prices, by using daily data from 2nd May 2018 to January 23, 2020, four different multivariate GARCH models are compared and contrasted in this paper. Then, based on the results of the four MGARCHs, we investigate the oil-coal portfolios' optimal weights and hedge ratios. The results indicate that, first, a long-run co-integration relationship exists in China's crude oil and coal. Second, in short run, futures price of crude oil leads that of coal, the volatility spillover effect of crude oil on coal is stronger than that of coal on crude oil. Third, the DCC-GARCH model fits best for data. Last, weights of optimal portfolio and ratios of hedge show that the crude oil is a tool to make the risk of portfolio minimal in energy markets. These results are expected to have implications for energy producers, users and trading enterprises to inform their decision-making.",
+            "keywords": [
+                "China's crude oil",
+                "Coal",
+                "MGARCH",
+                "Volatility spillovers",
+                "Diversification and hedging"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a89_3ay_3a2024_3ai_3apb_3ap_3a446-457.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock return and volatility reactions to information demand and supply",
+            "abstract": "The objective of this paper is to evaluate the impact of information demand and supply on stock market return and volatility. In this study we employ a proxy for information demand which is derived from weekly internet search volume. The latest is drawn from Google Trends database, for 25 of the largest stocks traded on CAC40 index, between April 2007 and March 2014. We use news headlines as a proxy for information supply. Our empirical findings suggest: First public information has an impact on stock returns but its impact on the volatility is much more important. Second, the influence of specific information demand to the company persists even by adding market information demand and firm/market information supply. Finally, by applying MCA to results found, it could be concluded that the impact of public information on stock return and volatility is conditioned by two elements: The company and market news disclosure, and the second element relates to the characteristics of the market participants, more precisely their news interpretations and their risk aversion.",
+            "keywords": [
+                "GARCH model",
+                "Google trends database",
+                "Information demand",
+                "Information supply",
+                "Multiple correspondence analysis (MCA)"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a39_3ay_3a2017_3ai_3apa_3ap_3a54-67.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The use of open source internet to analysis and predict stock market trading volume",
+            "abstract": "The objective of this paper is to evaluate the impact of information demand and supply on stock market trading volume. Few studies have demonstrated the role of Google search data in analyzing trading volume activity. In this study, we employ a proxy for information demand which is derived from weekly internet search volume. The latest is from Google Trends database, for 25 of the largest stocks traded on CAC40 index, between April 2007 and March 2014. We use news headlines as a proxy for information supply. We use Garch model to analyze and predict trading volume.",
+            "keywords": [
+                "GARCH model",
+                "Google Trends database",
+                "Information demand",
+                "Information supply",
+                "Multiple correspondence analysis (MCA)",
+                "Chow structural break test"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a41_3ay_3a2017_3ai_3ac_3ap_3a399-411.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Feedback trading in stock index futures: Evidence from South Africa",
+            "abstract": "This study tests whether investors and speculators in stock index futures contracts on the South African stock market use feedback trading strategies. Feedback trading can be destabilizing and impede on the risk mitigation and price discovery functions of futures contracts. Using the Sentana and Wadhwani (1992) model, and accounting for the global financial crisis, we find no evidence of feedback trading in the Top40 futures index or the Top40 mini futures index contracts. Our findings have important implications for investors who wish to use index futures to mitigate risk or exploit arbitrage opportunities and regulators concerned about the destabilizing effects of futures trading.",
+            "keywords": [
+                "Feedback trading",
+                "Stock index futures",
+                "Market efficiency",
+                "South Africa"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a42_3ay_3a2017_3ai_3ac_3ap_3a1289-1297.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time and frequency dynamic connectedness between cryptocurrencies and financial assets in China",
+            "abstract": "This paper explored the connectedness of dynamic time-frequency between cryptocurrencies and traditional financial assets in China using a weekly dataset from September 4, 2015 to March 4, 2022. We found that cryptocurrencies were the primary contributors to the connectedness system and the primary risk sources for traditional financial assets in China. We also found that cryptocurrencies were the main net transmitters of dynamic spillovers, while China's traditional financial assets were the primary net receivers. In addition, conventional financial assets were more sharply influenced by cryptocurrencies in the short term because the level of spillovers was more significant than in the long term, and spillover fluctuations were intense during the COVID-19 pandemic. These findings provide empirical support for the Chinese State Council's current policy regarding crackdowns on cryptocurrencies.",
+            "keywords": [
+                "Time and frequency connectedness",
+                "Cryptocurrencies",
+                "Financial assets",
+                "COVID-19"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a86_3ay_3a2023_3ai_3ac_3ap_3a46-57.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

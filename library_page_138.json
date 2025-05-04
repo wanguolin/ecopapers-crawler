@@ -1,0 +1,166 @@
+{
+    "page_info": {
+        "page_number": 138,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Safety first, loss probability, and the cross section of expected stock returns",
+            "abstract": "Recent studies show that loss probability (LP) is a decisive factor when people evaluate assets in laboratory experiments, suggesting a positive relationship between LP and expected stock returns. This corresponds to the classical \u00e2\u0080\u009cSafety-First\u00e2\u0080\u009d principle. We find strong empirical support for this prediction in the U.S. stock market. During our sample period, average risk-adjusted return differences between stocks in the two extreme LP deciles exceed 0.57% per month. The positive LP effect, characterized by the intention of some investors to pay low prices for high LP stocks, remains significant after controlling for traditional downside risk measures.",
+            "keywords": [
+                "Loss probability",
+                "Mental accounting",
+                "Risk attitudes",
+                "Safety-First",
+                "Stock returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejeborg/v_3a211_3ay_3a2023_3ai_3ac_3ap_3a345-369.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading gap in holidays and price transmission: Evidence from cross-listed stocks on the A-share and H-share markets",
+            "abstract": "Chinese public holidays of differing durations celebrated in mainland China and Hong Kong provide a unique trading gap when the A-share markets are closed but the H-share market is not. In this study, we examine how these non-overlapping trading gaps caused by holidays affect price transmission between cross-listed stocks in the A-share and H-share markets. We find that the price movements of H-shares during trading gaps are positively associated with post-holiday drifts in the A-share markets. This positive association is stronger when the length of non-overlapping holidays is longer, and when firms have a weaker connection to Hong Kong market. Moreover, our evidence reveals that investor distraction rather than sentiment during holiday periods may be the reason for this positive association. Finally, our results show that a portfolio trading strategy based on our findings can be profitable, indicating the economic magnitude of our findings.",
+            "keywords": [
+                "Price transmission",
+                "Trading gap",
+                "Holiday effects",
+                "Cross-listed shares"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a87_3ay_3a2023_3ai_3ac_3as1057521923001321.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Analysts\u00e2\u0080\u0099 extrapolative expectations in the cross-section",
+            "abstract": "This paper examines extrapolative patterns of analysts\u00e2\u0080\u0099 expectations in the cross-section of firms. Using analysts\u00e2\u0080\u0099 target prices, I estimate the degree of extrapolative weighting capturing the relative weight analysts place on recent versus distant realized returns when forming their price expectation. I show considerable levels of extrapolation in the overall sample and on firm level. Results suggest considerable cross-sectional variation of extrapolation with valuation difficulty having a positive impact on the degree of extrapolative weighting. Furthermore, I construct a time-series of the degree of extrapolative weighting and argue that its time-series variation is also explained by valuation difficulty.",
+            "keywords": [
+                "Financial Analysts",
+                "Expectation formation",
+                "Target Prices",
+                "Extrapolation in the time-series",
+                "Extrapolation in the cross-section"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejebusi/v_3a130_3ay_3a2024_3ai_3ac_3as014861952400016x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "GDP announcements and stock prices",
+            "abstract": "Timely GDP announcements seem to be a useful approach for communicating immediate macroeconomic conditions; however, inaccuracy might instead trigger financial market turmoil. This study examines the stock market response to GDP announcements in Japan and provides several insights into the trade-off between timeliness and accuracy. First, the effect of the initial GDP announcement on stock price is tenuous at best, suggesting little useful information in the provisional estimates. Second, the stock market responds keenly to the first revision, but poorly to the second revision. Finally, depending on the expenditure components of GDP, the revisions cause over- and under-reactions, and thus, are different destabilizing factors in stock prices.",
+            "keywords": [
+                "GDP announcements",
+                "Data revisions",
+                "Stock prices"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejebusi/v_3a108_3ay_3a2020_3ai_3ac_3as0148619519302772.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Comparing the impact of discretionary and pre-announced central bank interventions",
+            "abstract": "I explore the launching of a Brazilian massive program of foreign exchange (FX) interventions in August 2013 to compare discretionary and pre-announced interventions. Using an external instrument approach, I find that Brazilian currency (BRL) appreciates 29.4 bps for each USD 1 billion discretionary intervention and the impact is significant up to the following day of the intervention. In contrast, an intraday event-study shows that the pre-announced intervention program caused a total BRL appreciation of 460 bps. Its public release accounted for 120 bps, while the impact of individual auctions was spread over two months and accounted for the remaining 340 bps. Finally, discretionary interventions are more effective per USD billion.",
+            "keywords": [
+                "Foreign exchange rate interventions",
+                "High frequency",
+                "Event study",
+                "External instrument",
+                "Foreign exchange market",
+                "Brazil"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejimfin/v_3a110_3ay_3a2021_3ai_3ac_3as0261560620302631.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are the Fama-French factors really compensation for distress risk?",
+            "abstract": "In this paper, we revisit the question whether the Fama-French factors are manifestation of distress risk premiums. To this end, we develop new tests specifically aimed at dissecting the Fama-French factor returns from a distress risk premium. While we find that value and small-cap exposures are typically associated with distress risk, our results also indicate that distress risk is not priced and that the small-cap and value premiums are priced beyond distress risk. Moreover, the distress risk exposures of common small-cap and value factors do not have explanatory power in asset pricing tests. Our results are robust to international out-of-sample analyses and have important implications for investors engaging in small-cap and value strategies.",
+            "keywords": [
+                "Book-to-market effect",
+                "Value anomaly",
+                "Small-cap effect",
+                "Market efficiency",
+                "Default risk",
+                "Bankruptcy",
+                "Credit spread",
+                "Bond spread",
+                "Distress risk",
+                "Credit rating"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejimfin/v_3a86_3ay_3a2018_3ai_3ac_3ap_3a50-69.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Inflation expectations: Australian consumer survey data versus the bond market",
+            "abstract": "This paper analyzes the relationship between interest rates, inflation expectations and inflation rates in Australia using the approach suggested by Toda and Yamamoto (1995) to test for Granger causality. The empirical evidence reported here suggests that uni-directional Granger causality is running from medium- and long-term government bond yields to short-term inflation expectations as measured by a survey among consumers. Moreover, there is bidirectional Granger causality among short-term interest rates and short-term inflation expectations among consumers. Additionally, interest rates and the sentiment data measuring inflation expectations can help to predict inflation rates. These findings are supportive for the Fisher effect and also seem to indicate that the bond market is quite efficient predicting inflation rates. Furthermore, some problems of more traditional tests of the Fisher hypothesis are discussed. In this context the role of financial deregulation in Australia is examined. Thus, the Lucas critique seems to be of some relevance testing the Fisher effect (see Lucas, 1976).",
+            "keywords": [
+                "Inflations expectations",
+                "Granger causality",
+                "Fisher effect",
+                "Lucas critique"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejeborg/v_3a203_3ay_3a2022_3ai_3ac_3ap_3a416-430.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Cross-asset return predictability: Carry trades, stocks and commodities",
+            "abstract": "Equity returns predict carry trade profits from shorting low interest rate currencies. Commodity price changes predict profits from longing high interest rate currencies. The gradual information diffusion hypothesis (Hong & Stein, 1999) provides a ready explanation for these predictability results. These results cannot be explained by time-varying risk premia as stock returns and commodity price changes significantly predict negative carry trade profits. The predictability is one-directional, from commodities to high interest rate currencies, from commodities to stocks and from stocks to low interest rate currencies.",
+            "keywords": [
+                "Carry trade",
+                "Gradual information diffusion",
+                "Return predictability",
+                "Safe-haven currencies",
+                "Time-varying risk premium",
+                "Vector auto regression"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejimfin/v_3a64_3ay_3a2016_3ai_3ac_3ap_3a62-87.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do limits to arbitrage explain the benefits of volatility-managed portfolios?",
+            "abstract": "We investigate whether transaction costs, arbitrage risk, and short-sale impediments explain the abnormal returns of volatility-managed equity portfolios. Even using six cost-mitigation strategies, after transaction costs, volatility management of asset-pricing factors besides the market return generally produces zero abnormal returns and significantly reduces Sharpe ratios. In contrast, abnormal returns of the volatility-managed market portfolio are robust to transaction costs and concentrated in the most easily arbitraged stocks, those with low arbitrage risk and impediments to short selling. Moreover, the managed market strategy only provides superior performance when sentiment is high, consistent with prior theory that sentiment traders underreact to volatility.",
+            "keywords": [
+                "Transaction costs",
+                "Short-sale constraints",
+                "Arbitrage risk",
+                "Factor timing",
+                "Sentiment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a140_3ay_3a2021_3ai_3a3_3ap_3a744-767.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asset pricing on earnings announcement days",
+            "abstract": "Market betas have a strong and positive relation with average stock returns on a handful of days every year. Such unique days, defined as leading earnings announcement days (LEADs), are times when an aggregate of influential S&P 500 firms disclose quarterly earnings news early in the earnings season. The positive return-to-beta relation holds for various test portfolios, individual stocks, and Treasuries; and is robust to different data frequencies and testing procedures. On days other than LEADs, the beta-return relation is flat. We conclude that waves of early earnings announcements by large firms clustered on LEADs significantly influence asset pricing.",
+            "keywords": [
+                "Capital asset pricing model",
+                "Earnings announcements",
+                "Security market line",
+                "Market beta"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a144_3ay_3a2022_3ai_3a3_3ap_3a1022-1042.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mispricing, short-sale constraints, and the cross-section of option returns",
+            "abstract": "Motivated by the theory of demand-based option pricing in imperfect markets, we examine the relation between short-sale constraints and equity option returns, conditional on the level of mispricing in the underlying stock. We report a monotonic relation between various measures of short-sale constraints and delta-hedged returns of put options on overpriced stocks. This relation is robust to controls for firm attributes and limits to arbitrage proxies. Our findings suggest that while investors drive up the demand for these put options, dealers command a high premium as compensation for the increased market making risk. We do not find a robust relation for either put options on underpriced stocks or call options.",
+            "keywords": [
+                "Option returns",
+                "Short interest",
+                "Short-sale constraints",
+                "Mispricing",
+                "Limits to arbitrage"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a141_3ay_3a2021_3ai_3a1_3ap_3a297-321.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Disagreement about public information quality and informational price efficiency",
+            "abstract": "Investors often hold differing opinions on public information quality. This paper shows that such investor disagreement provides a novel explanation for financial market dynamics around earnings announcements. We propose a rational expectations equilibrium model where investors disagree about the precision of a public signal, which separates a pre-news trading period from a post-news trading period. In equilibrium, investor disagreement about public signal precision diminishes informational price efficiency before the news, but enhances it afterward. Consequently, investor disagreement leads to a notable jump in informed trading around the news, a decline in abnormal trading volume before the news and a surge immediately after the news, and underreaction of stock price to announced earnings.",
+            "keywords": [
+                "Investor disagreement",
+                "Informational price efficiency",
+                "Dynamic REE model",
+                "Trading volume",
+                "Price underreaction"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a152_3ay_3a2024_3ai_3ac_3as0304405x23002027.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

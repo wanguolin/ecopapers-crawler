@@ -1,0 +1,154 @@
+{
+    "page_info": {
+        "page_number": 32,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Market memory, advance reaction, and retail investor herding",
+            "abstract": "The arrival of new information, in conjunction with investor cognitive biases, has commonly been acknowledged as the main cause of herding behavior. However, whether past market information embedded in market memory influences investor herding has been less explored. We utilize tick-level trading data from the Chinese stock market to examine the impact of the market memory formed of stocks' exceptional performance during their initial trading days on the future herding behavior of retail investors. The empirical results show that the market memory of newly listed stocks is positively correlated with retail investor herding one year later at the appearance of a market-wide upward trend. We also propose an advance reaction channel in which retail investors tend to pay early attention to and preemptively invest in stocks with deep market memory due to their limited attention and the availability heuristic, leading to further herding due to confirmation bias. Our findings show that market information, if not fully incorporated into current stock prices through investor trading, can be partly stored in market memory. When activated by specific market conditions, market memory can be recalled and affect investor behavior and subsequent price dynamics. Our findings provide additional evidence to challenge the efficient market hypothesis (EMH) from the perspective of behavioral finance.",
+            "keywords": [
+                "Market memory",
+                "Retail investor herding",
+                "Cognitive bias",
+                "Advance reaction"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a83_3ay_3a2024_3ai_3ac_3as0927538x24000027.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Risk factors in the Indonesian stock market",
+            "abstract": "This paper identifies the relevant risk factors that determine the cross-section of returns in the Indonesian stock market. We examine 152 factors using the Bayesian framework developed in Jensen et al. (2022). Our results show that size, value, quality, and profitability are the characteristics themes that explain future cross-sectional stock returns during the period 1991\u00e2\u0080\u00932022. Momentum is not significant. We document differences in factor returns for stocks that adhere to Sharia law (i.e. Islamic finance principles). Value and size return patterns occur across all stocks, but significant posterior alphas for quality and profitability reliably exist only within non-Sharia stocks.",
+            "keywords": [
+                "Indonesian stock market",
+                "Factor returns",
+                "Stock market anomalies",
+                "Bayesian analysis",
+                "Machine learning"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a82_3ay_3a2023_3ai_3ac_3as0927538x23002469.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment and IPO pricing during pre-market and aftermarket periods: Evidence from Hong Kong",
+            "abstract": "Using a sample of 293 IPOs in Hong Kong, we separately measure pre-market and aftermarket sentiments and examine their impact on IPO pricing in a two-stage framework. We find that underwriters only partially adjust offer price to reflect pre-market sentiment and money left on the table is positively related to the deterioration of investor sentiment in the aftermarket period. We also show that aftermarket sentiment causes a further price run-up in the secondary market. Overall, our findings suggest that institutional investors play an important role of re-distributing shares in the secondary market and underwriters take into consideration of investor sentiment in pricing IPOs during pre-market and aftermarket periods.",
+            "keywords": [
+                "Investor sentiment",
+                "IPO pricing",
+                "Institutional investors",
+                "Aftermarket trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a23_3ay_3a2013_3ai_3ac_3ap_3a65-82.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dissecting the links among profitability, the disposition effect, and trading activity",
+            "abstract": "We empirically dissect, at the individual trader level, the negative linkage between trading profitability and the disposition effect by tracking the trade-by-trade histories of traders on the Taiwan Futures Exchange (TAIFEX). In addition to the evidence that they exhibit the disposition effect, we find profitability is linked to whether traders have realized gains high enough to cover realized losses. We further demonstrate the opposing effects of active trading on profitability: traders with strong disposition effect suffer more losses as they trade more, but for traders who exhibit weak or reverse disposition effect the more actively they trade, the more profitable they are.",
+            "keywords": [
+                "Disposition effect",
+                "Profitability",
+                "Individual trader",
+                "Realized gain (loss)"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a83_3ay_3a2024_3ai_3ac_3as0927538x23002688.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Volatility arbitrage around earnings announcements: Evidence from the Korean equity linked warrants market",
+            "abstract": "We examine the presence and performance of volatility arbitrage opportunities around earnings announcements using daily ELW (equity linked warrant) trade data in the Korean market. We find that volatilities drift in a predictable and monotonic fashion, which is different from findings in prior literature. The predictable drift generates a volatility arbitrage opportunity. Our trading strategy exploits both the pre- and the post-announcement drift of implied volatilities and generates a sizable trading profit of 11.4% per ELW contract in excess of transaction costs during the 21 business days around the earnings announcement date. In particular, short-term deep out-of-the-money ELWs deliver a 26.0% trading profit per ELW contract. The profits remain robust after considering the liquidity of ELWs and assuming very high transaction costs. Our results suggest that the Korean ELW market is not a level playing field because the trading strategy is easily implementable for liquidity providers while difficult for retail investors.",
+            "keywords": [
+                "Volatility arbitrage",
+                "Earnings announcement",
+                "Implied volatility",
+                "Equity linked warrant (ELW)",
+                "Derivative warrant"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a23_3ay_3a2013_3ai_3ac_3ap_3a109-130.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An analysis of the impact of media coverage on stock price crashes and jumps: Evidence from Japan",
+            "abstract": "We attempt to identify a possible linkage between stock price crashes and jumps and media coverage by using data from Japanese stock markets and newspaper articles. Our evidence clearly indicates that crash frequency increases with media coverage and its seasonal concentration. This key finding supports the notion that intensive media reports on a firm provoke extremely large reactions in the market to corporate news. However, we find no evidence that media coverage has a positive impact on jump frequency. Further, by using an alternative measure of the scale of crash returns, we confirm the increasing effect of media coverage on crashes. We also find that the media effect is caused by market reactions, particularly to news on official disclosure information such as announcements of accounting results.",
+            "keywords": [
+                "Stock price crash",
+                "Media coverage",
+                "Corporate disclosure"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a24_3ay_3a2013_3ai_3ac_3ap_3a22-38.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Google search intensity and its relationship with returns and trading volume of Japanese stocks",
+            "abstract": "This study examines the relationship between online search intensity and stock-trading behavior in the Japanese market. The search intensity is measured by the search volume of company names on Google. Our sample consists of 189 Japanese stocks searched between 2008 and 2011. We find correlations with search intensity that are strongly positive for trading volume and weakly positive for stock returns. Our results are consistent with the notion that the increase in search activity is associated with increases in trading activity, but the probability that this increase in trading raises stock prices is not high.",
+            "keywords": [
+                "Investor sentiment",
+                "Attention: stock price",
+                "Trading volume",
+                "Behavioral finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a27_3ay_3a2014_3ai_3ac_3ap_3a1-18.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum effect in Australian equities: Revisit, armed with short-selling ban and risk factors",
+            "abstract": "It is well documented that past winning stocks continue to outperform past losing stocks in numerous equity markets. However, existing Australian evidence on the momentum effect is contradictory and limited, partly due to differences in empirical designs, sample periods and stock populations. We assess the momentum profitability over the most eligible stocks which are constituents of the S&P/ASX200 index. These stocks represent the principal equity investment universe for institutional investors and managed funds due to their sufficient size and liquidity which make the momentum trading strategies practical and implementable. By incorporating the short-selling ban during the global financial crisis, we find evidence of return persistence. The momentum effect is most pronounced amongst winning stocks for longer holding periods. Upon further exploration we find that neither an industry-driven momentum effect nor common risk factors can fully account for the momentum effect.",
+            "keywords": [
+                "Momentum",
+                "Short-selling ban",
+                "Risk factors"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a27_3ay_3a2014_3ai_3ac_3ap_3a19-31.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information attributes, information asymmetry and industry sector returns",
+            "abstract": "We examine whether the probability of informed trading (\u00e2\u0080\u0098PIN\u00e2\u0080\u0099) is a determinant of stock returns in Australia, an alternative market with considerably different information attributes to the U.S. Uniquely, we contrast PIN's price effect for the country's historically dichotomous sectors, resources and industrials. Using data for the period from 1996 to 2010, we find a significantly positive relationship between PIN and expected returns among industrials sector stocks, providing evidence in support of Easley and O'Hara (2004). We observe no PIN premium among resources sector stocks and among those with no record of operating revenues, both notable for their speculative nature and uncertainty about true asset values. Our results are consistent with previous empirical evidence that documents strong investor behavioural biases in valuing extremely uncertain stocks or hard-to-value stocks (Kumar, 2009). Our findings shed light on the existing mixed evidence that a strong PIN premium exists in NYSE and AMEX but not in NASDAQ where high-tech stocks are prevalent, and suggest that caution is needed when applying PIN in the pricing of highly speculative stocks.",
+            "keywords": [
+                "PIN",
+                "Information asymmetry",
+                "Information attributes",
+                "Speculative stocks",
+                "Sector returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a26_3ay_3a2014_3ai_3ac_3ap_3a156-175.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Liquidity discount in the opaque market: The evidence from Taiwan's Emerging Stock Market",
+            "abstract": "The decentralized OTC market is extremely illiquid and opaque in comparison with the exchange-listed stock market. Although liquidity risk has been well documented in the finance literature, little is known about how liquidity risk affects the stocks traded in the decentralized OTC market. In this study, we investigate liquidity risk on the cross section of stock returns in Taiwan's Emerging Stock Market (TESM), which is a typical decentralized OTC market. Liquidity risk is measured by the liquidity discount devised by Chen (2012). We empirically find that (i) firm-specific liquidity discounts hinge on the attributes pertaining to firm-specific and economic fundamentals; (ii) liquidity risk is priced in both OTC and exchange-listed stock markets, and the risk premia are material and increase when liquidity deteriorates; and (iii) the effect of the subprime crisis is more severe for stocks with high liquidity discounts, which partially explains the behavior of investors' flight-to-liquidity during the time of crisis.",
+            "keywords": [
+                "OTC market",
+                "Liquidity risk",
+                "Liquidity discount",
+                "Risk premia",
+                "Flight-to-liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a29_3ay_3a2014_3ai_3ac_3ap_3a297-309.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of media coverage on investor trading behavior and stock returns",
+            "abstract": "The investor recognition hypothesis suggests that, when a firm is recognized by investors through the mass media, this helps to increase the firm's investor base and causes reactions in stock prices. Using a comprehensive database of media coverage on Taiwanese listed firms, this paper applies textual analysis to the news content and classifies it into ten news categories. Among them, seven news categories can be identified as conveying a positive or negative tone and the remaining three are news announcements. The empirical results show that investor trading behavior is affected not only by the quantity, but also the quality, of news announcements. Different types of investors have different responses to the tone of media coverage. The trading behavior of foreign institutional investors is consistent with the tone of media coverage. The results are robust after accounting for the effect of several firm risks, characteristics and investors' unobservable private information. In addition, the majority of the positive or negative media coverage classified in this paper is significantly related to the same sign of abnormal returns.",
+            "keywords": [
+                "Buy-sell trading",
+                "Investor type",
+                "Textual analysis",
+                "News categories"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a43_3ay_3a2017_3ai_3ac_3ap_3a151-172.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The high-volume return premium: Does it exist in the Chinese stock market?",
+            "abstract": "In this paper we examine the information content of extreme trading activity in the Chinese stock market. We find that zero-investment portfolios that are constructed by buying high-volume and selling low-volume stocks do not generate positive returns (high-volume return premium), which is apparent in developed markets. In contrast, we find that there is a high-volume return discount in speculative stocks (i.e., small-cap stocks, stocks with low institutional ownership and stocks with low analyst-coverage). These stocks tend to have a high degree of over-valuation in the short term followed by a relatively low return. In support, we find a larger discount in the winners group than in the losers group.",
+            "keywords": [
+                "Return premium",
+                "Volume shock",
+                "Chinese stock market",
+                "Speculation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a46_3ay_3a2017_3ai_3apb_3ap_3a323-336.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

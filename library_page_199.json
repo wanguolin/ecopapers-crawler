@@ -1,0 +1,143 @@
+{
+    "page_info": {
+        "page_number": 199,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Modeling the horizon-dependent risk premium in the forex market: evidence from survey data",
+            "abstract": "Using Consensus Economics survey data on experts' expectations, we aim to model the 3- and 12-month ahead ex-ante risk premia on the Yen/USD and the British Pound/USD exchange markets. For each market and at a given horizon, we show that the risk premium is well determined by the conditional expected variance of the change in the real exchange rate, agents' real net market position in assets and a constant composite risk aversion coefficient, as suggested by a two-country portfolio asset pricing model. The expected variance depends on the past values of the observed variance and the unobservable real net market position is estimated as a state variable using the Kalman filter methodology. We found that the trends of our estimated horizon-specific net market positions are consistent with the ones of the observed short term aggregate net market positions calculated using the U.S. Treasury International Capital System dataset. Moreover, we show that the ex-post premia tend to adjust towards the ex-ante values, suggesting that experts' beliefs provide a relevant information to the market. These results bring new responses to the difficulties reported by the widespread ex-post risk premium literature and enhances the usefulness of survey data in modelling the risk premium.",
+            "keywords": [
+                "risk premium",
+                "foreign exchange market",
+                "international asset pricing model",
+                "survey data"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2012-29.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Persistence of announcement effects on the intraday volatility of stock returns: evidence from individual data",
+            "abstract": "We analyze the empirical relationship between announcement effects and return volatilities of four CAC40 companies using intraday financial and event data from SBF-Euronext and Bloomberg, respectively. We estimate the daily component of the intraday volatility using a FIGARCH model and the intraday seasonality by the Fourier Flexible Form. We find that individual return volatilities are affected by a systematic market effect, day effects and announcements related to macroeconomic environment, strategic and financial dealings and commercial outcome, the two latter events being specific to the firm or to its competitors. The volatility responses have delayed and progressive patterns with persistence horizons ranging from one to three hours, suggesting that agents access to complete information gradually.",
+            "keywords": [
+                "Intraday volatility",
+                "long memory",
+                "persistence of announcement effects"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2013-36.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Expectation formation in the foreign exchange market: a time-varying heterogeneity approach using survey data",
+            "abstract": "Using Consensus Economics survey data on JPY/USD and GBP/USD exchange rate expectations for the 3- and 12-month horizons over the period November 1989 \u00e2\u0080\u0093 December 2012 we first show that expectations fail to unbiasedness tests and do not exhibit a learning process towards rationality. Our approach is consistent with the economically rational expectations theory (Feige and Pearce, 1976), which states that information costs and agents\u00e2\u0080\u0099 aversion of misestimating future exchange rates determine the optimal amounts of information on which they base their expectations. The time-variability of the cost/aversion ratios justifies at the aggregate level a representation of expectations as a linear combination of the traditional extrapolative, adaptive and regressive processes augmented by a forward market component, whose parameters are allowed to change over time. This mixed expectation model with unstable heterogeneity is validated by our Kalman Filter estimation results for the two currencies and the two horizons considered. Although the chartist behavior, gathering the extrapolative and adaptive components, appears to dominate the fundamentalist behavior, described by the regressive and forward market components, the relative importance of the fundamentalists (chartists) is found to increase (decrease) with the time-horizon.",
+            "keywords": [
+                "expectation formation",
+                "exchange rates",
+                "dynamic heterogeneity",
+                "survey data."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2014-17.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Designing a corporate bond index on solvency criteria",
+            "abstract": "Doubts are rising whether bond indices, in the way they are constructed, are effective in their role of representing the markets they are designed for. Since index constituents are defined on market shares \u00e2\u0080\u0093the larger the debt obligation, the larger the share in the index\u00e2\u0080\u0093 it may be that certain risks related to a high level of indebtedness are being accentuated and not necessarily representative of the market as a whole. Undue debt levels would in theory not arise in an information-efficient market, however, if prices are distorted, it makes sense to compensate for that and add elementary information on the debt issuers to the index construction process. We test how that works out on corporate bonds. We build a bond index that is based on firm accounting data rather than debt market value, and give evidence that it may serve as a market proxy.",
+            "keywords": [
+                "fundamental indexing",
+                "alternative corporate bond index",
+                "solvency criteria",
+                "market efficiency."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2015-39.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Anticipations, prime de risque et structure par terme des taux d'int\u00c3\u00a9r\u00c3\u00aat: une analyse des comportements d'experts",
+            "abstract": "Using Consensus Forecasts monthly surveys, we show that experts' interest rate expectations in the Eurofranc market do not verify the rational expectations hypothesis. Instead, these expectations are found to be generated by a mixed process combining the traditional adaptive, regressive and extrapolative processes augmented by macroeconomic effects (price, income, money). This mixed expectational process is shown to verify the term structure relation of interest rates based on the portfolio choice model, where a state-space representation is introduced to account for the unobservable part of the long term asset in the portfolio: (i) the risk premium depends on the variance of the short term asset and on the covariance between the latter and inflation, and (ii) the estimated values of the term structure parameter and of the risk aversion coefficient are in accordance with their theoretical values. Nevertheless, due to transaction costs, the adjustment of the market rates on the portfolio equilibrium relation occurs gradually.",
+            "keywords": [
+                "Term structure of interest rates",
+                "expectations",
+                "risk premium."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2006-11.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor Relations' Quality and Mispricing",
+            "abstract": "We investigate the role of corporate investor relations (IR) in the correction process of mispricing. We provide robust evidence of accruals' mispricing for the sub-sample of firms with lower-rated IR. However, mispricing is more pronounced among firms with higher valuation uncertainty. Further analyses show that firms with higher-rated IR on average earn higher returns, and this relation is resilient to known risk/mispricing factors. More important, IR likely has countervailing effects on mispricing. IR may widen the information asymmetry among investors and concomitantly reduce future analyst forecast errors. Overall, high-quality IR appears to facilitate the market's ability to establish efficient stock prices.",
+            "keywords": [
+                "Investor relations",
+                "Mispricing",
+                "Mishkin test",
+                "Information asymmetry",
+                "Information uncertainty."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2017-33.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The dynamics of ex-ante risk premia in the foreign exchange market: Evidence from the yen/usd exchange rate Using survey data",
+            "abstract": "Using financial experts\u00e2\u0080\u0099 Yen/USD exchange rate expectations provided by Consensus Forecasts surveys (London), this paper aims to model the 3 and 12-month ahead ex-ante risk premia measured as the difference between the expected and forward exchange rates. According to a two-country portfolio asset pricing model, the risk premium is modeled as the product of three factors: a constant risk aversion coefficient, the expected variance of the rate of change in the real exchange rate, and the spread between domestic agent\u00e2\u0080\u0099s market position in foreign assets and foreign agent\u00e2\u0080\u0099s market position in domestic assets (net market position). When the returns are partially predictable, the expected variance is horizondependent and this is a sufficient condition for agents not to require at any time a unique risk premium for all maturities but a set of premia scaled by the time horizon of the investment. For each horizon the expected variance is assumed to depend on the historical values of the variance and on the unobservable maturity-dependent net market positions which have been estimated through a state space model using the Kalman filter methodology. We find that the model explains satisfactorily both the common and the non-random specific time-patterns of the 3- and 12-month ex-ante premia.",
+            "keywords": [
+                "risk premium",
+                "foreign exchange market",
+                "international asset pricing model"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2008-2.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "L'impact des signaux de politique mon\u00c3\u00a9taire sur la rentabilit\u00c3\u00a9 et la volatilit\u00c3\u00a9 des actions du CAC 40",
+            "abstract": "In this paper, we investigate the impact of surprises made by scheduled monetary policy announcements on French stock market. Most of empirical studies achieved tends to test this effect on U.S stock market. Taken the French market as a representative European stock markets, we study the effect of both monetary policy signals from the ECB Council and the FOMC on the daily stock returns and volatility by using the standard event study methodology. We show that abnormal returns were observed few days before policy announcements. They coincide with the release of other macroeconomic announcements which produce uncertainty until the monetary policy announcement, that we show trigger a decrease on the volatility and a stabilizing effect.",
+            "keywords": [
+                "Monetary policy",
+                "Macroeconomic announcements",
+                "Event study",
+                "GARCH"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2008-38.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Les spams boursiers: Etude empirique sur le march\u00c3\u00a9 des penny stocks",
+            "abstract": "This survey appears in extension of a previous exploratory survey (Bouraoui, 2008) dedicated to the impact of stock spams on volumes. The interest of the present research is to study the impact on stock prices while taking into account the evolution of volatility over time through a GARCH (1,1) modelling. We use the methodology of event studies on a sample of hundred ten firms of penny stocks over the period from February 2006 to June 2008. Our results show that sending stock spams has generated significant variations and positive returns during the first three days after the event.",
+            "keywords": [
+                "stock spam",
+                "penny stock",
+                "event study",
+                "GARCH"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2008-41.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of stock spams on volatility",
+            "abstract": "This paper is dedicated to study the impact of stock spams through the analysis of the variations of volatility. We use the methodology of event studies on a sample of hundred ten firms. The results show positive and significant changes in volatility during 12 days of the event window; a widening of the variation [lowest price - highest price] was noticed following the consignment of messages by the spammers. The sending of stock spams affected the behaviour of investors, indicating thus that the spamming activity is a lucrative business.",
+            "keywords": [
+                "Stock spam",
+                "event studies",
+                "volatility",
+                "penny stock"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2009-30.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Fundamentals, Macroeconomic Announcements and Asset Prices",
+            "abstract": "The aim of this paper is to study the impact of macroeconomic announcements on asset prices, with the objectives of both measuring the average response of stock returns to macroeconomic news surprises, and explaining the sources of such a reaction. To assess the importance of scheduled French and US macroeconomic announcements, Stock returns are analyzed on the French stock market. It is shown that, according to previous studies, there is little evidence of the reaction of the market to those surprises. News about inflation, U.S consumption and real economic activity are specially expected by investors. It confirms the leading role of the U.S. economy and in particular of U.S. consumers in determining the development of the world economy and the dynamics of stock markets. Results also show that unexpected positive surprise in the unemployment rate causes a cut on future excess returns and future dividends. The opposite reaction is observed from the housing starts indicator. The consumer price index appears to have an impact not only on future excess returns, but also on future real interest rates.",
+            "keywords": [
+                "Asset Prices",
+                "Macroeconomic Announcements, Event-Study"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2009-16.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "(Priced) Frictions",
+            "abstract": "We propose a parsimonious measure based solely on daily stock returns to characterize the severity of microstructure frictions at the individual stock level and assess the impact of frictions on the cross section of stock returns. Stocks with the largest frictions command a value-weighted return premium as large as 10% per year on a risk-adjusted basis. The friction premium is stronger among small, low price, volatile, value, and illiquid stocks. Return spreads associated with momentum and idiosyncratic volatility are smaller and statistically less significant than previously documented after screening out stocks with high microstructure frictions. Using UK data, we show that our measure is useful in settings where the availability of quality data on trading volume, bid-ask prices, and intraday high-low prices is limited.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2016-19.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

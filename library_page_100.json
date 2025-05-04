@@ -1,0 +1,124 @@
+{
+    "page_info": {
+        "page_number": 100,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Motivating Factors",
+            "abstract": "Factor models are not immune to p-hacking. In spanning regressions, the q-factor model dominates the Fama-French (2015, 2017) five- and six-factor models, and the Q5 model subsumes the Stambaugh-Yuan (2017) \"mispricing\" factor model. The \"mispricing\" factors are sensitive to their construction, and once replicated via the standard approach, are close to the q-factors, with correlations of 0.8 and 0.84. The Fama-French five-factor model does not follow from valuation theory, which predicts a positive relation between the expected investment and the expected return. Finally, the investment CAPM provides a \"factors\" perspective that differs fundamentally from the consumption CAPM.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2018-03.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Replicating Anomalies",
+            "abstract": "The anomalies literature is infested with widespread p-hacking. We replicate this literature by compiling a large data library with 447 anomalies. With microcaps alleviated via NYSE breakpoints and value-weighted returns, 286 anomalies (64%) including 95 out of 102 liquidity variables (93%) are insignificant at the 5% level. Imposing the t-cutoff of three raises the number of insignificance to 380 (85%). Even for the 161 significant anomalies, their magnitudes are often much lower than originally reported. Among the 161, the q-factor model leaves 115 alphas insignificant (150 with t",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2017-10.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Comparison of New Factor Models",
+            "abstract": "This paper compares the Hou, Xue, and Zhang (2014) q-factor model and the Fama and French (2014a) five-factor model on both conceptual and empirical grounds. Four concerns cast doubt on the five-factor model: The internal rate of return often correlates negatively with the one-period-ahead expected return; the value factor seems redundant in the data; the expected investment tends to correlate positively with the one-period-ahead expected return; and past investment is a poor proxy for the expected investment. Empirically, the four-factor q-model outperforms the five-factor model, especially in capturing price and earnings momentum and profitability anomalies.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2015-05.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Have We Solved the Idiosyncratic Volatility Puzzle?",
+            "abstract": "We propose a simple methodology to evaluate a large number of potential explanations for the negative relation between idiosyncratic volatility and subsequent stock returns (the idiosyncratic volatility puzzle). We find that surprisingly many existing explanations explain less than 10% of the puzzle. On the other hand, explanations based on investors' lottery preferences, short-term return reversal, and earnings shocks show greater promise in explaining the puzzle. Together they account for 60-80% of the negative idiosyncratic volatility-return relation. Our methodology can be applied to evaluate competing explanations for a broad range of topics in asset pricing and corporate finance.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2012-28.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Security Analysis: An Investment Perspective",
+            "abstract": "The investment theory, in which the expected return varies cross-sectionally with investment, expected profitability, and expected growth, is a good start to understanding Graham and Dodd\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s (1934) Security Analysis. Empirically, the q5 model goes a long way toward explaining prominent equity strategies rooted in security analysis, including Frankel and Lee\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s (1998) intrinsic-to-market value, Piotroski\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s (2000) fundamental score, Greenblatt\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s (2005) \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093magic formula,\u00c3\u00a2\u00e2\u0082\u00ac Asness, Frazzini, and Pedersen\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s (2019) quality-minus-junk, Buffett\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Berkshire, Bartram and Grinblatt\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s (2018) agnostic analysis, as well as Penman and Zhu\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s (2014, 2018) and Lewellen\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s (2015) expected-return strategies.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2019-16.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Q5",
+            "abstract": "In a multiperiod investment framework, firms with high expected growth earn higher expected returns than firms with low expected growth, holding investment and expected profitability constant. This paper forms cross-sectional growth forecasts, and constructs an expected growth factor that yields an average premium of 0.82% per month (t = 9.81). The q5 model, which augments the Hou-Xue-Zhang (2015) q-factor model with the new factor, shows strong explanatory power in the cross section, and outperforms other recently proposed factor models such as the Fama-French (2018) 6-factor model.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2018-10.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading Skill: Evidence from Trades of Corporate Insiders in Their Personal Portfolios",
+            "abstract": "We study trading patterns of corporate insiders in their own personal portfolios. To do so, we identify accounts of corporate insiders in a large dataset provided by a retail discount broker. We show that insiders overweight firms from their own industry. Furthermore, insiders earn substantial abnormal returns only on stocks from their industry, especially obscure stocks (small, low analyst coverage, high volatility). In a battery of tests, we find no evidence that corporate insiders use private information and conclude that insiders have an informational advantage in trading stocks from their own industry over outsiders to the industry.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2016-08.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock Market Rumors and Credibility",
+            "abstract": "Stock prices occasionally move in response to unverified rumors. I propose a cheap talk model in which a rumormonger's incentives to tell the truth depend on the interaction between her investment horizon and the information acquisition decisions of message-receiving investors. The model's key prediction is that short investment horizons can facilitate credible information sharing between investors, thereby accelerating the information capitalization into market prices. Analyzing a dataset of takeover rumors covered by US newspapers, I find suggestive evidence in support of this prediction.",
+            "keywords": [
+                "Rumors",
+                "Cheap Talk",
+                "Investment Horizons",
+                "Information Efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgheccah/1331.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does Public News Decrease Information Asymmetries? Evidence from the Weekly Petroleum Status Report",
+            "abstract": "I argue that the arrival of a public signal, regardless of its content, can yield an increase in adverse selection costs in financial markets. To explain its occurrence, I propose a dynamic model with a public signal and risk-averse informed investors. In this set-up, the public signal induces informed investors to participate in the market as it reduces uncertainty. While it increases adverse selection costs, the increase in participation results in more informative prices. Apart from the static effects, the model's dynamics deliver testable hypotheses about price and liquidity before and after the signal's release. Using transaction-level data, I estimate the effect of the release of the Weekly Petroleum Status Report on the bid-ask spread, volume, and midpoint returns via a difference-in-difference strategy. I find that the mean bid-ask spread doubles immediately after the release and that volume increases by 32 percent. Moreover, this effect persists over time, and is independent of the report's content whereas prices react to this information immediately. Nevertheless, liquidity at the end of the trading session is not affected by the report.",
+            "keywords": [
+                "Public information",
+                "news release",
+                "asymmetric information",
+                "liquidity."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cmfwpaper/wp2017_5f1714.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Quotes, Trades and the Cost of Capital",
+            "abstract": "We study the quoting activity of market makers in relation with trading, liquidity, and expected returns. Empirically, we find larger quote-to-trade (QT) ratios in small, illiquid or neglected firms, yet large QT ratios are associated with low expected returns. The last result is driven by quotes, not by trades. We propose a model of quoting activity consistent with these facts. In equilibrium, market makers monitor the market faster (and thus increase the QT ratio) in neglected, difficult-to-understand stocks. They also monitor faster when their clients are less risk averse, which reduces mispricing and lowers expected returns.",
+            "keywords": [
+                "Liquidity",
+                "price discovery",
+                "volatility",
+                "trading volume",
+                "monitoring",
+                "neglected stocks",
+                "risk aversion",
+                "inventory",
+                "high frequency trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgheccah/1232.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Bayesian Learning in Financial Markets: Testing for the Relevance of Information Precision in Price Discovery",
+            "abstract": "An important claim of Bayesian learning and a standard assumption in price discovery models is that the strength of the price impact of unanticipated information depends on the precision of the news. In this paper, we test for this assumption by analyzing intra-day price responses of CBOT T-bond futures to U.S. employment announcements. By employing additional detail information besides the widely used headline figures, we extract release-specific precision measures which allow to test for the claim of Bayesian updating. We find that the price impact of more precise information is significantly stronger. The results remain stable even after controlling for an asymmetric price response to 'good' and 'bad' news.",
+            "keywords": [
+                "Bayesian learning",
+                "information precision",
+                "macroeconomic announcements",
+                "asymmetric price response",
+                "\u00c2\u00afnancial markets",
+                "high-frequency data"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/kudkuiedp/0417.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Nonparametric pricing of multivariate contingent claims",
+            "abstract": "In this paper, I derive and implement a nonparametric, arbitrage-free technique for multivariate contingent claim (MVCC) pricing. Using results from the method of copulas, I show that the multivariate risk-neutral density can be written as a product of marginal risk-neutral densities and a risk-neutral dependence function. I then develop a pricing technique using nonparametrically estimated marginal risk-neutral densities (based on options data) and a nonparametric dependence function (based on historical return data). By using nonparametric estimation, I avoid the pricing biases that result from incorrect parametric assumptions such as lognormality. ; I apply this technique to estimate the joint risk-neutral density of euro-dollar and yen-dollar returns. I compare the nonparametric risk-neutral density with density based on a lognormal dependence function and nonparametric marginals. The nonparametric euro-yen risk-neutral density has greater volatility, skewness, and kurtosis than the density based on a lognormal dependence function. In a comparison of pricing accuracy for euro-yen futures options, I find that the nonparametric model is superior to the lognormal model.",
+            "keywords": [
+                "asset pricing",
+                "estimation theory",
+                "Eurodollar market",
+                "Japanese yen"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfednsr/162.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

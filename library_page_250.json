@@ -1,0 +1,171 @@
+{
+    "page_info": {
+        "page_number": 250,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Construction d\u00e2\u0080\u0099un portefeuille efficient: Application empirique \u00c3\u00a0 partir d\u00e2\u0080\u0099un \u00c3\u00a9chantillon de valeurs cot\u00c3\u00a9es \u00c3\u00a0 la Bourse des Valeurs de Casablanca",
+            "abstract": "In this paper, we try to build an efficient portfolio among four possible portfolios based on the some 31 Casablanca listed shares. Our analysis concerns the risk which arises from the Markowitz mean-variance approach. Our work method will be implemented as following: first of all, we will test the normality and the stationarity of 31 shares which have composed our sample; secondly we will review a theoretical literature about the optimal portfolio choices (based on the Markowitz mean-variance analysis). Thirdly and related to the practical part, we enumerate and emphasize the steps that lead to the construction of efficient portfolio. The presented modelling is used in order to optimally allocate the selected financial assets. The different methods of measurement of return, risk and the other statistical properties constitute, in fact, the pillars of companies sample listed analysis in the case of Casablanca Stock Exchange. Our purpose ends with the assets selection which allows us to choose the efficient portfolio. The selection process of efficient portfolio can be summarized in the following stages: the collection of data to be able to constitute our sample; the estimation of returns, of beta sensibility coefficients and risky assets of investment; the selection of efficient and profitable assets according to some criteria; the weighting coefficients allocation presenting the efficient border of portfolios. In this article and under the choice of companies sample composing our portfolios, we shall take into account, the shares monthly returns, the rate of dispersal around the average of returns, the covariance between assets (degree of interdependence between assets) and the type of sector that each company sets up (in order to highlight an analysis based on a disparity in achievement yields).",
+            "keywords": [
+                "Portfolio Construction",
+                "Stationarity",
+                "Normality of Return",
+                "Risk",
+                "Efficient Portfolio",
+                "Markowitz Model",
+                "Casablanca Stock Exchange."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/19681.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Liquidity-Induced Dynamics in Futures Markets",
+            "abstract": "Futures contracts on the New York Mercantile Exchange are the most liquid instruments for trading crude oil, which is the world\u00e2\u0080\u0099s most actively traded physical commodity. Under normal market conditions, traders can easily find counterparties for their trades, resulting in an efficient market with virtually no return predictability. Yet even this extremely liquid instrument suffers from liquidity shocks that induce periods of increased volatility and significant return predictability. This paper identifies an important and recurring cause of these shocks: the accumulation of extreme and opposing positions by the two main trader classes in the market, namely hedgers and speculators. As positions become extreme, approaching their historical limits, counterparties for trades become scarce and prices must adjust to induce trade. These liquidity-induced price adjustments are found to be driven by systematic speculative behavior and are determined to be significant.",
+            "keywords": [
+                "Liquidity",
+                "Futures Markets",
+                "Return Predictability",
+                "Volatility",
+                "Trader Positions",
+                "Directional Realized Volatility",
+                "Hedgers",
+                "Speculators",
+                "Position Bounds"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/6677.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor behavior and weather factors: evidences from Asian region",
+            "abstract": "Abstract The behavioral finance studies generally analyse the relationship between investor moods, caused by weather factors and indices returns via investor moods. The present study examines the relationship between three weather factors (temperature, humidity, and wind speed) in capital cities (namely Beijing for China, Tokyo for Japan, Victoria City for Hong Kong, New Delhi for India and Singapore for Singapore), and sample stock indices (Shanghai Stock Exchange from China, Nikkei 225 from Japan, Hang Seng Index from Hong Kong, BSE Sensex from India and Singapore Exchange Limited from Singapore) of selected Asian countries. This study applied statistical tools like Descriptive Statistics, ADF Test, VAR Module and adopted the Granger Causality Approach. The found that among the three weather variables, temperature recorded a statistically significant influence on the returns of Shanghai Stock Exchange (Unidirectional Linkage), HANG SENG Index (Unidirectional Linkage) and also BSE Sensex (Bi-Directional Linkage). Wind speed recorded Bi-Directional Linkages with HANG SENG Index. The findings of this study could help the investors in making better investment management decisions. It is found that there are valuable opportunities to international investors for diversifying their stocks. The study does contribute to the behavioral finance literature.",
+            "keywords": [
+                "Risk",
+                "Mood",
+                "Behavioral finance",
+                "Granger causality"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprannopr/v_3a299_3ay_3a2021_3ai_3a1_3ad_3a10.1007_5fs10479-019-03335-7.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Measuring the Speed of Convergence of Stock Prices: A Nonparametric and Nonlinear Approach",
+            "abstract": "This paper evaluates the speed of convergence across national stock markets employing a nonlinear, nonparametric stochastic model of relative stock prices. We use operational algorithms for estimating general measures of persistence of the relative stock price that are based on two statistical notions: the short memory in mean (SMM) and the short memory in distribution (SMD). Using G7 countries\u00c2\u00a1\u00c2\u00af stock indices, we obtain strong empirical evidence in favor of the contrarian strategy for France, Germany, Italy, and the UK relative to the US market, while our results imply quite limited usefulness of the strategy for Canada and Japan. Further, we obtain fairly fast convergence rates toward the equilibrium for the former group.",
+            "keywords": [
+                "Speed of Convergence",
+                "Contrarian Strategy",
+                "Short Memory in Mean",
+                "Short-Memory in Distribution",
+                "mixing",
+                "Max Half-Life",
+                "Max Quarter-Life"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/abnwpaper/auwp2013-06.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Measuring the Speed of Convergence of Stock Prices: A Nonparametric and Nonlinear Approach",
+            "abstract": "This paper evaluates the speed of convergence across national stock markets employing a nonlinear, nonparametric stochastic model of the relative stock price. To estimate the persistence of the relative stock price, we employ an operational algorithm that is based on two statistical notions: the short memory in mean (SMM) and the short memory in distribution (SMD). Using MSCI stock price indices of the G7 countries, we obtain strong empirical evidence of convergence of national stock prices in France, Germany, and the UK vis-\u00c3 -vis the US index. Also, we obtain much faster convergence rates from our nonlinear models in comparison with those from linear alternatives. On the contrary, our results imply very limited evidence of convergence for Canada, Italy, and Japan. Similarly weak evidence of convergence was obtained from non-G7 developed countries. Our simulation exercise for portfolio switching strategies overall confirms the validity of empirical findings in the present paper.",
+            "keywords": [
+                "Persistence",
+                "Contrarian Strategy",
+                "Momentum Strategy",
+                "Short Memory in Mean",
+                "Short-Memory in Distribution",
+                "Max Half-Life",
+                "Portfolio Switching Strategies"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/abnwpaper/auwp2015-08.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Option characteristics as cross-sectional predictors",
+            "abstract": "We provide the first comprehensive analysis of option information for pricing the cross-section of stock returns by jointly examining extensive sets of firm and option characteristics. Using portfolio sorts and high-dimensional methods, we show that certain option measures have significant predictive power, even after controlling for firm characteristics, earning a Fama-French three-factor alpha in excess of 20% per annum. Our analysis further reveals that the strongest option characteristics are associated with information about asset mispricing and future tail return realizations. Our findings are consistent with models of informed trading and limits to arbitrage.",
+            "keywords": [
+                "Asset Pricing",
+                "Factor Models",
+                "High-dimensional Methods",
+                "Option Characteristics"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwlawfin/37.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Private information, stock markets, and exchange rates",
+            "abstract": "Explaining exchange rates has long been an important but vexing issue in international economics and nance. In recent years, a number of studies have shown that investors' private information plays a central role in determining exchange rates. We demonstrate in this paper that the private information of investors relevant for exchange rates is largely connected to the stock market, and that this information is conveyed to foreign exchange (FX) markets by order ow that is induced by investors' transactions in the stock market. We establish these results by analyzing several novel unused datasets on nearly two years' worth of daily-frequency capital ows of nonresident investors in the foreign exchange, stock, and bond markets of Thailand. We present compelling evidence that FX order ow that is induced by nonresident investors transactions in the Stock Exchange of Thailand|which we show are driven largely by private information|has far greater explanatory power for the exchange rate than other order ow has, both in the short run and the long run. In contrast, FX order ow of nonresident investors that is related to their transactions in Thai government bonds|which we nd are not driven appreciably by private information|does not have a statistically significant effect on the exchange rate.",
+            "keywords": [
+                "exchange rate models",
+                "market microstructure approach",
+                "asymmetric information",
+                "Thailand",
+                "generated regressors",
+                "impulse response functions",
+                "I(1) measurement error"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bthwpaper/2009-07.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Peso-Dollar Forward Market Analysis: Explaining Arbitrage Opportunities during the Financial Crisis",
+            "abstract": "Using a vector error correction model I test whether shocks in the funding liquidity conditions in the U.S. and Europe separately explain deviations from the covered interest parity (CIP) between the U.S. Dollar and the Mexican Peso. I find that: (1) Apparent deviations from the CIP seem to be persistent, unless a closer measure to the true costs of funding for the agents is considered. (2) A stable long-run equilibrium relation emerges when I include the effects of funding liquidity shocks stemming from the U.S. and Europe. (3) The exchange rate forward premium adjusts towards a long-run equilibrium relation given by the CIP. (4) Surprisingly, the yield on 1-month Mexican CETEs has its own stochastic trend despite the strong relation between the U.S. and Mexico's economies. (5) Analysis confirms that both future and spot exchange rates are affected by shocks stemming from the U.S. Treasury Bills, the funding liquidity in the U.S. and Europe, and the Mexican CETEs.",
+            "keywords": [
+                "Covered Interest Parity",
+                "Forward and Spot Exchange Rates",
+                "Structural Vector Error Correction Model"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/100653.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Measuring market risk with GARCH models under Basel III: selection and application to German firms",
+            "abstract": "Abstract The main objective of this study is to examine GARCH-type models in market risk assessment with a distribution of returns for German companies in the DAX 40 list. Our study contributes to three major areas. The first step was to highlight the empirically observed stylized facts in the high-frequency financial data for eight DAX 40 assets. We were able to analyze the dynamics and asymmetry of returns on high-frequency financial assets. Then, we compared the GARCH model with the EGARCH and APARCH models based on stylized facts regarding volatility behavior in high-frequency financial assets. The EGARCH model is well suited for capturing all the stylized facts of the eight financial assets. The use of high-frequency data in risk measurement provides more accurate data and adapted calculation methods. The combination of the value at risk with the EGARCH model provides a clearer idea of the potential loss and the average loss beyond a threshold and a better understanding of the degree of exposure of assets to risk. These findings suggest that EGARCH-type models allow for an accurate analysis of market risk assessment with a distribution of returns for German companies in the DAX 40 list.",
+            "keywords": [
+                "Backtesting",
+                "Financial",
+                "Risk market",
+                "Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprsnbeco/v_3a4_3ay_3a2024_3ai_3a10_3ad_3a10.1007_5fs43546-024-00699-2.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Private information, capital flows, and exchange rates",
+            "abstract": "We demonstrate empirically that not all international capital flows influence exchange rates equally. Capital flows induced by foreign investors' transactions in local stock markets have an impact on exchange rates that is both economically significant and permanent, whereas capital flows induced by foreign investors' transactions in the local government bond market do not. We relate the differences in the price impacts of capital flows to differences in the amounts of private information conveyed by these flows. Our empirical findings are based on novel, daily-frequency datasets on prices and quantities of all transactions undertaken by foreign investors in the stock, bond, and onshore FX markets of Thailand.",
+            "keywords": [
+                "Order flow",
+                "private information",
+                "exchange rate models",
+                "market microstructure",
+                "emerging markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/snbsnbwpa/2015-12.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Ad-Hoc Black\u00e2\u0080\u0093Scholes vis-\u00c3\u00a0-vis TSRV-based Black\u00e2\u0080\u0093Scholes: Evidence from Indian Options Market",
+            "abstract": "Abstract This research paper examines one-day-ahead out-of-sample performance of the volatility smirk-based options pricing models, namely, Ad-Hoc-Black\u00e2\u0080\u0093Scholes (AHBS) models on the CNX Nifty index options of India. Further, we compare the performance of these models with that of a TSRV-based Black\u00e2\u0080\u0093Scholes (BS) model. For the purpose, the study uses tick-by-tick data. The results on the AHBS models are highly satisfactory and robust across all the subgroups considered in the study. Notably, a daily constant implied volatility based ad-hoc approach outperforms the TSRV-based BS model substantially. The performance of the ad-hoc approaches improves further when the smile/smirk effect is considered. For the estimation of the implied volatility smile, we apply three weighting schemes based on the Vega and liquidity of the options. All the schemes offer equally competing results. The major contribution of the study to the existing literature on options pricing is in terms of the ex-ante examination of the ad-hoc approaches to price the options by calibrating volatility smile/smirk on a daily basis.",
+            "keywords": [
+                "Black\u00e2\u0080\u0093Scholes",
+                "Ad-Hoc Black-Scholes",
+                "Implied volatility",
+                "Volatility smile",
+                "Two scale realized volatility",
+                "Tick-by-tick data",
+                "Indian options market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprjqecon/v_3a16_3ay_3a2018_3ai_3a1_3ad_3a10.1007_5fs40953-017-0078-3.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "High-frequency identification of monetary policy shocks in Japan",
+            "abstract": "Abstract We identify monetary policy shocks in Japan during the unconventional monetary policy period using high-frequency data for interest rate futures. Following the empirical strategy of G\u00c3\u00bcrkaynak et al. (Int J Cent Bank 1: 55\u00e2\u0080\u009393, 2005), we conduct an event-study analysis to estimate the effects of the monetary policy surprises on asset prices around the timing of policy announcements made by the Bank of Japan between 1999 and 2020. We find that a monetary policy shock can be described by two factors that have statistically significant effects on the financial market. A surprise monetary tightening has negative effects on stock returns and positive effects on government bond yields, even in the low-interest environment. We also find that the responses of the longer term yields tend to be larger than those of the shorter term yields. The response is the largest for the 10-year government bond yield, which has, in the last 2 decades, been effectively targeted by the Bank of Japan. This finding contrasts with those of previous studies of the conventional monetary policy period, in which responses are larger for the shorter term yields.",
+            "keywords": [
+                "Unconventional monetary policy",
+                "High-frequency event study",
+                "Zero lower bound"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprjecrev/v_3a73_3ay_3a2022_3ai_3a3_3ad_3a10.1007_5fs42973-021-00110-x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

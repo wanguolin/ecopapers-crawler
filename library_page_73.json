@@ -1,0 +1,161 @@
+{
+    "page_info": {
+        "page_number": 73,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Trading Behaviour of Foreign Institutional Investors: Evidence from Indian Stock Markets",
+            "abstract": "Abstract The existence of behavioural bias such as positive feedback trading (PFT) and herding is well researched for advanced economies. This paper explores whether foreign institutional investors (FIIs), a prominent investor group, pursue these strategies in India. The contribution lies in the application of multiple measures of herding. Results indicate that FIIs exhibit PFT behaviour in equity and to some extent, in debt. At the individual stock level, FIIs herd during non-extreme market conditions, but market-level measures indicate absence of herding in extreme market conditions. In the bullish market, they behave more rationally compared to bearish or normal market conditions.",
+            "keywords": [
+                "Foreign investment",
+                "Feedback trading",
+                "Herding",
+                "Indian stock market",
+                "Trading behaviour",
+                "Institutional investment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kapapfinm/v_3a29_3ay_3a2022_3ai_3a4_3ad_3a10.1007_5fs10690-022-09361-z.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Expectations Driven Distortions in the Foreign Exchange Market",
+            "abstract": "The aim of this paper is to explain the phenomenon of distortions in the foreign exchange market. Distortions in the sense of (lasting) deviations of the exchange rate from its fundamental value are a sign of market inefficiency. One well known example for such a phenomenon is the bubble path of the US Dollar in the eighties. The starting point for our investigation is a chartists-fundamentalists model. Motivated by empirical observations a model is developed where boundedly rational market participants choose at the beginning of each new trading period between a technical and a fundamental trading rule to determine their speculative investment positions. If one subscribes to the strong assumption that the agents are able to figure out the true fundamental value of the exchange rate, then the exchange rate fluctuates in a complex way around its fundamental value and the foreign exchange market is more or less efficient. However, the contribution of this paper is to model the perception process of the fundamental exchange rate more realistically on the grounds of psychological evidence. Within this framework forces which influence the distortion are analysed: While the agents follow the news arrival process closely, mistakes in the information processing occur. These mistakes are propagated over time since the agents tend to stick to their previously perceived fundamental value (anchor heuristic). Moreover, if the agents belief that the spot exchange rate itself contains relevant information and thus incorporate it into their \"anchor\", the exchange rate becomes even more disconnected with its true fundamental. Nevertheless, in the long run the agents react to macroeconomic imbalances and thus adjust their perception. By this learning procedure, the distortion eventually is corrected and some long-term mean-reversion sets in. Note that the results are not the outcome of curious exchange rate fluctuations but that the generated time series shares some basic stylized facts with the empirical data. For instance, the model possesses the property of a non stable, fat-tailed distribution of the returns.",
+            "keywords": [
+                "exchange rate theory",
+                "technical and fundamental trading rules",
+                "expectations and learning",
+                "market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/amscdws01/1a.3.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Systematic Risk Changes, Negative Realized Excess Returns and Time-Varying CAPM Beta",
+            "abstract": "We make two methodological modifications to the method of testing CAPM beta and we show that these significantly affect inferences about the association between CAPM beta and stock returns. While the conventional beta proxy is indeed largely unrelated to realized stock returns (in fact the relationship is slightly negative), using forward-looking beta and eliminating unrealistic assumptions about expected market returns makes it (highly) significant. In addition, we show that complementary empirical factors\u00e2\u0080\u0094size and ratio of the book-to-market value of equity\u00e2\u0080\u0094that are sometimes presented as potential remedies to beta\u00e2\u0080\u0099s deficiencies do not seem to outperform beta. This suggests that weak empirical support for CAPM beta is likely caused by complications with implementing CAPM rather than by the weakness of the underlying concept.",
+            "keywords": [
+                "asset pricing",
+                "CAPM",
+                "beta",
+                "factor pricing models",
+                "three-factor model",
+                "market efficiency",
+                "Sweden",
+                "Scandinavia"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/faufauart/v_3a65_3ay_3a2015_3ai_3a2_3ap_3a167-190.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock and corporate bond liquidity: When having the same issuer induces commonality",
+            "abstract": "This paper evaluates the cross-asset co-movements of the liquidity of stocks and corporate bonds issued by the same firm, revealing a positive and significant contemporaneous relationship between the liquidity of the two assets. This finding is robust to different bond sample selection criteria, alternative methodologies, and various proxies for liquidity. Moreover, the intensity of said relationship depends on both bond and firm risk characteristics. Specifically, we find that the liquidity of bonds in the non-institutional segment of the market and the liquidity of those issued by firms with high financial risk are more strongly connected to stock liquidity shocks.",
+            "keywords": [
+                "Individual illiquidity",
+                "Stocks",
+                "Corporate bonds",
+                "Firm risk",
+                "Panel estimation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a77_3ay_3a2025_3ai_3ac_3as1062940825000245.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impact of US Macroeconomic News Announcements on Intraday Causalities on Selected European Stock Markets",
+            "abstract": "In this paper we examine the impact of US macroeconomic news announcements on the relationships between returns, volatility and turnover on three European stock markets operating in Frankfurt, Vienna and Warsaw. The empirical analysis in periods with and without important publicly available macroeconomic news is based on intraday data of the main indices of these stock markets, namely DAX, ATX and WIG20. Announcements of important publicly available macroeconomic news essentially increase the number of causal relationships on the markets and between them. Granger causality tests confirm the dominant role of the Frankfurt Stock Exchange. Causality running from DAX returns to returns of ATX and WIG20 is statistically significant irrespective of the time of day and the presence of important macroeconomic news announcements. The only visible feedback runs between WIG20- and DAX-related variables. We also find that most of the causal relationships between the stock exchanges in Warsaw and Vienna are implied by data from the stock exchange in Frankfurt.",
+            "keywords": [
+                "Keywords: trading volume",
+                "return volatility",
+                "macroeconomic news",
+                "sequential information arrival",
+                "Granger causality"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/faufauart/v_3a66_3ay_3a2016_3ai_3a5_3ap_3a405-425.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Customer flow, intermediaries, and the discovery of the equilibrium riskfree rate",
+            "abstract": "Macro announcements change the equilibrium riskfree rate. We find that treasury prices reflect part of the impact instantaneously, but intermediaries rely on their customer order flow in the 15 minutes after the announcement to discover the full impact. We show that this customer flow informativeness is strongest at times when analyst forecasts of macro variables are highly dispersed. We study 30 year treasury futures to identify the customer flow. We further show that intermediaries appear to benefit from privately recognizing informed customer flow, as, in the cross-section, their own-account trade profitability correlates with access to customer orders, controlling for volatility, competition, and the announcement surprise. These results suggest that intermediaries learn about equilibrium riskfree rates through customer orders.",
+            "keywords": [
+                "Riskfree Rate",
+                "Macroeconomic Announcements",
+                "Customer Flow",
+                "Intermediary",
+                "Treasury Futures"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/200847.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "On the determinants of pairs trading profitability",
+            "abstract": "We perform a large-scale empirical analysis of pairs trading, a popular relative-value arbitrage approach. We start with a cross-country study of 34 international stock markets and uncover that abnormal returns are a persistent phenomenon. We then construct a comprehensive U.S. data set to explore the sources behind the puzzling profitability in more depth. Our findings indicate that the type of news leading to pair divergence, the dynamics of investor attention as well as the dynamics of limits to arbitrage are important drivers of the strategy\u00d7\u00b3s time-varying performance.",
+            "keywords": [
+                "Pairs trading",
+                "Relative-value arbitrage",
+                "Return predictability",
+                "International stock markets",
+                "Limited attention",
+                "Limits to arbitrage"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a23_3ay_3a2015_3ai_3ac_3ap_3a75-97.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does investor sentiment on social media provide robust information for Bitcoin returns predictability?",
+            "abstract": "We use a dataset of approximately one million messages sent on StockTwits to explore the relationship between investor sentiment on social media and intraday Bitcoin returns. We find a statistically significant relationship between investor sentiment and Bitcoin returns for frequencies of up to 15 minutes. For lower frequencies, the relation disappears. We also find that the impact of sentiment on returns is concentrated on the period around the Bitcoin bubble. However, the magnitude of the effect is rather small making it impossible for a trader to make economic profits by trading on the information published on social media.",
+            "keywords": [
+                "Cryptocurrency",
+                "Bitcoin",
+                "Investor sentiment",
+                "Investor attention",
+                "Market efficiency",
+                "Social media",
+                "Stocktwits"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a38_3ay_3a2021_3ai_3ac_3as1544612319314199.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Expectations Driven Distortions in the Foreign Exchange Market",
+            "abstract": "This paper explores the phenomenon of lasting deviations of the exchange rate from its fundamental value in the foreign exchange market. Motivated by empirical observations a chartists-fundamentalists model is developed in which boundedly rational agents repeatedly choose between technical and fundamental trading rules to determine their speculative investment positions. Crucial for the dynamics is how the traders perceive the fundamental exchange rate. This perception process is based on psychological evidence. Simulations give rise to bubbles but simultaneously display quite realistic exchange rate dynamics (unit roots in the exchange rates, fat tails for returns, and volatility clustering).",
+            "keywords": [
+                "exchange rate theory",
+                "technical and fundamental trading rules",
+                "expectations and learning",
+                "market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/scescecf1/48.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An empirical analysis of algorithmic trading around earnings announcements",
+            "abstract": "This study examines the impact of corporate earnings announcements on trading activity and speed of price adjustment, analyzing algorithmic and non-algorithmic trades during the immediate period pre- and post-corporate earnings announcements. We confirm that algorithms react faster and more correctly to announcements than non-algorithmic traders. During the initial surge in trading activity in the first 90s after the announcement, algorithms time their trades better than non-algorithmic traders, hence algorithms tend to be profitable, while non-algorithmic traders make losing trades over the same time period. During the pre-announcement period, non-algorithmic volume imbalance leads algorithmic volume imbalance, however, in the post announcement period, the direction of the lead\u00e2\u0080\u0093lag association is exactly reversed. Our results suggest that as algorithms are the fastest traders, their trading accelerates the information incorporation process.",
+            "keywords": [
+                "Algorithmic trading",
+                "Earnings announcements",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a45_3ay_3a2017_3ai_3ac_3ap_3a34-51.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor Sentiment Measures",
+            "abstract": "This paper compares investor sentiment measures based on consumer confidence surveys with measures extracted from the closed-end fund discount (CEFD). Our evidence suggests that these two kinds of sentiment measures do not correlate well with one another. For a short 2 - 4 year period in which we have direct investor sentiment survey data from UBS/Gallup, only the consumer confidence correlates well with investor sentiment. Further, only the consumer confidence based measure can robustly explain the small-firm return spread and the return spread between stocks held disproportionately by retail investors and those held by institutional investors. Surprisingly, there is even a hint that the consumer confidence measure can explain closed-end fund IPO activity, while the CEFD cannot. In sum, our evidence supports the view that sentiment plays a role in financial markets, but that the CEFD may be the wrong measure of sentiment.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/10794.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Expected skewness and momentum",
+            "abstract": "Motivated by the time-series insights of Daniel and Moskowitz (2016), we investigate the link between expected skewness and momentum in the cross-section. The alpha of skewness-enhanced (-weakened) momentum is about twice (half) as large as the traditional alpha. These findings are driven by the short leg. Portfolio sorts, Fama-MacBeth regressions, and the market reaction to earnings announcements suggest that expected skewness is an important determinant of momentum. Due to the simplicity of the approach, its economic magnitude, its existence among large stocks, and the success of risk management, the results are difficult to reconcile with the efficient market hypothesis.",
+            "keywords": [
+                "Momentum",
+                "Skewness",
+                "Market efficiency",
+                "Return predictability",
+                "Behavioral finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/11455.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

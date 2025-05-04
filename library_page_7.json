@@ -1,0 +1,162 @@
+{
+    "page_info": {
+        "page_number": 7,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Waiting costs and limit order book liquidity: Evidence from the ex-dividend deadline in Australia",
+            "abstract": "In theoretical models of limit order books populated with liquidity traders there is a link between order aggressiveness, spreads, and the cost of waiting for execution. We directly test these models using an experimental setting where waiting time is important for traders, namely the ex-dividend day. Consistent with these models, we find that order placement is more aggressive before stocks begin trading ex-dividend. Stocks with higher expected costs of delaying execution experience larger declines in order aggressiveness from the cum-day to the ex-day. Waiting costs also impact effective bid-ask spreads, which fall on the cum-day before rising on the ex-day.",
+            "keywords": [
+                "Waiting costs",
+                "Order aggressiveness",
+                "Liquidity",
+                "Bid-ask spread",
+                "Ex-dividend day"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a20_3ay_3a2014_3ai_3ac_3ap_3a101-128.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can uncertainty indices predict Bitcoin prices? A revisited analysis using partial and multivariate wavelet approaches",
+            "abstract": "This paper uses bivariate and multivariate wavelet approaches to revisit the co-movements between the Volatility Uncertainty Index (VIX) and Bitcoin (BTC). This is achieved by accounting for the impacts of the three major global factors, namely the U.S. Economic Policy Uncertainty Index (EPU), the Crude Oil Volatility Index (OVX), and the Geopolitical Risk Index (GPR). To do this, we use Wavelet Coherence (WC), Cross Wavelet Transform (CWT), Power Wavelet Coherence (PWC), and Multiple Wavelet Coherence (MWC) approaches. The results show that the BTC-VIX relationship varies across time and at high and low frequencies. Moreover, we find positive (or in-phase) co-movements between both variables while a negative co-movement (out-of-phase) is observed at both high and low frequencies. VIX news has a prediction power on BTC price returns over different frequencies. The results of PWC and MWC show that OVX, EPU, and GPR factors affect the BTC-VIX nexus under different frequencies. Finally, correlations between BTC-uncertainty indices are dependent upon investment horizons. The results of our research are of interest and importance to investors, portfolio managers, and policy-makers, as the results have practical applications to inform their decision-making.",
+            "keywords": [
+                "Bitcoin",
+                "Uncertainty indices",
+                "Bivariate and multivariate wavelet approaches"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a49_3ay_3a2019_3ai_3ac_3ap_3a47-56.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time frequency analysis of the commonalities between Bitcoin and major Cryptocurrencies: Portfolio risk management implications",
+            "abstract": "This paper uses wavelet coherence and cross wavelet transform approaches to examine co-movement between Bitcoin and five major cryptocurrencies (Dash, Ethereum, Litecoin, Monero and Ripple) and their portfolio risk implications. The results show evidence of co-movements in time frequency space with leading relationships of Bitcoin with Dash, Monero and Ripple, lagging relationship with Ethereum, and out of phase movements with Litecoin. By considering different portfolios (risk-minimizing portfolio, equally weighted portfolio and hedging portfolio), we show evidence that a mixed portfolio (Bitcoin with other cryptocurrencies) provides better diversification benefits for investors and portfolio managers. Finally, an Ethereum-Bitcoin (Monero-Bitcoin) hedging portfolio offers the highest risk reductions and hedging effectiveness under medium and long term (short term) horizon. The results of downside risk reductions are time horizon dependent.",
+            "keywords": [
+                "Cryptocurrencies",
+                "Time frequency analysis",
+                "Hedging effectiveness",
+                "Downside risk",
+                "Wavelet techniques"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a48_3ay_3a2019_3ai_3ac_3ap_3a283-294.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Modeling the frequency dynamics of spillovers and connectedness between crude oil and MENA stock markets with portfolio implications",
+            "abstract": "This paper examines the frequency of spillovers between crude oil futures and the Middle East and North Africa (MENA) stock markets. We use the methodologies proposed by Diebold and Yilmaz (2012) and Barun\u00c3\u00adk and K\u00c5\u0099ehl\u00c3\u00adk (2018) and the wavelet coherency approach. The results show time-varying volatility spillovers in the considered markets. The short-term spillovers are higher than their intermediate-term counterparts. The highest jump in spillovers occurs during the COVID-19 outbreak, followed by the global financial crisis and the recent oil price crash. The spillovers are higher for oil-exporting countries than oil-importing countries. Saudi Arabia, Qatar, and the United Arab Emirates (UAE) are the main contributors to spillovers in the short and intermediate terms. Brent oil, Egypt, Morocco, and Turkey are the net receivers of spillovers in the short term, and they switch to become net contributors to spillovers in the intermediate term. Turkey and oil-exporting stock markets receive more spillovers than oil-importing stock markets irrespective of the time frequency. Wavelet analysis shows evidence of co-movements between oil futures and stock markets at intermediate and low frequencies. The lead\u00e2\u0080\u0093lag relationships between crude oil and stock markets are mixed and time-varying. Moreover, a mixed portfolio offers diversification benefits. Hedging is more expensive during the pandemic period and particularly in the intermediate term compared to the short term. Hedging effectiveness is highest during the COVID-19 pandemic in the short and intermediate terms for almost all markets.",
+            "keywords": [
+                "Oil",
+                "MENA stock markets",
+                "Spillovers",
+                "Frequencies",
+                "Hedging"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecanpo/v_3a71_3ay_3a2021_3ai_3ac_3ap_3a397-419.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dynamic and frequency spillovers between green bonds, oil and G7 stock markets: Implications for risk management",
+            "abstract": "This paper examines the dynamic and frequency spillovers between global Green Bonds (GBs), WTI oil and G7 stock markets using the time\u00e2\u0080\u0093frequency spillover index by Barun\u00c3\u00adk and K\u00c5\u0099ehl\u00c3\u00adk (2018) and wavelet coherency approach. The results show that the spilllovers is dynamic and crisis-sensitive. Furthermore, adding GBs and oil futures to stock portfolio reduces the spillover size during turmoil periods. The short-term spillovers (up to five trading days) represent the largest proportion of the total spillovers. A significant jump in spillovers is observed in the early of COVID-19 outbreak (March\u00e2\u0080\u0093April 2020). Interestingly, Canada, France, Germany, Italy, and UK are the net transmitters of spillovers, whereas Japan and GBs are the net recipients of the spillovers, irrespective of time horizons. Oil and US stock market shift from net contributors in short term to net receipts in medium and long terms. Wavelet coherence analysis reveals significant co-movements between G7 stock markets and both oil and GBs. The co-movements are more pronounced in both medium and long terms and during COVID-19 spread where both oil and GBs lead stock markets. GBs provide higher diversification benefits to G7 investors than oil in the short-term. The hedging is expensive at the long term for GBs and intermediate term for WTI oil. Finally, the hedge effectiveness of crude oil is higher than GBs, irrespective of time horizons.",
+            "keywords": [
+                "G7 stock markets",
+                "Green bonds",
+                "Oil",
+                "Spillovers",
+                "Frequencies",
+                "Hedging"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecanpo/v_3a73_3ay_3a2022_3ai_3ac_3ap_3a331-344.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "COVID-19 pandemic\u00e2\u0080\u0099s impact on intraday volatility spillover between oil, gold, and stock markets",
+            "abstract": "This study examines the volatility spillovers between the US stock market (S&P500 index) and both oil and gold before and during the global health crisis (GHC). We apply the FIAPARCH-DCC model to the 15-minute intraday data. The results showed negative (positive) conditional correlations between the S&P500 and gold (oil). The time-varying conditional correlations between markets were higher during COVID-19 spread. Moreover, gold offers more diversification gains than oil does during the pandemic. Hedging is more expensive during a pandemic than before. Oil provides higher hedging effectiveness (HE) than gold for all sub-periods. HE was lower during the COVID-19 outbreak for both oil and gold. These findings have important implications for both equity investors and policymakers.",
+            "keywords": [
+                "Spillovers",
+                "Hedging",
+                "COVID-19",
+                "High frequency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecanpo/v_3a74_3ay_3a2022_3ai_3ac_3ap_3a702-715.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Spillovers and multiscale relationships among cryptocurrencies: A portfolio implication using high frequency data",
+            "abstract": "This study examines the nonlinear multiscale relationships and spillovers among the main cryptocurrencies (Bitcoin, Bitcoin cash, Ethereum, Litecoin, DASH, Ripple, and Monero) using spillover index methodology and wavelet approaches to hourly and daily price data. The results provide evidences of dynamic spillovers among cryptocurrencies. News releases influence the instability of spillovers. Monero is the largest transmitter of risk, and Ethereum is the largest receiver of risk from other markets. Monero and Ripple are net contributors of spillovers, whereas Bitcoin, DASH, Ethereum, and Litecoin are net receivers of spillovers. The correlation ranks for different scales show that the correlations increase with scale, indicating higher diversification benefits at low scales. A mixed portfolio composed of Bitcoin and other cryptocurrencies offers advantages over individual Bitcoin portfolios, particularly on a lower scale. Finally, the optimal portfolio weight shows that cryptocurrencies should hold more BTC than other cryptocurrencies.",
+            "keywords": [
+                "Cryptocurrency",
+                "Spillover",
+                "Hedging",
+                "High frequency",
+                "Wavelet"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecanpo/v_3a82_3ay_3a2024_3ai_3ac_3ap_3a449-479.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Frequency spillovers between green bonds, global factors and stock market before and during COVID-19 crisis",
+            "abstract": "This paper examines frequency dynamic spillovers in return and volatility and the hedging ability of Green Bonds, gold, silver, oil, the US dollar index, and volatility index against downside US stock prices before and during the COVID-19 pandemic outbreak and for the short and long run. To do so, we use the Diebold and Yilmaz (2014), the TVP-VAR model, and the frequency spillover index by Barun\u00c3\u00adk and K\u00c5\u0099ehl\u00c3\u00adk (2018). We show that the short-term volatility spillovers dominate their long-term counterparts. Green Bond is net transmitters of spillovers in the system at the short term and net receivers at the long term. S&P500 and silver (USDX and oil) are net transmitters (receivers) of short- and long-term spillovers. Gold and VIX are net receivers of short-term spillovers and net transmitters of long-term spillovers. COVID-19 crisis has more effects on the short-term spillover, which reaches its highest level early 2020. COVID-19 and time horizons lead the direction and the magnitude of spillovers. The Quantile-on-Quantile regression analysis shows significant nonlinear relationships between markets under study. More interestingly, we show that green bonds and gold are safe haven assets for US equity investors during COVID-19. On the other hand, a mixed portfolio offers higher diversification benefits. Finally, hedging effectiveness is dependent on COVID-19 and time horizon.",
+            "keywords": [
+                "Green bonds",
+                "Global factors",
+                "Spillovers",
+                "Frequencies",
+                "Hedging",
+                "COVID-19"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecanpo/v_3a77_3ay_3a2023_3ai_3ac_3ap_3a558-580.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Frequency spillovers between oil shocks and stock markets of top oil-producing and -consuming economies",
+            "abstract": "Motivated by large oil price swings, high economic and geopolitical uncertainties, and the financialization of oil, this paper examines the frequency spillovers and co-movements between oil shocks (risk and demand) and the stock markets of top oil-producer and consumer countries, namely, Canada, China, Russia, Saudi Arabia, and the US. The analysis uses the time-domain spillover index of [1], the frequency-domain spillover of [2]; and the wavelet coherence approach. The findings reveal that spillovers run from the U.S., Canada, and, to a lesser extent, Russia to oil shocks. On the other hand, oil shocks, Saudi Arabia, and China constitute net receivers of shocks. The intensity of spillovers is heavier in the short-term frequency than in the intermediate- and long-term. Furthermore, the direction of spillovers is more defined in the long-term. The U.S. stock market exerts a strong impact on oil risk in general, but the impact is stronger in the short-term. Conversely, an oil demand shock is susceptible to innovations from Canada and Russia that are stronger in the long-term. This means that oil risk shock stemming from innovations in financial markets is short-lived and dissipates quickly due to quick reactions from market participants. On the contrary, long-term links characterize the relationship between oil demand shock and financial markets, mirroring the macroeconomic nature of the linkages. Finally, while the 2008 crisis, EDC, oil price crash, and the COVID-19 pandemic coincided with strong spillovers in the short-term, the COVID-19 era was marked by higher spillovers in the long term. The findings provide important information for investors and policymakers in terms of diversification, risk management, and efforts to mitigate contagion.",
+            "keywords": [
+                "Energy shocks",
+                "Stock markets",
+                "Spillovers",
+                "Quantiles",
+                "Crises"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeenergy/v_3a291_3ay_3a2024_3ai_3ac_3as0360544224000100.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impacts of COVID-19 outbreak, macroeconomic and financial stress factors on price spillovers among green bond",
+            "abstract": "We examine the impacts of the COVID-19 pandemic and global risk factors on the upside and downside price spillovers of MSCI global, building, financial, industrial, and utility green bonds (GBs). Using copulas, CoVaR, and quantile regression approaches, we show symmetric tail dependence between MSCI global GB and both building and utility GBs. Moreover, the upper tail dependence between MSCI global GB and financial GB intensified during COVID-19. We find asymmetric risk spillovers from MSCI global GB to the remaining GBs. Finally, the COVID-19 spread, the Citi macro risk index, and the financial condition index contribute positively to the quantiles' risk spillovers. The spillover index method shows significant dynamic volatility spillovers from global GB to GB sectors that intensify during the pandemic outbreak, except for financial GB. The causality-in-mean and in-variance from COVID-19, Citi macro risk index, and US financial condition index to the downside and upside spillover effects are sensitive to quantiles",
+            "keywords": [
+                "Green bonds",
+                "Global factors",
+                "Risk spillovers",
+                "COVID-19",
+                "CoVaR"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a81_3ay_3a2022_3ai_3ac_3as105752192200093x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An empirical analysis of the Shanghai and Shenzhen limit order books",
+            "abstract": "This paper investigates the market microstructure of the Shanghai and Shenzhen Stock Exchanges. The two major Chinese stock markets are pure order-driven trading mechanisms without market makers, and we analyze empirically both limit order books. We begin our empirical modeling using the vector autoregressive model of Hasbrouck and extend the model to incorporate other information in the limit order book. We also study the market impact on A shares, B shares and H shares, and analyze how the market impact of stocks varies cross sectionally with market capitalization, tick frequencies, and turnover. Furthermore, we find that market impact is increasing in trade size. Order imbalances predict the next day's returns, with small order imbalances having a negative effect.",
+            "keywords": [
+                "Limit order book",
+                "Chinese stock market",
+                "Microstructure",
+                "VAR model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a34_3ay_3a2013_3ai_3ac_3ap_3a37-41.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information and trading targets in a dynamic market equilibrium",
+            "abstract": "This paper describes equilibrium interactions between dynamic portfolio rebalancing given a private end-of-day trading target and dynamic trading on long-lived private information. Order-splitting for portfolio rebalancing injects multifaceted dynamics in the market. These include autocorrelated order flow, sunshine trading, endogenous learning, and short-term speculation. The model has testable implications for intraday patterns in volume, liquidity, price volatility, order-flow autocorrelation, differences between informed-investor and rebalancer trading strategies, and for how these patterns comove with trading-target volatility and other market conditions.",
+            "keywords": [
+                "Order-splitting",
+                "Parent and child orders",
+                "Optimal order execution",
+                "Portfolio rebalancing",
+                "Market microstructure"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a132_3ay_3a2019_3ai_3a3_3ap_3a22-49.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

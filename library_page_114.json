@@ -1,0 +1,159 @@
+{
+    "page_info": {
+        "page_number": 114,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Trading strategies in terms of continuous rising (falling) prices or continuous bullish (bearish) candlesticks emitted",
+            "abstract": "We argue that either continuous rising (falling) share prices or continuous bullish (bearish) candlesticks released might cause either herding behaviors due to investors\u00e2\u0080\u0099 sentiments stimulated or stock prices rebounded due to stock price overreaction. In this study, we explore the trading strategies used as either continuous rising (falling) prices or continuous bullish (bearish) candlesticks emitted, which seems rarely explored even unexplored in the existing literature. By using the constituent stocks of DJ 30, FTSE 100, and SSE 50 as our samples, we reveal that contrarian strategies are proper for either continuous falling prices or bearish candlesticks shown. We argue that the results revealed might benefit for investors in trading stocks.",
+            "keywords": [
+                "Market efficiency",
+                "Continuous rising prices",
+                "Candlestick trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeephsmap/v_3a501_3ay_3a2018_3ai_3ac_3ap_3a188-204.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impacts of terrorism on Turkish equity market: An investigation using intraday data",
+            "abstract": "This study investigates the effects of thirty-five major terrorist attacks that occurred between 01/01/2012 and 12/31/2016 in Turkey on the Borsa Istanbul equity market. By applying the E-GARCH (1,1) model, it was detected that the incidents did not significantly affect the volatility. We examined the effects of the incidents on prices by employing event study analysis and using both daily and intraday data. The results of the intra-daily analysis demonstrated that the attacks that occurred during trading hours had the greatest negative effects in the first 30 min. Thereafter, the market ensured recovery by compensating its loss until the end of the day. When the daily effects of the attacks were observed, it was found that only four of the thirty-five attacks caused significant negative impacts on the days they occurred. Moreover, in the aftermath, the 6- and 11-day cumulative abnormal returns were significantly negative in only one among these four attacks. Therefore, the case-by-case findings showed that the Borsa Istanbul equity market is resistant to major terrorist attacks. Although the investors\u00e2\u0080\u0099 intense negative reactions were identified immediately after the incidents, it was clarified that they restored their confidence quickly, and the market turmoil mostly disappeared on the day of the incident.",
+            "keywords": [
+                "Terrorist attacks",
+                "High-frequency data",
+                "Event study analysis",
+                "E-GARCH",
+                "Stock return",
+                "Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeephsmap/v_3a540_3ay_3a2020_3ai_3ac_3as0378437119319454.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum profits, market cycles, and rebounds: Evidence from Germany",
+            "abstract": "Recent evidence shows that U.S. price momentum strategies suffer tremendous losses in times of highly volatile market recoveries. We extend the existing literature by analyzing the performance of both price and earnings momentum portfolios across different market states. For our German sample, we find that the long\u00e2\u0080\u0093short price momentum strategy loses almost 9% per month during market rebounds. This so-called momentum crash is solely due to recovering loser stocks. After a prolonged bear market hits bottom, the loser portfolio is mostly composed of highly volatile and leveraged small-cap stocks, which have lost nearly 83% of their market value over the preceding year and are thus susceptible to heavy rebounds. Interestingly, the momentum crash phenomenon seems to disappear once we control for exposures to the Fama\u00e2\u0080\u0093French factors, with the market factor being the most relevant. By contrast, earnings momentum strategies are less affected by market rebounds and also consistently outperform price momentum strategies on a risk-adjusted basis.",
+            "keywords": [
+                "Price and earnings momentum",
+                "Bull and bear markets",
+                "Market rebounds",
+                "Momentum crashes",
+                "Time-varying performance measurement"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a61_3ay_3a2016_3ai_3ac_3ap_3a139-159.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Examining return predictability of industry style portfolios with prior return relative to a benchmark",
+            "abstract": "This paper investigates the ability of prior returns, relative to aggregate market returns, to predict future returns on industry style portfolios. The results show that past return differential predicts one-month ahead returns negatively, even in the presence of a set of state variables. The predictability is also found to be robust to alternative specifications and estimation methodologies. A possible explanation is related to dynamic loss aversion among investors. More specifically, when combined with the house money effect, prior relative performance has inverse relationship with degree of loss aversion leading to predictability in the next period returns.",
+            "keywords": [
+                "Return predictability",
+                "Industry style portfolios",
+                "House money effect",
+                "Panel regressions"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a63_3ay_3a2017_3ai_3ac_3ap_3a193-203.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock return predictability and model instability: Evidence from mainland China and Hong Kong",
+            "abstract": "This study examines the predictability of the Shanghai Composite, Shenzhen Composite and the Hang Seng China Enterprise index returns during the period 1993 to 2010, with emphasis on whether considering structural breaks in model parameters improves the stock return predictability.",
+            "keywords": [
+                "Model instability",
+                "structural breaks",
+                "return predictability",
+                "China",
+                "Hong Kong"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a68_3ay_3a2018_3ai_3ac_3ap_3a132-142.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does the momentum gap explain momentum in Taiwan?",
+            "abstract": "Huang (2021) proposes the momentum gap, which is the difference in the formation-period returns between past winners and losers, as a strong predictor of momentum returns. This study extends Huang's (2021) analyses to the Taiwan stock market by proposing that the composition of market participants and the imposition of price limits in this market have opposite impacts on the momentum gap. Our results indicate that the momentum gap fails to predict momentum returns in Taiwan, a phenomenon that is in line with our conjecture that the imposition of price limits mitigates the effectiveness of the momentum gap.",
+            "keywords": [
+                "Momentum gap",
+                "Momentum return predictability",
+                "Taiwan stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a72_3ay_3a2022_3ai_3ac_3as0927538x22000270.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A pairs trading strategy based on mixed copulas",
+            "abstract": "We propose an alternative pairs trading strategy based on computing a mispricing index in a novel way via a mixed copula model, or more specifically via an optimal linear combination of copulas. We evaluate the statistical and economic performances of our proposed approach by analyzing S&P 500 daily stock returns between 1990 and 2015. Empirical results are obtained not only from the full sample analysis but also from subperiods analyses. These subperiods are chosen in two different ways: i) fixed time length; and ii) bull/bear market dependent. Our empirical results suggest that overall the mixed copula strategy has a superior performance than the distance approach in terms of average returns and Sharpe ratio, considering or not the cost transaction. The superiority is more obvious during crisis periods.",
+            "keywords": [
+                "Pairs trading",
+                "Copula",
+                "Distance",
+                "Quantitative trading strategies",
+                "Long-short",
+                "Statistical arbitrage",
+                "Out-of-sample evaluation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a87_3ay_3a2023_3ai_3ac_3ap_3a16-34.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Intra-day dynamics of exchange rates: New evidence from quantile regression",
+            "abstract": "This study provides a comprehensive description of the intra-day dynamics of major US-Dollar spot exchange rates. We use quantile autoregression to investigate the presence of (non-)linear temporal dependence in foreign exchange returns at various intra-daily time-horizons, ranging from ten minutes up to three hours. Specifically, we investigate an 11-year long sample of non-intermittent high frequency returns for the Euro (EUR), the British Pound (GBP) and the Japanese Yen (JPY) against the US-Dollar (USD). In contrast to previous studies, we find the temporal dependence of intra-daily foreign exchange returns to be non-linear and symmetrically U-shaped. Specifically, we observe pronounced negative autocorrelation for moderate USD appreciations and depreciations (central quantiles). For extreme positive and negative USD movements, we detect positive autocorrelation. This symmetric non-linear form of temporal dependence is remarkably stable across different exchange rates and states of the market. It appears to be a unique feature of foreign exchange returns and might be related to the fundamental \u00e2\u0080\u0098two-sidedness\u00e2\u0080\u0099 of foreign exchange markets.",
+            "keywords": [
+                "Foreign exchange",
+                "Autocorrelation",
+                "Quantile regression",
+                "State-dependence",
+                "Non-linearity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a71_3ay_3a2019_3ai_3ac_3ap_3a247-257.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asymmetric volatility structure of equity returns: Evidence from an emerging market",
+            "abstract": "This study aims to evaluate the volatility structure of equity returns in an emerging market. We test the persistence and asymmetries in the volatility structure of equity returns in the Pakistan stock exchange (PSX) between 2006 and 2020. The volatility dynamics are assessed using multiple symmetric and asymmetric variants of GARCH family models. We also introduce News Impact Curves to analyze the presence of asymmetries in the volatility of the returns. Our results demonstrate that the volatility is persistent only in daily returns but not in weekly and monthly returns. Similarly, asymmetries were observed for daily returns implying that news arriving in the market continuously does impact investors' sentiment and behavior. However, this phenomenon subdues when the period is extended, reflecting that PSX is efficient in semi-strong form. These findings have important implications for asset management, instrument pricing, cost of capital estimations, and portfolio optimization.",
+            "keywords": [
+                "GARCH",
+                "Asymmetric volatility",
+                "News impact curves",
+                "Equity returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a87_3ay_3a2023_3ai_3ac_3ap_3a330-336.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "China's illiquidity premium: Due to risk-taking or mispricing?",
+            "abstract": "This study focuses on China's A-share market and investigates the existence and underlying source of the illiquidity premium. We observe a significant and positive relationship between stock illiquidity and expected returns. Moreover, relative to illiquid stocks, liquid stocks are more susceptible to overpricing during high sentiment periods and earn lower abnormal returns following high sentiment periods, thus supporting the sentiment-driven mispricing explanation. We also find evidence that the illiquidity premium fails to reflect exposure to underlying risk. Overall, China's illiquidity premium derives from mispricing instead of risk-taking.",
+            "keywords": [
+                "Illiquidity premium",
+                "Risk",
+                "Mispricing",
+                "Sentiment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a76_3ay_3a2022_3ai_3ac_3as0927538x22001561.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Shorting flows and return predictability in Taiwan",
+            "abstract": "Wang et al. (2020) show that short- and long-term shorting flows are strong predictors of future stock returns in the U.S. markets during 2010\u00e2\u0080\u00932015. Their results are in line with the informed shorting hypothesis that short sellers trade on long-term information that is gradually incorporated into stock prices. This study extends Wang et al.'s (2020) analyses to the Taiwan stock market by proposing that the impositions of the up-tick rule and price limits provide an ideal setting to test the informed shorting hypothesis. We show that short- and long-term shorting flows have strong predictive power for future stock returns in Taiwan, suggesting that short sellers' trading does contain significant incremental information about future stock returns under the restrictions of the up-tick rule and price limits.",
+            "keywords": [
+                "Short sale",
+                "Shorting flow",
+                "Real-time disclosure",
+                "Return predictability",
+                "Taiwan stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a77_3ay_3a2023_3ai_3ac_3as0927538x22001111.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Why is the Amihud (2002) measure priced in Taiwan: Illiquidity or mispricing?",
+            "abstract": "Lou and Shu (2017) decompose the Amihud (2002) measure and show that its pricing ability is attributed to the trading volume component. Amihud and Noh (2021) claim that Lou and Shu's (2017) decomposition misses a component that is related to illiquidity, and that this illiquidity component affects stock returns significantly. This study extends Amihud and Noh's (2021) analyses to the Taiwan stock market by proposing that the imposition of price limits enhances the pricing ability of trading volume component of the Amihud (2002) measure. Our empirical results confirm this prediction, and further, indicate that the illiquidity component provides no pricing ability in Taiwan.",
+            "keywords": [
+                "Illiquidity",
+                "Mispricing",
+                "Cross-section of stock returns",
+                "Taiwan stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a79_3ay_3a2023_3ai_3ac_3as0927538x23000501.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "page_info": {
+        "page_number": 221,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Information Content of Order Flow and Cross-market Portfolio Rebalancing: Evidence for the Chinese Stock, Treasury and Corporate Bond Markets",
+            "abstract": "This paper examines the within-market and cross-market information content of order flow for stocks, corporate bonds and Treasury bonds in China. With daily-aggregated tick-by-tick data over three years on the Shanghai Security Exchange, we find negative cross-asset effects of order flow on returns, both between stocks and bonds and between corporate and Treasury bonds. Our results provide evidence that not only cross-market portfolio rebalancing under general market conditions, but also flight-to-quality, which occurs particularly under extreme market conditions, are responsible for the cross-market effects of order flow. In particular, while Treasury bonds play a dominant role in stock-bond portfolio rebalancing, corporate bonds can replace Treasury bonds as a safe \u00c2\u00a1\u00c2\u00a7haven\u00c2\u00a1\u00c2\u00a8 during extreme stock market conditions or during a fall in Treasury bond market returns.",
+            "keywords": [
+                "Order Flow",
+                "Portfolio Rebalancing",
+                "Flight-to-quality",
+                "Chinese Financial Markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hkmwpaper/022010.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asset Pricing and Probability of Information-based Trading: Application to the Tunisian Stock Market",
+            "abstract": "In this paper we examine the influence of private information on Asset Pricing. The main obstacle that we face when we use CAPM with private information is the unavailability of the observable variables that directly measure private information. Microstructure literature provides many models to estimate it. An important contribution in this way was moved forward by Easley, Kiefer, O'Hara and Paperman (1996). They estimate private information by probability of information-based trading (PIN). Our study concerns a sample of 40 quoted securities in Tunisian financial market, over the period going from January 02, 2010 until December 31, 2014, and results appear conclusive. Firstly, we show the existence of asset pricing bias compared to the standard CAPM. Secondly, we find a strong relation between private information (PIN), spread, buyer and seller trades returns. This is consistent with the idea of PIN capturing the probability of informed trading. Finally, the validity of PIN as measure of private information, gave us a motivation to test the validity of CAPM with private information cost based on Probability of Information-based Trading.",
+            "keywords": [
+                "Probability of Information-based Trading",
+                "Asset Pricing",
+                "private information cost",
+                "bid-ask spread",
+                "buyer and seller trades"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/iafjournl/y_3a2015_3ai_3a1_3ap_3a58-65.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "La influencia de la vivienda en la aversi\u00c3\u00b3n al riesgo de portafolios familiares",
+            "abstract": "El siguiente art\u00c3\u00adculo tiene como fin presentar una propuesta te\u00c3\u00b3rica sobre la tenencia de vivienda propia de un hogar, cuando est\u00c3\u00a1 hipotecada y forma parte del portafolio de inversi\u00c3\u00b3n; as\u00c3\u00ad como su relaci\u00c3\u00b3n con el comportamiento del inversionista frente al riesgo, cuando asume el cr\u00c3\u00a9dito hipotecario. Para tal fin, desde el punto de vista metodol\u00c3\u00b3gico se tomar\u00c3\u00a1 como referencia el marco te\u00c3\u00b3rico de media varianza, elaborado por Harry Markowitz y la funci\u00c3\u00b3n de utilidad neocl\u00c3\u00a1sica del consumo tipo Cobb-Douglas que establece una relaci\u00c3\u00b3n entre el consumo y la tenencia de vivienda. Como resultado de este estudio, se propone una tasa de alquiler \u00c3\u00b3ptima que incluye el riesgo de mercado y la aversi\u00c3\u00b3n al riesgo del inversionista, para obtener un portafolio eficiente y concluye que la vivienda propia puede generar alg\u00c3\u00ban tipo de rentabilidad o mantener su punto de equilibrio financiero, cuando el inversionista tiene la opci\u00c3\u00b3n de escoger entre la compra de vivienda o la inversi\u00c3\u00b3n de otro tipo de activos financieros de renta variable. Una limitaci\u00c3\u00b3n del estudio, fue no considerar la aversi\u00c3\u00b3n al riesgo del inversionista de manera subjetiva. Finalmente, la originalidad del art\u00c3\u00adculo, radica en incluir la rentabilidad de tener vivienda propia en el portafolio de inversi\u00c3\u00b3n de los hogares, considerando de manera simult\u00c3\u00a1nea la aversi\u00c3\u00b3n al riego y el riesgo de mercado cuando est\u00c3\u00a1 hipotecada.",
+            "keywords": [
+                "Portafolio",
+                "Vivienda",
+                "Riesgo de mercado",
+                "Varianza",
+                "Utilidad"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/imxjournl/v_3a12_3ay_3a2017_3ai_3a3_3ap_3a89-119.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Effect of the Business Cycle on Investment Strategies: Evidence from Mexico",
+            "abstract": "El objetivo principal de \u00c3\u00a9sta investigaci\u00c3\u00b3n es analizar si el ciclo econ\u00c3\u00b3mico tiene un efecto sobre las estrategias de inversi\u00c3\u00b3n. Para conseguir el objetivo usamos como metodolog\u00c3\u00ada un an\u00c3\u00a1lisis de series de tiempo multifactorial. En particular, buscamos verificar si las estrategias de inversi\u00c3\u00b3n de ciclos de corto plazo y las estrategias de inversi\u00c3\u00b3n de ciclos de largo plazo se observan en la Bolsa Mexicana de Valores. Usamos como muestra datos de la Bolsa Mexicana de Valores, del periodo de 1993 - 2006. Los resultados muestran evidencia estad\u00c3\u00adstica de oportunidades para estrategias de inversi\u00c3\u00b3n de ciclos de corto plazo, pero no para estrategias de inversi\u00c3\u00b3n de ciclos de largo plazo. Una de las implicaciones de estos hallazgos es que estos resultados se suman a los trabajos que cuestionan la hip\u00c3\u00b3tesis de mercados eficientes. En suma, este trabajo aporta m\u00c3\u00a1s evidencia a la literatura que ha encontrado una relaci\u00c3\u00b3n entre el sector financiero con la actividad econ\u00c3\u00b3mica, en particular se documenta evidencia de una relaci\u00c3\u00b3n entre el ciclo econ\u00c3\u00b3mico y estrategias de inversi\u00c3\u00b3n de corto plazo.",
+            "keywords": [
+                "International Finance",
+                "Investment Decisions",
+                "Asset Pricing",
+                "Market Efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/imxjournl/v_3a11_3ay_3a2016_3ai_3a2_3ap_3a39-49.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are BRICS Stock Market Indices Mean Reverting? Evidence Based on Expected Lifetime Range Ratio",
+            "abstract": "We use the Expected Lifetime Range (ELR) Ratio proposed in Shaik and Maheswaran (2018) to find evidence of mean reversion in the BRICS stock markets indices. We divide the sample period into pre-crisis, crisis, and post-subprime crisis data sets. We find that the BRICS stock market indices show mean reversion from 2001 to 2018. While before the subprime crisis, the indices followed a random walk, after the subprime crisis, the BRICS stock markets show mean reversion behavior and have become more predictable. We also conduct the Lo and Mackinlay variance Ratio test and find that the Expected Lifetime Range Ratio is better at detecting the presence of mean reversion.",
+            "keywords": [
+                "Mean Reversion",
+                "BRICS",
+                "Lo and Mackinlay Variance Ratio",
+                "Subprime Crisis",
+                "Expected Lifetime Range ratio"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ijbjournl/v_3a19_3ay_3a2020_3ai_3a2_3ap_3a169-186.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sovereign risk connectedness: the impact of ECB\u00e2\u0080\u0099s policy announcements in Central and Eastern Europe",
+            "abstract": "Abstract This paper presents credit risk transmission patterns in Central and Eastern Europe by applying a new mix of methods on sovereign credit default swaps market. The degree of connectedness among sovereigns is examined around the European Central Bank unconventional monetary policy announcements. Although transmission patterns do not substantially change over time, we find that asset purchase programs contributed to spillover reduction in high credit risk networks mostly before the implementation of zero lower bound rate policy. The results suggest that over time unconventional monetary policies substantially decrease credit risk in the European Union, but positive spillover transmission to Central and Eastern Europe depends on markets\u00e2\u0080\u0099 promptness to incorporate information.",
+            "keywords": [
+                "Sovereign credit risk",
+                "Unconventional monetary policy",
+                "Network estimation",
+                "Central and Eastern Europe",
+                "CDS"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kapempiri/v_3a50_3ay_3a2023_3ai_3a4_3ad_3a10.1007_5fs10663-023-09583-y.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Volatility expectations and the reaction to analyst recommendations",
+            "abstract": "Our study explores the effect of market volatility expectations, captured by the implied volatility index (VIX), aka \u00e2\u0080\u009cinvestors\u00e2\u0080\u0099 fear gauge,\u00e2\u0080\u009d on investors\u00e2\u0080\u0099 reactions to analyst recommendation revisions. We find that positive (negative) excess returns following recommendation upgrades (downgrades) are stronger when accompanied by daily VIX decreases (increases). A rational explanation for the effect may be due to VIX serving as an indicator of future economic conditions. Noting, however, that the VIX effect is detected on excess daily stock returns is suggestive that the results are driven by more than mere changes in investors\u00e2\u0080\u0099 expectations of economic fundamentals. We suggest, therefore, that investors\u00e2\u0080\u0099 mood, as reflected by VIX changes, mediates their reactions to analyst recommendation revisions, to wit, investors in good (bad) mood perceive positive (negative) future financial outcomes as more probable (whether indicative of future occurrences or not) and react more strongly to analyst recommendation upgrades (downgrades).",
+            "keywords": [
+                "Analyst recommendation revisions",
+                "Behavioral finance",
+                "Investors\u00e2\u0080\u0099 fear gauge",
+                "Market sentiment",
+                "VIX"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejoepsy/v_3a37_3ay_3a2013_3ai_3ac_3ap_3a1-6.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum and mean-reversion in commodity spot and futures markets",
+            "abstract": "We study momentum and mean-reversion strategies in commodity futures prices and their relationship to momentum and mean-reversion in commodity spot prices. We find that momentum performs well in futures markets, but not in spot markets, and that mean-reversion performs well in spot markets, but not in futures markets. A decomposition of the basis (the slope of the term-structure of futures prices) into expected risk premiums and expected changes in spot prices helps us shed some light on the different results across the futures and spot markets. Most interestingly, we find that momentum in futures prices cannot be explained by a sustained trend in spot prices.",
+            "keywords": [
+                "Commodity futures",
+                "Basis",
+                "Momentum",
+                "Mean-reversion",
+                "Trend-following",
+                "Trading strategies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejocoma/v_3a3_3ay_3a2016_3ai_3a1_3ap_3a39-53.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The option to stock volume ratio and future returns",
+            "abstract": "We examine the information content of option and equity volumes when trade direction is unobserved. In a multimarket asymmetric information model, equity short-sale costs result in a negative relation between relative option volume and future firm value. In our empirical tests, firms in the lowest decile of the option to stock volume ratio (O/S) outperform the highest decile by 0.34% per week (19.3% annualized). Our model and empirics both indicate that O/S is a stronger signal when short-sale costs are high or option leverage is low. O/S also predicts future firm-specific earnings news, consistent with O/S reflecting private information.",
+            "keywords": [
+                "Short-sale costs",
+                "Options",
+                "Trading volume",
+                "Return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a106_3ay_3a2012_3ai_3a2_3ap_3a262-286.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Risk Price Variation: The Missing Half of Empirical Asset Pricing",
+            "abstract": "Equal compensation across assets for the same risk exposures is a bedrock of asset pricing theory and empirics. Yet real-world frictions can violate this equality and create apparently high Sharpe ratio opportunities. We develop new methods for asset pricing with cross-sectional heterogeneity in compensation for risk. We extend k-means clustering to group assets by risk prices and introduce a formal test for whether differences in risk premiums across market segments are too large to occur by chance. We find significant evidence of cross-sectional variation in risk prices for almost all combinations of test assets, factor models, and time periods considered.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a35_3ay_3a2022_3ai_3a11_3ap_3a5127-5184..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor mood and demand for stocks: Evidence from popular TV series finales",
+            "abstract": "In this paper I employ a novel discrete mood proxy to investigate the response of the U.S. stock market to exogenous daily variations in investor mood. Drawing upon the psychology and communication literature, which documents that the end of popular TV series causes negative emotional reactions in large numbers of television viewers, I employ major TV series finales (between 1967 and 2012) as mood-altering events. I find that an increase in the fraction of Americans watching a TV show finale on a given day is immediately followed by a decrease in U.S. stock returns. This effect is stronger in small-cap and high-volatility stocks, whose pricing is more sensitive to sentiment, and is consistent with the hypothesis that negative mood reduces the demand for risky assets.",
+            "keywords": [
+                "Negative mood",
+                "TV series finales",
+                "Investment decisions",
+                "U.S. stock returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejoepsy/v_3a48_3ay_3a2015_3ai_3ac_3ap_3a33-47.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Option Return Predictability with Machine Learning and Big Data",
+            "abstract": "Drawing upon more than 12 million observations over the period from 1996 to 2020, we find that allowing for nonlinearities significantly increases the out-of-sample performance of option and stock characteristics in predicting future option returns. The nonlinear machine learning models generate statistically and economically sizable profits in the long-short portfolios of equity options even after accounting for transaction costs. Although option-based characteristics are the most important standalone predictors, stock-based measures offer substantial incremental predictive power when considered alongside option-based characteristics. Finally, we provide compelling evidence that option return predictability is driven by informational frictions and option mispricing.Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a36_3ay_3a2023_3ai_3a9_3ap_3a3548-3602..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

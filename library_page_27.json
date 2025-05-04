@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 27,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Behavioral biases of informed traders: Evidence from insider trading on the 52-week high",
+            "abstract": "We provide evidence on anchoring biases in insider trading using a stock\u00e2\u0080\u0099s 52-week high. When stock prices are close to their 52-week highs, insiders are reluctant to purchase stocks and willing to sell them. Similarly, when stock prices are far from the 52-week highs, they are willing to buy stocks instead of selling them. This anchoring behavior is robust to controlling for insiders\u00e2\u0080\u0099 contrarian strategy, firm characteristics, and trading ranges. We find that these biased insider trades are not able to predict future returns or may lead to losses to investors who follow such insider trading. Our findings suggest that insiders are prone to behavioral biases, notwithstanding their access to private information.",
+            "keywords": [
+                "Insider trading",
+                "52-week high",
+                "Anchoring bias",
+                "Opportunistic insiders"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a52_3ay_3a2019_3ai_3ac_3ap_3a56-75.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Frictional diversification costs: Evidence from a panel of fund of hedge fund holdings",
+            "abstract": "We analyze the diversification choices of fund of funds (FoF). Diversification is not a free lunch \u00e2\u0080\u0094 not available for every FoF. Instead we find a positive log-linear relation between the number of constituent funds in a fund of hedge fund (n) and the respective assets under management, (AuM). More precisely it takes the form: n2\u00e2\u0088\u009dAuM. This relation is consistent with the predictions from a model of na\u00c3\u00afve diversification with frictional diversification costs such as due diligence costs. Finally, we demonstrate that individual FoFs diversifying more in line with our model\u00e2\u0080\u0099s predictions deliver superior performance and fail less likely .",
+            "keywords": [
+                "Hedge funds",
+                "Operational risk",
+                "Frictions",
+                "Portfolio selection",
+                "Diversification"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a52_3ay_3a2019_3ai_3ac_3ap_3a92-111.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information uncertainty and the pricing of liquidity",
+            "abstract": "This study shows that, to obtain a precise measure of the liquidity premium in the stock market, it is important to recognize the influence of information uncertainty on the pricing of liquidity. Information uncertainty, which is positively correlated with stock illiquidity but negatively priced in the stock market, obscures the estimation of the liquidity premium. After controlling for its influence, we find that the liquidity premium is statistically significant and economically important in the U.S. stock market. Moreover, the risk-adjusted liquidity premium remains significant in both the earlier and more recent sub-sample periods. Our study addresses the recent debate about whether liquidity is still priced in recent decades, given the significant improvement in the trading technology and increase of the trading volume during this period.",
+            "keywords": [
+                "Liquidity",
+                "Information uncertainty",
+                "Stock return"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a54_3ay_3a2019_3ai_3ac_3ap_3a77-96.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dissecting the idiosyncratic volatility anomaly",
+            "abstract": "The idiosyncratic volatility (IVOL) anomaly, documented in Ang, et al. (2006), has garnered a great deal of attention in the literature. Yet questions remain regarding the robustness and pervasiveness of the IVOL anomaly, with a particular concern that the IVOL anomaly might simply be the manifestation of market microstructure effect. In this paper, we show that the IVOL anomaly is strong and pervasive after we exclude stocks most susceptible to market microstructure noise \u00e2\u0080\u0094 such as microcap stocks, penny stocks, and stocks with strong short-term return reversal. These results are robust to equal-weighting or value-weighting stocks in the IVOL portfolios. Our findings suggest that rather than being the cause of the anomaly, market microstructure noise actually weakens the IVOL anomaly.",
+            "keywords": [
+                "Idiosyncratic volatility anomaly",
+                "Robustness",
+                "Market microstructure effect",
+                "Microcaps",
+                "Penny stocks",
+                "Stock return reversal"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a59_3ay_3a2020_3ai_3ac_3ap_3a193-209.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Tracking performance of VIX futures ETPs",
+            "abstract": "We find that, at the daily level, none of the VIX futures Exchange-Traded Products (ETPs) track their intrinsic values perfectly, although the tracking improves at the weekly and monthly frequency. We show that all products tracking deviations are driven by mainly driven by limits to arbitrage, measured by market conditions, liquidity and transaction costs. Exchange-Traded Funds\u00e2\u0080\u0099 (ETFs\u00e2\u0080\u0099) deviations are more significantly related to fund flows, which shows authorized participants taking advantage of arbitrage opportunities by creating/redeeming ETF units. The Exchange-Traded Notes (ETNs) do not have this mechanism, creation and redemption is reliant on the issuers and delayed, so their deviations are less related to flows.",
+            "keywords": [
+                "VIX",
+                "VIX futures",
+                "Exchange-traded products (ETPs)",
+                "Tracking performance",
+                "Limits to arbitrage",
+                "Hedging pressure"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a61_3ay_3a2021_3ai_3ac_3ap_3a103-117.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Macroeconomic news and price synchronicity",
+            "abstract": "Stock price synchronicity is a critical consideration for asset allocation, risk assessment, and hedging decision. We present novel evidence that individual stock returns comove more persistently on certain days of the week. Specifically, we show that release of macroeconomic news on Mondays, which typically see fewer announcements, leads to such stronger comovement, and that this is distinct from the Monday effect typically discussed in the literature. This synchronicity is more pronounced among large, old and low volatility firms, in both up- and down-market conditions. We argue this effect is partly due to \u00e2\u0080\u0098simultaneous contrast\u00e2\u0080\u0099, i.e., perception of stimulus depending on its surrounding environment. Monday announcements have a larger impact just as thunder in a quiet night sounds louder. Our findings are robust after controlling for day-of-the-week effects, economic uncertainty, risk aversion, investor sentiment, short-selling constraints and proxies for attention to news.",
+            "keywords": [
+                "Monday anomaly",
+                "Synchronicity",
+                "News announcement",
+                "Salience",
+                "Contrast effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a73_3ay_3a2023_3ai_3ac_3ap_3a390-412.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Overlapping momentum portfolios",
+            "abstract": "Different momentum investors use different formation periods to evaluate past stock performance. We explore the consequences of this diversity by studying the stocks that are the likely constituents of the portfolios of the heterogeneous momentum investors that coexist in practice. We show that stocks in the intersection of the 6 and 12-month momentum portfolios \u00e2\u0080\u0093 \u00e2\u0080\u009coverlapping\u00e2\u0080\u009d momentum stocks \u00e2\u0080\u0093 display enhanced medium-term return momentum. This finding is robust to considering a broad set of risk factors, transaction costs, and alternative explanations. Focusing on overlapping momentum stocks improves the returns of several momentum-based strategies proposed in the literature. The results are in line with the concurrence of trades by heterogeneous momentum investors exacerbating return continuation.",
+            "keywords": [
+                "Momentum",
+                "Asset pricing",
+                "Market anomalies",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a72_3ay_3a2023_3ai_3ac_3ap_3a1-22.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Factor momentum in the Chinese stock market",
+            "abstract": "Based on 10 commonly used factors, we construct a novel factor momentum strategy in the Chinese stock market, which earns an annualized return of 9.91 %, with a Sharpe ratio of 1.15. Factor momentum subsumes stock momentum, high-priced momentum, and industry momentum, digests its component factors and a variety of anomalies, and represents the momentum anomaly in China. Furthermore, mispricing correction helps explain factor momentum, which produces stronger returns during higher aggregate idiosyncratic volatility periods as well as among stocks with higher information asymmetry and short-sale constraints. Exposure to factor premiums and the manifestation of predictability determine factor momentum in China.",
+            "keywords": [
+                "Factor momentum",
+                "Chinese stock market",
+                "Mispricing",
+                "Factor premium",
+                "Factor timing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a75_3ay_3a2024_3ai_3ac_3as0927539823001251.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "How price limit affects the market efficiency in a short-sale constrained market? Evidence from a quasi-natural experiment",
+            "abstract": "In this paper, we examine the joint effect of price limit and short-sale constraints on price discovery. Using a natural experiment in China, we show the exogenous relaxation of price limit improves price efficiency. Importantly, shortable stocks experience more improvement in price efficiency than non-shortable stocks. Event-study analysis further documents less delayed price discovery following the price-limit-hitting event on shortable stocks, which is explained by selling pressure from large institutional orders. Our findings suggest that alleviating shortsale constraints could synergize with the relaxation of trading restrictions to improve price efficiency.",
+            "keywords": [
+                "Price limit",
+                "Market efficiency",
+                "Short-sale constraints"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a73_3ay_3a2023_3ai_3ac_3ap_3a22-39.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mad Money: Does the combination of stock recommendation and show segment matter?",
+            "abstract": "Few observable patterns of stimuli appear to consistently affect retail investor behavior. This study is motivated by what is presumably the most prominent media source of advice for retail investors in the United States, Jim Cramer\u00e2\u0080\u0099s Mad Money broadcast. We analyze return metrics of stocks recommended by Jim Cramer. We differentiate among five different recommendations and across five different segments of the show to determine if pricing behavior differs in magnitude and persistence, depending on the nature of the recommendation and the segment of the show in which the recommendation appears. Results indicate that the pricing impact is greatest for stocks discussed on longer-duration segments of the show and that there is an asymmetric effect in terms of \u00e2\u0080\u009cbuy\u00e2\u0080\u009d versus \u00e2\u0080\u009csell\u00e2\u0080\u009d recommendations. The results also highlight the tendency of the impact to be larger for smaller market capitalization firms.",
+            "keywords": [
+                "Market efficiency",
+                "Stock recommendation",
+                "Investor behavior",
+                "Retail investor",
+                "Media attention"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeebeexfi/v_3a6_3ay_3a2015_3ai_3ac_3ap_3a80-92.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Crude oil moments and PNG stock returns",
+            "abstract": "We examine the risk-neutral moments of crude oil and their relationship to stock returns in the Petroleum and Natural Gas (PNG) industry. We find substantial overlaps in the association between returns and S&P 500- and crude oil higher moments. Net of these overlaps, PNG stocks share a significant negative relationship with crude volatility and positive relationships with crude skewness and kurtosis. Large cap stocks and those with a history of hedging exhibit negative loadings on crude volatility. However, after controlling for S&P 500- and crude oil returns and their risk-neutral moments, there is little evidence that PNG stocks systematically and significantly price either S&P 500- or crude oil volatility. We document a weak pricing of crude skewness, but find no evidence for the pricing of the implied higher moments of market returns.",
+            "keywords": [
+                "Risk neutral moments",
+                "Crude oil",
+                "Petroleum and natural gas",
+                "Stock returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a44_3ay_3a2014_3ai_3ac_3ap_3a222-235.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An examination of the flow characteristics of crude oil: Evidence from risk-neutral moments",
+            "abstract": "This paper examines the information content of risk-neutral moments to explain crude oil futures returns. Implied volatility and higher moments are extracted from observed crude oil option prices using a model-free implied volatility framework and the Black\u00e2\u0080\u0093Scholes model. We find a tenuous and time-varying association between returns and implied volatility and its innovations. Specifically, changes in implied volatility are found to be meaningfully associated with crude returns only over the period spanning the recent financial crisis. The results lead us to conclude that crude oil prices are determined primarily in a flow demand/supply environment. Finally, we document that oil risk is priced into the cross-section of stock returns in the oil and transportation sectors.",
+            "keywords": [
+                "Risk-neutral moments",
+                "Crude oil futures",
+                "Returns",
+                "Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a54_3ay_3a2016_3ai_3ac_3ap_3a213-223.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

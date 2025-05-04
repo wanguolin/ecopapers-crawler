@@ -1,0 +1,155 @@
+{
+    "page_info": {
+        "page_number": 82,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Are cryptos different? Evidence from retail trading",
+            "abstract": "Trading in cryptocurrencies grew rapidly over the last decade, dominated by retail investors. Using data from eToro, we show that retail traders are contrarian in stocks and gold, yet the same traders follow a momentum-like strategy in cryptocurrencies. The differences are not explained by individual characteristics, investor composition, inattention, differences in fees, or preference for lottery-like assets. We conjecture that retail investors have a model where cryptocurrency price changes affect the likelihood of future widespread adoption, which leads them to further update their price expectations in the same direction.",
+            "keywords": [
+                "cryptocurrencies",
+                "FinTech",
+                "retail trading",
+                "social finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ehllserod/122266.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The market quality implications of speed in cross-platform trading: evidence from Frankfurt-London microwave",
+            "abstract": "Exploiting information transmission latency between stock exchanges in Frankfurt and London, and speed-inducing technological upgrades, we show that when cross-market latency arbitrage opportunities are linked to the arrival of information, high-frequency traders' (HFTs\u00e2\u0080\u0099) activities impair liquidity and enhance price discovery by facilitating the incorporation of public information into prices. Conversely, when cross-market latency arbitrage opportunities are driven by liquidity shocks, HFTs improve liquidity and reduce trading costs, thus incentivizing information acquisition and trading with private information. These findings underscore the complex nature of the association between trading speed and market quality and reconcile mixed evidence in the extant literature.",
+            "keywords": [
+                "transmission latency",
+                "microwave connection",
+                "high-frequency trading",
+                "liquidity",
+                "price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ehllserod/119989.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Cross-market timing in security issuance",
+            "abstract": "The conventional view of market timing suggests an unambiguous, negative relation between equity misvaluation and the equity share in new issues-that is, firms with overvalued equity issue more equity and, all else equal, less debt. We question this conventional view in the paper. Using price pressure resulting from mutual funds' flow-induced trading to identify equity misvaluation, we first show that equity and debt prices are affected by the same shocks, but to different degrees. Next, we document substantial cross-sectional variation in the sensitivity of issuance decisions to equity misvaluation. In particular, firms with sufficient internal resources increase equity issues and yet decrease debt issues in our measure of equity misvaluation; in contrast, firms that are heavily dependent on external finance increase both equity and debt issues, to take advantage of the misvaluation in both. In sum, this paper provides evidence that equity and debt can be jointly (mis)priced, and more important, examines the resulting impact on firms' issuance decisions.",
+            "keywords": [
+                "debt misvaluation",
+                "market timing",
+                "security issuance",
+                "flow-induced trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ehllserod/119036.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Baidu news coverage and its impacts on order imbalance and large-size trade of Chinese stocks",
+            "abstract": "In this paper, we introduce a novel proxy for media coverage by employing the number of news appeared in Baidu News and investigate its impacts on order imbalance and large-size trade in the Chinese stock market. By dividing the trading periods into news periods (np) and no news periods (nnp), the empirical results show that (1) trading volume in the nnp is significantly larger than that in the np; (2) large-size trade in the nnp is significantly larger than that in the np; and (3) the difference of order imbalance in nnp and np is less significant compared with large-size trade. Taken together, these results suggest that there exists institutional trading in the trading periods without media coverage.",
+            "keywords": [
+                "Baidu news",
+                "Media coverage",
+                "Order imbalance",
+                "Large-size trade",
+                "Market microstructure"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a23_3ay_3a2017_3ai_3ac_3ap_3a210-216.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Bid-Ask Spread Patterns and the Optimal Timing for Discretionary Liquidity Traders on Xetra",
+            "abstract": "Abstract This paper explores the statistical and economical significance of intra-day and -week patterns in bid-ask spreads. We investigate a large panel of high frequency data for stocks traded on the XETRA trading platform and observe significant patterns in spreads. In addition to showing the robustness of our findings over time, as well as in cross-section, we are also able to demonstrate the patterns\u00e2\u0080\u0099 predictability in an out-of-sample approach. Our findings have clear implications, especially for uninformed but discretionary liquidity traders, which allow significant and economically relevant reductions of transaction costs.",
+            "keywords": [
+                "Intra-day",
+                "Bid-ask spread",
+                "Liquidity",
+                "Timing",
+                "Discretionary trader"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprschmbr/v_3a70_3ay_3a2018_3ai_3a3_3ad_3a10.1007_5fs41464-018-0049-z.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Tail dependence structures between economic policy uncertainty and foreign exchange markets: Nonparametric quantiles methods",
+            "abstract": "This study examines the extreme dependence and nonlinear causality between economic policy uncertainty (EPU) and major real foreign exchange markets (FER) in Australia, Canada, China, the E.U., Japan, Mexico, the U.K., and the U.S. For a deepen analysis, we also explore the financial uncertainty (FU)-FER nexus. To do this, we used both the Quantile-on-Quantile (QQ) approach and the nonparametric causality-in-quantiles tests. Using the QQ method, the results show negative average and extreme dependence between EPU and FERs. Moreover, the structure of dependence between the considered variables is found to be asymmetric across the quantiles. By applying the nonparametric causality-in-quantile tests, we found a weak evidence of causality-in-mean (at middle quantiles) and a strong evidence of causality-in-variance (for almost all quantiles) from both local and U.S. financial and EPU to FERs. Finally, the linkages between EPU and FERs intensified during our analysis of the 2008\u00e2\u0080\u00932009 global financial crisis (GFC). These results have important implications for currency traders and monetary policy.",
+            "keywords": [
+                "Economic policy uncertainty",
+                "Exchange rates",
+                "Nonparametric quantiles"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ciicepiie/2020-q1-161-6.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Journalist disagreement",
+            "abstract": "By quantifying the tone of firm-specific articles in leading national newspapers between 1989 and 2010, we propose a bottom-up measure of aggregate journalist disagreement. In line with theoretical considerations, our novel high-frequency proxy for differences of opinion negatively forecasts the market return, in particular during recessions. Moreover, it has predictive power for the cross-section of stock returns. Collectively, our insights support asset pricing theories incorporating belief dispersion and highlight the role of the media in this context.",
+            "keywords": [
+                "Media",
+                "Journalists",
+                "Textual analysis",
+                "Differences of opinion",
+                "Return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a41_3ay_3a2018_3ai_3ac_3ap_3a57-76.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Style representation and portfolio choice",
+            "abstract": "We study the impact of style representation on portfolio choice using the choices of the Swedish population in their retirement accounts. We show that investor choice depends on how funds are grouped in the menu (\u00e2\u0080\u009cstyles\u00e2\u0080\u009d). An exogenous increase in the style representation increases investment in the funds of the style. By using information on the performance of the funds that the investors choose, we show that the sensitivity to style exposure is negatively related to the investor\u00d7\u00b3s degree of informativeness. This suggests that style exposure represents a way of coping with limited (private) information.",
+            "keywords": [
+                "Style investing",
+                "Mutual funds",
+                "Individual investors"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a23_3ay_3a2015_3ai_3ac_3ap_3a1-25.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock mispricing, hard-to-value stocks and the influence of internet stock message boards",
+            "abstract": "In recent years, the predictability of Internet Stock Message Board (ISMB) postings has been intensively investigated. However, the underlying mechanisms driving the ISMB postings and their influence on hard-to-value stocks remain largely unexplored. In this paper, we show that the information contained in the process underlying ISMB postings contains characteristics that are associated with investor sentiment. In particular, we show that short-term ISMB postings contain persistence in hard-to-value stocks and stocks with high ISMB postings underperform in the long-term. Our empirical findings indicate that ISMB postings proxy reasonably well for firm-specific investor sentiment and are associated with temporary mispricing in stocks.",
+            "keywords": [
+                "Internet stock message board",
+                "Firm-specific investor sentiment",
+                "Sentiment-driven mispricing",
+                "Behavioral biases"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a72_3ay_3a2020_3ai_3ac_3as1057521920302209.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information dissemination and price discovery",
+            "abstract": "Using portfolios constructed based on stocks\u00e2\u0080\u0099 geographic location from Russell-3000 index, we find strong and reliable evidence that contrary to stocks of firms headquartered in central areas, stocks of firms headquartered in remote areas do not follow a random walk and are thus informationally inefficient. Our findings are in line with the growing evidence showing that geographic proximity matters to the speed of information diffusion and the price discovery mechanism. Our results are not sensitive to how our portfolios are constructed, to how geographic proximity is measured, to the sample period examined, and to the frequency of return data used.",
+            "keywords": [
+                "Market efficiency",
+                "Random walk",
+                "Information asymmetry",
+                "Geographic location",
+                "Variance ratio"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a38_3ay_3a2021_3ai_3ac_3as1544612319314424.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The profitability of trading NOA and accruals: One effect or two?",
+            "abstract": "This paper documents a negative relationship between future stock returns and each of accruals and net operating assets (NOA). While accruals and NOA convey unique information for future returns, NOA appears to have an important moderating influence on the accrual effect. A significant accrual effect is observed amongst stocks with high NOA. In contrast, no accrual effect exists for stocks with low NOA. This finding suggests that high levels of accruals per se are not bad news. An accrual effect only arises for firms that have a sustained track record of not converting accruals into cashflow.",
+            "keywords": [
+                "Anomaly",
+                "Mispricing",
+                "Market efficiency",
+                "Net operating assets",
+                "Accruals"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a58_3ay_3a2018_3ai_3ac_3ap_3a211-224.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Volatility linkage across global equity markets",
+            "abstract": "This paper analyzes the volatility linkage across the U.S., European, German, Japanese, and Swiss equity markets from 1999 to 2009. Both the unconditional and conditional correlations exhibit large fluctuations during the sample period. The results from the VAR analysis show an asymmetric two-way relation between the VIX and other market volatility indices, in which VIX has a larger impact in both the tranquil and crisis times. The structure of the volatility correlation before and during the recent global financial crisis does not show significant changes. In addition, robust test results from realized volatilities confirm the results from implied volatility indices.",
+            "keywords": [
+                "Linkage",
+                "Implied volatility",
+                "Realized volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeglofin/v_3a25_3ay_3a2014_3ai_3a2_3ap_3a71-89.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

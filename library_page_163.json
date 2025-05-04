@@ -1,0 +1,167 @@
+{
+    "page_info": {
+        "page_number": 163,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Do Anomalies Really Predict Market Returns? New Data and New Evidence",
+            "abstract": "Using new data from US and global markets, we revisit market risk premium predictability by equity anomalies. We apply a repertoire of machine-learning methods to forty-two countries to reach a simple conclusion: anomalies, as such, cannot predict aggregate market returns. Any ostensible evidence from the USA lacks external validity in two ways: it cannot be extended internationally and does not hold for alternative anomaly sets\u00e2\u0080\u0094regardless of the selection and design of factor strategies. The predictability\u00e2\u0080\u0094if any\u00e2\u0080\u0094originates from a handful of specific anomalies and depends heavily on seemingly minor methodological choices. Overall, our results challenge the view that anomalies as a group contain helpful information for forecasting market risk premia.",
+            "keywords": [
+                "Equity anomalies",
+                "Return predictability",
+                "Machine learning",
+                "International stock markets",
+                "Equity premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ouprevfin/v_3a28_3ay_3a2024_3ai_3a1_3ap_3a1-44..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information Acquisition, Uncertainty Reduction, and Pre-Announcement Premium in China*",
+            "abstract": "We examine the stock market returns in an environment in which the dates of the central bank\u00e2\u0080\u0099s information supply through public announcements are not prescheduled. We document that positive excess returns are accumulated as early as 3 days before China\u00e2\u0080\u0099s central bank releases the monthly data of monetary aggregates, which may be announced either early or late in a month. In particular, this pre-announcement premium exists only when an announcement arrives late in an announcement cycle. We provide a theoretical framework in which the degree of information acquisition in the market increases as the date approaches the end of an announcement cycle while investors are still waiting for the arrival of an announcement, a hypothesis that receives strong empirical support. We show that the information acquisition channel highlighted in Ai, Bansal, and Han (2022) explains the uncertainty reduction and the positive risk premium before monetary announcements in China.",
+            "keywords": [
+                "Equity premium",
+                "Macro announcements",
+                "Central bank",
+                "Information acquisition"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ouprevfin/v_3a27_3ay_3a2023_3ai_3a3_3ap_3a1077-1118..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Why momentum concentrates among overvalued stocks?",
+            "abstract": "We uncover a link between momentum and overvaluation: assets that generate strong momentum profits have lower risk-adjusted unconditional returns; conversely, trading momentum within overvalued assets doubles the profit of the standard momentum strategy. We compute the profits of a momentum strategy within various portfolios; portfolios within which momentum is profitable are defined as momentum trading opportunity (MTO). High-MTO assets have negative unconditional alphas and concentrate in the short legs of most anomalies; controlling for MTO reduces anomaly alphas by up to half. These results imply that the existence of other anomalies is closely linked to the existence of momentum and they should be studied jointly.",
+            "keywords": [
+                "momentum",
+                "anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ouprevfin/v_3a28_3ay_3a2024_3ai_3a2_3ap_3a389-412..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Testing for Sibex Market\u00e2\u0080\u0099s Long-Term Memory",
+            "abstract": "Long-term memory or long-term dependencies of financial time series\u00e2\u0080\u0099 returns allows testing the efficiency of capital markets. This paper investigates the long-term memory in Sibex market by both static and dynamic approaches. Identifying the long-term memory in futures market can be useful for detecting arbitrage opportunities in this market and thus for managing portfolios of financial assets. For measuring the long-term dependencies we used the Generalized Hurst Exponent because it has the smallest estimation error compared to other methods. The implementation of GHE test on rolling windows allows for robust results concerning the degree of markets\u00e2\u0080\u0099 informational efficiency in time.",
+            "keywords": [
+                "long-term dependencies",
+                "futures contracts",
+                "Generalized Hurst Exponent",
+                "informational efficiency",
+                "Sibex."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ovioviste/v_3axii_3ay_3a2012_3ai_3a2_3ap_3a1312-1317.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Analyst target price and dividend forecasts and expected stock returns",
+            "abstract": "Abstract This paper examines whether adding expected dividend yields implied by analyst dividend forecasts to expected capital gains implied by analyst target prices improves the portfolio strategy of buying stocks with the highest expected returns and selling stocks with the lowest expected returns. We find that the strategy based on the expected total returns performs only slightly better at the 1-month horizon because the short-term return predictability of the expected dividend yield is weak. We find that the strategy generates significant abnormal returns regardless of sorting the stocks universally or within industries, although sorting stocks within industries improves the performance.",
+            "keywords": [
+                "Target price",
+                "Dividend forecast",
+                "Return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/palassmgt/v_3a24_3ay_3a2023_3ai_3a2_3ad_3a10.1057_5fs41260-022-00283-z.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Will firm quality determine the relationship between stock return and idiosyncratic volatility? A new investigation of idiosyncratic volatility",
+            "abstract": "Abstract Idiosyncratic volatility generates a lot of interest in literature, as there are conflicting evidences regarding the relationship between stocks\u00e2\u0080\u0099 idiosyncratic volatility and future returns. In this paper, we re-investigate this relationship. We argue that the impact of idiosyncratic volatility on stock return is contextual, i.e., depending on the stocks\u00e2\u0080\u0099 attributes. We focus on stocks\u00e2\u0080\u0099 quality measures. We hypothesize that for companies with high quality measures, the idiosyncratic volatility would have a positive impact on stock return, as it is more likely to be idiosyncratic volatilities on the good side, while on the other hand, for companies with bad qualities, higher idiosyncratic volatility might lead to negative return, as these companies are facing larger default probabilities due to their higher idiosyncratic volatilities. Our empirical results show that within our expectations, for stocks with higher quality measures there is a positive and significant relationship between stocks\u00e2\u0080\u0099 future return and their idiosyncratic volatility, while the story for stocks with lower quality measures is mixed. Our research will contribute to the idiosyncratic volatility literature by providing a thorough and conditional analysis about its impact on stock returns. It will also provide insights for the investors who wish to better understand the impact of idiosyncratic volatility on future stock return and, thus, are able to make better investment decisions.",
+            "keywords": [
+                "Idiosyncratic volatility",
+                "Gross profit",
+                "Piotroski\u00e2\u0080\u0099s (2000) F-score",
+                "MSCI quality score"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/palassmgt/v_3a18_3ay_3a2017_3ai_3a5_3ad_3a10.1057_5fs41260-017-0044-9.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The mispricing of equity risk: behavioral and corporate leverage factors",
+            "abstract": "Abstract In this paper, we investigate the risk anomaly in equity market. Our focus is to assess the relationship between skewness preference, investor sentiment, corporate leverage and the mispricing of equity risk. Based on data of all the firms of the CAC All Tradable index over the period 2005 and 2015, we find that investor preference for skewed stocks and investor sentiment are strong predictors of stock returns. In particular, they are positively related to both market and total risks. This result supplies evidence that investor irrationality maters in stocks\u00e2\u0080\u0099 valuation. In addition, we find that that leverage is inversely related to equity risk and explains why French stocks are undervaluated. Our results are robust to the usage of different measures of total investor sentiment and corporate leverage.",
+            "keywords": [
+                "mispricing of equity risk",
+                "skewness preference",
+                "investor sentiment",
+                "corporate leverage"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/palassmgt/v_3a18_3ay_3a2017_3ai_3a6_3ad_3a10.1057_5fs41260-017-0041-z.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asymmetric stock price and investor awareness reactions to changes in the Nasdaq 100 index",
+            "abstract": "Abstract We examine market responses to changes in the Nasdaq 100 index membership and find asymmetric stock price and investor awareness reactions. Stocks added to the Nasdaq 100 index for the first time experience permanent price gains and significant increases in investor awareness, whereas repeated additions and new deletions exhibit temporary stock price changes and no significant changes in investor awareness. Stock liquidity improves for new additions and repeated additions but worsens for new deletions. Importantly, investor awareness proxies are significantly related to cumulative abnormal returns around the Nasdaq 100 reconstitution even in the presence of liquidity and other controlling factors. Taken together, the observed results are consistent with the investor awareness hypothesis.",
+            "keywords": [
+                "Abnormal return",
+                "Event study",
+                "Index changes",
+                "Investor awareness",
+                "Liquidity",
+                "Nasdaq 100 index"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/palassmgt/v_3a20_3ay_3a2019_3ai_3a2_3ad_3a10.1057_5fs41260-019-00108-6.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Exploiting uncertainty with market timing in corporate bond markets",
+            "abstract": "Abstract The purpose of this article is to show the usefulness of technical analysis in credit markets. We document that an application of a simple moving average timing strategy to US high-yield and US investment-grade corporate bond portfolios sorted by option-adjusted spread generates investment timing portfolios that substantially outperform the corresponding benchmark. For portfolios with high uncertainty, as measured by the option-adjusted spread, the abnormal returns generate economically and statistically significant returns relative to the capital asset pricing model, the four-factor model and additionally the bond factor model from Asness et al. (J Finance 68:929\u00e2\u0080\u0093985, 2013). Our results remain robust to different moving average formation periods, transaction costs, long\u00e2\u0080\u0093short portfolio construction techniques and alternative definitions of information uncertainty.",
+            "keywords": [
+                "Market efficiency",
+                "Market timing",
+                "Predictability",
+                "Behavioral finance",
+                "Technical analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/palassmgt/v_3a19_3ay_3a2018_3ai_3a2_3ad_3a10.1057_5fs41260-017-0063-6.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles",
+            "abstract": "Abstract The likelihood of pandemics has been perceived very low till very recently. Therefore, the exponential spread of Covid-19 was a major surprise that has resulted in a global rout of financial markets. In this study, we document some preliminary evidence of performance and investment styles of European funds during the evolution of Covid-19. We assess the period between January and May 2020 and categorized the spread of contagion in three phases. The results document that Social Entrepreneurship funds demonstrated positive returns across the three phases, while most of the other subcategories plunged into negative zone. Our findings on style analysis suggest that fund managers have been drifting from high risk option to low risk in terms of size and investment strategy. Similarly, there has been a switch from high risk to relatively less sensitive sectors and a transition of investment from countries with higher to those with lower number of cases.",
+            "keywords": [
+                "Asset management",
+                "Covid-19",
+                "Coronavirus",
+                "Style analysis",
+                "Risk-adjusted performance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/palassmgt/v_3a21_3ay_3a2020_3ai_3a4_3ad_3a10.1057_5fs41260-020-00172-3.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "European sin stocks",
+            "abstract": "Abstract This article studies sin stocks on the European market over the period 2006\u00e2\u0080\u00932020. In addition to stocks in alcohol, tobacco, gambling, and defense sectors that are traditionally considered sin stocks, we analyze stocks in carbon-intensive sectors that have newly evolved as sin stocks, such as oil and gas, metals and mining, uranium, and coal. To investigate the return performance of sin stocks, we run time-series regressions with factor models and Fama\u00e2\u0080\u0093MacBeth cross-sectional regressions. Our results suggest that there is no robust sin premium for new sin stocks or traditional sin stocks, either in comparison with the market or their peer stocks. Our analysis on ownership characteristics shows that investors in sin stocks are mainly investment managers, corporations, and individuals. While new sin stocks are popular among institutional investors, traditional sin stocks are less held by norm-constrained investors. Finally, our subsample analyses indicate some potential changes in the market perception of the new sin stocks after the Paris Agreement.",
+            "keywords": [
+                "Sin stocks",
+                "Sin premium",
+                "Norm-constrained investors",
+                "Carbon-intensive sectors",
+                "Environmental",
+                "Social",
+                "and Governance (ESG)"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/palassmgt/v_3a23_3ay_3a2022_3ai_3a1_3ad_3a10.1057_5fs41260-021-00247-9.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Volatility Effect in China",
+            "abstract": "Abstract This paper shows that low-risk stocks significantly outperform high-risk stocks in the local China A-share market. The main driver of this low-risk anomaly is volatility, and not beta. A Fama\u00e2\u0080\u0093French style VOL factor is not explained by the Fama\u00e2\u0080\u0093French\u00e2\u0080\u0093Carhart factors, and has the strongest stand-alone performance among all these factors. Our findings are robust across sectors and over time, and consistent with previous empirical evidence for the US and international markets. Moreover, the VOL premium exhibits excellent investability characteristics, as it involves a low turnover and remains strong when applied to only the largest and most liquid stocks. Our results imply that the volatility effect is a highly pervasive phenomenon, and that explanations should be able to account for its presence in highly institutionalized markets, such as the US, but also in the Chinese market where private investors dominate trading.",
+            "keywords": [
+                "China A shares",
+                "Low risk",
+                "Low volatility",
+                "Low beta",
+                "Minimum variance",
+                "Anomaly",
+                "Value",
+                "Size",
+                "Momentum",
+                "Profitability",
+                "Investments",
+                "Smart beta",
+                "Low-volatility investing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/palassmgt/v_3a22_3ay_3a2021_3ai_3a5_3ad_3a10.1057_5fs41260-021-00218-0.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

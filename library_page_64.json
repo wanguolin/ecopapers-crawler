@@ -1,0 +1,148 @@
+{
+    "page_info": {
+        "page_number": 64,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Note Short-term predictability of German stock returns",
+            "abstract": "The paper investigates short-horizon individual stock returns; it exhibits statistically and economically significant autocorrelations, which for stock returns have so far been established mainly over long horizons, also for certain daily data, in particular between monday returns and various linear combinations of the previous week's returns.",
+            "keywords": [
+                "Autocorrelation",
+                "\u00c2\u00b7",
+                "stock",
+                "returns",
+                "\u00c2\u00b7",
+                "predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprempeco/v_3a23_3ay_3a1998_3ai_3a4_3ap_3a635-639.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The evolving nature of intraday price discovery in the Chinese CSI 300 index futures market",
+            "abstract": "Abstract This paper reports a study of the evolution of the intraday price discovery of the Chinese CSI 300 stock index futures, utilizing minute-by-minute data for the two consecutive periods of April 16, 2010\u00e2\u0080\u0093July 30, 2010 and August 2, 2010\u00e2\u0080\u0093June 15, 2011. Innovatively, the empirical analysis employs a no-arbitrage-based error correction model (ECM) between the index and the theoretical index implied by the futures\u00e2\u0080\u0099 price. It is found that futures followed the index in the first period, but evolved to lead the spot in the second period. Interestingly, however, futures led within 30 min of the spot\u00e2\u0080\u0099s opening in each trading day, even in the initial first period of the futures trading. Fortuitously, the ECM seems to yield reasonable estimates for the arbitrage cost.",
+            "keywords": [
+                "Intraday price discovery",
+                "CSI 300 stock index futures",
+                "Minute-by-minute data",
+                "Vector error correction model",
+                "Implied theoretical index price"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprempeco/v_3a52_3ay_3a2017_3ai_3a4_3ad_3a10.1007_5fs00181-016-1115-3.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The market price of credit risk and economic states",
+            "abstract": "Abstract This paper proposes a market-wide credit risk factor for the US stock market and investigates its properties that are dependent on economic conditions. The market price of credit risk is found to be statistically significantly negative, supporting earlier studies. However, a sample-split analysis reveals that this negative payoff is nonexistent in a later subsample, indicating that the credit risk puzzle is based on temporary mispricing related to the earlier subsample. Further investigation shows that mispricing in the earlier period was mainly driven by positive payoffs of low credit risk firms, while high credit risk firms did not generate significant returns in any of the sub-periods.",
+            "keywords": [
+                "Asset pricing",
+                "Credit rating",
+                "Credit risk",
+                "Economic states",
+                "Business cycle",
+                "Market price of credit risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprempeco/v_3a50_3ay_3a2016_3ai_3a3_3ad_3a10.1007_5fs00181-015-0952-9.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short-term market efficiency indicator based on the waiting-time distribution",
+            "abstract": "Abstract This paper presents a quantitative approach to measure market efficiency based on the waiting-time distribution. We use the spread between two classes of ordinary shares of Royal Dutch Shell Plc, and two listings of Australia and New Zealand Banking Group Limited to observe market inefficient states. We find that the parameter of the waiting-time distribution provides a quantitative measure of the market inefficiency and can be used as a short-term market efficiency indicator. This approach can be applied to liquid financial markets and has clear implications for the investors, hedgers, regulators and policymakers.",
+            "keywords": [
+                "Market efficiency indicator",
+                "Market inefficiency",
+                "Statistical arbitrage",
+                "Waiting-time distribution"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprrvmgts/v_3a15_3ay_3a2021_3ai_3a6_3ad_3a10.1007_5fs11846-020-00398-w.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do financial markets respond to macroeconomic surprises? Evidence from the UK",
+            "abstract": "Abstract We investigate the response of UK asset prices to a large set of domestic scheduled macroeconomic announcements using data at a daily frequency from 1998 to 2017. Our results are mostly consistent with economic theory and follow two general patterns: (1) a stronger-than-expected economy raises stock returns, causes the home currency to appreciate, makes the yield curve steeper, and lowers the corporate credit quality spread; (2) higher-than-anticipated inflation leads to an appreciation of the domestic currency and raises the slope of the yield curve. Surprises about retail sales, claimant count rate, GDP, and industrial production have the most prevalent effects across the four asset classes in our data set. A large number of macroeconomic announcements increase trading activity in the stock market, whereas there is barely any (only minor) evidence that announcements (surprises) affect the volatility of asset prices. We also document that the effects of macroeconomic surprises are contingent not only upon the state of the economy but also on the state of the stock market (bull vs. bear).",
+            "keywords": [
+                "Macroeconomic announcements",
+                "Stock returns",
+                "Effective exchange rate",
+                "Yield curve",
+                "Corporate credit quality spread",
+                "Trading volume"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprempeco/v_3a62_3ay_3a2022_3ai_3a5_3ad_3a10.1007_5fs00181-021-02108-1.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market making, price formation, and technical trading",
+            "abstract": "We demonstrate that achieving sensible convergence of prices to equilibrium is facilitated by market maker risk. \\\\ We introduce several criteria for price formation rules, and provide an example that satisfies all of them. The risk aversion of the market maker inevitably leads to price persistence that can be exploited by technical traders. \\\\ We conjecture that this can force a situation in which a market is informationally but not alloactively efficient. Adding more realism by imposing credit limits creates nonlinearities that can cause prices to oscillate even in the absence of external information.",
+            "keywords": [
+                "market making",
+                "price formation",
+                "technical trading",
+                "optimal control",
+                "credit limits",
+                "institutional constraints",
+                "dynamical systems",
+                "market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/scescecf1/111.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Endeks Kapsam\u00c4\u00b1nda Olman\u00c4\u00b1n Hisse Senedi Getirilerine Etkisi: BIST Temett\u00c3\u00bc 25 Endeksi \u00c3\u009czerine Bir Uygulama",
+            "abstract": "The stock price indices are an important indicator for investors. Being in the scope of index means that the stock has the same qualifications determined for the index. These indices make it easier to choose among stocks for the stock investors. BIST Dividend 25 Index which has been calculated since July 1st, 2011, is comprised of the equities with both high dividend efficiency and liquidity. The purpose of this study is searching the effects of being in the scope of BIST Dividend 25 Index on stock price performance by using case study method. Consequently it can be observed if investors in Turkey pay adequate attention to dividends during investment decisions.",
+            "keywords": [
+                "BIST Dividend 25 Index",
+                "Event Study",
+                "Performance of Stock Price",
+                "Abnormal Return."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sossosjrn/130212.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Introducing Variety in Risk Management",
+            "abstract": "We review the recently introduced concept of variety of a financial portfolio and we sketch its importance for risk control purposes. The empirical behaviour of variety, correlation, exceedance correlation and asymmetry of the probability density function of daily returns is discussed. The results obtained are compared with the ones of a one-factor model showing strengths and limitations of this model.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/sfisfiwpa/0107208.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is Price to Earnings Ratio (still) useful for trading strategy?",
+            "abstract": "Overreaction phenomena stimulate assets mispricing and return reversals. Investors should build a trading strategy to receive benefits from the anomaly. Developing the classic idea of overreaction hypothesis from DeBondt and Thaler (1985 and 1990), we build stock portfolios based on sentiment and risk to produce higher future stock return. Using Indonesian data, we use financial information from public information to test weak-form efficiency. We believe that investors are not always rational and other groups of investors can use public information to generate excess return. This article finds that lower PER tend to produce higher future return, especially if lower PER accompanied by lower risk. Practically, our study contributes to the use of fundamental analysis in emerging markets. Theoretically, this study supports the idea of behavioral finance theory and reject weak-form efficient market hypothesis in Indonesia Stock Exchange.",
+            "keywords": [
+                "Price Earnings Ratio (PER)",
+                "Price to Book Value (PBV)",
+                "stock risk",
+                "future return",
+                "trading strategy"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/sekibmpro/8511281.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The leverage effect in financial markets: retarded volatility and market panic",
+            "abstract": "We investigate quantitatively the so-called leverage effect, which corresponds to a negative correlation between past returns and future volatility. For individual stocks, this correlation is moderate and decays exponentially over 50 days, while for stock indices, it is much stronger but decays faster. For individual stocks, the magnitude of this correlation has a universal value that can be rationalized in terms of a new `retarded' model which interpolates between a purely additive and a purely multiplicative stochastic process. For stock indices a specific market panic phenomenon seems to be necessary to account for the observed amplitude of the effect.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/sfisfiwpa/0101120.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "More stylized facts of financial markets: leverage effect and downside correlations",
+            "abstract": "We discuss two more universal features of stock markets: the so-called leverage effect (a negative correlation between past returns and future volatility), and the increased downside correlations. For individual stocks, the leverage correlation can be rationalized in terms of a new `retarded' model which interpolates between a purely additive and a purely multiplicative stochastic process. For stock indices a specific market panic phenomenon seems to be necessary to account for the observed amplitude of the effect. As for the increase of correlations in highly volatile periods, we investigate how much of this effect can be explained within a simple non-Gaussian one-factor description with time independent correlations. In particular, this one-factor model can explain the level and asymmetry of empirical exceedance correlations, which reflects the fat-tailed and negatively skewed distribution of market returns.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/sfisfiwpa/29960.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of US macroeconomic news on the prices of single stocks on the Vienna Stock Exchange",
+            "abstract": "Recent studies have shown that announcements of US macroeconomic news had significant impact on European stock markets. However, importance of information about the US economy may vary in time. In order to analyze this issue we examine impact of announcements of unexpected US macroeconomic news on the prices of selected stocks listed on the Vienna Stocks Exchange. Based on 5-minute returns of 13 stocks we examine how the strength and the significance of reaction of investors to unexpected macroeconomic news form the US has changed in the recent 15 years. Application of event study methodology allows us precisely describe such reaction in first minutes after news announcements.",
+            "keywords": [
+                "event study",
+                "macroeconomic announcements",
+                "intraday data"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/103352.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

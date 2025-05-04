@@ -1,0 +1,159 @@
+{
+    "page_info": {
+        "page_number": 253,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Data snooping, technical trading, rule performance, and the bootstrap",
+            "abstract": "In this paper we utilize White's Reality Check bootstrap methodology (White (1997)) to evaluate simple technical trading rules while quantifying the data-snooping bias and fully adjusting for its effect in the context of the full universe from which the trading rules were drawn. Hence, for the first time, the paper presents a comprehensive test of performance across all technical trading rules examined. We consider the study of Brock, Lakonishok, and LeBaron (1992), expand their universe of 26 trading rules, apply the rules to 100 years of daily data on the Dow Jones Industrial Average, and determine the effects of data-snooping.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/ehllserod/119144.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market momentum amplifies market volatility risk: Evidence from China\u00e2\u0080\u0099s equity market",
+            "abstract": "We examine the role of a belief-based momentum indicator, measured by conditional past returns (CPR), in the realized volatility (RV) predictability of equity markets. Based on the week- and month-horizon CPR, we construct the HAR-CPR and HAR-LCPR models on the basis HAR-RV model. Here, the HAR-LCPR model additionally includes the daily leverage factor in the absence of daily CPR. In China, we find that: 1) week- and month-horizon CPR have significantly positive impacts on one-, five-, and 22-days-ahead RVs; 2) our out-of-sample results further indicate that the HAR-LCPR model performs best in forecasting one- and five-days-ahead RVs, whereas the HAR-CPR model is a more reliable forecasting model for 22-days-ahead volatility; 3) the performance also passes various robustness tests, including sub-period performance testing, alternative training rolling window, and alternative RV estimation. We show the economic mechanism underlying the predictive role of CPR from the perspective of investors\u00e2\u0080\u0099 trading activities.",
+            "keywords": [
+                "Volatility forecasting",
+                "Realized volatility",
+                "Conditional past returns",
+                "HAR",
+                "Leverage effect",
+                "COVID-19",
+                "Global financial crisis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a88_3ay_3a2023_3ai_3ac_3as1042443123001245.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "FX technical trading rules can be profitable sometimes!",
+            "abstract": "This paper investigates the profitability of technical trading rules in the foreign exchange market taking into account data snooping bias and transaction costs. A universe of 7650 trading rules is applied to six currencies quoted in U.S. dollars over the 1994:3\u00e2\u0080\u00932014:12 period. The Barras, Scaillet, and Wermers (2010) false discovery rate method is employed to deal with data snooping and it detects almost all outperforming trading rules while keeping the proportion of false discoveries to a pre-specified level. The out-of-sample results reveal a large number of outperforming rules that are profitable over short periods based on the Sharpe ratio. However, they are not consistently profitable and so the overall results are more consistent with the adaptive markets hypothesis.",
+            "keywords": [
+                "Technical trading",
+                "False discovery rate",
+                "Persistence analysis",
+                "Exchange rate"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a49_3ay_3a2017_3ai_3ac_3ap_3a113-127.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Pricing Efficiency and Arbitrage in the Bitcoin Spot and Futures Markets",
+            "abstract": "This study examines the pricing efficiency for the leading cryptocurrency, Bitcoin using spot prices and all CBOE and CME futures contracts traded from January 2018 to March 2019. We find that the futures basis provide some predictive power for future changes in the spot price and in the risk premium. However, the basis of Bitcoin is a biased predictor of the future spot price changes. Cointegration tests also demonstrate that futures prices are biased predictors of spot prices. Deviations from no-arbitrage between spot and futures markets are persistent and widen significantly with Bitcoin thefts (hacks, frauds) as well as alternative cryptocurrency issuances.",
+            "keywords": [
+                "Bitcoin",
+                "cryptocurrency",
+                "speculation",
+                "efficient markets",
+                "futures arbitrage"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a53_3ay_3a2020_3ai_3ac_3as0275531919309808.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Yield drifts when issuance comes before macro news",
+            "abstract": "UK government bond yields tend to drift upwards before scheduled news such as monetary policy announcements and labour market data releases. This effect is particularly pronounced during periods of UK bond issuance and is linked to higher term premia. Financial intermediary constraints play a role as dealers avoid accumulating inventory in pre-news windows following issuance. The composition of liquidity providers also shifts: hedge funds buy a large share of the bond issuance outside pre-news windows, but more passive investors \u00e2\u0080\u0093 such as foreign central banks and pension funds \u00e2\u0080\u0093 provide liquidity in pre-news windows. We outline a simple model to rationalize these findings.",
+            "keywords": [
+                "Macro news",
+                "Yield drift",
+                "Bond supply",
+                "Liquidity provision"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a165_3ay_3a2025_3ai_3ac_3as0304405x25000017.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do stock returns in India exhibit a mean reverting tendency? Evidence from multiple structural breaks test",
+            "abstract": "This paper re-examines the issue of mean-reversion in Indian equity market. Unlike earlier studies, the present paper carries out multiple structural breaks test and uses new and disaggregated data set. The study found significant structural breaks in the returns series of all selected indices and thus provide evidence of mean-reverting tendency in the Indian stock returns. This implies violation of efficient market hypothesis in India. The endogenously searched significant structural breaks occurred in the years 2000, 2003, 2006, 2007 and 2008 for most of the indices indicating respectively rise in international oil prices, global recession, erratic fluctuations in exchange rates, and sub-prime crisis followed by global meltdown. The evidences of structural breaks and mean-reverting tendency indicate possibility to predict the future returns. Further, it is observed that small indices with less liquidity and lower market capitalization are more vulnerable to external events than the liquid indices. The results call for appropriate policy and regulatory measures particularly external shocks to improve the efficiency of the market.",
+            "keywords": [
+                "Multiple Structural Breaks, Mean Reversion",
+                "Random Walk,Efficient Market Hypothesis, Oil Price Shocks, Global Economic Crisis, Indian Stock Market, BSE, NSE Shocks",
+                "NSE",
+                "BSE."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/46502.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The side effects of quantitative easing: Evidence from the UK bond market",
+            "abstract": "We examine the returns to UK government bonds before, during and between the phases of quantitative easing to identify the side effects for the market itself. We show that the onset of QE led to a sustained reduction in the costs of trading and removed some return regularities. However, controlling for a wide range of market activity, including issuance and QE announcements, we find evidence that investors could have earned excess returns after costs by trading in response to the purchase auction calendar. Drawing on economic theory, we explore the implications of these findings for both the efficiency of the market and the costs of government debt management in both the short and long run.",
+            "keywords": [
+                "Quantitative easing",
+                "Gilts",
+                "UK bonds",
+                "Price efficiency",
+                "Bond investors"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejimfin/v_3a51_3ay_3a2015_3ai_3ac_3ap_3a303-336.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading behavior in S&P 500 index futures",
+            "abstract": "This article examines the determinants of trading decisions and the performance of trader types, in the context of the E-Mini S&P 500 futures and S&P 500 futures markets. Speculators and small traders tend to follow positive feedback strategies while hedgers dynamically adjust positions in response to market returns. Such strategies apparently reverse during the 2008\u00e2\u0080\u009309 financial crisis. Investor sentiment and market volatility play an important role in determining the net trading position of traders across the sample period. While all trader types are better at foreseeing market upturns, an out-of-sample test suggests that speculators and small traders have some predictive ability for short-term market returns.",
+            "keywords": [
+                "Index futures",
+                "Trading behavior",
+                "Investor sentiment",
+                "CFTC",
+                "COT"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeerevfin/v_3a28_3ay_3a2016_3ai_3ac_3ap_3a46-55.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The international REIT\u00e2\u0080\u0099s time-varying response to the U.S. monetary policy and macroeconomic surprises",
+            "abstract": "International real estate markets and the ever increasing role of the U.S. economic and policy developments have played a central role both in international portfolio management as well as broader economic policy making. In this paper, we measure the extent of time-varying impact of the U.S. monetary policy and macroeconomic news on the international Real Estate Investment Trusts (REITs) stock returns. Results suggest that there has been significant variation both across time and across countries in the impact of U.S. news on the global REIT stocks. Further, the country\u00e2\u0080\u0099s stock market capitalization to GDP ratio has strong connections with the time-varying nature of the impact of the U.S. news on the global REIT stock returns.",
+            "keywords": [
+                "Monetary policy",
+                "Macroeconomic surprises",
+                "International REITs",
+                "Time-varying model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a42_3ay_3a2017_3ai_3ac_3ap_3a640-653.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "South African stock return predictability in the context data mining: The role of financial variables and international stock returns",
+            "abstract": "In this paper, we examine the predictive ability, both in-sample and the out-of-sample, for South African stock returns using a number of financial variables, based on monthly data with an in-sample period covering 1990:01 to 1996:12 and the out-of-sample period of 1997:01 to 2010:04. We use the t-statistic corresponding to the slope coefficient in a predictive regression model for in-sample predictions, while for the out-of-sample, the MSE-F and the ENC-NEW tests statistics with good power properties were utilised. To guard against data mining, a bootstrap procedure was employed for calculating the critical values of both the in-sample and out-of-sample test statistics. Furthermore, we use a procedure that combines in-sample general-to-specific model selection with out-of-sample tests of predictive ability to further analyse the predictive power of each financial variable. Our results show that, for the in-sample test statistic, only the stock returns for our major trading partners have predictive power at certain short and long run horizons. For the out-of-sample tests, the Treasury bill rate and the term spread together with the stock returns for our major trading partners show predictive power both at short and long run horizons. When accounting for data mining, the maximal out-of-sample test statistics become insignificant from 6-months onward suggesting that the evidence of the out-of-sample predictability at longer horizons is due to data mining. The general-to-specific model shows that valuation ratios contain very useful information that explains the behaviour of stock returns, despite their inability to predict stock return at any horizon. The model also highlights the role of multiple variables in predicting stock returns at medium- to long run horizons.",
+            "keywords": [
+                "Stock return predictability",
+                "Financial variables",
+                "Nested models",
+                "In-sample tests",
+                "Out-of-sample tests",
+                "Data mining",
+                "General-to-specific model selection"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a29_3ay_3a2012_3ai_3a3_3ap_3a908-916.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Macroeconomic Variables and South African Stock Return Predictability",
+            "abstract": "We examine both in-sample and out-of-sample predictability of South African stock return using macroeconomic variables. We base our analysis on a predictive regression framework, using monthly data covering the in-sample period between 1990:01 and 1996:12, and the out-of sample period commencing from 1997:01 to 2010:06. For the in-sample test, we use the t-statistic corresponding to the slope coefficient of the predictive regression model, and for the out-of-sample tests we employ the MSE-F and the ENC-NEW test statistics. When using multiple variables in a predictive regression model, the results become susceptible to data mining. To guard against this, we employ a bootstrap procedure to construct critical values that account for data mining. Further, we use a procedure that combines the in-sample general-to-specific model selection with tests of out-of-sample forecasting ability to examine the significance of each macro variable in explaining the stock returns behaviour. In addition, we use a diffusion index approach by extracting a principal component from the macro variables, and test the predictive power thereof. For the in-sample tests, our results show that different interest rate variables, world oil production growth, as well as, money supply have some predictive power at certain short-horizons. For the out-of-sample forecasts, only interest rates and money supply show short-horizon predictability. Further, the inflation rate shows very strong out-of-sample predictive power from 6-month-ahead horizons. A real time analysis based on a subset of variables that underwent revisions, resulted in deterioration of the predictive power of these variables compared to the fully revised data available for 2010:6. The diffusion index yields statistically significant results for only four specific months over the out-of-sample horizon. When accounting for data mining, both the in-sample and the out-of-sample test statistics for both the individual regressions and the diffusion index become insignificant at all horizons. The general-to-specific model confirms the importance of different interest rate variables in explaining the behaviour of stock returns, despite their inability to predict stock returns, when accounting for data mining.",
+            "keywords": [
+                "Stock return predictability",
+                "Macro variables",
+                "In-sample tests",
+                "Out-of-sample tests",
+                "Data mining",
+                "General-to-specific model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a30_3ay_3a2013_3ai_3ac_3ap_3a612-622.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Announcements, expectations, and stock returns with asymmetric information",
+            "abstract": "Revisions of consensus macroeconomic and earnings forecasts positively predict announcement-day forecast errors, whereas stock market returns during forecast revision periods negatively predict announcement-day returns. A dynamic noisy rational expectations model with periodic announcements quantitatively accounts for these findings. Under asymmetric information, informed investors\u00e2\u0080\u0099 forecast revisions positively predict forecast errors of the uninformed, causing average beliefs to underreact to new information and positively predict belief errors. Additionally, stock prices are partially driven by noise. Noise impact accumulates into stock prices during revision periods but gets corrected upon announcements. Therefore, revision period price changes negatively predict announcement-day returns.",
+            "keywords": [
+                "Macroeconomic announcement",
+                "Earnings announcement",
+                "Expectations formation",
+                "Noisy rational expectations",
+                "Trading volume"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeemoneco/v_3a151_3ay_3a2025_3ai_3ac_3as0304393225000224.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

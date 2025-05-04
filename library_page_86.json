@@ -1,0 +1,156 @@
+{
+    "page_info": {
+        "page_number": 86,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Can the Forecasts Generated from E/P Ratio and Bond Yield be Used to Beat Stock Markets?",
+            "abstract": "This paper tests the performance of stock market forecasts derived from technical analysis by means of a specific indicator. The indicator is computed from E/P ratios and bond yields. Several stock markets are studied over a 20-year period. Two test statistics are introduced to utilize the indicator. The results show that the forecasts generated from the indicator would enable investors to escape most of the crashes and catch most of the bull runs. The trading signals provided by the indicator can generate profits that are significantly better than the buy-and-hold strategy.",
+            "keywords": [
+                "bond yield",
+                "E/P ratio",
+                "interest rate",
+                "standardized yield differential",
+                "yield differential"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/mfjjournl/v_3a5_3ay_3a2001_3ai_3a1_3ap_3a59-86.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information environment and investor behavior",
+            "abstract": "Market reactions to non-fundamental news (or no-news) reverse for extreme firm information environments. A one percentage increase in intangible returns for small firms (large firms) lead to a 2.33% decrease (0.70% increase) in monthly returns over the next 12months. The results are robust to firm characteristics adjustments, alternative measures of firm information environment and private information, idiosyncratic risk, and microstructure effects. The results are consistent with the cross-sectional findings of confirmation bias, where investors show stronger bias when the information environment is rich. We derive a model with confirmation bias that further explains the cross-sectional momentum pattern for the majority of firms in the market.",
+            "keywords": [
+                "Behavioral finance",
+                "Confirmation bias",
+                "Intangible returns",
+                "Momentum"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a59_3ay_3a2015_3ai_3ac_3ap_3a250-264.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Intertemporal Asset Allocation with Inflation-Indexed Bonds",
+            "abstract": "When one constructs long-term investment plan, one needs to consider the fact that long-term bonds are still exposed to inflation risk. This paper studies the intertemporal portfolio-consumption decision where the investment opportunities include \"inflation-indexed bonds\" -- a modern financial asset for hedging inflation risks. It is assumed that as well as optimising the agents use non-linear filtering methods to estimate the unobservable variables which drive the asset returns. The model will be calibrated to empirical data. Investment strategies and total utilities will be compared with and without the inflation-indexed bonds",
+            "keywords": [
+                "Inflation-Indexed Bonds",
+                "Non-linear Filtering",
+                "Intertemporal Optimization"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/scescecf5/168.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The importance of belief dispersion in the response of gold futures to macroeconomic announcements",
+            "abstract": "We investigate the behaviour of gold futures around the release of macroeconomic announcements. Market activity, in terms of traded volume, returns, and volatility, responds to new information quickly, with the majority of the reaction complete within 90-s. Surprises on the announcement of unemployment rate and GDP have the largest impact. Contrary to prior results for the equity market, gold futures exhibit greater reactions to \u00e2\u0080\u0098good\u00e2\u0080\u0099 economic news (which is negative for gold prices) and the magnitude of the response does not appear to increase during recession. Importantly, we employ a novel measure of belief dispersion, and we are able to demonstrate that the market response to macroeconomic news is significantly larger when belief dispersion is wider.",
+            "keywords": [
+                "Gold futures",
+                "Macroeconomic announcements",
+                "Belief dispersion",
+                "COMEX",
+                "High-frequency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a41_3ay_3a2015_3ai_3ac_3ap_3a292-302.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Abnormal temperature and the cross-section of stock returns in China",
+            "abstract": "We investigate the role of abnormal temperature in the cross-sectional returns of the Chinese stock market. Empirical results document a premium of low abnormal temperature exposure: stocks with low abnormal temperature exposure significantly outperform those with high exposure by more than 0.70% per month in the future, on a risk-adjusted basis. The negative relationship between abnormal temperature exposure and stock returns remains significant after controlling for well-known pricing factors. Finally, we provide plausible explanations for the premium: abnormal temperature can prompt investors to revise their global warming beliefs, which are closely associated with the premium, affect their stock trading behavior, and damage the earnings of climate-unfriendly companies.",
+            "keywords": [
+                "Abnormal temperature",
+                "Cross-section of stock returns",
+                "Chinese stock market",
+                "Investor belief",
+                "Trading behavior"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a94_3ay_3a2024_3ai_3ac_3as1057521924002060.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum, idiosyncratic volatility and market dynamics: Evidence from China",
+            "abstract": "Recent evidence on the relation between momentum and idiosyncratic volatility (IV) in the U.S. is mixed. We verify the relation between momentum and IV in China and find at best, no relation, supporting the view that idiosyncratic risk is not a significant arbitrage cost for momentum returns. While the absence of a positive relation between momentum returns and IV rejects both the underreaction and the overconfidence and self-attribution stories of momentum, we find support for the overconfidence and self-attribution story from our results on market dynamics and momentum. Our results are robust when verified in other Asian markets. We also find support for the suggestion that cross-country differences in momentum returns could be the result of differences in market dynamics rather than differences in levels of individualism as suggested earlier in the literature.",
+            "keywords": [
+                "Momentum",
+                "Idiosyncratic volatility",
+                "Market dynamics",
+                "Arbitrage cost",
+                "Overconfidence"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a46_3ay_3a2017_3ai_3apa_3ap_3a109-123.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Overnight returns, daytime reversals, and future stock returns: Is China different?",
+            "abstract": "Akbas et al. (2021) demonstrate that a more intense daily \u00e2\u0080\u009ctug of war\u00e2\u0080\u009d between overnight noise traders and daytime arbitrageurs predicts higher future returns in the US market. We investigate whether the daily tug of war contains predictive information about future stock returns in China. Using the frequency of negative daytime reversals, we find no significant difference in the future returns of stocks with a high versus a low level of intensity in this tug of war. However, we find persistent positive overnight returns followed by daytime reversals of almost similar magnitudes once we decompose the future returns into their overnight and daytime components. Thus, positive returns of the overnight component and negative returns of the daytime component cancel out each other, resulting in no predictive relationship between the daily tug of war and future returns in China.",
+            "keywords": [
+                "Tug of war",
+                "China",
+                "Overnight returns",
+                "Daytime reversal",
+                "Individuals",
+                "Arbitrageurs"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a74_3ay_3a2022_3ai_3ac_3as0927538x22001044.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Call and put implied volatilities and the derivation of option implied trees",
+            "abstract": "Standard methodologies for the derivation of implied trees from option prices are based on the validity of the put-call parity. Muzzioli and Torricelli (2002) propose a methodology which accounts for PCP violations. Based on this latter approach the present paper advances in two main directions. First we propose a different methodology in order to imply the interval of artificial probabilities at each node of the tree. Secondly, we perform an empirical validation of the implied tree obtained, both in the sample and out of sample, by using DAX index options data set covering the period from January 4, 1999 to December 28, 2000. Numerical results are compared with one of the most used standard methodologies, i.e. Derman and Kani\u00e2\u0080\u0099s. The results suggest that the estimation proposed, by taking into account the informational content of both call and put prices, highly improves both the in-the-sample fitting and the out-of-sample performance.",
+            "keywords": [
+                "Binomial Method",
+                "Put-Call Parity",
+                "Choquet Pricing",
+                "Interval Tree."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/moddepeco/0448.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment and stock market anomalies: Evidence from Islamic countries",
+            "abstract": "Studies of the Ramadan effect argue that higher stock returns in Muslim countries during Ramadan relate to higher investor sentiment. However, Islamic countries rank low on the Hofstede Individualism Index, a proxy for investor overconfidence. Therefore, this study examines the impact of investor sentiment on stock market anomalies in two advanced Islamic finance jurisdictions: Malaysia and Indonesia. It hypothesizes that stock market anomalies are stronger following high sentiment if investors in Malaysia and Indonesia are overconfident. The results show that the long and short legs of the stock market anomalies earn relatively low returns following high investor sentiment, indicating overpricing during high sentiment. Moreover, the short leg earns relatively lower returns than the long leg following high sentiment because the short leg is more overpriced than the long leg when sentiment is high. Therefore, consistent with the hypothesis, the long-short returns of anomalies are stronger following high investor sentiment because of the relatively lower returns of the short leg than the long leg.",
+            "keywords": [
+                "Investor sentiment",
+                "Stock market anomalies",
+                "Malaysia",
+                "Indonesia",
+                "Economic growth"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a88_3ay_3a2024_3ai_3ac_3as0927538x24003093.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Budapest liquidity measure and the price impact function",
+            "abstract": "During the 2007/2008 global economic crisis, market liquidity became an important issue both on the field of theoretical finance and in practice. In theory market liquidity is usually being modeled with price impact functions. In this study we show how the price impact function can be estimated from order book data. Our estimation is based on the Budapest Liquidity Measure (BLM) which is a liquidity measure that captures the transaction cost nature of liquidity. The main outcome of this paper is a method with which market participants can easily estimate price impact functions. This is of major importance, as the price impact function can be a useful tool during a dynamic portfolio optimization process. The price impact functions can help investors in their trading decisions.",
+            "keywords": [
+                "market liquidity",
+                "price impact function",
+                "liquidity measure"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/40339.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The no arbitrage condition in option implied trees: evidence from the Italian index options market",
+            "abstract": "A major issue in the construction of implied trees is the no arbitrage property preservation. Within the literature on deterministic smile-consistent trees using forward induction, two major contributions are: Derman and Kani (1994) and Barle and Cakici (1998). The former proposes a methodology to override the nodes that violate the no arbitrage condition. The latter extends the Derman and Kani\u00e2\u0080\u0099s algorithm, in order to increase its stability in the presence of high interest rates. The aim of the present paper is to modify the Derman and Kani\u00e2\u0080\u0099s methodology in order to improve the fit of the implied tree to option prices. The proposed methodology is compared with Barle and Cakici both in the sample and out of sample with Italian index options data. Overall findings support a better performance of the modified Derman and Kani\u00e2\u0080\u0099s methodology.",
+            "keywords": [
+                "Binomial tree",
+                "implied volatility",
+                "calibration."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/moddepeco/0491.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The internal efficiency of Index Option Markets:Tests on the Italian Market",
+            "abstract": "The aim of the present paper is to provide evidence on the internal market efficiency of the Italian index option market. To this end a model-free approach is taken, whereby strategies involving only options are tested by means of a high frequency dataset covering the period 1 September \u00e2\u0080\u0093 31 December 2002. This piece of research thus completes our previous analysis (Brunetti and Torricelli(2003, 2006)), which focused on the cross-market efficiency of the same market. The results obtained further support the efficiency of one of the most important index options markets in Europe.",
+            "keywords": [
+                "index options",
+                "internal market efficiency",
+                "no-arbitrage",
+                "option spreads"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/moddepeco/0472.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

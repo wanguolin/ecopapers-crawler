@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 241,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Consumption, Size and Book-to-Market Ratio in Equity Returns",
+            "abstract": "This study extends the standard consumption-based capital asset pricing model (C-CAPM) to include two additional factors related to firm size (SMB) and book-to-market value ratio (HML). The inclusion of HML improves mainly the fit of the low book-to-market portfolios, SMB, and HML that are not correctly priced in the standard C-CAPM. Consumption premium varies across size and coincides with the size effect. The effect of a HML premium is to reduce the amount of consumption premium, implying that low book-to-market ratio and, to a lesser degree, small portfolios are not as risky as consumption predicts. The HML premium across size is contradictory to the size effect as small firms have a larger negative HML premium.",
+            "keywords": [
+                "Risk Premium",
+                "Equity Return",
+                "Stochastic Discount Factor",
+                "Consumption"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/yoryorken/11_2f24.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Expected and unexpected bond excess returns: Macroeconomic and market microstructure effects",
+            "abstract": "This paper shows that order flow determines future bond excess returns. This effect cannot be captured by macroeconomic or forward rate information. To understand how these variables influence future bond excess returns, we decompose excess returns into expected and unexpected excess returns. Expected returns crucially depend on the available information set which is spanned by order flow, forward rates and macroeconomic variables. Thus, the predictability of bond excess returns stems from the strong linkage of expected excess returns to available economic information and order flow. The analysis of unexpected excess returns reveals contemporaneous order flow and changes of the economic environment as main drivers.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/handpaper/dp-493.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Policy Shocks and Stock Market Returns: Evidence from Chinese Solar Panels",
+            "abstract": "We examine the stock market performance of publicly-listed Chinese firms in the solar panel industry over 2012 and 2013 in response to announcements of new import restrictions by the European Union and domestic policy changes by the Chinese government. Using daily stock market prices from the Shanghai-Shenzhen, New York and Hong Kong markets, we calculate abnormal returns to several policy changes affecting solar panels produced in China. We find, consistent with the Melitz (2003) model, that larger, more export-oriented firms experienced larger stock market losses in the wake of European trade restriction announcements. We further show that European trade policy had a larger negative effect on Chinese private sector firms relative to state owned enterprises. Finally, we use a two stage least squares estimation technique to show that firms listed on US markets are more responsive to news events than those listed in China and Hong Kong.",
+            "keywords": [
+                "Chinese exports",
+                "antidumping",
+                "solar panels",
+                "event study"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/camcamdae/1529.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Robust Portfolio Optimization: A Stochastic Evaluation of Worst-Case Scenarios",
+            "abstract": "This article presents a new approach for building robust portfolios based on stochastic efficiency analysis and periods of market downturn. The empirical analysis is done on assets traded on the Brazil Stock Exchange, B3 (Brasil, Bolsa, Balcao). We start with information on the assets from periods of market downturn (worst-case) and we group them using hierarchical clustering. Then we do stochastic efficiency analysis on these data using the Chance Constrained Data Envelopment Analysis (CCDEA) model. Finally, we use a classical model of capital allocation to obtain the optimal share of each asset. Our model is able to accommodate investors who exhibit different risk behaviors (from conservatives to risky investors) by varying the level of probability in fulfilling the constraints (1-\u00c3\u008e\u00c2\u00b1i) of the CCDEA model. We show that the optimal portfolios constructed with the use of information from periods of market downturns perform better for the Sharpe ratio (SR) in the validation period. The combined use of these approaches, using also fundamentalist variables and information on market downturns, allows us to build robust portfolios, with higher cumulative returns in the validation period, and portfolios with lower beta values.",
+            "keywords": [
+                "Robust optimization",
+                "Stochastic evaluation",
+                "Chance Constrained DEA",
+                "Worst-case markets",
+                "Portfolios"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fauwpaper/wp2022_5f03.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Double-question Survey Measures for the Analysis of Financial Bubbles and Crashes",
+            "abstract": "This paper proposes a new double-question survey method that elicits information about how individuals subjective belief valuations are compared and related to their price expectations. An individual respondent is presented with two sets of questions, one that asks about his/her belief regarding the value of an asset (whether it is over- or under-valued), and another regarding his/her expectations of the future price of that asset. Responses to these two questions are then used to measure the extent to which prices are likely to move towards or away from the subjectively perceived fundamental values. Using a theoretical asset pricing model with heterogenous agents we show that there exists a negative relationship between the agents expectations of price changes and their asset valuation. Double question surveys on equity, gold and house prices provide evidence in support of such relationships, particularly in the case of house price expectations. The effects of demographic factors, such as sex, age, education, ethnicity, and income are also investigated. It is shown that for house price expectations such demographic factors cease to be statistically significant once we condition on the respondents location and their asset valuation indicator. The results of the double-question surveys are then used to construct leading bubble and crash indicators, and their potential value is illustrated in the context of a dynamic panel regression of realized house price changes across a number of key Metropolitan Statistical Areas in the US.",
+            "keywords": [
+                "Price expectations",
+                "bubbles and crashes",
+                "house prices",
+                "belief valuations."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/camcamdae/1679.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Multiple Dimensions of Liquidity",
+            "abstract": "We introduce a novel method to aggregate the different dimensions of liquidity (tightness, depth and resilience) into a single 'unified' market-wide liquidity index. We rely on twenty-four measures of market liquidity divided into eight groups. Each group either represents direct trading costs, which refer to the spread estimates (tightness), or indirect trading costs, which span the price impact estimates (depth and resilience). The weights assigned to the different groups are time-varying and depend on three components: the correlation between groups, the liquidity pressure conveyed through the measures in the group, and their conditional variance. Our liquidity index succeeds in tracking the most important historic episodes of financial stress. Moreover, it shows the expected macroeconomic and financial relationships mentioned in the literature, and has some predictive power for future growth rates. Finally, our methodology can gauge the individual importance of each liquidity group over time. Our results show that price impact measures receive higher weights during tranquil periods, while spread estimates play a prominent role during periods of financial distress.",
+            "keywords": [
+                "market liquidity",
+                "trading volume",
+                "transaction costs",
+                "price impact",
+                "effective spread",
+                "financial crises",
+                "signal-to-noise ratio",
+                "macro-financial linkages."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cbiwpaper/11_2frt_2f20.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Factorial asset pricing models using statistical anomalies",
+            "abstract": "Although up to seven factors market, size, earnings, profitability, investment, momentum, and quality are used to explain asset returns mainly due to anomalies, there is no consensus in the financial literature on the suitability of the factors to include in asset pricing models. Empirical research has found that investors\u00e2\u0080\u0099 responses to market movements up and down are not symmetric. We show a new type of anomaly, statistical anomalies, resulting from decomposing asset returns into three independent time series: positive outliers (the good), negative outliers (the bad), and the remainder or Gaussian returns (the usual). Using a sample consisting of 49 equal-weighted US industrial portfolios with daily and monthly frequencies from 1969 to 2020, we find evidence that the good-usual-bad factor model exhibits fewer anomalies, better explanatory power, and greater robustness than the \u00e2\u0080\u009cmagnificent seven\u00e2\u0080\u009d factors model. Our results are relevant to investors trading at less than monthly frequencies.",
+            "keywords": [
+                "Asset pricing model",
+                "Multifactor model",
+                "Outliers",
+                "Anomalies",
+                "Asymmetrical risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a60_3ay_3a2022_3ai_3ac_3as0275531921002166.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information Acquisition ahead of Monetary Policy Announcements",
+            "abstract": "How do financial markets acquire information about upcoming monetary policy decisions, beyond their reaction to central bank signals? This paper hypothesises that sharing information among investors can improve expectations, especially in the presence of disagreement or uncertainty about the economy. To test this hypothesis, the paper studies monetary policy-related content on Twitter during the quiet period before European Central Bank announcements, when policymakers refrain from public statements related to monetary policy. Conditional on large disagreement about the economic outlook, higher Twitter traffic is associated with smaller monetary policy surprises, suggesting that exchanging private signals among investors can help improve expectations.",
+            "keywords": [
+                "Central Bank Communication",
+                "Quiet Period",
+                "Twitter",
+                "Market Expectations",
+                "Information Processing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bfrbanfra/897.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does more complex language in FOMC decisions impact financial markets?",
+            "abstract": "This paper is built around a simple premise that is based on the theoretical models of Harris and Raviv (1993) and Kandel and Pearson (1995). Complex statements are more difficult to interpret and may be construed in different ways by different agents. This creates heterogeneity of beliefs among market participants that manifests in increased market activity. We introduce novel measures of linguistic complexity (readability and word count) for the FOMC statements that accompany monetary policy decisions. The empirical evidence shows that monetary policy surprises have a significant impact on financial markets, and clearly demonstrates that more complex language significantly increases the trading volume, and volatility of returns, in stock, bond, and currency markets. We also establish that financial markets are more responsive to monetary policy decisions (and the language of those statements) during recession.",
+            "keywords": [
+                "Monetary policy decisions",
+                "Financial markets",
+                "Federal reserve",
+                "Linguistic complexity",
+                "FOMC statements"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a51_3ay_3a2017_3ai_3ac_3ap_3a171-189.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Analyzing Financial Markets Efficiency: Insights from a Bibliometric and Content Review",
+            "abstract": "The nonlinear nature of financial data series and the intricate incorporation of data into market prices necessitate a comprehensive exploration of key research findings, prevailing trends, intense debates, and subfields in the market behavior realm. Studies exploring the way in which technical analysis can exploit the deviation from market efficiency in stock markets, based on new prediction techniques (machine learning, deep learning, and artificial intelligence), are lacking. This study presents a comprehensive bibliometric assessment of market behavior using the Scopus database from 1972 to 2022. A thorough assessment process, which included keywords, filters, and data cleaning, was employed to narrow down the literature from 30,551 to 8,289 relevant papers. The research framework delineates seven primary themes that underpin this study: market efficiency, behavioral finance, technical analysis, volatility, fractals, asset pricing, and price discovery. For practitioners, investors, and policymakers, our study presents evidence regarding emerging themes, such as technical analysis, adaptive market hypothesis, and machine learning, which diverges from the findings of the proponents of equilibrium models based on investors\u00e2\u0080\u0099 rationality. Moreover, an in-depth inquiry into the role of technical analysis in shaping portfolio investment presents a promising future research avenue.",
+            "keywords": [
+                "Bibliometric analysis",
+                "market efficiency",
+                "technical analysis",
+                "forecast",
+                "machine learning",
+                "asset pricing."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/fstrfsisf/v_3a16_3ay_3a2024_3ai_3a9_3ap_3a119-175.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asset pricing and FOMC press conferences",
+            "abstract": "A press conference (pc) organized by the Federal Open Market Committee (fomc) followed half of the scheduled announcements from 2011 to 2018. We document that excess stock returns are strongly and positively related to their betas on announcement days with a pc. In addition, the cross-sectional dispersion in betas declines substantially on pc days when measured using both daily and intraday return data. These effects are absent on announcement days without a pc. Last, we find that stock-bond correlations are positive (negative) on pc (all other) days and that their variations are related to uncertainty and yield curve information. We discuss implications and possible explanations for our findings.",
+            "keywords": [
+                "Asset pricing",
+                "fomc press conferences",
+                "Monetary policy",
+                "Risk premia"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a128_3ay_3a2021_3ai_3ac_3as0378426621001229.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Salience theory and the cross-section of stock returns: International and further evidence",
+            "abstract": "Motivated by existing evidence of the salience theory (ST) effect in the United States, we investigate its importance in 49 countries over the past three decades. Initial results suggest a negative relationship between the ST measure and future returns. The underperformance of low ST stocks is the strongest in countries with high idiosyncratic risk. However, the salience effect has three vital limitations. First, a substantial part of the anomaly can be attributed to the short-term return reversal. Second, it is priced primarily among microcaps. Third, the premium is realized predominantly following severe down markets and volatility spikes. Outside of microcaps and extreme market conditions, the salience effect does not exist.",
+            "keywords": [
+                "Salience theory",
+                "Asset pricing",
+                "Return predictability",
+                "Equity anomalies",
+                "International markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a146_3ay_3a2022_3ai_3a2_3ap_3a689-725.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

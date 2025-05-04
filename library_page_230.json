@@ -1,0 +1,146 @@
+{
+    "page_info": {
+        "page_number": 230,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The validity and time-horizon of the Fed model for equity valuation: a co-integration approach",
+            "abstract": "Investors do arbitrage between bonds and stocks. The so-called \u00e2\u0080\u009cFed model\u00e2\u0080\u009d asserts that comparing the level of the earnings yields of stocks to the nominal government bond yields is relevant when assessing the relative values of the two asset classes, and their prospective returns. A conceptual problem with this model is that it compares a real quantity, the earning yield, to a nominal one, the government bond yield, thus implying that economic agents suffer from money-illusion. The merits of the Fed model as an indicator of stock returns is still very controversial. In this article we try to quantify the scope of the Fed model by employing appropriate techniques of co-integration to validate, or invalidate, the Fed model. More precisely, we study the validity of the model geographically and using different frequencies in order to determine its potential time horizon. We obtain the following results. First, the Fed model is very limited in scope and in time: of the 21 pairs of countries and stock exchange indices tested, only three are potential candidates for the Fed model: the US, Italy and Mexico; in the US, the Standard and Poor\u00e2\u0080\u0099s 500 confirms the model, but only from 1980 to 2000. Second, for the Standard and Poor\u00e2\u0080\u0099s 500 from 1980 to 2000 the validity of the Fed model is confirmed, for a time horizon of one week or more for predicting the earning yield on stocks and a time horizon of one month or more for the nominal yield on bonds. Third, from 2000 onwards the long-term relationship between earning yields and nominal bond yields becomes inverted, and the Fed long-term relationship does not help predict any of the two variables compared to a simple vector autoregressive model (VAR). Overall, the evidence for the relevance of a linear long-term relationship between nominal US bonds yields level and the earnings ratio of broad stock indexes appears very weak, even when this relationship is allowed to vary over time, with a structural break somewhere in 2000 with an inversion of the relationship. In most cases, assuming and estimating a possible long-term relationship between earning yields and nominal bond yields does not improve the forecasts as short-term dynamics dominate.",
+            "keywords": [
+                "arbitrage",
+                "stock",
+                "earning yields",
+                "Fed model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sgmjbfeuw/v_3a1_3ay_3a2015_3ai_3a3_3ap_3a24-49.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiments and stock markets during the COVID-19 pandemic",
+            "abstract": "Abstract This study examines the relationship between positive and negative investor sentiments and stock market returns and volatility in Group of 20 countries using various methods, including panel regression with fixed effects, panel quantile regressions, a panel vector autoregression (PVAR) model, and country-specific regressions. We proxy for negative and positive investor sentiments using the Google Search Volume Index for terms related to the coronavirus disease (COVID-19) and COVID-19 vaccine, respectively. Using weekly data from March 2020 to May 2021, we document significant relationships between positive and negative investor sentiments and stock market returns and volatility. Specifically, an increase in positive investor sentiment leads to an increase in stock returns while negative investor sentiment decreases stock returns at lower quantiles. The effect of investor sentiment on volatility is consistent across the distribution: negative sentiment increases volatility, whereas positive sentiment reduces volatility. These results are robust as they are corroborated by Granger causality tests and a PVAR model. The findings may have portfolio implications as they indicate that proxies for positive and negative investor sentiments seem to be good predictors of stock returns and volatility during the pandemic.",
+            "keywords": [
+                "COVID-19",
+                "Investor sentiment",
+                "Stock market returns",
+                "Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprfininn/v_3a8_3ay_3a2022_3ai_3a1_3ad_3a10.1186_5fs40854-022-00375-0.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price-switching spillovers between gold, oil, and stock markets: Evidence from the USA and China during the COVID-19 pandemic",
+            "abstract": "This paper examines price-switching spillovers between the US and Chinese stock, crude oil, and gold futures markets before and during the COVID-19 pandemic. Using a Markov-switching vector autoregressive model, we show that stock markets were mainly influenced by their own shocks, with effects that were sensitive to regime shifts. Connectedness network analysis reveals that gold and stock markets were net contributors (receivers) of spillovers in the low-volatility regime (high-volatility regime), while oil was a major receiver (contributor) of spillovers in the low-volatility regime (high volatility regime). Regimes were mainly low-volatility from January 2019 to February 2020 and high-volatility from March 2020 to May 2020. We conclude that the COVID-19 pandemic intensified spillovers from commodity markets to the US and Chinese stock markets.",
+            "keywords": [
+                "COVID-19",
+                "Chinese and US stock markets",
+                "Strategic commodity",
+                "MS-VAR model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a73_3ay_3a2021_3ai_3ac_3as0301420721002294.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mixture of distribution hypothesis: Analyzing daily liquidity frictions and information flows",
+            "abstract": "The mixture of distribution hypothesis (MDH) model offers an appealing explanation for the positive relation between trading volume and volatility of returns. In this specification, the information flow constitutes the only mixing variable responsible for all changes. However, this single static latent mixing variable cannot account for the observed short-run dynamics of volume and volatility. In this paper, we propose a dynamic extension of the MDH that specifies the impact of information arrival on market characteristics in the context of liquidity frictions. We distinguish between short-term and long-term liquidity frictions. Our results highlight the economic value and statistical accuracy of our specification. First, based on some goodness of fit tests, we show that our dynamic two-latent factor model outperforms all competing specifications. Second, the information flow latent variable can be used to propose a new momentum strategy. We show that this signal improves once we allow for a second signal \u00e2\u0080\u0093 the liquidity frictions latent variable \u00e2\u0080\u0093 as the momentum strategies based on our model present better performance than those based on competing models.",
+            "keywords": [
+                "Strategic liquidity trading",
+                "Market efficiency",
+                "Mixture of distribution hypothesis",
+                "Information-based trading",
+                "Extended Kalman Filter"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeconom/v_3a201_3ay_3a2017_3ai_3a2_3ap_3a367-383.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor-herding and risk-profiles: A State-Space model-based assessment",
+            "abstract": "This paper, using the Australian stock market data, examines the investor-herding and risk-profiles link that has implications for asset pricing, portfolio diversification and foreign investments. As investors may herd towards a specific factor, sector or style to combat market conditions for optimizing investment returns, examining such herding can reveal investors' risk profiles. We employ State-Space models for extracting time series of herd dynamics and the proportion of signal explained by herding (PoSEH). The possibility of a leverage effect between market returns and volatility and its implications are discussed. The change in market volatility strengthens PoSEH; its impact is maximum on high return days of stocks. Quantile regression analysis shows that herding and adverse herding can emerge during the worst and best performance days of stock returns, but extreme uncertainty can bring both herding behaviours to a near halt. The study reveals the presence of a regulated stock market environment and the change in volatility and risk-aversion as the determinants of herding behaviour.",
+            "keywords": [
+                "Herd behaviour",
+                "Risk aversion",
+                "State-Space models",
+                "Quantile regression",
+                "Leverage effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a62_3ay_3a2020_3ai_3ac_3as0927538x2030055x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Dynamic Semiparametric Proportional Hazard Model",
+            "abstract": "This paper proposes a dynamic proportional hazard (PH) model with non-specified baseline hazard for the modelling of autoregressive duration processes. A categorization of the durations allows us to reformulate the PH model as an ordered response model based on extreme value distributed errors. In order to capture persistent serial dependence in the duration process, we extend the model by an observation driven ARMA dynamic based on generalized errors. We illustrate the maximum likelihood estimation of both the model parameters and discrete points of the underlying unspecified baseline survivor function. The dynamic properties of the model as well as an assessment of the estimation quality is investigated in a Monte Carlo study. It is illustrated that the model is a useful approach to estimate conditional failure probabilities based on (persistent) serial dependent duration data which might be subject to censoring structures. In an empirical study based on financial transaction data we present an application of the model to estimate conditional asset price change probabilities. Evaluating the forecasting properties of the model, it is shown that the proposed approach is a promising competitor to well-established ACD type models.",
+            "keywords": [
+                "autoregressive duration models",
+                "dynamic ordered response models",
+                "generalized residuals",
+                "censoring"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/kudkuiefr/200605.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Geopolitical shocks and commodity market dynamics: New evidence from the Russia-Ukraine conflict",
+            "abstract": "We investigate the event-based geopolitical shocks from the Russian invasion of Ukraine on agricultural and energy commodities using daily event-based structural vector autoregression (SVAR). We find that the geopolitical shock affects the markets of wheat (2%), corn (1%), and European natural gas (7.5%). However, substantial heterogeneity is observed among the agricultural and energy markets. Geopolitical risk stemming from the Russia-Ukraine conflict affects the European natural gas market more strongly than the US and Asian markets. The regional segment of natural gas markets could explain this. Finally, our analysis explores how geopolitical news affects the dynamics of stock, currency, and bond markets.",
+            "keywords": [
+                "Geopolitical shocks",
+                "Commodity markets",
+                "Structural vector autoregression"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepoleco/v_3a85_3ay_3a2024_3ai_3ac_3as0176268024000764.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information Arrival, News Sentiment, Volatilities and Jumps of Intraday Returns",
+            "abstract": "This work aims to investigate the (inter)relations of information arrival, news sentiment, volatilities and jump dynamics of intraday returns. Two parametric GARCH-type jump models which explicitly incorporate both news arrival and news sentiment variables are proposed, among which one assumes news affecting financial markets through the jump component while the other postulating the GARCH component channel. In order to give the most-likely format of the interactions between news arrival and stock market behaviors, these two models are compared with several other easier versions of GARCH-type models based on the calibration results on DJIA 30 stocks. The necessity to include news processes in intraday stock volatility modeling is justified in our specific calibration samples (2008 and 2013, respectively). While it is not as profitable to model jump process separately as using simpler GARCH process with error distribution capable to capture fat tail behaviors of financial time series. In conclusion, our calibration results suggest GARCH-news model with skew-t innovation distribution as the best candidate for intraday returns of large stocks in US market, which means one can probably avoid the complicatedness of modelling jump behavior by using a simplier skew-t error distribution assumption instead, but it\u00e2\u0080\u0099s necessary to incorporate news variables.",
+            "keywords": [
+                "information arrival",
+                "volatility modeling",
+                "jump",
+                "sentiment",
+                "GARCH"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwirtgdp/2019002.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Long-Term Volatility Shapes the Stock Market\u00e2\u0080\u0099s Sensitivity to News",
+            "abstract": "We show that the S&P 500\u00e2\u0080\u0099s instantaneous response to surprises in U.S. macroeconomic announcements depends on the level of long-term stock market volatility. When long-term volatility is high, stock returns are more sensitive to news, and there is a pronounced asymmetry in the response to good and bad news. We explain this by combining the Campbell-Shiller log-linear present value framework with a two-component volatility model for the conditional variance of cash flow news and allowing for volatility feedback. In our model, innovations to the long-term volatility component are the most important driver of discount rate news. Large announcement surprises lead to upward revisions in future required returns, which dampens/amplifies the effect of good/bad news.",
+            "keywords": [
+                "event study",
+                "long- and short-term volatility",
+                "macroeconomic announcements",
+                "stock market response",
+                "time-varying risk premia",
+                "volatility feedback effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/rimrimwps/23-16.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The CAPM Strikes Back? An Investment Model with Disasters",
+            "abstract": "Value stocks are more exposed to disaster risk than growth stocks. Embedding disasters into an investment-based asset pricing model induces strong nonlinearity in the pricing kernel. Our single-factor model reproduces the failure of the CAPM in explaining the value premium in finite samples in which disasters are not materialized, and its relative success in samples in which disasters are materialized. The relation between pre-ranking market betas and average returns is flat in simulations, despite a strong positive relation between true market betas and expected returns. Evidence in the long U.S. sample from 1926 to 2014 lends support to the model\u00e2\u0080\u0099s key predictions.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/21016.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Non-Monetary News in Central Bank Communication",
+            "abstract": "We quantify the importance of non-monetary news in central bank communication. Using evidence from four major central banks and a comprehensive classification of events, we decompose news conveyed by central banks into news about monetary policy, economic growth, and separately, shocks to risk premia. Our approach exploits high-frequency comovement of stocks and interest rates combined with monotonicity restrictions across the yield curve. We find significant differences in news composition depending on the communication channel used by central banks. Non-monetary news prevails in about 40% of policy decision announcements by the Fed and the ECB, and this fraction is even higher for communications that provide context to policy decisions such as press conferences. We show that non-monetary news accounts for a significant part of financial markets' reaction during the financial crisis and in the early recovery, while monetary shocks gain importance since 2013.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/25032.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "What moves markets?",
+            "abstract": "What share of asset price movements is driven by news? We build a large, time-stamped event database covering scheduled macro news as well as unscheduled events. We find that news account for about 50% of all bond and stock price movements in the United States and euro area since 2002, suggesting that a much larger share of return variation can be traced back to observable news than previously thought. Moreover, we provide stylized facts about the type of news that matter most for asset prices, the persistence of news effects, and spillover effects between the US and euro area.",
+            "keywords": [
+                "Macro news",
+                "Asset prices",
+                "High-Frequency Identification",
+                "Event Database"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwbubdps/162022.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

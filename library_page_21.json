@@ -1,0 +1,154 @@
+{
+    "page_info": {
+        "page_number": 21,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Do short-sellers arbrtrage accrual-based return anomalies?",
+            "abstract": "We find a positive association between short-selling and accruals, and between short-selling and NOA, during 1988-2003. The accrual and NOA return anomalies are asymmetric. The absolute value of mean abnormal returns is larger for high-accrual firms than low-accrual firms on NASDAQ, but not on NYSE, and the abnormal return asymmetry is stronger among firms with low institutional holdings. For NOA, there is only limited evidence that the abnormal return asymmetry is stronger on NASDAQ than on NYSE. These findings indicate that there is short arbitrage of the accrual and NOA anomalies, but that short sale constraints limit the effectiveness of short arbitrage (especially among NASDAQ firms).",
+            "keywords": [
+                "Accruals",
+                "NOA",
+                "anomalies",
+                "arbitrage",
+                "short sales",
+                "market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/5510.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "High frequency trading: an overview",
+            "abstract": "This paper examines high-frequency trading systems, which were first developed in the US equity markets but have spread steadily to most asset classes on the main world financial markets. It analyzes the current regulatory and technological structures of the markets and describes the inefficiencies and informational advantages that high-frequency trading systems seek to exploit and the strategies they use. The paper concludes with an assessment of the positive and negative impacts of the presence of this new type of player on the overall quality of the financial markets.",
+            "keywords": [
+                "high",
+                "frequency",
+                "trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bdiopques/qef_5f198_5f13.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Spillovers between Exchange Rate Pressure and CDS Bid-Ask Spreads, Reserve Assets and Oil Prices Using the Quantile ARDL Model",
+            "abstract": "This paper examines the quantile relationships between the Saudi Riyal (SAR) exchange rate pressure, Credit default swap (CDS) spreads, total reserve assets, and oil prices. Using the available monthly data ranging from 2008 to 2018 and employing the error correction model, the results show a negative and significant relationship between the long-run coefficient of the SAR exchange rate pressure and the long run coefficients of both the CDS and the oil price. However, the long run coefficient of the foreign reserves is statistically insignificant, thus indicating that the exchange rate pressure, CDS spread and oil price variables are cointegrated. As for the short-run coefficients, we find that the lag SAR pressure affects the current pressure. Moreover, the short-run coefficient of the foreign reserves affects negatively the SAR pressure. Moreover, using the quantile ARDL (QARDL) model, we find a significant relationship particularly in the extreme quantiles, regardless of the level or the log level series. Under the long-run coefficients, the positive (negative) relationship characterizes the nexus of the reserves-pressure and the CDS-pressure (oil-pressure) on the SAR. As for the short-run coefficients, we find that an increase in the lag SAR pressures contributes to the current pressure across all quantiles, whereas an increase in the reserves reduces the pressure in the extreme quantiles. These results have important implications for policy makers.",
+            "keywords": [
+                "Exchange Rate Pressure",
+                "CDS Bid-Ask Spreads",
+                "Reserve Assets",
+                "Oil Prices",
+                "Quantile ARDL Model"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/yonwpaper/2021rwp-191.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impact of Derivatives Trading on Emerging Capital Markets: A Note on Expiration Day Effects in India",
+            "abstract": "The impact of expiration of derivatives contracts on the underlying cash market \u00e2\u0080\u0093 on trading volumes, returns and volatility of returns \u00e2\u0080\u0093 has been studied in various contexts. We use an AR-GARCH model to analyse the impact of expiration of derivatives contracts on the cash market at the largest stock exchange in India, an important emerging capital market. Our results indicate that trading volumes were significantly higher on expiration days and during the five days leading up to expiration days (\u00e2\u0080\u009cexpiration weeks\u00e2\u0080\u009d), compared with nonexpiration days (weeks). We also find significant expiration day effects on daily returns to the market index, and on the volatility of these returns. Finally, our analysis indicates that it might be prudent to undertake analysis of expiration day effects (or other events) using methodologies that model the underlying data generating process, rather than depend on comparison of mean and median alone.",
+            "keywords": [
+                "derivatives contracts",
+                "expiration day effect",
+                "India"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wdipapers/2007-863.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Credit Default Swap Market's Reaction to Earnings Announcements",
+            "abstract": "This paper examines the efficiency of the CDS market by conducting a comparative event study in which both the CDS and the stock markets' responses to earnings announcements are considered. I find that both markets have statistically significant reactions to earnings announcements and both markets anticipate these informational events up to 90 trading days prior to announcement. I further find that neither markets' reaction to earnings announcements is entirely efficient as there is evidence of both over- and under-reaction to earnings news. However, results are sensitive to both the categorization of earnings and the model used to generate abnormal performance.",
+            "keywords": [
+                "Credit default swap",
+                "market efficiency",
+                "earnings announcements",
+                "credit ratings."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/frdwpaper/dp2008-06.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "\u00c3\u009cberrenditen durch Point and Figure-Charts: Zufall oder System?",
+            "abstract": "This article examines the question whether a point and figure (P and F)-based investment strategy yields statistical significant excess returns compared to a buy-and-hold (B and H)-strategy. The simulations show that P and F slightly outperforms B and H with respect to returns as well as with respect to the reward-to-variability-ratio. However, a bootstrap experiment shows that this superiority is statistically insignificant and hence not economically exploitable. Additionally, the bootstrapped returns are compatible with the original returns under the assumption of an efficient capital market. Altogether, there seems to be no evidence that the P and F-strategy is superior to the B and H-strategy nor that P and F is capable of detecting patterns in the data that can be exploited economically.",
+            "keywords": [
+                "Point and Figure",
+                "\u00c3\u009cberrenditen",
+                "Bootstrap."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/handpaper/dp-302.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Measuring treasury market liquidity",
+            "abstract": "This paper examines a comprehensive set of liquidity measures for the U.S. Treasury market. The measures are analyzed relative to one another, across securities, and over time. I find highly significant price impact coefficients, such that a simple model that explains price changes with net order flow produces an R statistic above 30 percent for the two-year note. The price impact coefficients are highly correlated with bid-ask spreads and with episodes of reported poor liquidity (such as the fall 1998 financial markets turmoil). Quote and trade sizes correlate modestly with these episodes and with the other liquidity measures, as do yield spreads between on-the-run and off-the-run securities. In contrast, trading volume and trading frequency are only weakly correlated with these other measures, suggesting that they are poor liquidity proxies. The various measures are positively correlated across securities, almost without exception, especially for Treasury notes.",
+            "keywords": [
+                "Bid-ask spreads",
+                "Trading volume",
+                "Quote sizes",
+                "Price impact",
+                "Liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfednsr/133.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time varying market efficiency in the Brent and WTI crude market",
+            "abstract": "This paper examines time-varying market efficiency in the crude oil spot market using a recently derived measure of market efficiency: the Adjusted Market Inefficiency Model (AMIM). Analysing efficiency in the crude oil market, and its response to significant events within the global financial and commodity market, we identify that the Brent market is on average more efficient than the West Texas Intermediate (WTI). We also find that the WTI market is persistently inefficient during financial crises, with high volatility of the efficiency in such periods. In addition to confirming the adaptive market hypothesis, this study offers a new perspective by highlighting the non-uniform response of efficiency in similar markets to global events.",
+            "keywords": [
+                "Adaptive Market Hypothesis",
+                "Crude oil prices",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a45_3ay_3a2022_3ai_3ac_3as1544612321002634.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock return predictability and the adaptive markets hypothesis: Evidence from century-long U.S. data",
+            "abstract": "This paper provides strong evidence of time-varying return predictability of the Dow Jones Industrial Average index from 1900 to 2009. Return predictability is found to be driven by changing market conditions, consistent with the implication of the adaptive markets hypothesis. During market crashes, no statistically significant return predictability is observed, but return predictability is associated with a high degree of uncertainty. In times of economic or political crises, stock returns have been highly predictable with a moderate degree of uncertainty in predictability. We find that return predictability has been smaller during economic bubbles than in normal times. We also find evidence that return predictability is associated with stock market volatility and economic fundamentals.",
+            "keywords": [
+                "Economic bubbles",
+                "Economic crises",
+                "Adaptive markets hypothesis",
+                "Market efficiency",
+                "U.S. stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a18_3ay_3a2011_3ai_3a5_3ap_3a868-879.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "On the importance of clean accounting measures for the tests of stock market efficiency",
+            "abstract": "Tests of the semi-strong form of the efficient market hypothesis (EMH) typically use earnings and book value of equity as benchmarks of fundamental value. Accounting earnings, however, are contaminated by noise due to their transient component and book value of equity tends to be biased downwards due to accounting conservatism. We investigate whether controlling for these effects impacts on the implications concerning the information efficiency of the Swedish stock market. We conclude that relevant adjustments increase both the magnitude and the consistency of the value premium earned on a contrarian investment strategy that buys (shorts) stocks with low (high) relative market valuation. The existence of the value premium cannot be explained by common risk proxies or transaction costs argument. Using cleaner accounting proxies thus strengthens the evidence on the imperfect efficiency of the Swedish stock market.",
+            "keywords": [
+                "market efficiency",
+                "investment",
+                "contrarian strategy",
+                "transitory earnings",
+                "accounting conservatism",
+                "Sweden",
+                "Scandinavia"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fauwpaper/wp2007_5f25.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Losing Sleep at the Market: The Daylight-Savings Anomaly",
+            "abstract": "Motivated by the recent flurry of activity in sleep research, this paper explores the connection between sleep disruptions following Spring and Fall clock shifts associated with daylight-savings time, and equity returns. It is shown that the \"weekend effect\" in the form of the lower-than-expected Friday-to Monday returns is particularly pronounced for the two weekends involving daylight-savings clock changes.",
+            "keywords": [
+                "STOCK",
+                "MARKET"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/sfusfudps/dp98-04.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "High frequency multiscale relationships among major cryptocurrencies: portfolio management implications",
+            "abstract": "Abstract This paper examines the high frequency multiscale relationships and nonlinear multiscale causality between Bitcoin, Ethereum, Monero, Dash, Ripple, and Litecoin. We apply nonlinear Granger causality and rolling window wavelet correlation (RWCC) to 15 min\u00e2\u0080\u0094data. Empirical RWCC results indicate mostly positive co-movements and long-term memory between the cryptocurrencies, especially between Bitcoin, Ethereum, and Monero. The nonlinear Granger causality tests reveal dual causation between most of the cryptocurrency pairs. We advance evidence to improve portfolio risk assessment, and hedging strategies.",
+            "keywords": [
+                "Cryptocurrency",
+                "High frequency analysis",
+                "Nonlinear multiscale causality",
+                "Rolling window wavelet correlation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprfininn/v_3a7_3ay_3a2021_3ai_3a1_3ad_3a10.1186_5fs40854-021-00290-w.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "page_info": {
+        "page_number": 2,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Can the introduction of stock index futures stabilize the volatility of the stock market? Evidence from the Chinese stock market",
+            "abstract": "Since the introduction of China's stock index futures in 2010, it has played a decisive role in enhancing the operation of the Chinese stock market, improving pricing efficiency, and clarifying the asset price mechanism. Using the daily closing prices of the Chinese stock market over 2005\u00e2\u0080\u00932021, this study examined the price discovery and risk spillover effects of CSI 300 index futures on stock market volatility. The results show that (Adnan & Kasman, 2008) there is a two-way linear mechanism volatility spillover effect and (Ahn et al., 2019) a two-way guiding relationship in the nonlinear mechanism between the CSI 300 index spot and futures markets.",
+            "keywords": [
+                "Multifractal detrended fluctuation analysis (MF-DFA)",
+                "Nonlinear Granger causality test",
+                "VAR-MVGARCH-BEKK model",
+                "CSI 300 index",
+                "CSI 300 index futures"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a85_3ay_3a2023_3ai_3ac_3ap_3a44-58.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Volatility spillovers and frequency dependence between oil price shocks and green stock markets",
+            "abstract": "This study uses wavelet coherence and frequency connectedness techniques to examine the time-frequency dependence and risk connectivity between oil shocks and green stocks. The results show that on mid-term and long-term scales, the dependence relationships between the oil and green stock markets are tighter while lead-lag patterns are mixed and time-varying. Total risk spillovers between the oil and green stock markets are mostly conveyed over time. Risk spillovers from the oil market are substantially larger in the green stock market. Furthermore, global crises such as the Great Recession, the oil price collapse, and the COVID-19 pandemic have substantially amplified the magnitude of risk spillovers. Overall, the green stock market has not yet developed enough potential for a larger independence from the conventional energy market. Hence, for participants in the energy and financial markets who have different time horizons for asset allocation and risk management and for committed investors in particular, the examination of time-frequency dependence and risk spillovers can be quite beneficial.",
+            "keywords": [
+                "ESG",
+                "Green investing",
+                "Green stock",
+                "Sustainable development",
+                "Oil shock",
+                "Spillover effect",
+                "Wavelet"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a85_3ay_3a2023_3ai_3apb_3as0301420723005718.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Contagion effect between fuel fossil energies and agricultural commodity markets and portfolio management implications",
+            "abstract": "This study investigates the dynamic spillover effects between fossil fuels (Brent oil and natural gas) and major agricultural markets (maize, soybeans, and wheat) using a time-varying parameter vector autoregression (TVP-VAR) model. Additionally, we quantify the cumulative return of the investment portfolio, optimal weights, time-varying risk coverage, and hedging effectiveness of bivariate commodity portfolios using the Minimum Variance Portfolio (MVP), Minimum Correlation Portfolio (MCP), Minimum Connectedness Portfolio (MCoP) under bearish, tranquil, and bullish market conditions. The results show that maize and natural gas are the main net receivers of spillovers, whereas wheat and Brent oil are the main net transmitters of shocks to the network, respectively. Our findings of optimal weights in multivariate portfolio suggest more weights for agri-commodities against fossil fuels in all three modes of market. In addition, the optimal weights of bivariate portfolio analysis show that the most optimal portfolio which has the highest HE value is related to natural gas pairs with agri-commodities. Moreover, depending on the status of the market; in an average and bearish modes, the highest optimal weight is related to maize/natural gas. However, in the bullish market, the highest optimal weights are related to natural gas/Brent oil pair. Furthermore, the results of optimal bivariate hedge ratios show that natural gas/wheat (wheat/maize and vice versa) portfolio is the cheapest (the most expensive) investment strategy in all modes of market and based on MVP and MCoP approaches.",
+            "keywords": [
+                "Agricultural commodities",
+                "Fossil fuels",
+                "Spillover",
+                "Portfolio management"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a95_3ay_3a2024_3ai_3ac_3as1059056024004842.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An examination of the relation between asymmetric risk measures, prior returns and expected daily stock returns",
+            "abstract": "We use a sample of individual firm stock returns over the 1988\u00e2\u0080\u00932009 time period to determine whether: (1) expected daily returns are related to asymmetric risk measures, (2) expected daily returns are related to the directional change of the prior day's price, and (3) our results are robust to the addition of firm size, book-to-market equity and liquidity. We find that investors are compensated for asymmetric risk; however, the positive risk\u00e2\u0080\u0093return relation is present only for our smallest firm quintile. We find a short-term return reversal present in all subgroups, except for the largest firms in our sample. We also document that the low volatility anomaly may be related to firm size and liquidity.",
+            "keywords": [
+                "Asymmetric risk\u00e2\u0080\u0093return reversal momentum"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeerevfin/v_3a22_3ay_3a2013_3ai_3a1_3ap_3a8-19.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Quantile connectedness among gold, gold mining, silver, oil and energy sector uncertainty indexes",
+            "abstract": "This study examines the quantile relationships among silver, gold, gold mining, oil and energy sector uncertainty indexes. Using a quantile cross-spectral approach, results show that the uncertainty indexes have a time- and quantile-dependent structure. Moreover, the extent of dependence is higher at the long term than at the short- and medium-terms, irrespective of time horizons. Gold and silver show negative and positive short-term dependence during bearish and bull market conditions, respectively, at two-day trading. The dependence switches to positive beyond two trading days. We find asymmetric dependence between crude oil and energy sector uncertainty indexes at two-day trading. The dependence is positive at medium and long terms. Furthermore, the magnitude of dependence between metal (gold, gold mining and silver) and energy uncertainty indexes (crude oil and energy sectors) is sensitive to market conditions.",
+            "keywords": [
+                "Metal and energy uncertainty indexes",
+                "Connectedness",
+                "Quantile cross-spectral approach"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a74_3ay_3a2021_3ai_3ac_3as030142072100458x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Downside and upside risk spillovers between precious metals and currency markets: Evidence from before and during the COVID-19 crisis",
+            "abstract": "This paper investigates the tail dependence dynamics and asymmetric risk spillovers between the futures of four important precious metals (gold, silver, platinum, and palladium) and seven leading currencies (EUR, GBP, JPY, CAD, AUD, CHF, and CNY) before and during the COVID-19 crisis using the time-varying-parameter copula and the conditional Value-at-Risk (CoVaR) method. The results show the symmetric dependence between currencies and precious metals before the COVID-19 crisis. In contrast, we show negative and positive tail asymmetric dependences during the pandemic crisis. The COVID-19 crisis significantly amplifies the magnitude of spillover effects among the studied markets where the AUD currency exhibits the largest transmission and reception of downside and upside spillover to/from most precious metals before and during the pandemic crisis. Currency investors and portfolio managers could use the obtained results to better hedge and manage their investment positions when markets are affected by health crises.",
+            "keywords": [
+                "Precious metals",
+                "Currencies",
+                "Systemic risk",
+                "COVID-19"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a81_3ay_3a2023_3ai_3ac_3as0301420723000582.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dynamic spillovers among natural gas, liquid natural gas, trade policy uncertainty, and stock market",
+            "abstract": "Given Qatar's economic structure and geographical features, we examine the likely spillovers among natural gas, liquid natural gas (LNG), trade policy uncertainty (TPU), and stock markets using the spillover index developed by Diebold and Yilmaz (2012). The results show considerable spillover among the aforementioned variables. Natural gas and LNG are the net receivers of spillovers, whereas TPU and the stock market are net spillover transmitters. TPU had the lowest sensitivity in the network system, whereas natural gas and LNG had the highest sensitivities. Moreover, the measure of spillovers varies over time and jumps during financial and COVID-19 crises. TPU and the stock market were the strongest driving forces of spillover. In addition, while the stock market has the highest transmission of natural gas and LNG, consistent with the energy-oriented structure of corporations in Qatar's stock market, it showed the highest sensitivity to LNG and natural gas. Both forms of energies\u00e2\u0080\u0094natural gas and LNG\u00e2\u0080\u0094indicate noticeable sensitivity to the stock market and TPU, respectively. Moreover, TPU is more sensitive to natural gas and LNG shocks. These results have significant implications for investors, policymakers, and governments.",
+            "keywords": [
+                "Natural gas",
+                "Liquid natural gas",
+                "TPU",
+                "Stock markets",
+                "Spillovers"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a83_3ay_3a2023_3ai_3ac_3as0301420723003999.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Frequency dependence between oil futures and international stock markets and the role of gold, bonds, and uncertainty indices: Evidence from partial and multivariate wavelet approaches",
+            "abstract": "This paper examines the frequency dynamic co-movements between crude oil prices and stock market returns of three developed economies (Canada, Japan, and the USA) and the emerging BRICS (Brazil, Russia, India, China, and South Africa) economies by considering four global factors (U.S. treasury bills, S&P volatility index, gold price, and U.S. EPU index). Using bivariate and multivariate wavelet approaches, the results show evidence of time-frequency co-movements between the considered markets at medium and low frequencies. Besides, the results reveal that the co-movement is intensified during global financial crisis and COVID-19 pandemic periods, confirming recoupling hypothesis. The risk analysis reveals dependence and persistence of co-movements, and aggravation of portfolio risk in the BRICS economies and across markets during bouts of afflictions. These findings should encourage the relevant national and transnational policy makers to consider these co-movements which vary over time and in duration when setting up regulations that deem to enhance the market efficiency.",
+            "keywords": [
+                "Stock markets",
+                "Oil prices",
+                "Global factors",
+                "Multivariate wavelet",
+                "CVaR"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a80_3ay_3a2023_3ai_3ac_3as0301420722006043.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Multiscale spillovers, connectedness, and portfolio management among precious and industrial metals, energy, agriculture, and livestock futures",
+            "abstract": "This study examines the connectedness among 28 commodity futures markets comprising precious metals, industrial metals, energy, agriculture, and livestock. We use the frequency-domain spillover method of Barun\u00c3\u00adk and K\u00c5\u0099ehl\u00c3\u00adk (2018) and wavelet approach to account for investment horizons. The results show evidence of time-varying spillovers, which is intensified by economic and political events. The total spillover is higher in the short term than in the long term. Livestock market is the least contributor/receiver of risk to/from other markets. A portfolio risk analysis reveals that a combined portfolio composed of WTI crude oil and other commodity assets offers better downside risk reduction. The latter is more important in the short term than in the long term. These results are important for investors and policymakers.",
+            "keywords": [
+                "Commodity futures prices",
+                "Connectedness",
+                "Frequency",
+                "Spillover index"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a74_3ay_3a2021_3ai_3ac_3as0301420721003846.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Oil, gold and international stock markets: Extreme spillovers, connectedness and its determinants",
+            "abstract": "This study examines the lower and upper return spillovers and connectedness between important commodity (crude oil and gold) and main international stock markets using the quantile connectedness approach by Ando et al. (2018). The results show stronger return spillovers during bearish and bullish market conditions. Crude oil and gold are net receivers of return spillovers irrespective of quantiles. Furthermore, an intense spillover is observed during high stress periods including COVID-19 in March 2020, and global economic slowdown and the Brexit referendum of 2016, oil price crash in 2014\u00e2\u0080\u00932016, Tapering Tantrum in 2013, and the subprime crisis of 2008. Moreover, the spillovers in lower quantiles are stronger than in upper quantiles. The volatility uncertainty index (VIX) has a negative impact on the connectedness index at low and median quantiles. Gold and economic policy uncertainty indexes have a positive impact on lower quantile spillovers. In contrast, oil uncertainty index has a negative impact on quantile spillovers. COVID-19 crisis has a positive impact on lower, medium, and upper spillovers.",
+            "keywords": [
+                "Commodity",
+                "Stock markets",
+                "Spillovers",
+                "Connectedness",
+                "Quantile"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a95_3ay_3a2024_3ai_3ac_3ap_3a1-17.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Frequency connectedness between DeFi and cryptocurrency markets",
+            "abstract": "This study investigates the time-frequency spillovers across main DeFi (AVA, POWR, DOGE, MED, BAT, Link, Maker, and SNX) and four leading cryptocurrency markets (Bitcoin, Ethereum, Litecoin, and Ripple). The results show using the time-domain spillover index of Diebold and Yilmaz (2012) high connectedness across markets, underlying forecasting opportunities. Ethereum and Litecoin are the largest contributors and receivers of spillovers while MED is the lowest contributors of shocks in the system. Using the time-frequency spillover index by Barun\u00c3\u00adk and K\u00c5\u0099ehl\u00c3\u00adk (2018), we show that the spillover at long term is higher than those at the short- and medium terms. BAT, LINK, and LTC are net contributors of spillovers at different time investment horizons while AVA, POWR, DOGE, and MED are net receivers irrespective of the time horizons. For the remaining market, they switch from net receiver to net contributor and vice versa. The major events (COVID-19, COVID-19 vaccination, and Ukraine-Russia tensions) intensify the dynamic of return spillovers at short-, medium-, and long-terms, implying contagion effects and a decline in the diversification benefits.",
+            "keywords": [
+                "DeFi assets",
+                "Cryptocurrency",
+                "Frequency spillover",
+                "COVID-19",
+                "Ukraine-Russia tensions"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a93_3ay_3a2024_3ai_3ac_3ap_3a12-27.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Frequency spillovers and portfolio risk implications between Sukuk, Islamic stock and emerging stock markets",
+            "abstract": "This study examines the multiscale spillovers between five important emerging stock markets namely, Brazil, Russia, India, China, and South Africa (BRICS) and both Dow Jones Islamic stock market index (DJIM) and Dow Jones Sukuk index (DJ Sukuk) using bivariate and multivariate wavelet approaches. The results show evidence of strong time-scale co-movements between conventional and Islamic stock markets at different frequencies. Moreover, the pure contagion is evident at the short-term whereas fundamental contagion appears in the long run. Sukuk show relatively less integration with the conventional stock markets of BRICS at high and medium frequencies. DJIM and DJ Sukuk provide risk diversification opportunities for BRICS stock market volatility. The diversification benefits in terms of lower portfolio VaR is available in the high frequency scale or at the short-term. In long-run, the Islamic equity market become fundamentally integrated with the BRICS stock markets, thus, reduces hedging gains.",
+            "keywords": [
+                "Islamic assets",
+                "BRICS",
+                "Co-movements",
+                "Multivariate wavelet approach"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a91_3ay_3a2023_3ai_3ac_3ap_3a139-157.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

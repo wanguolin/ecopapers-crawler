@@ -1,0 +1,159 @@
+{
+    "page_info": {
+        "page_number": 233,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Policy shocks and stock market returns: Evidence from Chinese solar panels",
+            "abstract": "We examine the stock market performance of publicly-listed Chinese firms in the solar panel industry over 2012 and 2013 in response to announcements of new import restrictions by the European Union and domestic policy changes by the Chinese government. Using daily stock market prices from the Shanghai-Shenzhen, New York and Hong Kong markets, we calculate abnormal returns to several policy changes affecting solar panels produced in China. We find, consistent with the Melitz (2003) model, that larger, more export-oriented firms experienced larger stock market losses in the wake of European trade restriction announcements. We further show that European trade policy had a larger negative effect on Chinese private sector firms relative to state owned enterprises. Finally, we use a two stage least squares estimation technique to show that firms listed on US markets are more responsive to news events than those listed in China and Hong Kong.",
+            "keywords": [
+                "Chinese exports",
+                "Antidumping",
+                "Solar panels",
+                "Event study"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejjieco/v_3a51_3ay_3a2019_3ai_3ac_3ap_3a148-169.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can stochastic discount factor models explain the cross-section of equity returns?",
+            "abstract": "We propose a multivariate test of the capital asset pricing model (C-CAPM) of the cross-sectional variation in equity returns in which we compare cross-sectional variation in equity returns to the cross-sectional variation in their conditional covariance with stochastic discount factors. We use a multivariate generalized heteroskedasticity in mean model to estimate 25 portfolios that are formed on size and the book-to-market ratio. Each portfolio is allowed to have its own no-arbitrage condition. We find that although the conditional covariances of returns with consumption exhibit negative variation across size, they do not vary across the book-to-market ratio. Thus, C-CAPM can capture the size effect, but not the value effect. The fit is, however, improved by allowing the coefficients on the consumption covariances to be different. The value effect appears to be associated with the book-to-market ratio as well as size. On its own the book-to-market ratio does not generate additional information about average returns to C-CAPM. A possible explanation for these findings is that both small and low book-to-market ratio firms are expected to have higher rates of growth.",
+            "keywords": [
+                "Risk premium",
+                "Equity return",
+                "Stochastic discount factor",
+                "No-arbitrage condition"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeerevfin/v_3a28_3ay_3a2016_3ai_3ac_3ap_3a56-68.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Strategic Trading And Learning About Liquidity",
+            "abstract": "We develop a multi-period model of strategic trading in an asset market where traders are uncertain about market liquidity. In our model, informed traders strategically trade against competitive market makers to exploit their short-lived private information. Unlike market makers, informed traders do not know whether the liquidity ('noise') trades are generated from a distribution with high or low variance. Instead, informed traders have to learn about liquidity from past prices. We find the following. (1) Prices that deviate markedly from the forecast of terminal asset value based on public news tend to lead to revisions of informed traders' beliefs in favour of the low liquidity state. (2) This revision in beliefs results in less aggressive trading on private information by informed traders. (3) In turn, informational efficiency and trading volume are dependent on the path of prices. (4) Moreover, learning about liquidity also has interesting effects on the unconditional properties of optimal strategic trading policies.",
+            "keywords": [
+                "Bayesian learning",
+                "Liquidity uncertainty",
+                "Private information",
+                "Strategic trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/2416.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market Stress and Herding",
+            "abstract": "We propose a new approach to detecting and measuring herding which is based on the cross-sectional dispersion of the factor sensitivity of assets within a given market. This method enables us to evaluate if there is herding towards particular sectors or styles in the market including the market index itself and critically we can also separate such herding from common movements in asset returns induced by movements in fundamentals. We apply the approach to an analysis of herding in the US and South Korean stock markets and find that herding towards the market shows significant movements and persistence independently from and given market conditions and macro factors. We find evidence of herding towards the market portfolio in both bull and bear markets. Contrary to common belief, the Asian Crisis and in particular the Russian Crisis reduced herding and are clearly identified as turning points in herding behaviour.",
+            "keywords": [
+                "Herding",
+                "Heterogenous beliefs",
+                "Cross-sectional volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/4340.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Aggregate Consumption-Wealth Ratio and the Cross-Section of Stock Returns: Some International Evidence",
+            "abstract": "We find that the short-term deviations from long-run consumption-wealth relationship (cay) forecast stock market returns and serve as a conditioning variable in the capital asset pricing model (CAPM) for explaining the cross-section of stock returns for the United Kingdom and Japan. Our cross-sectional regressions using cay as a conditioning variable as opposed to using an alternative variable, tay, constructed using calendar time in place of consumption indicate that it is unlikely to be a spurious variable and provides useful information concerning the economic fundamentals. We show that both a consumption-based capital asset pricing model (CCAPM) and a human-capital-augmented capital asset pricing model (HC-CAPM) in conjunction with this conditioning variable can explain much of the cross-section of stock returns in each of the two countries; yet, in terms of relative performance, our results tend to favor the conditional HC-CAPM over the conditional CCAPM for pricing U.K. and Japanese cross-sectional returns.",
+            "keywords": [
+                "Consumption-Wealth Ratio",
+                "CAPM",
+                "CCAPM",
+                "HC-CAPM",
+                "Factor Model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/cufjournl/y_3a2008_3av_3a9_3ai_3a1_3ap_3a1-37.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock Returns Predictability and the Adaptive Market Hypothesis: Evidence from India",
+            "abstract": "The present paper evaluates whether the adaptive market hypothesis provides a better description of the behavior of Indian stock market using daily values of Sensex and Nifty, the two major indices of India from January 1991 to April 2013. We employed linear and nonlinear methods to evaluate the hypothesis empirically. The linear tests show a cyclical pattern in linear dependence suggesting that the Indian stock market switched between periods of efficiency and inefficiency. However, the results from nonlinear tests reveal a strong evidence of nonlinearity in returns throughout the sample period with a sign of the taping magnitude of nonlinear dependence in the recent period. The findings suggest that Indian stock market is still in the first stage of AMH and hence calls for an active portfolio management for excess returns.",
+            "keywords": [
+                "Adaptive market hypothesis",
+                "Market efficiency",
+                "Random walk",
+                "Autocorrelation",
+                "Nonlinearity",
+                "Predictability",
+                "behavioral finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/52581.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Monetary Policy Announcements and Stock Returns: Some Further Evidence from India",
+            "abstract": "Abstract We inquire into the nexus between monetary policy announcements and stock returns in emerging market economies. Drawing the sample from one of the important emerging economies such as India, we show that the Indian stock market is responsive to unscheduled and unexpected scheduled monetary policy announcements whereas the market was already adapted to the expected component of scheduled announcements. The evidence supports the rational expectation hypothesis. This study also finds the effect of policy change direction and monetary policy announcement as a kind of news (good or bad news) on specific sectoral stock returns. Further, we find banking, financial services and auto sectors are the most prominent in transmitting the objective of the monetary policy. This study documents the repo rate is relatively important monetary policy rate to affects the stock returns and response of sectoral returns vary across the instruments. Overall, the evidence from this study confirms the proposition that monetary policy transmission via stock market is significant.",
+            "keywords": [
+                "Repo rate",
+                "Events study",
+                "Monetary policy",
+                "stock market",
+                "Interim meeting",
+                "Reserve Bank of India"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprjqecon/v_3a17_3ay_3a2019_3ai_3a4_3ad_3a10.1007_5fs40953-019-00158-y.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Volatility Strangeness of Bonds - How to Define and What Does it Bring?",
+            "abstract": "The aim of this article is to complement the existing economic and financial strand of the literature by defining three alternative regimes of the clean price volatility of a bond with respect to the level of interest rates in the economy. The suggested method takes into account responses to the changing nature of financial markets and allows for the possibility of observing negative interest rates. Our approach enables to find particular values of switching points between alternative regimes. After showing main theoretical steps, an investigation of the dependence of such points on key parameters of bonds is provided. An empirical illustration follows, accompanied by a discussion of theoretical and practical effects of this bond property. This approach offers both theorists and interested practitioners a way of overcoming difficulties associated with computations because of the complicated theoretical background. The results can be generalised, so that they apply both to the life of a bond and to the behaviour of a portfolio of bonds at a point of time.",
+            "keywords": [
+                "bond /portfolio of bonds",
+                "volatility regimes",
+                "price/yield sensitivity",
+                "negative interest rates"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/prgjnlpep/v_3a2017_3ay_3a2017_3ai_3a5_3aid_3a636_3ap_3a602-629.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor attention, information diffusion and industry returns",
+            "abstract": "Using the monthly data for more than 1700 Australian stocks over the period from 1990 to 2009, we investigate whether industry portfolio returns predict the aggregate market. We find that a few industries significantly lead the market even controlling for well-recognized market predictors. However, unlike U.S. studies, we do not find that the ability of an industry to predict the market is closely related to its propensity to forecast economic growth. Instead, we find that the capacity of an industry to lead the market is significantly moderated by proxies for investor attention. In general, more neglected industries are more informative in leading the markets due to delayed investor attention to the information content of these industries; and the information contained in industry portfolio returns is incorporated into the market return more slowly during economic recession when investors pay less attention to the stock markets. Our research provides new empirical evidence in support of the gradual information diffusion hypothesis from a market that differs from the U.S. stock market.",
+            "keywords": [
+                "Market efficiency",
+                "Information diffusion",
+                "Investor attention",
+                "Industry returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a30_3ay_3a2014_3ai_3ac_3ap_3a30-43.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Semi Strong Form Efficiency Test of the Nigerian Stock Market: Evidence from Event Study Analysis of Bonus Issues",
+            "abstract": "This study tests the consistency of the Nigerian Stock Market with the efficient market hypothesis (EMH) in the semi-strong form using bonus issues as the information generating event. Using daily data, a total of 121 bonus issues were observed and examined for the period 2002-2006. The stocks which were tested were classified according to the size of their bonus issues and also according to the price of the stock to know the impact of information released on the price of different categories of stock. Using the event study methodology, the market and the market adjusted models as well as the vector auto regression models, the study discovered that information release impacts significantly only in the year 2002. Also, it reveals that small bonus issues responded speedily to bonus issues more than medium and large bonus issues. In addition, the test between penny stocks and blue chips shows that only penny stocks were significantly affected.",
+            "keywords": [
+                "Semi-strong Form",
+                "Efficiency",
+                "Stock Market",
+                "Event Study",
+                "Bonus Issues"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2016-04-27.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Expectations Concordance and Stock Market Volatility: Knightian Uncertainty in the Year of the Pandemic",
+            "abstract": "This study introduces a novel index based on expectations concordance for explaining stock-price volatility when historically unique events cause unforeseeable change and Knightian uncertainty in the process driving outcomes. Expectations concordance measures the degree to which non-repetitive events are associated with directionally similar expectations of future returns. Narrative analytics of daily news reports allow for assessment of bullish versus bearish views in the stock market. Increases in expectations concordance across all KU events leads to reinforcing effects and an increase in stock market volatility. Lower expectations concordance produces a stabilizing effect wherein the offsetting views reduce market volatility. The empirical findings hold for ex post and ex ante measures of volatility and for OLS and GARCH estimates.",
+            "keywords": [
+                "expectations concordance",
+                "narrative analytics",
+                "volatility",
+                "Knightian uncertainty"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/thkwpaper/inetwp164.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The transmission of monetary policy to the cost of hedging",
+            "abstract": "We analyze the transmission of monetary policy to the costs of hedging using options order book data. Monetary policy transmits to hedging costs both by changing the relevant state variables, such as the value of the underlying, its volatility and tail risk, and by affecting option market liquidity, including the bid-ask spread and market depth. Our estimates suggest that during the peak of the pandemic crisis in March 2020, monetary policy decisions resulted in substantial changes in hedging costs even within short intraday time windows around the decisions, amounting approximately to the annual expenses of a typical equity mutual fund.",
+            "keywords": [
+                "Liquidity",
+                "Monetary policy",
+                "Option order books",
+                "Option markets",
+                "COVID-19 pandemic"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/308803.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

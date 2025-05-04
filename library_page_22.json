@@ -1,0 +1,164 @@
+{
+    "page_info": {
+        "page_number": 22,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Impact of COVID-19 outbreak on asymmetric multifractality of gold and oil prices",
+            "abstract": "This paper examines the impacts of COVID-19 on the multifractality of gold and oil prices based on upward and downward trends. We apply the Asymmetric Multifractal Detrended Fluctuation Analysis (A-MF-DFA) approach to 15-min interval intraday data. The results show strong evidence of asymmetric multifractality that increases as the fractality scale increases. Moreover, multifractality is especially higher in the downside (upside) trend for Brent oil (gold), and this excess asymmetry has been more accentuated during the COVID-19 outbreak. Before the outbreak, the gold (oil) market was more inefficient during downward (upward) trends. During the COVID-19 outbreak period, we see that the results have changed. More precisely, we find that gold (oil) is more inefficient during upward (downward) trends. Gold and oil markets have been inefficient, particularly during the outbreak. The efficiency of gold and oil markets is sensitive to scales, market trends, and to the pandemic outbreak, highlighting the investor sentiment effect.",
+            "keywords": [
+                "Gold",
+                "Crude oil",
+                "High frequency",
+                "COVID-19",
+                "Hurst exponent",
+                "A-MF-DFA"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a69_3ay_3a2020_3ai_3ac_3as0301420720308618.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Extreme downside risk connectedness and portfolio hedging among the G10 currencies",
+            "abstract": "This study investigates the frequency connectedness among foreign exchange markets of G10 countries, focusing on tail risk and its implications for portfolio management. To do so, we use a novel framework that combines the Conditional Autoregressive Value-at-Risk (CAViaR) model with the novel time-varying frequency and quantile connectedness method developed by Chatziantoniou et al. (2022) based on Barun\u00c3\u00adk and K\u00c5\u0099ehl\u00c3\u00adk (2018) and Ando et al. (2018) approach. A key value of this paper to the literature is the provision of fresh empirical evidence on the extreme downside linkages among the markets examined. From the average connectedness measures, the top shock transmitters within the network were EUR, NOK, AUD, SEK, and NZD, while the main shock receivers emerged to be JPY and CHF, followed by CAD and GBP. We note that events in the major funding markets (the Eurozone, Japan) have a higher impact on the participants in these same markets than in relatively small markets (New Zealand, Norway). From the dynamic connectedness results, the magnitude of connectedness for the entire sample period increased during the COVID-19 era, compared to the magnitude before the COVID-19 outbreak. The cumulative spillover also reveals that USDNOK is the vastest net transmitter of spillovers to other markets, including SEK, CHF, and AUD. However, the EUR is the largest net beneficiary followed by JPY and CAD. Findings from the time-varying extreme downside analysis suggest that throughout the period, SEK and NOK are the other currencies' strongest and most frequent net spillover shock emitters for the short-, medium-, and long-term dynamics. Currency portfolio implications are discussed.",
+            "keywords": [
+                "Foreign exchange markets",
+                "Tail risk spillovers",
+                "Dynamic connectedness",
+                "TVP-VAR",
+                "CAViaR"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeinteco/v_3a178_3ay_3a2024_3ai_3ac_3as211070172400026x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Pricing efficiency and asymmetric multifractality of major asset classes before and during COVID-19 crisis",
+            "abstract": "We examine the impact of COVID-19 pandemic crisis on the pricing efficiency and asymmetric multifractality of major asset classes (S&P500, US Treasury bond, US dollar index, Bitcoin, Brent oil, and gold) within a dynamic framework. Applying permutation entropy on intraday data that covers between April 30, 2019 and May 13, 2020, we show that efficiency of all sample asset classes is deteriorated with the outbreak, and in most cases this deterioration is significant. Results are found to be robust under different analysis schemes. Brent oil is the highest efficient market before and during crisis. The degree of efficiency is heterogeneous among all markets. The analysis by an asymmetric multifractal detrended fluctuation analysis (A-MF-DFA) approach shows evidence of asymmetric multifractality in all markets which rise with the scales. The inefficiency is higher during downward trends before the pandemic crisis as well as during COVID-19 except for gold and Bitcoin. Moreover, the pandemic intensifies the inefficiency of all markets except Bitcoin. Findings reveal increased opportunities for price predictions and abnormal returns gains during the COVID-19 outbreak.",
+            "keywords": [
+                "Efficient market hypothesis",
+                "COVID-19",
+                "Permutation entropy",
+                "A-MF-DFA",
+                "Predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a62_3ay_3a2022_3ai_3ac_3as1062940822001152.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Spillovers and connectedness between major precious metals and major currency markets: The role of frequency factor",
+            "abstract": "We examine the volatility spillovers and hedging characteristics between four major precious metals futures (gold, palladium, platinum, and silver) and seven major currencies (Australian dollar, British pound, Canadian dollar, Chinese yuan, Euro, Japanese yen, and Swiss franc) at three time horizons (short term, intermediate term, and long term). We draw our empirical results using the index methods of Diebold and Yilmaz (2012, 2014) and Barun\u00c3\u00adk and K\u00c5\u0099ehl\u00c3\u00adk (2018). The results show that the precious metals, except for gold, have the largest spillovers on the Australian dollar and Canadian dollar and receive the largest spillovers from these currencies for all the time horizons. In addition, with the exception of gold, the smallest spillovers from the precious metals are exerted on the Japanese yen and Chinese yuan and these currencies have the smallest spillovers to the precious metals. The Japanese yen and Chinese yuan act primarily as spillover receivers, whereas the other currencies act as both spillover transmitters and receivers in different time periods. The spillovers for most of the pairs are asymmetric for all the time horizons, are more pronounced in the short term, and noticeably increase during times of financial and economic uncertainty. Finally, adding precious metal futures contracts to currency portfolios provides diversification and hedging advantages, with hedging effectiveness higher in the short term than in the intermediate and long terms.",
+            "keywords": [
+                "Precious metals futures",
+                "Currencies",
+                "Spillovers",
+                "Network interconnectedness",
+                "Hedging"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a74_3ay_3a2021_3ai_3ac_3as1057521921000156.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Asymmetry of the Price Impact of Block Trades and the Bid-Ask Spread. Evidence from the London Stock Exchange",
+            "abstract": "In this paper we examine the price impact of block trades for FTSE 100 firms over the time period 1998-2004. Resembling previous research we find evidence of an asymmetric price impact between block purchases and sales. We suggest that bid-ask bias may be a new conjecture to the asymmetry in the differences in buyer and seller initiated trades.",
+            "keywords": [
+                "Block Trades",
+                "Bid-Ask Bias",
+                "Asymmetry",
+                "Market Microstructure"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/mmfmmfc06/76.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dynamic speculation and efficiency in European natural gas markets during the COVID-19 and Russia-Ukraine crises",
+            "abstract": "Efficiency and dynamic speculation literature focused on financial and crude oil markets whereas empirical studies on natural gas markets are limited. This study examines market efficiency and dynamic speculation in major European natural gas hubs (the Zeebrugge (ZEE) hub of Belgium, Title Transfer Facility (TTF) hub of the Netherlands, and National Balancing Point (NBP) hub of the UK) during the COVID-19 pandemic and Russia-Ukraine conflict. Using the Asymmetric multifractal detrended fluctuation analysis (A-MFDFA) and the power law exponent (PLE) approach, we show that European natural gas markets exhibit an asymmetric multifractal behavior and long-memory effects, with variations observed during crises. The ZEE hub in Belgium and the NBP hub in the UK demonstrate a higher multifractality under different trends during the COVID-19 pandemic and the Russia-Ukraine conflict, respectively. Notably, the TTF hub in the Netherlands emerges as the most efficient market during all subperiods. Moreover, our results, using the PLE approach, suggest that European gas market inefficiencies during crises can be attributed to speculative strategies that create self-perpetuating dynamics and diminish market transparency, leading to heightened risk and volatility in gas prices. Our findings underscore the need for regulatory intervention to mitigate excessive speculation and enhance transparency in gas markets. Diversifying gas supplies and fortifying European gas hubs emerge as pivotal strategies to bolster resilience and stability during crises.",
+            "keywords": [
+                "Natural gas",
+                "Market efficiency",
+                "Speculation",
+                "Asymmetric MFDFA",
+                "Power law exponent"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a98_3ay_3a2024_3ai_3ac_3as0301420724007293.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading Volume and Autocorrelation: Empirical Evidence from the Stockholm Stock Exchange",
+            "abstract": "This paper provides an extensive empirical investigation into the sources of index return autocorrelation, focusing on the relation between autocorrelation in individual stock returns and autocorrelation in index returns. The study uses daily data from the Stockholm Stock Exchange over the period 1980-1995 and reports three main empirical findings. Daily Swedish stock index returns exhibit strong, and consistently positive, first order autocorrelation throughout the sample period. Positive autocorrelation is observed for return frequencies between 1 day and 3 months. The most liquid stocks exhibit strong positive return autocorrelation. Less liquid stocks exhibit weak or negative return autocorrelation. Autocorrelation is asymmetric, high after days of above average performance of the stock market, low after days of below average performance. When compared to the other days of the week, both index returns and individual stock returns exhibit the strongest autocorrelation following on Friday returns. The transaction cost hypothesis was tested using the Swedish stock market transaction tax. Results indicate lower precision of stock prices during the transaction tax period, but no direct effect on return autocorrelation. The paper concludes that at least three sources contribute to observed return autocorrelation. For daily and short-term returns, profit taking and nonsynchronous trading are the probable causes of observed autocorrelation. For monthly and longer term returns, time-varying expected returns best describe the empirical results.",
+            "keywords": [
+                "Return autocorrelation",
+                "Stockholm Stock Exchange",
+                "trading volume",
+                "non-synchronous trading",
+                "feedback trading",
+                "time-varying risk premia"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhshastef/0191.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Lead-Lag Effects When Prices Reveal Cross-Security Information",
+            "abstract": "This paper introduces and analyses a model of cross-security information aggregation in a rational expectations equilibrium (REE). The model predicts a well-defined lead-lag structure between securities returns as a result of Bayesian information extraction from realised securities prices. Both leads and lags will be strongest between securities with highly correlated return processes, but only weakly correlated return innovations. Securities whose prices reveal highly precise signals will tend to lead other securities. The model has important implications for empirical testing of lead-lag effects between financial markets and instruments. As an application of the model, it is demonstrated that stock option returns will tend to lag the corresponding stock prices. Direct empirical tests of the lead-lag effects between individual stocks on the Paris Bourse provided strong support for the model. In addition to confirming the predicted pattern of leads and lags, the paper demonstrates that the cross-security correlation is higher for short-term returns than for long-term returns for about a third of securities pairs traded on the Paris Bourse. This result is interpreted as strong cross-security correlation of revealed information, which gives the model strong support over alternative specifications of multi-asset securities markets, such as the nonsynchronous trading hypothesis or the Chan (1993) model.",
+            "keywords": [
+                "multi-asset securities market",
+                "information aggregation",
+                "auction markets",
+                "cross-autocorrelation",
+                "Paris Bourse",
+                "rational expectations equilibrium (REE)"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhshastef/0189.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Testing Market Efficiency in a Fixed Odds Betting Market",
+            "abstract": "This paper tests the hypothesis of market efficiency for the fixed odds betting market of Swedish trotting head-to-head matches. The hypothesis is carried out by a Wald test within a logistic regression model. Data support rejection of semi-strong efficiency at the 5 percent level of significance, while the weak form efficiency cannot be rejected. Moreover, evaluation of the simple strategy to bet on those horses where, conditional on the estimated model, the expected profit is positive results in a profit of 7.8 percent per bet.",
+            "keywords": [
+                "EMH",
+                "betting",
+                "trotting",
+                "market",
+                "efficiency",
+                "logit",
+                "Wald"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhsoruesi/2007_5f012.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is public information really public? The role of newspapers",
+            "abstract": "Our paper offers evidence that printed media can affect stock prices by covering public news (nonevents) even without resorting to spin or emphasis. However, the price reaction is limited to small caps, suggesting that small investors still obtain public information mainly through newspapers. The absence of spin or emphasis is the core element that differentiates our study from existing evidence, making it unique, to the best of our knowledge, in the financial literature on the media and asset pricing.",
+            "keywords": [
+                "nonevent",
+                "market efficiency",
+                "small investors\u00e2\u0080\u0099 trading",
+                "small caps"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/modwcefin/0008.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Oslo Stock Exchange and the Weather",
+            "abstract": "We investigate empirical links between the Oslo Stock Exchange (OSE) and the weather, asking whether daily returns on the market, or market trading activity, seems to be related to the weather. We find a positive correlation between the OSE and two measures of ``bad weather'': clouds and windchill. High windchill is also associated with low market liquidity.",
+            "keywords": [
+                "Weather",
+                "Stock Returns",
+                "Oslo Stock Exchange",
+                "Behavioral Finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhsstavef/2016_5f012.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Changes in The Bid-Ask Components Around Earnings Announcements: Evidence from the Copenhagen Stock Exchange",
+            "abstract": "This paper investigates the relative magnitude of the components in the bid-ask spreadaround earnings announcements using the method in Stoll (1989). The results show thatearnings surprises convey relevant pricing information and that significant informationasymmetry exists between the market makers and the informed traders. Around negativeearnings announcements the adverse-selection component and the trading volume increasewhile the inventory-holding and order-processing components decrease. This leads to adecrease in the realized spread. The magnitude of the change in the realized spread appearsto be important but the change in the quoted bid-ask spread is negligible. The overall resultimplies that the informed traders\u00e2\u0080\u0099 ability to assess firms\u00e2\u0080\u0099 performance only affect the bid-askspread around the time of the earnings announcements.",
+            "keywords": [
+                "Bid-Ask Spread",
+                "Earnings Surprises",
+                "Asymmetric Information"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhscbsfin/2000_5f006.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

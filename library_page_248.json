@@ -1,0 +1,154 @@
+{
+    "page_info": {
+        "page_number": 248,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "How much happiness can we find in the U.S. fear Index?",
+            "abstract": "Using high-frequency data for the S&P 500, we decompose the so-called fear index, the VIX, into two components: conditional variance of stock returns and variance risk premium, which proxies for risk aversion. We provide evidence about the relationship between investor mood and the implied risk aversion around joyful occasions such as holidays and other occasions that might result in negative moods such as the disruption of sleep resulting from the move to daylight savings time. We find that implied risk aversion shows a U-shape around holidays and a \u00e2\u0088\u00a9-shape when investors are in a negative mood. Our results validate the existence of changes in the price of risk around non-economic events, and suggest that variance risk premium can be a good reflection of mood.",
+            "keywords": [
+                "Financial markets",
+                "Mood",
+                "Behavioral finance",
+                "Holiday effect",
+                "Risk aversion",
+                "Variance risk premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a30_3ay_3a2019_3ai_3ac_3ap_3a246-258.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Protected Adaptive Asset Allocation",
+            "abstract": "Protected Adaptive Asset Allocation (PAAA) is a tactical asset allocation model that targets an optimal risk/returns ratio using both a momentum index to capture the short-run dynamics and cash protection in negative market periods to reduce drawdowns. Empirical evidence shows that PAAA improves upon the performance of alternative models in terms of the risk/return profile when applied to a well-diversified dataset in the long term, based on the results of in/out-of-sample analyses, and when the analysis is restricted to a financial crisis period. For less diversified portfolios, PAAA is equivalent to an Adaptive Asset Allocation that includes a liquidity component.",
+            "keywords": [
+                "Adaptive Asset Allocation",
+                "Momentum",
+                "Cash protection",
+                "Sharpe ratio",
+                "Modern Portfolio Theory",
+                "Portfolio management"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a32_3ay_3a2020_3ai_3ac_3as1544612317306426.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The timing of the flight to gold: An intra-day analysis of gold and the S&P500",
+            "abstract": "We use high-frequency intra-day gold and S&P500 data covering the period from 2007 to 2018 to investigate when and how fast gold prices react to extreme negative shocks in the equity market. Our empirical analysis reveals three new features of gold: First, extreme negative 5-min S&P500 returns lead to a positive reaction of the gold price. Second, on days with extreme price declines in the stock market, gold continues to increase post US stock trading hours. Third, daily extreme negative equity returns accrue comparatively slowly over several hours. The findings show that there is a fast reaction of gold prices to extreme negative stock returns consistent with a flight to gold.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a33_3ay_3a2020_3ai_3ac_3as1544612319301448.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A study of cross-industry return predictability in the Chinese stock market",
+            "abstract": "We investigate cross-industry return predictability for the Shanghai and Shenzhen stock exchanges, by constructing 6- and 26- industry portfolios. The dominance of retail investors in these markets, in conjunction with the gradual diffusion of information hypothesis provide the theoretical background that allows us to employ machine learning methods to test for cross-industry predictability. We find that Oil, Telecommunications and Finance industry portfolio returns are significant predictors of other industries. Our out-of-sample forecasting exercise shows that the OLS post-LASSO estimation outperforms a variety of benchmarks and a long\u00e2\u0080\u0093short trading strategy generates an average annual excess return of 13%.",
+            "keywords": [
+                "Return predictability",
+                "Shrinkage",
+                "LASSO",
+                "Model selection",
+                "Industry portfolio"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a83_3ay_3a2022_3ai_3ac_3as1057521922002071.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Validating intra-day risk premium in cross-sectional return curves",
+            "abstract": "This paper investigates the cross-sectional asset pricing for intra-day return curves. By introducing a functional Fama-MacBeth regression approach, the validation of the intra-day risk premium associated with the Fama-French Carhart factors is examined. The empirical evidence reveals that these common risk factors show weak explainability to the entire cross-sectional intra-day returns, despite significant risk premiums that are discovered in specific half-hour time-spans in bullish sentiment.",
+            "keywords": [
+                "Cross-sectional asset pricing",
+                "Intra-day return curves",
+                "Fama-MacBeth regression",
+                "Factor model",
+                "Risk premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a43_3ay_3a2021_3ai_3ac_3as154461232100101x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information acquisition, market professional and discretionary liquidity trading",
+            "abstract": "We analyze an insider trading strategy and market professionals\u00e2\u0080\u0099 information acquisition strategies, and explore their impact on market liquidity and price efficiency in endogenous noise trading. Our findings highlight the negative precision effect on market professionals\u00e2\u0080\u0099 information acquisition. With an increase in market professionals, two opposing effects emerge on market liquidity and price efficiency: the strategic complementarity effect and the precision effect. However, the negative precision effect predominates, which impairs market liquidity and price efficiency. Furthermore, enhancing the ex-ante precision of the risky asset or adjusting liquidity compensation reduces market professionals\u00e2\u0080\u0099 involvement in information acquisition, leading to diminished price efficiency.",
+            "keywords": [
+                "Insider trading",
+                "Information acquisition",
+                "Discretionary liquidity trading",
+                "Price efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a68_3ay_3a2024_3ai_3ac_3as1544612324010699.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Human vs. machine: The impact of information processing on trading in OTC markets",
+            "abstract": "This paper investigates the differential impact of human versus machine SEC filing downloads on trading activity in the OTC market. Human downloads drive immediate, significant increases in trading volume, especially for filings requiring qualitative interpretation, whereas machine downloads produce delayed and muted effects, mainly impacting standardized filings. These findings underscore the essential role of human interpretation in market responses and highlight the distinct effects of access modes on trading dynamics as OTC markets adapt to technological and regulatory shifts.",
+            "keywords": [
+                "SEC filings",
+                "Over-the-counter (OTC) securities",
+                "Public information",
+                "Automated trading",
+                "Information asymmetry"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a72_3ay_3a2025_3ai_3ac_3as1544612324015459.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predictability in sovereign bond returns using technical trading rules: Do developed and emerging markets differ?",
+            "abstract": "The study examines the predictability of 48 sovereign bond markets based on a strategy of 27,000 technical trading rules. These rules represent four popular trading rule classes, they are: moving average, filtering, support and resistance, and channel breakout rules, with numerous variants in each class. Empirical results show that (i) investing in sovereign bond markets is predictable, based on the buy-sell signals generated by trading rules, with the predictability of the emerging Asian markets being significantly higher than those of the advanced markets; (ii) the predictability is generally higher when the US tightens its monetary policies or undergoes recession or a financial crisis; (iii) two-thirds of sovereign bond markets have a higher predictability when we use a machine learning algorithm to determine the best trading rule strategy; and (iv) the predictability of a sovereign bond market is higher when the economy has a less effective government, lower regulatory quality, lower degree of financial openness, higher political risk, lower income and faster real money growth. Our results suggest that shocks originating from US monetary policy or economic conditions could have a considerable spillover effect on sovereign bond markets, particularly the emerging Asian markets.",
+            "keywords": [
+                "Trading rule",
+                "Return predictability",
+                "Sovereign bond",
+                "Market efficiency",
+                "Machine learning",
+                "Bayesian analysis",
+                "Time series"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a51_3ay_3a2020_3ai_3ac_3as1062940819300932.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Private information, capital flows, and exchange rates",
+            "abstract": "Not all international capital flows influence exchange rates equally. Capital flows induced by foreign investors\u00e2\u0080\u0099 transactions in local stock markets have an impact on exchange rates that is economically significant and permanent, whereas capital flows induced by investors\u00e2\u0080\u0099 transactions in local government bond markets do not. The differences in price impacts are related to differences in the amounts of private information conveyed by these flows. Our findings are based on daily-frequency data on all transactions undertaken by foreign investors in the stock, bond, and onshore FX markets of Thailand over a period of nearly two years.",
+            "keywords": [
+                "Order flow",
+                "Private information",
+                "Exchange rate models",
+                "Market microstructure",
+                "Emerging markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejimfin/v_3a81_3ay_3a2018_3ai_3ac_3ap_3a40-55.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dynamic asset (mis)pricing: Build-up versus resolution anomalies",
+            "abstract": "We classify asset pricing anomalies into those exacerbating mispricing (build-up anomalies) and those resolving it (resolution anomalies). We estimate the dynamics of price wedges for well-known anomaly portfolios and map them to firm-level mispricings. We find that several prominent anomalies like momentum and profitability further dislocate prices. Multi-factor models designed to eliminate one-month alphas still produce large price wedges. Our estimates yield a novel decomposition of Tobin\u00e2\u0080\u0099s q, revealing that q\u00e2\u0080\u0099s mispricing component has substantial explanatory power for firm investment. Overall, our results suggest that financial intermediaries chasing build-up anomalies negatively affect price efficiency and associated real capital allocation.",
+            "keywords": [
+                "Mispricing",
+                "Price wedges",
+                "Tobin\u00e2\u0080\u0099s q",
+                "Real misallocation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a147_3ay_3a2023_3ai_3a2_3ap_3a406-431.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mimicking Portfolios with Conditioning Information",
+            "abstract": "Mimicking portfolios have long been useful in asset pricing research. In most empirical applications, the portfolio weights are assumed to be fixed over time, while in theory they may be functions of the economic state. This paper derives and characterizes mimicking portfolios in the presence of predetermined state variables, or conditioning information. The results generalize and integrate multifactor minimum variance efficiency (Fama, 1996) with conditional and unconditional mean variance efficiency (Hansen and Richard (1987), Ferson and Siegel, 2001). Empirical examples illustrate the potential importance of time-varying mimicking portfolio weights and highlight challenges in their application.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/11020.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Nominal price illusion",
+            "abstract": "We explore the psychology of stock price levels and provide evidence that investors suffer from a nominal price illusion in which they overestimate the room to grow for low-priced stocks relative to high-priced stocks. While it has become increasingly clear that nominal price levels influence investor behavior, why prices matter to investors is a question that as of yet has gone unanswered. We find widespread evidence that investors systematically overestimate the skewness of low-priced stocks. In the broad cross-section of stocks, we find that investors substantially overweight the importance of price when forming skewness expectations. Asset pricing implications of our findings are borne out in the options market. A zero-cost option portfolio strategy that exploits investor overestimation of skewness for low-priced stocks generates significant abnormal returns. Finally, investor expectations of future skewness increase drastically on days that a stock undergoes a split to a lower nominal price. Empirically, however, future physical skewness decreases following splits.",
+            "keywords": [
+                "Nominal price",
+                "Skewness",
+                "Stock splits",
+                "Options",
+                "Behavioral finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a119_3ay_3a2016_3ai_3a3_3ap_3a578-598.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 112,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The high-frequency asymmetric response of stock returns to monetary policy for high oil price events",
+            "abstract": "This paper investigates whether a high oil price event that worsens the quality of a firm's balance sheet in turn provides an additional transmission channel to the stock market, which then affects stock returns. We examine the asymmetric impacts of monetary shocks on stock returns across high oil price events and non-high oil price events over the period from 1995 to 2008. We ask how these impacts respond to the relative ability of firms to obtain external finance. Our findings suggest that more energy-intensive industries and durable-goods industries react more significantly to monetary shocks based on high oil price events than on those based on non-high oil price events. By controlling for the capacity for external finance, the intraday windows reveal that a monetary surprise for the high oil price events has a bigger impact on stock returns than for the non-high oil price events. Firms with financing constraints find that the adverse impact of a surprise monetary policy action on high oil price events is amplified in the medium profitability category, while the impact of a surprise monetary policy action on non-high oil price events is amplified in the lowest profitability category.",
+            "keywords": [
+                "High oil price events",
+                "Asymmetric impacts of monetary shocks",
+                "Financing constraints"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a36_3ay_3a2013_3ai_3ac_3ap_3a166-176.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are short sellers incrementally informed prior to earnings announcements?",
+            "abstract": "Contrary to the hypothesis that informed short sellers increase their positions prior to earnings announcements, we find that short activity declines in the pre-announcement period compared with activity in non-announcement time. This statistically significant, but economically modest, decline may suggest that the fraction of informed short sellers actually increases if (as Diamond and Verrecchia (1987) suggest) the uncertainty around earnings announcements increases short selling costs and causes uninformed short sellers to withdraw from the market. While we find a statistically and economically significant inverse relation between pre-announcement short activity and announcement period returns, when we control for the non-announcement ability of short sellers to predict future returns documented by Diether et al. (2009), the significance of the relation between pre-announcement short activity and announcement period returns vanishes. Thus, we infer that short sellers are not incrementally informed prior to earnings announcements.",
+            "keywords": [
+                "Short selling",
+                "Private information",
+                "Earnings announcements"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a21_3ay_3a2013_3ai_3ac_3ap_3a142-155.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Relationship between portfolio diversification and value at risk: Empirical evidence",
+            "abstract": "This research explores the risk associated with the stocks prices in the seventeen selected companies that are listed in Indian BSE (100) National as well as portfolios of investment that are constructed from these seventeen companies employed. Additionally, for considering the possibility of international diversification, construction of portfolios of investment form stock price indexes in various emerging markets and developed countries of the world is considered. Correlations for domestically as well as internationally diversified portfolios are computed to unveil the relationship between stock prices of various firms as well as domestic and internationally diversified portfolios of investments. Further, to understand the effect of diversification on the risk associated with each of the portfolios of investments employed, value at risk analysis (VaR) is undertaken for studying the benefits associated with domestic as well as international diversification (if any).",
+            "keywords": [
+                "Stock returns",
+                "Local diversification",
+                "Non-normality",
+                "Correlation",
+                "Value-at-risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeememar/v_3a12_3ay_3a2011_3ai_3a4_3ap_3a443-459.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Digesting anomalies in emerging European markets: A comparison of factor pricing models",
+            "abstract": "This study compares the performance of four popular factor pricing models\u00e2\u0080\u0094the capital asset-pricing model (Sharpe, 1964), the three-factor model of Fama and French (1993), the four-factor model of Carhart (1997), and the five-factor model of Fama and French (2015a)\u00e2\u0080\u0094testing their explanatory power over a broad range of cross-sectional return patterns in emerging European markets. We identify, classify, and replicate 100 anomalies documented in the financial literature. Only 20 (32) of the capitalization-weighted (equal-weighted) anomaly portfolios are significantly profitable. We show that the five-factor model best explains the returns of anomaly portfolios and verify its superiority over the other models.",
+            "keywords": [
+                "Asset pricing",
+                "Factor models",
+                "Anomalies",
+                "Emerging European markets",
+                "Emerging markets",
+                "Cross section of returns",
+                "Size",
+                "Value",
+                "Momentum",
+                "Profitability",
+                "Asset growth"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeememar/v_3a31_3ay_3a2017_3ai_3ac_3ap_3a1-15.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Intraday and overnight tail risks and return predictability in the crude oil market: Evidence from oil-related regular news and extreme shocks",
+            "abstract": "This study examines the possible impacts of various market shocks, covering oil-related regular news releases and extreme shocks on the intraday and overnight variations in tail risk and intraday return predictability in the crude oil market using high-frequency United States Oil Fund (USO) data from April 10, 2008, to May 10, 2022. First, we find that both regular news and extreme shocks significantly impact the distribution of tail risk during daytime trading and overnight non-trading sessions, with the latter showing stronger effects. Second, extreme shocks have a greater impact on intraday return predictability, with most market shocks obliterating the predictive power of first half-hour returns. Third, the predictability of the first half-hour returns comes primarily from the market opening session from 9:30 am to 10:00 am, and overnight returns lose their predictability. These results have important implications for both market participants and policymakers.",
+            "keywords": [
+                "Overnight and intraday returns",
+                "Tail risks",
+                "Regular news releases",
+                "Extreme shocks",
+                "Intraday return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a127_3ay_3a2023_3ai_3apb_3as0140988323006199.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dynamic time-frequency connectedness between European emissions trading system and sustainability markets",
+            "abstract": "This paper examines the time-frequency spillovers and connectedness network between European ETS and the sustainability markets. Empirically, we rely on the Barun\u00c3\u00adk and K\u00c5\u0099ehl\u00c3\u00adk (2018) Diebold and Yilmaz (2012) spillover index to measure the time-varying spillovers, directional spillover, net directional spillover and connectedness network in the short-term and long-term investment horizons. Our findings suggest higher overall interconnectedness between the carbon price returns and sustainability indices, with a total spillover index of 69.75%. More specifically, the magnitude of spillovers is substantially higher in the short term than in the long terms. Moreover, European, France, and Germany sustainability indices exhibit the properties of the largest transmitter of spillover of returns towards the system whereas carbon prices are the lowest contributor to transmitting the spillovers towards the system. In the connectedness network, ETS offers a good investment opportunity with Belgium and Finland sustainability indices due to the lower level of returns connectedness. Finally, ETS provides the portfolio risk reduction in the short-term and long-term investment horizons.",
+            "keywords": [
+                "Time-frequency spillovers",
+                "Connectedness network",
+                "ETS",
+                "European sustainability index"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a123_3ay_3a2023_3ai_3ac_3as0140988323002244.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Relations intrajournalieres entre l'indice CAC 40 et les options sur indice. Quel est le marche prefere des investisseurs informes ?",
+            "abstract": "L'objet de cet article est de tester la presence de causalite lineaire et non-lineaire au sens de Granger entre l'indice CAC 40 et les options sur indice en 1997 et 1998. Nos resultats indiquent que le marche au comptant precede le marche des options de 20 a 30 minutes, signe que le MONEP n'est pas domine par la presence d'investisseurs informes. Nous trouvons egalement des interactions non-lineaires significatives entre les marches, revelatrices de l'activite des arbitragistes.",
+            "keywords": [
+                "INFORMATION",
+                "INVESTISSEMENTS",
+                "MARCHE FINANCIER"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fthpariem/2000.110.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "On the Information Content of Futures Prices, Application to LME Nonferrous Metal Futures",
+            "abstract": "The objective of operations on futures markets may be either hedging or speculation. In this paper, we wish to give a desciption of futures markets with two groups of operators with heterogeneous expectations: hedgers-speculators, and pure speculators. The existence of carry-over costs is taken into account in the case of commodity trading, as well as in the case of financial futures. An equation, giving a simplified expression of the futures price, is derived. Applications to nonferrous metal futures (aluminium, copper and nickel) commodity markets are proposed.",
+            "keywords": [
+                "MARKET",
+                "SPECULATION",
+                "MANAGEMENT",
+                "EXPECTATIONS"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fthehecge/2000.12.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Anomaly detection in stock market indices with neural networks",
+            "abstract": "Neural networks have been long used for time series analysis in various applications. The late boost in computer power and data engineering brought about a myriad of algorithms that are wrapped under the larger title of Data Science. The apparent proliferation of these algorithms is due to their employment for several applications that range from simple classification problems, such as spam e-mail identification, to pattern detection in images and videos and several forecasting applications. Heralding the world of machine learning, these algorithms are trained on large amounts of data with the objective to extract repetitive structures that are likely to persist. It is therefore explainable the recent attention that these algorithms are given from the perspective of economic applications. This paper employs a recurrent neural network algorithm on daily data for several stock market indices in order to detect anomalous behaviour. The approach is rooted in the jump-detection literature that has the objective to identify outlying realizations of log-returns for diverse stock market data. We show that this approach establishes economically significant patterns that can be considered as anomalies when compared to their past dynamics.",
+            "keywords": [
+                "anomaly detection",
+                "neural networks",
+                "LSTM",
+                "stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/fstrfsisf/v_3a5_3ay_3a2020_3ai_3a9_3ap_3a10-23.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are All Individual Investors Equally Prone to the Disposition Effect All the Time? New Evidence from a Small Market",
+            "abstract": "This paper investigates the disposition effect on the Portuguese stock market, on the basis of a unique database that consists of trading records of 1496 individual investors. We found strong evidence of the disposition effect, studied on the basis of trades, volume and value traded. This preference for realizing gains to losses was observed every month of the year and globally for all individual investors. Even at the end of the fiscal year, the disposition effect still holds, as opposed to the evidence found in other markets. We also studied the disposition effect related to market tendency. By dividing the data period into a bull and a bear period, we found evidence of disposition effect for both periods, but with differences in terms of its intensity. In the bull market period, the disposition effect is even more evident than in the bear market. We believe these results can be explained with behavioral reasons. We also investigated the disposition effect related to proxies of investors' sophistication. We divided investors on the basis of the trading frequency, volume of transactions and portfolio value and found evidence that investors in the higher percentiles are less prone to the disposition effect than the ones in the lower percentiles, even though both exhibit evidence of this effect.",
+            "keywords": [
+                "Disposition Effect",
+                "Investor Behavior",
+                "Individual Investors",
+                "Market Trends, Small Markets."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ffejournl/v_3a7_3ay_3a2010_3ai_3a2_3ap_3a38-68.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Fund Performance Robustness An Evaluation Using European Large-Cap Equity Funds",
+            "abstract": "The paper revisits the issue of robustness of fund performance by evaluating European large-cap equity funds. For this fund category traditional market risk factor adjusted performance measures are expected to be fairly robust. However, for the sample of 65 European large-cap mutual equity funds, performance is shown to be very sensitive to the empirical estimation approach applied. Furthermore, the performance alphas are not robust over the conditional residual return distribution. This indicates that the performance is asymmetric with respect to the conditional outcome. A large part of the individual funds significantly underperform the benchmark in the lower tail of the conditional distribution. From a risk-averse investor\u00e2\u0080\u0099s point of view, the results regarding the performance of an equally weighted fund of funds, is more comforting. On average the performance alphas are positive and highest in the lower part of the conditional distribution. As expected the market risk factor loadings are very robust for the sample of large-cap equity funds.",
+            "keywords": [
+                "Fund Performance",
+                "Robustness",
+                "European Equity Funds"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ffejournl/v_3a8_3ay_3a2011_3ai_3a2_3ap_3a1-26.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do DOW returns really influence the intraday Spanish stock market behavior?",
+            "abstract": "Although the behavior of the Spanish stock market has been studied from many different points of view, none of the previous research has ever analyzed the influence of previous daytime, overnight and daily returns from the DOW and IBEX upon 5-min intraday returns of the IBEX throughout the complete trading session. Clear evidence is provided relative to the influence of the DOW. The main finding that it underreacts to the DOW returns in the first hours of trading but overreacts during the last 2h (after the opening of the US markets) would help to develop a profitable trading strategy.",
+            "keywords": [
+                "Intraday data",
+                "Asymmetric models",
+                "Information spillovers",
+                "Overreaction",
+                "Underreaction"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a33_3ay_3a2015_3ai_3ac_3ap_3a99-126.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

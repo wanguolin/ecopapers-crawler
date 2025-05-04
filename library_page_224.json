@@ -1,0 +1,180 @@
+{
+    "page_info": {
+        "page_number": 224,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Herding, Information Cascades and Volatility Spillovers in Futures Markets",
+            "abstract": "Economists and financial analysts have begun to recognise the importance of the actions of other agents in the decision-making process. Herding is the deliberate mimicking of the decisions of other agents. Examples of mimicry range from the choice of restaurant, fash-ion and financial market participants, to academic research. Herding may conjure negative images of irrational agents sheepishly following the actions of others, but such actions can be rational under asymmetric information and uncertainty. This paper uses futures position data in nine different markets of the Commodity Futures Trading Commission (CFTC) to provide a direct test of herding behaviour, namely the extent to which small traders mimic the posi-tions of large speculators. Evidence consistent with herding among small traders is found for the Canadian dollar, British pound, gold, S&P 500 and Nikkei 225 futures. Consistent with survey-based results on technical analysis, the positions are significantly correlated with both current and past market returns. Using various time-varying volatility models to accommodate conditional heteroskedasticity, the empirical results are found to be robust to alternative mod-els and methods of estimation. When a test of causality-in-variance is used to analyse if vola-tility among small traders spills over into spot markets, it is found that spillovers occur only with Nikkei 225 futures. The policy implications of the findings are also discussed.",
+            "keywords": [
+                "Herding",
+                "speculation",
+                "hedging",
+                "noise traders",
+                "currency and commodity markets",
+                "futures and spot markets",
+                "time-varying volatility",
+                "causality-in-variance",
+                "spillovers"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cbteconwp/13_2f23.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Herding, Information Cascades and Volatility Spillovers in Futures Markets",
+            "abstract": "Economists and financial analysts have begun to recognise the importance of the actions of other agents in the decision-making process. Herding is the deliberate mimicking of the decisions of other agents. Examples of mimicry range from the choice of restaurant, fashion and financial market participants, to academic research. Herding may conjure negative images of irrational agents sheepishly following the actions of others, but such actions can be rational under asymmetric information and uncertainty. This paper uses futures position data in nine different markets of the Commodity Futures Trading Commission (CFTC) to provide a direct test of herding behaviour, namely the extent to which small traders mimic the positions of large speculators. Evidence consistent with herding among small traders is found for the Canadian dollar, British pound, gold, S&P 500 and Nikkei 225 futures. Consistent with survey-based results on technical analysis, the positions are significantly correlated with both current and past market returns. Using various time-varying volatility models to accommodate conditional heteroskedasticity, the empirical results are found to be robust to alternative models and methods of estimation. When a test of causality-in-variance is used to analyse if volatility among small traders spills over into spot markets, it is found that spillovers occur only with Nikkei 225 futures. The policy implications of the findings are also discussed.",
+            "keywords": [
+                "causality-in-variance",
+                "spillovers",
+                "currency and commodity markets",
+                "futures and spot markets",
+                "hedging",
+                "herding",
+                "noise traders",
+                "speculation",
+                "time-varying volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/emseureir/40778.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Variance of entropy for testing time-varying regimes with an application to meme stocks",
+            "abstract": "Abstract Shannon entropy is the most common metric for assessing the degree of randomness of time series in many fields, ranging from physics and finance to medicine and biology. Real-world systems are typically non-stationary, leading to entropy values fluctuating over time. This paper proposes a hypothesis testing procedure to test the null hypothesis of constant Shannon entropy in time series data. The alternative hypothesis is a significant variation in entropy between successive periods. To this end, we derive an unbiased sample entropy variance, accurate up to the order $$O(n^{-4})$$ O ( n - 4 ) with n the sample size. To characterize the variance of the sample entropy, we first provide explicit formulas for the central moments of both binomial and multinomial distributions describing the distribution of the sample entropy. Second, we identify the optimal rolling window length to estimate time-varying Shannon entropy. We optimize this choice using a novel self-consistent criterion based on counting significant entropy variations over time. We corroborate our findings using the novel methodology to assess time-varying regimes of entropy for stock price dynamics by presenting a comparative analysis between meme and IT stocks in 2020 and 2021. We show that low entropy values correspond to periods when profitable trading strategies can be devised starting from the symbolic dynamics used for entropy computation, namely periods of market inefficiency.",
+            "keywords": [
+                "Market efficiency",
+                "Meme stocks",
+                "Multinomial distribution",
+                "Entropy distribution",
+                "Hypothesis testing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprdecfin/v_3a47_3ay_3a2024_3ai_3a1_3ad_3a10.1007_5fs10203-023-00427-9.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Fractal Properties of the Financial Market",
+            "abstract": "The paper is concerned with an implementation of behavioral aspects of a heterogeneous agents model (HAM) with the worst out algorithm (WOA). The WOA replaces periodically the trading strategies that have the lowest performance level of all strategies presented on the market by the new ones. The model includes a possibility to change the mood of the investors on the market. This modification allows for changing phases of optimism and pessimism. This feature enables generation of more realistic financial time series. It is shown how a mood change on the financial market influence a persistence of financial time series.",
+            "keywords": [
+                "agents' trading strategies",
+                "heterogeneous agents model with stochastic memory",
+                "worst out algorithm",
+                "mood change"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/prgjnlaop/v_3a2007_3ay_3a2007_3ai_3a4_3aid_3a74_3ap_3a49-55.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Law of one price and return on Arbitrage Trading: Bitcoin vs. Ethereum",
+            "abstract": "Abstract Decentralized cryptocurrencies are characterized by decentralized trading taking place concurrently at multiple exchanges. Price deviations in two major cryptocurrencies are investigated across six major cryptoexchanges. Trading in both bitcoin and ethereum has become more integrated across different cryptoexchanges since 2018. Bitcoin and ethereum spot many similarities in the behavior of price deviations for any given pair of exchanges and share similar trading dynamics on the same cryptoexchange. Returns on arbitrage trading of bitcoin and of ethereum exhibit very similar dynamics and properties across different cryptoexchanges, as well as over time. Profitable opportunities for arbitrage trading of either cryptocurrency across different cryptoexchanges have declined significantly since 2018. An introduction of a financial derivative traded at a regulated exchange that allows to benefit from decline in the price of bitcoin is found to have a significant impact on the dynamics of trading of both bitcoin and ethereum in the respective decentralized spot markets.",
+            "keywords": [
+                "Law of one price",
+                "Price deviation",
+                "Arbitrage trading",
+                "Cryptocurrency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprjecfin/v_3a47_3ay_3a2023_3ai_3a3_3ad_3a10.1007_5fs12197-023-09631-0.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor reaction to simultaneous news releases: unemployment vs. earnings",
+            "abstract": "Abstract We examine the stock price reaction to surprises in the simultaneous releases of two types of news: macro news (captured by unemployment announcements) and corporate news (captured through earnings releases). Using financial data for the U.S. markets from 1962 to 2012, we confirm that earnings surprises and unemployment surprises significantly affect individual stock returns. Also, in line with Boyd et al. (J Bank Financ 60(2):649\u00e2\u0080\u0093672, 2005), we confirm that both surprises are significant during economic booms and contractions. However, while unemployment surprises are significant on a stand-alone basis, they are systematic events whose impact is captured within systematic risk-adjusted return models such as the Fama-French 3-factor and market models. This suggests that, for individual stocks, earnings surprises dominate unemployment surprises when dealing with simultaneous news releases. The stock market reaction to firm earnings surprises is enhanced during recessions, which can mostly be explained by systemic market functions.",
+            "keywords": [
+                "Unemployment",
+                "Earnings",
+                "Surprises",
+                "Forecasts"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprjecfin/v_3a43_3ay_3a2019_3ai_3a4_3ad_3a10.1007_5fs12197-018-9460-z.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Log-optimal and num\u00c3\u00a9raire portfolios for market models stopped at a random time",
+            "abstract": "Abstract This paper focuses on num\u00c3\u00a9raire and log-optimal portfolios when a market model ( S , F , P ) $(S,\\mathbb{F},P)$ \u00e2\u0080\u0093 specified by its assets\u00e2\u0080\u0099 price S $S$ , its flow of information F $\\mathbb{F}$ and a probability measure P $P$ \u00e2\u0080\u0093 is stopped at a random time \u00cf\u0084 $\\tau $ . The flow of information that incorporates both F $\\mathbb{F}$ and \u00cf\u0084 $\\tau $ , denoted by G $\\mathbb{G}$ , is the progressive enlargement of F $\\mathbb{F}$ with \u00cf\u0084 $\\tau $ . For the resulting stopped model ( S \u00cf\u0084 , G , P ) $(S^{\\tau},\\mathbb{G},P)$ , we study the two portfolios in different manners and describe their computations in terms of F $\\mathbb{F}$ -observable parameters of the pair ( S , \u00cf\u0084 ) $(S, \\tau )$ . In particular, we single out the types of risks induced by \u00cf\u0084 $\\tau $ that really affect the num\u00c3\u00a9raire portfolio, and address the following questions: 1) What are the conditions on \u00cf\u0084 $\\tau $ (preferably in terms of information-theoretic concepts such as entropy) that guarantee the existence of the log-optimal portfolio for ( S \u00cf\u0084 , G , P ) $(S^{\\tau},\\mathbb{G},P)$ when that for ( S , F , P ) $(S,\\mathbb{F},P)$ already exists? 2) What are the factors that fully determine the increment in maximal expected logarithmic utility from terminal wealth for the models ( S \u00cf\u0084 , G , P ) $(S^{\\tau},\\mathbb{G},P)$ and ( S , F , P ) $(S,\\mathbb{F},P)$ , and how can one quantify them?",
+            "keywords": [
+                "Random horizon",
+                "Log-optimal portfolio",
+                "Num\u00c3\u00a9raire portfolio",
+                "Deflators",
+                "Informational risks",
+                "Utility",
+                "Progressive enlargement of filtration",
+                "Asymmetric information",
+                "Semimartingales and predictable characteristics",
+                "60G48",
+                "60H05",
+                "91B16",
+                "91G10",
+                "91G40",
+                "94A17"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprfinsto/v_3a26_3ay_3a2022_3ai_3a3_3ad_3a10.1007_5fs00780-022-00477-8.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Tail risk, beta anomaly, and demand for lottery: what explains cross-sectional variations in equity returns?",
+            "abstract": "Abstract This study investigates the tail-risk and returns relationship in an emerging equity market\u00e2\u0080\u0094India. We observe both the beta and the tail risk anomalies at the univariate portfolio level. However, after controlling for the lottery effects (MAX and idiosyncratic volatility), the relationship between the systematic tail risk measures and the expected returns turns positive for some of the proxies of tail risk, while the relationship between beta and expected returns becomes flat. The lottery effect explains the tail risk anomaly reported in the literate. These results suggest that investors care for probabilities of extreme changes in stock prices but do not care much about moderate variations in stock returns. Emerging markets have a significant presence of individual investors, who consider investing in the stock market as an opportunity to gamble and earn lottery-like payoffs, which results in an overvaluation of lottery stocks. Since these stocks also have high systematic risk and a high probability of extreme negative returns, we observe that the expected returns are negatively correlated with beta and left tail risk measures before controlling for the lottery effects. These results are robust after controlling for other relevant variables such as the size of the firm, book-to-market ratio, momentum, retail ownership, and illiquidity.",
+            "keywords": [
+                "Tail risk",
+                "Lower-tail dependence",
+                "Behavioural portfolio theory",
+                "Beta anomaly",
+                "Preference for lottery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprempeco/v_3a65_3ay_3a2023_3ai_3a2_3ad_3a10.1007_5fs00181-022-02355-w.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Electricity derivatives: an application to the futures Italian market",
+            "abstract": "Abstract Since the liberalization of electricity markets, electricity prices are more volatile and expansion in electricity derivatives trading occurs. Indeed, a well-known feature of electricity prices concerns its high volatility. For this reason, operators use power futures to hedge against unexpected risk deriving from adverse fluctuations of spot prices within the planned delivering period. Indeed, futures contracts permit to fix the price of electricity in advance for the use in the scheduled period. Our paper is devoted specifically to the Italian electricity market. In this respect, we examine empirical data from IDEX, the Energy Derivatives part of the Italian derivatives market IDEM, administered by \u00e2\u0080\u009cBorsa Italiana.\u00e2\u0080\u009d We finally survey the possible connections concerning futures and spot prices and, as a consequence, we deduce information about important indicators whereof the ex-post risk premium and the net convenience yield. For this purpose, we use several regression techniques to determine suitable explanatory variables inherent the Italian market for the ex-post risk premium and the net convenience yield.",
+            "keywords": [
+                "Electricity markets",
+                "Futures",
+                "Risk premium",
+                "Convenience yield",
+                "Linear regression",
+                "Partial least squares regression"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprempeco/v_3a61_3ay_3a2021_3ai_3a2_3ad_3a10.1007_5fs00181-020-01915-2.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A quoi r\u00c3\u00a9agit le march\u00c3\u00a9s des obligations priv\u00c3\u00a9es?",
+            "abstract": "Nous avons \u00c3\u00a9tudi\u00c3\u00a9 quelles annonces \u00c3\u00a9conomiques font significativement r\u00c3\u00a9agir le march\u00c3\u00a9 des obligations priv\u00c3\u00a9es aux Etats-Unis. Nous avons mesur\u00c3\u00a9 l\u00e2\u0080\u0099impact sur 1 jour d\u00e2\u0080\u0099une trentaine d\u00e2\u0080\u0099annonces macro\u00c3\u00a9conomiques sur les spreads de cr\u00c3\u00a9dit, en affinant notre analyse gr\u00c3\u00a2ce \u00c3 une d\u00c3\u00a9composition sectorielle et par rating. Nous trouvons qu\u00e2\u0080\u0099une liste restreinte de chiffres \u00c3\u00a9conomiques fait r\u00c3\u00a9agir les spreads :quelques indicateurs d\u00e2\u0080\u0099activit\u00c3\u00a9 (ISM, Chicago PMI), de confiance des consommateurs, d\u00e2\u0080\u0099inflation et d\u00e2\u0080\u0099emploi. Cette liste est tr\u00c3\u00a8s proche des chiffres qui font r\u00c3\u00a9agir les obligations d\u00e2\u0080\u0099Etat. Les r\u00c3\u00a9sultats diff\u00c3\u00a8rent assez fortement selon les ratings. Alors que les indicateurs cycliques \u00c3\u00a9conomiques font fortement r\u00c3\u00a9agir les spreads de cr\u00c3\u00a9dit High Yield, leur impact sur les spreads Investment Grade est beaucoup plus limit\u00c3\u00a9. C\u00e2\u0080\u0099est le contraire pour les chiffres d\u00e2\u0080\u0099inflation et les annonces de taux directeurs, qui font surtout bouger les spreads Investment Grade. Ces r\u00c3\u00a9sultats peuvent s\u00e2\u0080\u0099expliquer par la plus grande vuln\u00c3\u00a9rabilit\u00c3\u00a9 \u00c3 la conjoncture \u00c3\u00a9conomique des \u00c3\u00a9metteurs les plus risqu\u00c3\u00a9s, et aux clauses de d\u00c3\u00a9sendettement sp\u00c3\u00a9cifiques aux \u00c3\u00a9missions High Yield. Notre \u00c3\u00a9tude permet \u00c3\u00a9galement de mettre en \u00c3\u00a9vidence une disparit\u00c3\u00a9 sectorielle des r\u00c3\u00a9ponses des spreads de cr\u00c3\u00a9dit aux annonces \u00c3\u00a9conomiques. Le secteur de la finance est surtout impact\u00c3\u00a9 par les annonces de taux directeurs et celles refl\u00c3\u00a9tant la sant\u00c3\u00a9 financi\u00c3\u00a8re des consommateurs (confiance, d\u00c3\u00a9penses personnelles, emploi). Le secteur des Utilities (services aux collectivit\u00c3\u00a9s) est tr\u00c3\u00a8s impact\u00c3\u00a9 par les stocks, l\u00e2\u0080\u0099inflation et quelques indicateurs d\u00e2\u0080\u0099activit\u00c3\u00a9 (Chicago PMI, production industrielle). Enfin, au sein des 8 sous-secteurs de l\u00e2\u0080\u0099industrie, il convient de distinguer les secteurs cycliques, tr\u00c3\u00a8s li\u00c3\u00a9s \u00c3 la conjoncture et fortement influenc\u00c3\u00a9s par les variables d\u00e2\u0080\u0099activit\u00c3\u00a9, des secteurs plus d\u00c3\u00a9fensifs, qui r\u00c3\u00a9agissent \u00c3 un nombre plus restreint d\u00e2\u0080\u0099indicateurs.",
+            "keywords": [
+                "Corporate bonds",
+                "credit spreads",
+                "event studies."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/solwpaper/06-003.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Desarrollo de una metodolog\u00c3\u00ada para el an\u00c3\u00a1lisis y el pron\u00c3\u00b3stico de acciones de la Bolsa Mexicana de Valores basada en optimizaci\u00c3\u00b3n / Development of a methodology for the analysis and forecasting for stocks of the Mexican Stock Exchange",
+            "abstract": "En este trabajo, se presenta una nueva metodolog\u00c3\u00ada para analizar y predecir el comportamiento de acciones de la Bolsa Mexicana de Valores basada en la concatenaci\u00c3\u00b3n sin\u00c3\u00a9rgica de estrategias estad\u00c3\u00adsticas no param\u00c3\u00a9tricas y modelos multiobjetivos de optimizaci\u00c3\u00b3n. Esta metodolog\u00c3\u00ada involucra dos fases, la primera, de filtrado, constituye un proceso automatizado para el an\u00c3\u00a1lisis, evaluaci\u00c3\u00b3n y selecci\u00c3\u00b3n de la informaci\u00c3\u00b3n necesaria y pertinente, para la caracterizaci\u00c3\u00b3n del comportamiento de cada acci\u00c3\u00b3n; posteriormente, la segunda fase de ajuste del modelo, involucra adaptar y resolver un modelo multiobjetivo para la predicci\u00c3\u00b3n de precios de las acciones seleccionadas. La base de datos empleada considera el comportamiento de doce acciones representativas en la Bolsa Mexicana de Valores en el periodo 2006 al 2016, el c\u00c3\u00b3digo fuente utilizado se encuentra disponible en \u00e2\u0080\u009chttp://bit.ly/396h3J1\u00e2\u0080\u009d; los datos fueron obtenidos de una plataforma especializada sobre mercados financieros en Latinoam\u00c3\u00a9rica (Economatica, n.d). Los resultados num\u00c3\u00a9ricos obtenidos muestran que la fase de filtrado es capaz de identificar un conjunto compacto de variables relevantes con alta influencia en el precio futuro de cada acci\u00c3\u00b3n en particular. En la segunda fase, se emplearon los datos del 2016 como valores a predecir sobre el modelo multiobjetivo y, comparado con el modelo de regresi\u00c3\u00b3n lineal m\u00c3\u00baltiple, se observa una mejora considerable en la calidad de los datos pronosticados, haciendo que el modelo generado a partir de la segunda fase tenga una confiabilidad mayor al 95%. / In this paper, a new methodology is presented to analyze and predict the behavior of stocks in the Mexican Stock Market based on the synergistic concatenation of non-parametric statistical strategies and multi-objective optimization models. This methodology involves two phases. The first (filtering) leverages an automated process for the analysis, evaluation, and selection of the necessary and relevant information for the characterization of the behavior of each action. The second (the model adjustment phase) involves adapting and solving a multi-objective model for the prediction of prices of the selected stocks. The database used for this research includes the behavior of twelve significant stocks in the Mexican stock exchange during the 2006 to 2016 period, the source code used is available at \u00e2\u0080\u009chttp://bit.ly/396h3J1\u00e2\u0080\u009d; the data was obtained from a specialized financial markets platform for Latin America. The numerical results show that the filtering phase can identify a compact set of relevant variables with a significant influence on the future price of each stock. In the second phase, the data from 2016 is used to predict the multi-objective model, which compared with the multiple linear regression model, provides a considerable improvement in the quality of the predicted observed data. The model generated from the second phase has a reliability greater than 95%.",
+            "keywords": [
+                "modelos multiobjetivo",
+                "modelo geom\u00c3\u00a9trico browniano",
+                "algoritmos gen\u00c3\u00a9ticos",
+                "b\u00c3\u00basqueda arm\u00c3\u00b3nica / Multi-objective Models",
+                "Brownian Geometric Model",
+                "Harmony Search",
+                "Genetic Algorithms."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sfrefruam/v_3a10_3ay_3a2020_3ai_3a2_3ap_3a129-162.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Persistence of shocks in CDS returns on Croatian bonds: Quantile autoregression approach",
+            "abstract": "The paper aims to examine persistence of shocks in returns on CDS for 5Y Croatian bonds. Based on sample of daily data from January 6, 2004 up until December 13, 2019 the paper evaluated research hypothesis that assumed persistence of shocks in returns on 5Y Croatian bond. To evaluate the research hypothesis, the paper employed quantile autoregression approach and nonparametric time varying autoregreession approach. The empirical results rejected the research hypothesis assuming persistence of shocks in returns on CDS for 5Y Croatian bonds. Based on the results from this paper, returns on CDS from for 5Y Croatian bonds are in line with efficient market hypothesis for endogenous shocks of small magnitude and at the highest level of endogenous shocks. Furthermore, efficient market hypothesis holds during the calm periods, while during the periods with more dynamics in CDS prices the paper suggests profitable strategy for trader and investors. Eventually, the paper contributes to the ongoing discussion regarding efficient market hypothesis while revealing the case of returns on CDS for 5Y Croatian bonds. Furthermore, the paper suggests trading and investment strategies for investors.",
+            "keywords": [
+                "CDS returns",
+                "bonds",
+                "quantile autoregression",
+                "persistence of shocks",
+                "efficient market hypothesis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rfezbefri/v_3a37_3ay_3a2019_3ai_3a2_3ap_3a759-775.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

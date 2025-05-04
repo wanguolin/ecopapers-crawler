@@ -1,0 +1,163 @@
+{
+    "page_info": {
+        "page_number": 256,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Stock market reaction to fed funds rate surprises: state dependence and the financial crisis",
+            "abstract": "This paper examines the impact of Federal Funds rate (FFR) surprises on stock returns in the United States over the period 1989-2009, focusing on the impact of the recent financial crisis. We find that prior to the crisis, stock prices increased as a response to unexpected FFR cuts. State dependence is also identified with stocks exhibiting larger increases when interest rate easing coincided with recessions, bear stock markets, and tightening credit market conditions. However, an important structural shift took place during the financial crisis, which changed the stock market response to FFR shocks, as well as the nature of state dependence. Specifically, during the crisis period stock market participants did not react positively to unexpected FFR cuts. Our results highlight the severity of the recent financial turmoil episode and the ineffectiveness of conventional monetary policy close to the zero lower bound for nominal interest rates.",
+            "keywords": [
+                "Monetary Policy",
+                "Stock Market",
+                "State Dependence",
+                "Financial Crisis"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/glaglaewp/2012_5f11.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Effects of the Federal Reserve Chair\u00e2\u0080\u0099s Testimony on Interest Rates and Stock Prices",
+            "abstract": "We study how congressional testimony about monetary policy by the Chair of the Board of Governors of the Federal Reserve System affects interest rates and stock prices. First, we study testimony associated with the Federal Reserve\u00e2\u0080\u0099s Monetary Policy Reports (MPRs) to Congress. Testimony for a particular MPR is usually given on two days, one day for each chamber of Congress. We separately study the first day and second day of MPR testimony. We also study testimonies not associated with MPRs but that are still related to monetary policy. We find that first-day MPR testimonies cause the largest movements in interest rates and generate negative co-movement between interest rates and stock prices. Testimonies not associated with MPRs have similar but weaker effects. Second-day MPR testimonies cause the smallest movements in interest rates and generate no co-movement between interest rates and stock prices.",
+            "keywords": [
+                "Eurodollar future",
+                "event study",
+                "forward guidance",
+                "S&P 500",
+                "Treasury note"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedcwq/97285.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "On the Predictability of the DJIA and S&P500 Indices",
+            "abstract": "We obtained from Standard and Poor's Corporation, the complete 126-year history of the Dow Jones Industrial Average (DJIA) daily closing prices. We are applying rolling window averaging and adaptive learning methodologies, coupled with robust estimation methods, to examine which are the best forecasting models over a broad range of economic and financial conditions during the life of the index, based on daily and monthly stock index prices and daily, monthly, and semi-annual stock returns. Why is an AR(1) model a reasonable benchmark of stock prices? Why do we have it? What should be our forecasting benchmarks? Let us briefly re-visit the history of stock price research and efficient markets. Do we find forecasting improvements from the Hendry-Castle-Doornik-Clements approach using robust forecasting methodologies and saturation variables in the prices of the index? Given that the DJIA fell over 15% during the first half of 2022, is this one of the worst six-month periods ever? What has happened to the Dow, historically, during such periods in the past with regards to six-month, one-year, and three-year-ahead stock returns? Is capitalism dead or doomed? We report statistically significant forecasting improvement from saturation and robust forecasting techniques during the 1896 -June 2022 period. We report forecasted stock returns for the next 6 months and three years that are bullish. In the King's English, June 30, 2022 was another excellent common stock buying opportunity and capitalism is not dead.",
+            "keywords": [
+                "forecasting financial prices",
+                "forecasting financial returns",
+                "leading economic indicator",
+                "return volatility",
+                "rolling window averaging"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/gwcwpaper/2023-001.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price Reaction to Information with Heterogeneous Beliefs and Wealth Effects: Underreaction, Momentum, and Reversal",
+            "abstract": "This paper analyzes how asset prices in a binary market react to information when traders have heterogeneous prior beliefs. We show that the competitive equilibrium price underreacts to information when there is a bound to the amount of money traders are allowed to invest. Underreaction is more pronounced when prior beliefs are more heterogeneous. Even in the absence of exogenous bounds on the amount that traders can invest, prices underreact to information provided that traders become less risk averse as their wealth increases. In a dynamic setting, underreaction results in initial momentum and then reversal in the long run. (JEL D83, D84, G11, G12, G14)",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/aeaaecrev/v_3a105_3ay_3a2015_3ai_3a1_3ap_3a1-34.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "ECB communication sentiments: How do they relate to the economic environment and financial markets?",
+            "abstract": "In this paper we examine multiple dimensions of ECB monetary policy communication by identifying its sentiment and relation with the economic environment and financial markets. We quantify communication sentiment using transcripts from official ECB communication events \u00e2\u0080\u0093 press conferences, accounts and Executive Board speeches \u00e2\u0080\u0093 as well as media reactions that highlight the key messages of those events. Importantly, we create distinctive lexicons for both of those communication types. We find that the overall trends in the sentiment indices for the analysed communication events closely resemble the movements of monetary policy stance as well as inflation dynamics in the euro area, both before and after the COVID-19 shock period. The communication tone generally shifts in advance of actual monetary policy actions. Using regression analysis, we find some expected, statistically significant effects of press conference sentiment on bank stock prices (information-type shock) and identify the impact of Executive Board speeches on euro area risk-free rates. Fragmentation issues among euro area member states do not seem to be negatively affected by the sentiments of the ECB\u00e2\u0080\u0099s communication. Still, policy makers should be aware that the tone of their communication events is likely to affect particular financial markets. These results are confirmed by various robustness checks.",
+            "keywords": [
+                "ECB",
+                "Monetary policy",
+                "Communication",
+                "Sentiment analysis",
+                "Fiscal costs",
+                "Financial markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejebusi/v_3a131_3ay_3a2024_3ai_3ac_3as0148619524000407.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Effect of COVID-19 Pandemic on the Stock Market of Agri-food Companies in Poland",
+            "abstract": "Purpose: The aim of this study was to compare the effect of shock related to the COVID pandemic on the rates of return from shares of agri-food companies in Poland. Project/Methodology/Approach: In order to investigate the effect of the COVID pandemic on the capital market abnormal rates of return from shares were calculated as those rates of return, which may be considered the response of the market to the outbreak of the pandemic and its consequences. Results: Results of this analysis indicate a considerable drop in share prices and rates of return from shares of the WIG companies and agri-food companies following the detection of the first coronavirus case. In the analysed period the rates of return from shares of agri-food companies were higher than those from the WIG companies. Practical implications: This study indicates a research gap in this respect. The investigations have a huge effect on decisions of investors, enterprises from the agri-food sector and agribusiness. Results of this study will provide insight into the situation in the stock market during the pandemic, while they will also aid entities when making investment decisions and planning for the future. Originality/value: The novelty of this paper is connected with the contribution to science, since it is the first empirical study concerning the effect of the COVID-19 pandemic on the stock market in the agri-food sector of Poland.",
+            "keywords": [
+                "Coronavirus",
+                "COVID-19",
+                "stock market",
+                "Pandemic",
+                "SARS-CoV-2",
+                "agri-food companies",
+                "Poland"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ersjournl/v_3axxiv_3ay_3a2021_3ai_3aspecial2-part1_3ap_3a274-290.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The dynamics of U.S. equity risk premia: lessons from professionals'view",
+            "abstract": "Semi-annual surveys carried out by J. Livingston on a panel of experts have enabled us to compute the expected returns over the time span 1-semester and 2-semesters ahead on a portfolio made up of US industrial stocks. We calculated about 3000 individual ex-ante equity risk premia over the period 1952 to 1993 (82 semesters) defined as the difference between these expected stock returns and the risk-free forward rate given by zero coupon bonds. Unlike any other study, our contribution is to analyse premia deduced from surveys data, at the micro level, per date and over a long period. Three main conclusions may be drawn from our analysis of these ex-ante premia. First, the mean values of these premia are closer to the predictions derived from the consumption-based asset pricing theory than the ones obtained for the ex-post premia. Second, the experts' professional affiliation appears to be a significant criterion in discriminating premia. Third, in accordance with the Arbitrage Pricing Theory, individual ex-ante premia depend both on macroeconomic and idiosyncratic common factors: the former are represented by a set of macroeconomic variables observable by all agents, and the latter by experts\u00e2\u0080\u0099 personal forecasts about the future state of the economy, as defined by expected inflation and industrial production growth rate.",
+            "keywords": [
+                "Stock price expectations",
+                "equity risk premium",
+                "survey micro data"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2009-25.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Term structure of interest rates: modelling the risk premium using a two horizons framework",
+            "abstract": "This paper proposes a hybrid two-horizon risk premium model with one- and two-period maturity debts, among which the risky asset and the riskless one depend on agents\u00e2\u0080\u0099 investment horizon. A representative investor compares at each horizon the ex-ante premium offered by the market with the value they require to take a risky position, with the aim of choosing between a riskless and a risky strategy. Due to market frictions, the premium offered adjusts gradually to its required value determined by the portfolio choice theory. The required market risk premium is defined as a time-varying weighted average of the required 1- and 2-period horizon premia, where the weights represent the degree of preference of the market for each of the horizons. Our framework is more general than the standard model of the term structure of interest rates where it is assumed that the 1-period rate is the riskless rate at any time and for all agents. Setting one period equal to three months, we use 3-month ahead expected values of the US 3-month Treasury Bill rate provided by Consensus Economics surveys to estimate our 3- and 6-month horizon risk premium model using the Kalman filter methodology. We find that both 3- and 6-month maturity rates represent the riskless and the risky rates with a time-varying market preference for the former rate of about two-thirds. This result strongly rejects the standard model and shows the importance of taking into account the market preference for alternative horizons when describing risky strategies in interest rate term structure modelling.",
+            "keywords": [
+                "interest rates",
+                "risk premium",
+                "survey data"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2018-25.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Leverage Causes Fat Tails and Clustered Volatility",
+            "abstract": "We build a simple model of leveraged asset purchases with margin calls. Investment funds use what is perhaps the most basic financial strategy, called \"value investing,\" i.e., systematically attempting to buy underpriced assets. When funds do not borrow, the price fluctuations of the asset are approximately normally distributed and uncorrelated across time. This changes when the funds are allowed to leverage, i.e., borrow from a bank, which allows them to purchase more assets than their wealth would otherwise permit. During good times funds that use more leverage have higher profits, increasing their wealth and making them dominant in the market. However, if a downward price fluctuation occurs while one or more funds are fully leveraged, the resulting margin call causes them to sell into an already falling market, amplifying the downward price movement. If the funds hold large positions in the asset this can cause substantial losses. This in turns leads to clustered volatility: Before a crash, when the value funds are dominant, they damp volatility, and after the crash, when they suffer severe losses, volatility is high. This leads to power law tails which are both due to the leverage-induced crashes and due to the clustered volatility induced by the wealth dynamics. This is in contrast to previous explanations of fat tails and clustered volatility, which depended on \"irrational behavior,\" such as trend following. A standard (supposedly more sophisticated) risk control policy in which individual banks base leverage limits on volatility causes leverage to rise during periods of low volatility, and to contract more quickly when volatility gets high, making these extreme fluctuations even worse.",
+            "keywords": [
+                "Systemic risk",
+                "Clustered volatility",
+                "Fat tails",
+                "Crash",
+                "Margin calls",
+                "Leverage"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cwlcwldpp/1745r.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Leverage Causes Fat Tails and Clustered Volatility",
+            "abstract": "We build a simple model of leveraged asset purchases with margin calls. Investment funds use what is perhaps the most basic financial strategy, called \"value investing,\" i.e. systematically attempting to buy underpriced assets. When funds do not borrow, the price fluctuations of the asset are normally distributed and uncorrelated across time. All this changes when the funds are allowed to leverage, i.e. borrow from a bank, to purchase more assets than their wealth would otherwise permit. During good times competition drives investors to funds that use more leverage, because they have higher profits. As leverage increases price fluctuations become heavy tailed and display clustered volatility, similar to what is observed in real markets. Previous explanations of fat tails and clustered volatility depended on \"irrational behavior,\" such as trend fol\u00c2\u00adlowing. Here instead this comes from the fact that leverage limits cause funds to sell into a falling market: A prudent bank makes itself locally safer by putting a limit to leverage, so when a fund exceeds its leverage limit, it must partially repay its loan by selling the asset. Unfortunately this sometimes happens to all the funds simultaneously when the price is already falling. The resulting nonlinear feedback amplifies large downward price movements. At the extreme this causes crashes, but the effect is seen at every time scale, producing a power law of price disturbances. A standard (supposedly more sophisticated) risk control policy in which individual banks base leverage limits on volatility causes leverage to rise during periods of low volatility, and to contract more quickly when volatility gets high, making these extreme fluctuations even worse.",
+            "keywords": [
+                "Systemic risk",
+                "Clustered volatility",
+                "Fat tails",
+                "Crash",
+                "Margin calls",
+                "Leverage"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cwlcwldpp/1745.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is a Normal Copula the Right Copula?",
+            "abstract": "We derive computationally simple and intuitive expressions for score tests of Gaussian copulas against Generalised Hyperbolic alternatives, including symmetric and asymmetric Student t, and Hermite polynomial expansions. We decompose our tests into third and fourth moment components, and obtain one-sided Likelihood Ratio analogues, whose asymptotic distribution we provide. We conduct Monte Carlo exercises to assess the finite sample properties of asymptotic and bootstrap versions of our tests. In an empirical application to CRSP stocks, we find that short-term reversals and momentum effects are better captured by non-Gaussian copulas. We estimate their parameters by indirect inference, and devise successful trading strategies.",
+            "keywords": [
+                "Cokurtosis",
+                "coskewness",
+                "indirect inference",
+                "Kuhn-Tucker test",
+                "momentum strategies",
+                "non-linear dependence",
+                "short-term reversals",
+                "supremum test",
+                "underidentified parameters."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cmfwpaper/wp2015_5f1504.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "ECB monetary policy communication: does it move euro area yields?",
+            "abstract": "In this paper we examine multiple dimensions of ECB monetary policy communication by identifying its sentiment and relation with the economic environment and financial markets. We quantify communication sentiment using transcripts from official ECB communication events \u00e2\u0080\u0093 press conferences, accounts and Executive Board speeches \u00e2\u0080\u0093 as well as media reactions that highlight the key messages of those events. Importantly, we create unique lexicons for both of those communication types. We find that the overall trends in the sentiment indices for the analysed communication events closely resemble the movements of monetary policy stance as well as macroeconomic indicators in the euro area, both before and after the COVID-19 shock period. The communication tone generally shifts in advance of actual monetary policy actions. Using regression analysis, we find some expected, statistically significant effects of press confer-ence sentiment on bank stock prices (information-type shock) and identify the impact of Executive Board speeches on euro area fiscal borrowing costs (short-term OIS rates). Fragmentation issues among euro area member states do not seem to be negatively affected by the sentiments of the ECB\u00e2\u0080\u0099s communication. Still, policy makers should be aware that the tone of their communication events is likely to affect particular financial markets.",
+            "keywords": [
+                "ECB",
+                "monetary policy",
+                "communication",
+                "sentiment analysis",
+                "euro area",
+                "financial markets."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/liedpaper/29.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

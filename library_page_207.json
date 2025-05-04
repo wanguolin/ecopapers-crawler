@@ -1,0 +1,154 @@
+{
+    "page_info": {
+        "page_number": 207,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Volatility, Valuation Ratios, and Bubbles: An Empirical Measure of Market Sentiment",
+            "abstract": "We define a sentiment indicator that exploits two contrasting views of return predictability, and study its properties. The indicator, which is based on option prices, valuation ratios and interest rates, was unusually high during the late 1990s, reflecting dividend growth expectations that in our view were unreasonably optimistic. We interpret it as helping to reveal irrational beliefs about fundamentals. We show that our measure is a leading indicator of detrended volume, and of various other measures associated with financial fragility. We also make two methodological contributions. First, we derive a new valuation-ratio decomposition that is related to the Campbell and Shiller (1988) loglinearization, but which resembles the traditional Gordon growth model more closely and has certain other advantages for our purposes. Second, we introduce a volatility index that provides a lower bound on the market's expected log return.",
+            "keywords": [
+                "Volatility",
+                "Valuation ratios",
+                "Bubbles",
+                "Sentiment",
+                "Option prices"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/13454.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market efficiency in the age of big data",
+            "abstract": "Modern investors face a high-dimensional prediction problem: thousands of observable variables are potentially relevant for forecasting. We reassess the conventional wisdom on market efficiency in light of this fact. In our equilibrium model, N assets have cash flows that are linear in J characteristics, with unknown coefficients. Risk-neutral Bayesian investors learn these coefficients and determine market prices. If J and N are comparable in size, returns are cross-sectionally predictable ex post. In-sample tests of market efficiency reject the no-predictability null with high probability, even though investors use information optimally in real time. In contrast, out-of-sample tests retain their economic meaning.",
+            "keywords": [
+                "Bayesian learning",
+                "high-dimensional prediction problems",
+                "return predictability",
+                "out-of-sample tests"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ehllserod/112960.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The predictive power of the implied volatility of interest rates: Evidence from US Dollar, Euro, and Japanese Yen",
+            "abstract": "This is the first paper to analyze the predictability of implied volatility based on swaption for the major currencies US Dollar (USD), Euro (EUR), and Japanese Yen (JPY). Managing interest rate risk is of huge importance for risk management in financial institutions, and swaption is an over-the-counter contract and well-used instrument that enables us to test whether the option contains the information required to predict future realized volatility. Our result shows that implied volatility has greater power to predict future realized volatility compared with the GARCH prediction or HV for the USD and EUR, which is consistent with the equity or futures options markets. However, the GARCH forecast and HV have stronger predictive power for JPY because of the lack of liquidity.",
+            "keywords": [
+                "Implied volatility",
+                "Predictive power",
+                "GARCH",
+                "Swaption"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/keodpaper/2016-018.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does the Open Limit Order Book Reveal Information About Short-run Stock Price Movements?",
+            "abstract": "This paper empirically tests whether an open limit order book contains information about future short-run stock price movements. To account for the discrete nature of price changes, the integer-valued autoregressive model of order one is utilized. A model transformation has an advantage over conventional count data approaches since it handles negative integer-valued price changes. The empirical results reveal that measures capturing offered quantities of a share at the best bid- and ask-price reveal more information about future short-run price movements than measures capturing the quantities offered at prices below and above. Imbalance and changes in offered quantities at prices below and above the best bid- and ask-price do, however, have a small and significant effect on future price changes. The results also indicate that the value of order book information is short-term.",
+            "keywords": [
+                "Negative integer-valued data",
+                "time series",
+                "INAR",
+                "finance",
+                "stock price",
+                "open limit order book"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhsumnees/0687.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market Efficiency in the Age of Big Data",
+            "abstract": "Modern investors face a high-dimensional prediction problem: thousands of observable variables are potentially relevant for forecasting. We reassess the conventional wisdom on market efficiency in light of this fact. In our model economy, which resembles a typical machine learning setting, N assets have cash flows that are a linear function of J firm characteristics, but with uncertain coefficients. Risk-neutral Bayesian investors impose shrinkage (ridge regression) or sparsity (Lasso) when they estimate the J coefficients of the model and use them to price assets. When J is comparable in size to N, returns appear cross-sectionally predictable using firm characteristics to an econometrician who analyzes data from the economy ex post. A factor zoo emerges even without p-hacking and data-mining. Standard in-sample tests of market efficiency reject the no-predictability null with high probability, despite the fact that investors optimally use the information available to them in real time. In contrast, out-of-sample tests retain their economic meaning.",
+            "keywords": [
+                "Bayesian learning",
+                "high-dimensional prediction problems",
+                "return predictability",
+                "out-of-sample tests"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cesceswps/_5f8015.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Hong Kong: A Bridge Connecting Mainland China and the International Market",
+            "abstract": "Chow et al. (2011) apply three time-varying parameter methods to investigate the relationship between the stock markets of Shanghai and New York and find that the mutual influence between the two markets has increased since 2002. We reconsider their approaches and find that two suffer from parameter underidentification and all three from underspecification of the parameter variation. We include Hong Kong in an analysis based on standard and partial correlations over a running window in order to depict the change in the mutual relationships between these three markets. It is found that the observed increasing co-movement between Shanghai and New York is mainly due to the channel of Hong Kong. So Hong Kong appears to connect mainland China with the global market.",
+            "keywords": [
+                "China",
+                "Co-movement, Globalization",
+                "Specification analysis, Stock markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/nanwpaper/1406.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "On the Possibility of Stock Market Crashes in the Absence of Portfolio Insurance",
+            "abstract": "stock market crash on hedging strategies by portfolio insurers, which dictated selling stocks as soon as prices fell. The fact that the practice of buying and selling stocks as portfolio insurance has virtually disappeared since then has given many comfort that a replay of the 1987 crash, when prices fell so much so quickly, is unlikely. This note argues with this view by developing a model in which crashes are possible in the absence of portfolio insurance. In our model, a crash is driven by panic selling among rational but uninformed traders.",
+            "keywords": [
+                "Giffen Effect",
+                "Portfolio Insurance",
+                "Hedging Demand",
+                "Market Crashes"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/nwucmsems/1252.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Towards an understanding approach of the insurance linked securities market",
+            "abstract": "The paper aims to present the insurance linked securities market behaviour, that has changed a lot the past three years, both in terms of structure and in terms of ceded risks. After having introduced some stylized facts characterizing the insurance linked securities we capture their market price of risk, following the methodologies of Wang (2004), Lane (2000) and Fermat Capital Management (2005). A dynamical study of the insurance linked securities is also provided in order to understand the elements driving the spreads: the consequences of the catastrophic events, the seasonality and the diversification effects between some different risks are highlighted",
+            "keywords": [
+                "Insurance linked securities",
+                "cat. bonds",
+                "market price of risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/msecesdoc/b08006.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impact of information cost and switching of trading strategies in an artificial stock market",
+            "abstract": "This paper studies the switching of trading strategies and its effect on the market volatility in a continuous double auction market. We describe the behavior when some uninformed agents, who we call switchers, decide whether or not to pay for information before they trade. By paying for the information they behave as informed traders. First, we verify that our model is able to reproduce some of the stylized facts in real financial markets. Next we consider the relationship between switching and the market volatility under different structures of investors. We find that there exists a positive relationship between the market volatility and the percentage of switchers. We therefore conclude that the switchers are a destabilizing factor in the market. However, for a given fixed percentage of switchers, the proportion of switchers that decide to buy information at a given moment of time is negatively related to the current market volatility. In other words, if more agents pay for information to know the fundamental value at some time, the market volatility will be lower. This is because the market price is closer to the fundamental value due to information diffusion between switchers",
+            "keywords": [
+                "Agent-based model",
+                "heterogeneity",
+                "switching behavior",
+                "market volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/msecesdoc/14031.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Further evidence on the impact of economic news on interest rates",
+            "abstract": "US interest rates'overnight reaction to macroeconomic announcements is of tremendous importance trading fixed income securities. Most of the empirical studies achieved so far either assumed that the interest rates' reaction to announcements is linear or independent to the state of the economy. We investigate the shape of the tern structure reaction of the swap rates to announcements using several linear and non-linear time series models. The empirical results yield several not-so-well-known stylized facts about the bond market. First, and although we used a daily dataset, we find that the introduction of non linear models leads to the finding of a significant number of macroeconomic figures that actually produce an effect over the yield curve. Most of the studies using daily datasets did not corroborate so far this conclusion. Second, we find that the term structure response to announcements can be much more complicated that what is generally found: we noticed at least four types of patterns in the term structure reaction of interest rates across maturities, including the hump-shaped one that is generally considered. Third, by comparing the shapes of the rates' term structure reaction to announcements with the first four factors obtained when performing a principal component analysis of the daily changes in the swap rates, we propose a first interpretation and classification of these different shapes. Fourth, we find that the existence of some outliers in the one-day changes in interest rates usually leads to a strong underestimation of the reaction of interest rates to announcements, explaining the different results obtained between high-frequency and daily datasets: the first type of study seems to lead to the finding of fewer market mover announcements",
+            "keywords": [
+                "Macroeconomic announcements",
+                "interest rates dynamic",
+                "outliers",
+                "reaction function",
+                "principale component analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/msecesdoc/b07062.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Relations intrajournali\u00c3\u00a8res entre l'indice CAC 40 et les options sur indice. Quel est le march\u00c3\u00a9 pr\u00c3\u00a9f\u00c3\u00a9r\u00c3\u00a9 des investisseurs inform\u00c3\u00a9s ?",
+            "abstract": "The aim of this paper is to examine Granger linear and non-linear causality between CAC 40 index and European CAC 40 index option for 1997 and 1998. Our results indicate overall that cash index leads index options by 20 to 30 minutes. Market microstructure differences induce relatively infrequent trading in option market and consequently cause stock to lead. We find also a significant bi-directional causality between the two markets, revealing the activity of arbitrageurs",
+            "keywords": [
+                "Tranmission of information, Options Market",
+                "Linear and Non-Linear causality"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/msewpsorb/bla00110.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Size, Book-to-Market Ratio and Macroeconomic News",
+            "abstract": "Little is known about the reactions of daily returns on portfolios with different characteristics to unexpected changes in macroeconomic conditions. This paper fills this void by analyzing the reactions of daily returns on portfolios formed on size and book-to-market ratio to news about a wide range of macroeconomic variables. Returns on different portfolios not only react to different news but also react differently to the same news. Reactions of portfolios to macroeconomic news also change over the business cycle. Results are strongest for news about employees on nonfarm payrolls in expansions. Both at daily and monthly frequencies, large and growth firms react differently to employment news from small and value firms in expansions but not in recessions. Differences in the sensitivities of expected future cash flows to employment news in expansions can help explain differences in the observed reactions.",
+            "keywords": [
+                "Macroeconomic News",
+                "Employees on Nonfarm Payrolls",
+                "Business Cycles",
+                "Cash Flow",
+                "Discount Rate",
+                "Return Decomposition"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/lvllacicr/1033.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

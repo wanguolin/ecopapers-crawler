@@ -1,0 +1,162 @@
+{
+    "page_info": {
+        "page_number": 78,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "ETF Arbitrage, Non-Fundamental Demand, and Return Predictability*",
+            "abstract": "Non-fundamental demand shocks have significant effects on asset prices, but observing these shocks is challenging. We use the exchange-traded fund (ETF) primary market to study non-fundamental demand. Unique to the ETF market, specialized arbitrageurs called authorized participants correct violations of the law of one price between an ETF and its underlying assets by creating or redeeming ETF shares. We show theoretically and empirically that creation and redemption activities (ETF flows) provide signals of non-fundamental demand shocks. A portfolio that is short high-flow ETFs and long low-flow ETFs earns excess returns of 1.1\u00e2\u0080\u00932.0% per month, consistent with non-fundamental demand distorting asset prices away from fundamental values. Moreover, we show non-fundamental demand imposes non-trivial costs on investors, leading to underperformance.",
+            "keywords": [
+                "Exchange-traded funds (ETFs)",
+                "ETF flows",
+                "Non-fundamental demand",
+                "return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ouprevfin/v_3a25_3ay_3a2021_3ai_3a4_3ap_3a937-972..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock market efficiency in South Eastern Europe: testing return predictability and presence of calendar effects",
+            "abstract": "This paper examines the calendar effects in ten South Eastern European (SEE) stock markets daily returns during the period 2007 - 2014. We focus on three calendar effects: the day of the week effect, the half month effect and the turn of the month effect. Specifically, we analyze existence of each calendar effect separately in the mean and in the volatility of the index returns. We apply standard regression models with dummy variables for the effects in the mean returns, while we apply GARCH(1,1) models with dummy variables for the effects in the volatility of returns. The results present evidence that the day of the week effects in both mean and volatility are present in nine out of ten SEE stock markets. Contrary, the half month effect in mean returns is present only in one SEE stock market, while half month effect in volatility is present in five out of ten SEE stock markets. The turn of the month effect in mean returns is present in six out of ten SEE stock markets. The turn of the month effect in volatility is present in all SEE stock markets.",
+            "keywords": [
+                "Calendar anomalies",
+                "Daily returns",
+                "Generalized autoregressive models",
+                "South Eastern Europe."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/76818.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Volatilitede uzun haf\u00c4\u00b1za ve yap\u00c4\u00b1sal k\u00c4\u00b1r\u00c4\u00b1lma: Borsa Istanbul \u00c3\u00b6rne\u00c4\u009fi",
+            "abstract": "The aim of this paper is to examine validity of the efficient market hypothesis in Borsa \u00c4\u00b0stanbul. Daily returns series are calculated by using daily closing price for B\u00c4\u00b0ST100 and B\u00c4\u00b0ST30 indices for periods of 1988-2014 and the presence of long memory on the volatility of the returns series is examined by means of Adaptive-FIGARCH (A-FIGARCH) model proposed by Baillie and Morana (2009). Empirical results suggest that there are multiple structural breaks on variance of returns series and A-FIGARCH model outperforms. In addition, it is found evidence in favor of long memory on the conditional variance of returns series and hence it can be said that Borsa \u00c4\u00b0stanbul is not weak form efficient market.",
+            "keywords": [
+                "Efficient Market Hypothesis",
+                "Long Memory",
+                "Random Walk",
+                "A-FIGARCH"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/71485.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Analysis of the Impact of Weather on Trading in Equity Markets",
+            "abstract": "This paper analyzes the impact of weather on the investment in the Czech and U.S. stock markets. It relies on the concept of behavioral finance, which analyzes the impact of psychology on investor decision-making. The influence of atmospheric phenomena is mainly studied as impact of occurrence of snow, rain or fog on the market returns. The research results show the impact of these phenomena only in a minority of cases. The research also analyzes the impact of the autumn season (SAD effect) on the psychology of investors and therefore market returns. This sequence wasn't rebutted only at the Czech stock market. The incidence of observed atmospheric effects also failed to explain the January and Monday effects.",
+            "keywords": [
+                "Behavioral finance",
+                "Weather",
+                "Monday effect",
+                "January effect",
+                "Behavior\u00c3\u00a1ln\u00c3\u00ad finance",
+                "Po\u00c4\u008das\u00c3\u00ad",
+                "Pond\u00c4\u009bln\u00c3\u00ad efekt",
+                "Lednov\u00c3\u00bd efekt"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/prgjnlcfu/v_3a2010_3ay_3a2010_3ai_3a3_3aid_3a75_3ap_3a49-62.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does the Russia-Ukraine war lead to currency asymmetries? A US dollar tale",
+            "abstract": "We examine the impact of the Russia-Ukraine war on the value of global currencies against the US dollar (USD) using event study methodology and market model estimates. We show that the Russia-Ukraine conflict had a negative impact on the value of the global currencies; however, a region-by-region analysis shows that while European currencies (particularly the Russian rouble, Czech koruna, and Polish zloty) depreciated against the USD, Pacific currencies appreciated significantly, and the currencies of the Middle East and Africa (ME&A) are insignificant. We also show that due to the financial and economic sanctions imposed on Russia, as well as Poland and the Czech Republic's proximity to the war zone, their currencies have weakened significantly against the USD. Furthermore, the Russian Central Bank's announcement to peg the rouble with gold, has had a significant positive impact on the pan-American, European (particularly the Russian rouble and the Polish zloty), and ME&A currencies. The analysis reveals a group of currencies that are unaffected by exogenous shocks. Incorporating these stable currencies into a portfolio would reduce the risk of volatile currencies. Future research can help gain additional insights by combining them with other major currencies such as the Chinese yuan, Japanese yen, British pound, and euro.",
+            "keywords": [
+                "Event study",
+                "Foreign exchange",
+                "Currency value",
+                "USD",
+                "Russia-Ukraine war"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejoecas/v_3a26_3ay_3a2022_3ai_3ac_3as1703494922000263.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sentiment Analysis of German Texts in Finance: Improving and Testing the BPW Dictionary",
+            "abstract": "focused on English-speaking content. This is due to the need for domain-specific dictionaries and the primary availability of those in English. Through the contribution of Bannier et al. (2019b), the first finance-related dictionary is available for the German language. Because of the novelty of this dictionary, this paper proposes several reforms and extensions of the original word lists. Additionally, I tested multiple measurements of sentiment. I show that using the edited and extended dictionary to calculate a relative measurement of sentiment, central assumptions regarding textual analysis can be fulfilled and more significant relations between the sentiment of a speech by a CEO at the Annual General Meeting and subsequent abnormal stock returns can be calculated.",
+            "keywords": [
+                "textual analysis",
+                "textual sentiment",
+                "sentiment analysis",
+                "content analysis",
+                "annual general meeting",
+                "CEO speeches"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sgmjbfeuw/v_3a2_3ay_3a2022_3ai_3a16_3ap_3a5-24.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Caught On Tape: Institutional Trading, Stock Returns, and Earnings Announcements",
+            "abstract": "Many questions about institutional trading can only be answered if one can track high-frequency changes in institutional ownership. In the U.S., however, institutions are only required to report their ownership quarterly in 13-F filings. We infer daily institutional trading behaviour from the ?tape?, the Transactions and Quotes database of the New York Stock Exchange, using a sophisticated method that best matches quarterly 13-F data. We find that daily institutional trades are highly persistent and respond positively to recent daily returns but negatively to longer-term past daily returns. Institutional trades, particularly sells, appear to generate short-term losses - possibly reflecting institutional demand for liquidity - but longer-term profits. One source of these profits is that institutions anticipate both earnings surprises and post-earnings-announcement drift. These results are different from those obtained using a standard size cutoff rule for institutional trades.",
+            "keywords": [
+                "Earnings announcements",
+                "Institutions",
+                "Liquidity",
+                "Post-earnings-announcement-drift",
+                "Trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/6390.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Idiosyncratic volatility puzzle: influence of macro-finance factors",
+            "abstract": "Abstract We analyze the cross-sectional relation between expected idiosyncratic volatility and stock returns. The expected idiosyncratic volatility is conditioned on macro-finance factors as well as traditional asset pricing factors. The macro-finance factors are constructed from a large set of macroeconomic and financial variables. Our results show that the negative relation between expected idiosyncratic volatility and stock returns reverses to a positive one when accounting for the macro-finance effects. Portfolio analysis shows that the positive relation is economically important. The relation between expected idiosyncratic volatility and returns is not affected by business cycle variations. The empirical results are highly robust.",
+            "keywords": [
+                "Idiosyncratic volatility puzzle",
+                "Macro-finance factors",
+                "Business cycle"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a52_3ay_3a2019_3ai_3a2_3ad_3a10.1007_5fs11156-018-0713-x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Jump Risk Implicit in Options Market",
+            "abstract": "We propose a simple procedure to recover (semi-)moments and cumulants from option data. We further derive jump risk measures based on a general asset return model with double-exponential jumps. Numerical and empirical results show that our jump variation measures outperform existing measures under specific conditions. Using return and option data on the S&P 500 index, we examine the information content of our measures, with a focus on large jumps (LJ). Our measures contribute to market realized variance and excess return prediction suggested by in- and out-of-sample tests. Accounting for LJ identified by jump variation improves market return forecast, implying a distinct impact of large and non-LJ.",
+            "keywords": [
+                "implied jumps",
+                "option prices",
+                "return predictability",
+                "large jumps"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/oupjfinec/v_3a23_3ay_3a2025_3ai_3a2_3ap_3a9-47..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Vanguard and Fidelity active stock funds: both generally beat their same-style Vanguard index funds",
+            "abstract": "Abstract This chapter contrasts the return of Vanguard and Fidelity active stock mutual funds with the same-style portfolio of Vanguard\u00e2\u0080\u0099s index funds over the ten years through 2022. Vanguard\u00e2\u0080\u0099s equally weighted portfolio of domestic active funds generally excess-returns the Vanguard same-style index fund portfolio, as does Fidelity\u00e2\u0080\u0099s equally weighted active-fund portfolio.",
+            "keywords": [
+                "Vanguard mutual funds",
+                "Fidelity",
+                "Active management",
+                "Index mutual funds"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprannopr/v_3a346_3ay_3a2025_3ai_3a1_3ad_3a10.1007_5fs10479-024-06196-x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asymmetric dynamics in correlations of treasury and swap markets: Evidence from the US market",
+            "abstract": "Using the asymmetric dynamic conditional correlation (A-DCC) model developed by Cappiello et al. (2006), this paper empirically analyzes the conditional correlation between treasury and swap markets from February 9, 2006 to May 31, 2011, and makes two key contributions. First, the dynamics of the conditional correlation of only the 2-year maturity differs from those of other maturities. These patterns might be explained by the fact that a 2-year maturity is easily affected by market forecasts of monetary policy changes by the Federal Reserve Board. Second, the financial crisis dummies (\u00ce\u00be1) are all negative in particular with significance at the 5% level for 7 year, 10 year, and 30 year maturities. This result indicates that arbitrage transactions between treasuries and swaps have not taken place on a sufficient scale during the financial crisis period. As Ito (2010) points out, market participants have been uncertain about the direction of the monetary policies of these financial institutions.",
+            "keywords": [
+                "Asymmetric dynamic conditional correlation model",
+                "Treasury market",
+                "Swap market",
+                "Financial crisis",
+                "Contagion effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a22_3ay_3a2012_3ai_3a2_3ap_3a381-394.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Blockbuster or bust? Silver screen effect and stock returns",
+            "abstract": "This study introduces a novel mood metric\u00e2\u0080\u0094blockbuster movie releases\u00e2\u0080\u0094and investigates its correlation with stock market dynamics. We document a significant positive correlation between blockbuster movie releases and US stock market returns in the subsequent week. This pattern remains robust across various robustness tests both in-sample and out-of-sample. The changes in weekly box office revenue and increased Internet searches for movie-related terms further affirm this relationship. Moreover, releases of blockbuster movies predict lower expected market volatility and risk aversion. The positive predictive effect on market returns is also evident in international markets.",
+            "keywords": [
+                "movie",
+                "blockbuster",
+                "entertainment",
+                "box office",
+                "mood",
+                "market returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ouprevfin/v_3a29_3ay_3a2025_3ai_3a2_3ap_3a603-632..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "page_info": {
+        "page_number": 193,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "High-Frequency Jump Analysis of the Bitcoin Market",
+            "abstract": "We use the database leak of Mt. Gox exchange to analyze the dynamics of the price of bitcoin from June 2011 to November 2013. This gives us a rare opportunity to study an emerging retail-focused, highly speculative and unregulated market with trader identifiers at a tick transaction level. Jumps are frequent events and they cluster in time. The order flow imbalance and the preponderance of aggressive traders, as well as a widening of the bid-ask spread predict them. Jumps have short-term positive impact on market activity and illiquidity and see a persistent change in the price.",
+            "keywords": [
+                "Jumps",
+                "Liquidity",
+                "High-frequency data",
+                "Bitcoin"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp1719.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Linkages Between Direct and Securitized Real Estate",
+            "abstract": "Using data for the 1978-2008 period, this study presents evidence for cointegration between securitized (NAREIT) and direct (NCREIF) total return indices. Cointegration between the indices indicates that REITs and direct real estate are substitutable in the portfolio of a long-horizon buy-and-hold investor. Since the real estate indices are not found to be cointegrated with the stock market, REITs and direct real estate are likely to have similar long-term diversification benefits in a stock portfolio. In line with prior expectations, only direct real estate is found to currently adjust towards the cointegrating relation, with NAREIT returns leading NCREIF returns. However, giving support to the often stated argument regarding weaker informational efficiency of the REIT market prior to the \u00e2\u0080\u009cnew REIT era\u00e2\u0080\u009d, the results show evidence for the predictability of NAREIT returns during the 1980s. It is also found that at the beginning of the \u00e2\u0080\u009cnew REIT era\u00e2\u0080\u009d a large and long-lasting deviation from the long-run relation between NAREIT and NCREIF emerged. However, there is no evidence of a permanent structural break in the long-run relation since the deviation appears to have been only temporary.",
+            "keywords": [
+                "Cointegration",
+                "Vector Error-Correction Models",
+                "Direct Real Estate",
+                "Securitized Real Estate",
+                "REITs",
+                "Diversification"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp0926.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is the Price Kernel Monotone?",
+            "abstract": "We provide a new method to derive the state price density per unit probability based on option prices and GARCH model. We derive the risk neutral distribution using the result in Breeden and Litzenberger (1978) and the historical density adapting the GARCH model of Barone-Adesi, Engle, and Mancini (2008). We take the ratio of these two probabilities in order to describe the shape of the state price density and to evaluate its consistency with economic theory. We find that using a large dataset and introducing non-Gaussian innovations, the pricing kernel puzzle that arises in Jackwerth (2000) disappears both in a single day and over an average of different days with options expiring at the same maturity. We also evaluate the price kernel at the onset of the recent crisis.",
+            "keywords": [
+                "Pricing kernel",
+                "State price density per unit probability",
+                "Risk neutral",
+                "Historical distribution"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp1003.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "To Lend or Not to Lend: The Bank of Japan\u00e2\u0080\u0099s ETF Purchase Program and Securities Lending",
+            "abstract": "This study investigates the effects of the Bank of Japan\u00e2\u0080\u0099s (BOJ) exchange-traded fund (ETF) purchase program on stock returns, particularly focusing on the role of the stock lending market. Using firm-level panel data, we find that the BOJ\u00e2\u0080\u0099s purchases raised stock returns more for those stocks with limited availability in the stock lending market. Nonetheless, over the longer term, the BOJ\u00e2\u0080\u0099s accumulated purchases lowered lending fees and weakened the effects of their purchases on stock returns. This result suggests that ETF managers supply stocks that constitute ETFs held by the BOJ to the stock lending market, which weakens the policy effects of the program.",
+            "keywords": [
+                "Large-scale asset purchase (LSAP)",
+                "ETF purchase program",
+                "stock lending market",
+                "Bank of Japan"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wapwpaper/2304.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Generalized Portfolio Sorts for Factor Validation",
+            "abstract": "Portfolio sorts are widely used in empirical asset pricing to identify firm characteristics that predict stock returns. However, such tests can conflate genuine characteristic-based predictability with persistent, firm-level heterogeneity. To address this limitation, we propose a Generalized Portfolio Sorts (GPS) model, which can exactly replicate results from all variants of conventional portfolio sorts, but can also be specified so that it separates a firm characteristic\u00e2\u0080\u0099s genuine predictive power from stable firm-level factors. We also derive a statistical test to detect whether return predictability arises from the sorting characteristic itself or from persistent, firm-level traits. Applied to a large set of proposed asset pricing predictors, we find that nearly half lose significance once persistent, firm-level heterogeneity is accounted for. The GPS-model thus strengthens factor validation, advances our understanding of the factor zoo, and provides a more robust foundation for empirical asset pricing tests.",
+            "keywords": [
+                "Portfolio sorts",
+                "cross-section of expected returns",
+                "tests of asset pricing models",
+                "random effects assumption"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp2532.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Statistical arbitrage in the U.S. treasury futures market",
+            "abstract": "We argue empirically that the U.S. treasury futures market is informational inefficient. We show that an intraday strategy based on the assumption of cointegrated treasury futures prices earns statistically significant excess return over the equally weighted portfolio of treasury futures. We also provide empirical backing for the claim that the same strategy, financed by taking a short position in the 2-Year treasury futures contract, gives rise to a statistical arbitrage.",
+            "keywords": [
+                "Market efficiency",
+                "U.S. treasury futures",
+                "statistical arbitrage",
+                "joint-hypothesis"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/usgeconwp/2017_3a16.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An Alternative Three-Factor Model for International Markets: Evidence from the European Monetary Union",
+            "abstract": "In this paper, we construct the three-factor model introduced by Chen et al. (2010) for a European sample covering 10 countries from the European Monetary Union and the period from 1990 to 2006. Two key findings result. First, we show that the properties of the European factors are comparable to those of the U.S. factors. Second, we show that the alternative three-factor model\u00e2\u0080\u0099s explanatory power is either equal or superior to the explanatory power of traditional models when applied to five commonly known stock market anomalies. Our results thus suggest the use of international versions of the Chen et al. (2010) factor model in addition to traditional factor models in international empirical finance research",
+            "keywords": [
+                "Multi-factor models",
+                "Cross-section of stock returns",
+                "Fama and French three-factor model."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/usgsfwpfi/2012_3a02.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Limits to Arbitrage during the Crisis: Finding Liquidity Constraints and Covered Interest Parity",
+            "abstract": "Arbitrage ensures that covered interest parity holds. The condition is central to price foreign exchange forwards and interbank lending rates, and reflects the efficient functioning of markets. Normally, deviations from arbitrage, if any, last seconds and reach a few basis points. But after the Lehman bankruptcy, arbitrage broke down. By replicating exactly two major arbitrage strategies and using high frequency prices from novel datasets, this paper shows that arbitrage profits were large, persisted for months and involved borrowing in dollars. Empirical analysis suggests that insufficient funding liquidity in dollars kept traders from arbitraging away excess profits.",
+            "keywords": [
+                "limits to arbitrage",
+                "covered interest parity",
+                "funding liquidity",
+                "financial crisis",
+                "slow moving capital",
+                "market freeze",
+                "unconventional monetary policy."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/usgsfwpfi/2012_3a12.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does Unobservable Heterogeneity Matter for Portfolio-Based Asset Pricing Tests?",
+            "abstract": "We show that portfolio sorts, as widely used in empirical asset pricing, tend to misattribute cross-sectional return predictability to the firm characteristic underlying the sort. Such misattribution arises if the sorting variable correlates with a firm-specific effect capturing unobservable heterogeneity across firms. We propose a new, firm-level regression approach that can reproduce the results from standard portfolio sorts. Besides, our method handles multivariate firm characteristics and, if firm fixed effects are included, is robust to misattributing cross-sectional return predictability. Our empirical results confirm that portfolio sorts have limited power in detecting abnormal returns: Several characteristics-based factors lose their predictive power when we control for unobservable heterogeneity across firms.",
+            "keywords": [
+                "Portfolio sorts",
+                "Cross-section of expected returns",
+                "Tests of asset pricing models",
+                "Random effects assumption"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/usgsfwpfi/2017_3a17.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Daily Market News Sentiment and Stock Prices",
+            "abstract": "In recent years there has been a tremendous growth in the influx of news related to traded assets in international financial markets. This financial news is now available via print media but also through real-time online sources such as internet news and social media sources. The increase in the availability of financial news and investor\u00e2\u0080\u0099s ease of access to it has a potentially significant impact on market price formation as these news items are swiftly transformed into investors sentiment which in turn drives prices. Various commercial agencies have started developing their own financial news data sets which are used by investors and traders to support their algorithmic trading strategies. Thomson Reuters News Analytics (TRNA)1 is one such data set. In this study we use the TRNA data set to construct a series of daily sentiment scores for Dow Jones Industrial Average (DJIA) stock index component companies. We use these daily DJIA market sentiment scores to study the influence of financial news sentiment scores on the stock prices of these companies using a multi-factor model. We use an augmented Fama French Three Factor Model to evaluate the additional effects of financial news sentiment on stock prices in the context of this model. Our results suggest that even when market factors are taken into account, sentiment scores have a significant effect on Dow Jones constituent company returns and that lagged daily sentiment scores are often significant, suggesting that information compounded in these scores is not immediately reflected in security prices and related return series.",
+            "keywords": [
+                "Sentiment Analysis",
+                "Financial News",
+                "Factor Models",
+                "Asset Pricing."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ucmdoicae/1511.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Credit Rating Announcements, Trading Activity and Yield Spreads: The Spanish Evidence",
+            "abstract": "We test whether or not different rating announcements contain pricing-relevant information and modify trading activity patterns in the Spanish commercial paper and corporate bond markets. We observe a statistically significant widening of yield spreads in both segments of the corporate debt market after reviews of downgrades and negative outlook reports. In addition, we find that certain rating announcements encourage trading activity even when the information is not pricing-relevant. The release of information arouses investor interest for the involved securities. Thus, trading frequency increases, although larger-sized transactions, which should denote possible portfolio rebalancing, are not observed. In the commercial paper note market, we also find that that trading volumes fade away after reviews for downgrade. Investors seem to prefer reducing the trading of these short-term securities to liquidating their positions.",
+            "keywords": [
+                "Credit rating agencies",
+                "Rating changes",
+                "Event study",
+                "Yields",
+                "Liquidity",
+                "Trading frequency",
+                "Corporate bond market",
+                "Commercial paper market."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ucmdoicae/1136.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Determinants of trading activity after rating actions in the Corporate Debt Market",
+            "abstract": "The influence of rating announcements on corporate debt market trading has been previously overlooked. Based on an event study, we examine the effects of the three types of announcements provided by credit rating agencies on abnormal trading volume and trading frequency in the Spanish corporate debt market. Additionally, by means of cross-section regressions, we establish what factors determine the sign and intensity of the trading reactions. The presented results indicate that factors related to the characteristics of the rating announcement, the issuing company and the economic environment are relevant in light of several hypotheses.",
+            "keywords": [
+                "Rating agencies",
+                "Rating announcementes",
+                "Trading volume",
+                "Trading frequency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ucmdoicae/1137.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

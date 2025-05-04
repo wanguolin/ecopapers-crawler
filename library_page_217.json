@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 217,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Political risk, investor attention and the Scottish Independence referendum",
+            "abstract": "Using data relating to the Scottish Independence referendum and a purely market-driven method for estimating the sensitivity of stocks to its result we provide evidence that the political risk associated with the referendum was priced and that investors appeared to pay attention primarily to the most visible information about the likely referendum result.",
+            "keywords": [
+                "Pricing of risk",
+                "Investor inattention",
+                "Scottish referendum"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a13_3ay_3a2015_3ai_3ac_3ap_3a163-171.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The role of information uncertainty in moving-average technical analysis: A study of individual stock-option issuance in Taiwan",
+            "abstract": "Using a sample of Taiwan stock market, this paper investigates the role of information uncertainty in the profitability of technical analysis by applying a moving average (MA) strategy to portfolios grouped according to whether firms issue stock options. Results indicate that, even though considering transaction costs, the MA strategy significantly outperforms the buy-and-hold strategy on the portfolio without option issuance, but not on the portfolio with option issuance. The results support the hypothesis that stocks that do not issue options exhibit greater information uncertainty, and thus greater price continuation, which in turn implies a superior performance of the MA strategy.",
+            "keywords": [
+                "Information uncertainty",
+                "Technical analysis",
+                "Moving average",
+                "Stock option",
+                "Price continuation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a18_3ay_3a2016_3ai_3ac_3ap_3a263-272.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Consumer confidence and cryptocurrency excess returns: A three-factor model",
+            "abstract": "This study examined the relation between consumer confidence and cryptocurrency excess returns using a three-factor model of market, size and momentum. We analysed a dataset comprising 3318 cryptocurrencies from 1 January 2014 to 31 December 2022 based on the CoinMarketCap website. Results indicate a significant negative relation between the United States Consumer Confidence Index and cryptocurrency excess returns. The findings were reinforced based on robustness tests. This study contributes to consumer behaviour research and financial management within the cryptocurrency market. It also provides valuable insights for investors to strengthen their investment portfolios and for relevant authorities seeking to formulate effective policies for monitoring the cryptocurrency market.",
+            "keywords": [
+                "Cryptocurrency returns",
+                "Consumer confidence",
+                "Factor model",
+                "Cryptocurrency size",
+                "Momentum factors"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeglofin/v_3a62_3ay_3a2024_3ai_3ac_3as1044028324001017.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Bitcoin arbitrage",
+            "abstract": "We investigate arbitrage at four decentralized bitcoin exchanges that contribute to calculation of the index serving as the underlying price for the CME bitcoin futures. Deviations from price parity are much higher on average, more volatile, exhibit persistency and occasionally reach fairly large extremes during the 2016\u00e2\u0080\u00932017 period, becoming economically small, much less volatile and sporadic afterwards. We design an arbitrage investment strategy based on the premise of convergence to parity and account for transaction costs. Profitable arbitrage opportunities have become sparse and scarce since 2018.",
+            "keywords": [
+                "Bitcoin",
+                "Spot market",
+                "Price deviation",
+                "Arbitrage"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a40_3ay_3a2021_3ai_3ac_3as1544612320308886.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dynamic spillover and systemic importance analysis of global clean energy companies: A tail risk network perspective",
+            "abstract": "This paper conducts tail risk spillover and systemic importance analysis based on the firm-level data of global clean energy system. The tail risk network is constructed based on the \u00ce\u0094CoVaR method, where the correlation is calculated from three perspectives: market, sector and institution. Moreover, the systematically important institutions are identified through a PageRank-based approach. We find that two industries contribute the largest in the risk transmission process, and most of the identified important institutions come from these industries as well. Also, it is observed that the COVID-19 pandemic and the Russia\u00e2\u0080\u0093Ukraine conflict would render different impacts on the risk contagion.",
+            "keywords": [
+                "Clean energy companies",
+                "Tail risk spillover",
+                "Systemic importance",
+                "The COVID-19 pandemic",
+                "The Russia\u00e2\u0080\u0093Ukraine conflict"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a55_3ay_3a2023_3ai_3apb_3as1544612323003628.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Understanding the role of aggregate analyst attention in resolving stock market uncertainty",
+            "abstract": "This paper investigates whether sell-side analyst attention effect extends to the aggregate stock market. Our findings demonstrate that: (i) aggregate analyst coverage negatively predict future stock market returns while controlling for a rich set of predictors related to economic fundamentals and investor sentiment. (ii) higher aggregate analyst coverage also precede lower market-wide cash-flow volatility, cash holdings, absolute magnitude of unexpected earnings, investor information-search demand, and greater capital expenditures, long-term debt, indicating that the negative return premium stems from less compensation for lower expected market uncertainty. (iii) long-short profits of overreaction-related and lottery-related anomalies significantly decrease following high levels of aggregate analyst attention. Our results highlight the important role of aggregate analyst attention in reducing stock market uncertainty and enhancing investor rationality, thereby mitigating anomalies induced by psychological biases.",
+            "keywords": [
+                "Analyst attention",
+                "Market uncertainty",
+                "Anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a57_3ay_3a2023_3ai_3ac_3as154461232300555x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Technical analysis and stock return predictability: An aligned approach",
+            "abstract": "This paper provides an empirical evaluation of the U.S. aggregate stock market predictability based on a new technical analysis index that eliminates the idiosyncratic noise component in technical indicators. I find that the new index exhibits statistically and economically significant in-sample and out-of-sample predictive power and outperforms the well-known technical indicators and macroeconomic variables. In addition, it can predict cross-sectional stock portfolio returns sorted by size, value, momentum, and industry and generate substantial utility gains for a mean-variance investor. A vector autoregression-based stock return decomposition shows that the economic source of the predictive power predominantly comes from time variations in future cash flows (i.e., the cash flow channel).",
+            "keywords": [
+                "Technical analysis",
+                "Equity risk premium",
+                "Partial least squares method",
+                "Predictive regression",
+                "Cash flow channel"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a38_3ay_3a2018_3ai_3ac_3ap_3a103-123.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time and frequency connectedness and portfolio diversification between cryptocurrencies and renewable energy stock markets during COVID-19",
+            "abstract": "The assessment of the time and frequency connectedness between cryptocurrencies and renewable energy stock markets is of key interest for portfolio diversification. In this paper, we utilize weekly data from 07 August 2015 to 26 March 2021 to document the dynamics and portfolio diversification from a fresh cryptocurrencies-renewable energy perspective. Our time-frequency domain spillovers results reveal that renewable energy stocks are the main spillover contributors in the connectedness system and the short-run spillovers dominate their long-run counterparts. Furthermore, investors can gain more profits through short-run transactions in our portfolio design and we can optimize portfolios by investing a large portion in cryptocurrencies. A fascinating fact is that the COVID-19 pandemic can reverse the effectiveness of our hedging strategy.",
+            "keywords": [
+                "Connectedness",
+                "Portfolio diversification",
+                "Cryptocurrencies",
+                "Renewable energy",
+                "COVID-19"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a59_3ay_3a2022_3ai_3ac_3as1062940821001728.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment and energy futures predictability: Evidence from Feasible Quasi Generalized Least Squares",
+            "abstract": "Contributing to the budding literature on how emotional and sentimental actions impact the performance of financial markets, this study examines the predictability of energy futures prices with investors\u00e2\u0080\u0099 sentiments. In particular, we examine which of the three (neutral, bear and bull) investors\u00e2\u0080\u0099 sentiments offer accurate forecast information on four energy futures prices. Using the predictability test proposed by Westerlund and Narayan (2015), we discover that all the forms of investors\u00e2\u0080\u0099 sentiments are significant predictors of the movements in energy futures prices. However, the bear sentiments outshine other variants in the forecast of crude oil futures prices, while the bull sentiments provide the most accurate forecast information for the remaining energy futures prices, namely heating oil, gasoline and natural gas. We also find this evidence consistent even when asymmetries are considered in the predictability models. Among other implications of these findings, investors in energy futures and portfolio managers are expected to consider often emotional perceptions in their portfolio constructions and the predictability of future gains.",
+            "keywords": [
+                "Energy futures",
+                "Investors sentiment",
+                "Forecast evaluation",
+                "Asymmetries",
+                "Behavioural finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a63_3ay_3a2022_3ai_3ac_3as1062940822001656.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dynamic volatility spillover among cryptocurrencies and energy markets: An empirical analysis based on a multilevel complex network",
+            "abstract": "Based on the DCC-GARCH-CONNECTEDNESS approach, this paper investigates the dynamic volatility spillover among ten cryptocurrency markets and three energy markets. This study constructed a volatility spillover network weighted by the spillover intensity index. The overall network topological properties, node characteristics, and spillover structure were then analyzed by applying the index quantification and hierarchical clustering algorithm. This research examined the multi-level risk spillover structure while realizing network visualization and also judged the dynamic correlation among the spillover network structures. The findings show that the network topology properties are relatively stable, but there is a large heterogeneity among markets. Compared to the energy market, the cryptocurrency market exhibits more profound features of volatility resonance between different currencies. Traditional cryptocurrency markets display higher risk resonance levels than stable coins. In terms of risk spillover structure, different markets tend to rely on market attributes to demonstrate their spillover and agglomeration characteristics. In addition, the risk spillover resonance among the sub-networks is also dynamic and time-varying, and this network structure will continue over time.",
+            "keywords": [
+                "Cryptocurrency",
+                "Energy market",
+                "Bitcoin",
+                "DCC-GARCH-CONNECTEDNESS",
+                "Multilevel network structure analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a69_3ay_3a2024_3ai_3apa_3as1062940823001584.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Unveiling hidden connections: Spillover among BRICS' cryptocurrency-implied exchange rate discounts and US financial markets",
+            "abstract": "This study employs connectedness approach based on Time-Varying Parameter Vector Autoregression (TVP-VAR) and Dynamic Conditional Correlation Generalized Autoregressive Conditional Heteroskedasticity (DCC-GARCH) methods, to scrutinize the connectedness between the cryptocurrency implied exchange rate discount in BRICS countries (Brazil, Russia, India, China, and South Africa) and US financial markets. Empirical evidence suggests that Bitcoin market volatility substantially influences other markets. Moreover, given the intimate connections between BRICS countries and developed nations such as the US in today's globalized context, fluctuations in the Bitcoin market within BRICS countries are apt to impact US financial markets. Our empirical findings specifically indicate the following: (i) Among the total spillover effects of the cryptocurrency implied exchange rate discount in BRICS countries, Russia exhibits the most potent total spillover effect and contributes the most to market connectedness. (ii) The Brazil directional spillover index is elevated in both spillover relationship categories, and the spillover effect of the cryptocurrency implied exchange rate discount in Brazil on US financial variables is notably pronounced. (iii) Of the US financial variables, the US Financial Stress Index demonstrates the most robust connectedness with the cryptocurrency implied exchange rate discount in BRICS countries and exhibits heightened sensitivity to uncertainty.",
+            "keywords": [
+                "Cryptocurrency",
+                "Implied exchange rate",
+                "Spillover",
+                "TVP-VAR",
+                "DCC-GARCH",
+                "Connectedness approach"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a71_3ay_3a2024_3ai_3ac_3as1062940824000147.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are securitised real estate markets efficient?",
+            "abstract": "We re-examine the efficiency of real estate markets based on the Escanciano-Lobato (2009) autocorrelation test which we improved by means of wild bootstrapping. Through Monte Carlo simulation, we find that the wild bootstrap-based autocorrelation test has very good performance even in small samples. We apply the improved test to examine the efficiency of 14 international securitized real estate markets\u00e2\u0080\u0094Australia, Canada, France, Germany, Hong Kong, Italy, Japan, Netherlands, Norway, Singapore, Sweden, Switzerland, United Kingdom and the United States. Our results show that only six of these markets\u00e2\u0080\u0094Australia, Hong Kong, Italy, Japan, Sweden and the United States are efficient while the rest are inefficient. We also find that the degree of efficiency or inefficiency of each of these markets varies considerably across time. These findings indicate that real estate markets are relatively less efficient as compared to stock and bond markets in general and may also offer an explanation as to why existing studies on real estate market efficiency have mixed results.",
+            "keywords": [
+                "Autocorrelation test",
+                "Market efficiency",
+                "Real estate"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a29_3ay_3a2012_3ai_3a3_3ap_3a684-690.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

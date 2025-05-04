@@ -1,0 +1,140 @@
+{
+    "page_info": {
+        "page_number": 99,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The impact of naked short selling on the securities lending and equity market",
+            "abstract": "This paper examines the impact of naked short selling on equity markets where it is restricted to securities on an approved list. Consistent with Miller's (1977) intuition, stocks with the highest dispersion of opinions and short sale constraints are the only stocks to exhibit significant and negative abnormal returns in the post-event period. We also find slightly higher stock return volatility and a small reduction in liquidity when naked short sales are allowed. Overall, it impairs market quality (liquidity and volatility), although there appears to be some improvement in price efficiency in stocks with high short sale constraints.",
+            "keywords": [
+                "Short sale constraints",
+                "Liquidity",
+                "Naked short selling",
+                "Australian Securities Exchange",
+                "Regression discontinuity design"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a15_3ay_3a2012_3ai_3a1_3ap_3a81-107.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Analysis of Macroeconomic Events Impact Using the Event Study Methodology",
+            "abstract": "This article examines the impact of the most important macroeconomic events form Eurozone on the returns of financial assets such as exchange rates, stock market indexes, swap and futures contracts. By applying the event study methodology, we computed the abnormal square returns. Results have demonstrated that events with the highest impact were macroeconomic indicator announcements like consumer price index, unemployment rate and interest rate communication by the European Central Bank.",
+            "keywords": [
+                "event study",
+                "macroeconomic events",
+                "high frequency data"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/hypjournl/v_3a5_3ay_3a2017_3ai_3a2_3ap_3a3-13.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor attention and FX market volatility",
+            "abstract": "We study the relationship between investors\u00e2\u0080\u0099 active attention, measured by a Google search volume index (SVI), and the dynamics of currency prices. Investor attention is correlated with the trading activities of large FX market participants. Investor attention comoves with contemporaneous FX market volatility and predicts subsequent FX market volatility, after controlling for macroeconomic fundamentals. In addition, investor attention is related to the currency risk premium. Our results suggest that investor attention is a priced source of risk in FX markets.",
+            "keywords": [
+                "Investor attention",
+                "FX volatility",
+                "Option pricing",
+                "GARCH"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a38_3ay_3a2015_3ai_3ac_3ap_3a79-96.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Uma an\u00c3\u00a1lise emp\u00c3\u00adrica de efici\u00c3\u00aancia relativa nos mercados futuro e \u00c3\u00a0 vista de a\u00c3\u00a7\u00c3\u00bacar",
+            "abstract": "A verifica\u00c3\u00a7\u00c3\u00a3o da efici\u00c3\u00aancia do contrato futuro de a\u00c3\u00a7\u00c3\u00bacar \u00c3\u00a9 fundamental para que essa ferramenta de gerenciamento de risco seja eficaz em atender seu prop\u00c3\u00b3sito de mitigar o risco dessas organiza\u00c3\u00a7\u00c3\u00b5es que atuam no setor sucroalcooleiro. O presente trabalho avaliou a hip\u00c3\u00b3tese de efici\u00c3\u00aancia relativa dos mercados futuro e \u00c3 vista (spot) de a\u00c3\u00a7\u00c3\u00bacar em rela\u00c3\u00a7\u00c3\u00a3o \u00c3 hip\u00c3\u00b3tese de arbitragem nesses mercados. Seguindo o modelo de arbitragem desenvolvido por Brenner e Kroner (1995) e a metodologia de testes comparativos propostos por Kellard (2002), aplicaram-se procedimentos econom\u00c3\u00a9tricos robustos (cointegra\u00c3\u00a7\u00c3\u00a3o multivariada e modelo de corre\u00c3\u00a7\u00c3\u00a3o de erros) para a avalia\u00c3\u00a7\u00c3\u00a3o da exist\u00c3\u00aancia de cointegra\u00c3\u00a7\u00c3\u00a3o entre pre\u00c3\u00a7os \u00c3 vista e futuros de a\u00c3\u00a7\u00c3\u00bacar, em conjunto com a taxa de juros dom\u00c3\u00a9stica, para os horizontes de 28 e 56 dias de previs\u00c3\u00a3o. A base de dados foi formada a partir dos pre\u00c3\u00a7os futuros do contrato n\u00c3\u00bamero 11 negociado na New York Board of Trade (NYBOT), refer\u00c3\u00aancia para hedgers e especuladores devido a sua maior liquidez, e dos pre\u00c3\u00a7os no mercado \u00c3 vista, medidos pelo Centro de Estudos Avan\u00c3\u00a7ados em Economia Aplicada (CEPEA) da Esalq, bem como da taxa de juros dom\u00c3\u00a9stica medida pela Selic, todas em bases di\u00c3\u00a1rias. A correspond\u00c3\u00aancia da amostra foi constru\u00c3\u00adda a partir dos vencimentos dos contratos e considerou dois per\u00c3\u00adodos de previs\u00c3\u00a3o: 28 e 56 dias. Para o horizonte de previs\u00c3\u00a3o de 28 dias, n\u00c3\u00a3o foi corroborada a hip\u00c3\u00b3tese favor\u00c3\u00a1vel \u00c3 exist\u00c3\u00aancia de arbitragem nestes mercados, e tampouco de efici\u00c3\u00aancia de longo prazo. J\u00c3\u00a1 para o horizonte de previs\u00c3\u00a3o de 56 dias, embora tamb\u00c3\u00a9m n\u00c3\u00a3o haja evid\u00c3\u00aancias favor\u00c3\u00a1veis ao modelo de arbitragem, os resultados diferem significativamente dos anteriores quando e efici\u00c3\u00aancia \u00c3\u00a9 testada apenas para a rela\u00c3\u00a7\u00c3\u00a3o entre os pre\u00c3\u00a7os, descartando-se a hip\u00c3\u00b3tese de arbitragem: h\u00c3\u00a1 evid\u00c3\u00aancias favor\u00c3\u00a1veis \u00c3 efici\u00c3\u00aancia de curto e de longo prazos. Neste caso, o procedimento de cointegra\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a9 capaz de distinguir entre efici\u00c3\u00aancia e arbitragem nos mercados futuros de commodities.",
+            "keywords": [
+                "Mercados Futuros",
+                "A\u00c3\u00a7\u00c3\u00bacar",
+                "Efici\u00c3\u00aancia",
+                "Arbitragem",
+                "Cointegra\u00c3\u00a7\u00c3\u00a3o"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/feawpaper/08_5f06.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Towards an efficient stock market: Empirical evidence from the Indian market",
+            "abstract": "In the last decade, the efficient market hypothesis and its validity for emerging markets grew as a fertile topic of debate in Finance. However, the dilemma of market efficiency still remains intractable. It is more likely that any literature review in respect of market efficiency would produce contradictory results: for a single paper producing empirical evidence supporting the market efficiency, we can perhaps find a contradictory paper which empirically establishes market inefficiency. Paradoxically, popular models in finance developed in 1970s or 1980s were based on the assumption that the market under consideration was efficient. The conventional bond or stock or option pricing models are common examples of this type. In an alternative approach, we have worked out a model which incorporates market sentiments in the domain of the standard rational model of asset pricing. Our model would be well applicable for a \u00e2\u0080\u0098less than\u00e2\u0080\u0099 efficient market and, therefore may be the useful input in investors\u00e2\u0080\u0099 policies.",
+            "keywords": [
+                "Capital Asset Pricing Model",
+                "Arbitrage Pricing Theory",
+                "Efficient market hypothesis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejpolmo/v_3a35_3ay_3a2013_3ai_3a4_3ap_3a572-587.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predictability of Asset Returns and the Efficient Market Hypothesis",
+            "abstract": "This paper is concerned with empirical and theoretical basis of the Efficient Market Hypothesis (EMH). The paper begins with an overview of the statistical properties of asset returns at different frequencies (daily, weekly and monthly), and considers the evidence on return predictability, risk aversion and market efficiency. The paper then focuses on the theoretical foundation of the EMH, and show that market efficiency could co-exit with heterogeneous beliefs and individual irrationality so long as individual errors are cross sectionally weakly dependent in the sense defined by Chudik, Pesaran, and Tosetti (2010). But at times of market euphoria or gloom these individual errors are likely to become cross sectionally strongly dependent and the collective outcome could display significant departures from market efficiency. Market efficiency could be the norm, but it is likely to be punctuated with episodes of bubbles and crashes. The paper also considers if market inefficiencies (assuming that they exist) can be exploited for profit.",
+            "keywords": [
+                "market efficiency",
+                "predictability",
+                "heterogeneity of expectations",
+                "forecast averaging",
+                "equity",
+                "premium puzzle"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cesceswps/_5f3116.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Forecasting Cross-Section Stock Returns using Theoretical Prices Estimated from an Econometric Model",
+            "abstract": "We contribute to the debate over whether forecastable stock returns reflect an unexploited profit opportunity or rationally reflect risk differentials. We test whether agents could earn excess returns by selecting stocks which have a low market price compared to an estimate of the fundamental value obtained from an econometric model. The criterion for stock picking is one which could actually have been implemented by agents operating in real time. We show that statistically significant, and quantitatively substantial, excess returns are delivered by portfolios of stocks which are cheap relative to our estimate of fundamental value. There is no evidence that the under priced stocks are relatively risky and hence excess returns cannot easily be interpreted as an equilibrium compensation for risk.",
+            "keywords": [
+                "excess returns",
+                "trading rule",
+                "efficient markets",
+                "present value model",
+                "stock prices"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ednesedps/47.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Forecasting Cross-Section Stock Returns using The Present Value Model",
+            "abstract": "We contribute to the debate over whether forecastable stock returns reflect an unexploited profit opportunity or rationally reflect risk differentials. We test whether agents could earn excess returns by selecting stocks which have a low market price compared to an estimate of the fundamental value obtained from the present value model. The criterion for stock picking is one which could actually have been implemented by agents in real time. We show that statistically significant, and quantitatively substantial, excess returns are delivered by portfolios of stocks which are cheap relative to our estimate of fundamental value. There is no evidence that the under priced stocks are relatively risky and hence excess returns cannot easily be interpreted as an equilibrium compensation for risk.",
+            "keywords": [
+                "excess returns",
+                "trading rule",
+                "efficient markets",
+                "present value model",
+                "stock prices"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ednesedps/163.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "EMPIRICAL EVIDENCE ON JUMPS IN THE TERM STRUCTURE OF THE US TREASURY MARKET",
+            "abstract": "Sufficiently fast and large disruptions to the continuous price process are referred to as jumps. Cojumping arises when jumps occur contemporaneously across assets. This paper finds significant evidence of jumps and cojumps in the US term structure using the Cantor-Fitzgerald tick dataset sampled over the period 2002-2006. Cojumping frequently occurs in response to scheduled macroeconomic news announcements, however, around one-third of cojumps occur independently of any news announcements.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eencamaaa/2007-25.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Measuring investor sentiment in the stock market",
+            "abstract": "Recently, the investor sentiment measure has become one of the most widely studied areas in behavioral finance. Various measures have been developed in the literature without being to determine which measure should be used. The purpose of this study is to test their relative performance in predicting stock returns. Using a panel of investor sentiment measures, we develop a new measure of sentiment which combines direct and indirect sentiment measures. Our results show that our composite sentiment index affects the returns of stocks hard to value and difficult to arbitrage consistent with the predictions of noise trader\u00e2\u0080\u0099s models. Finally, we find that our composite index has a better predictive ability than the alternative sentiment measures largely used in the literature.",
+            "keywords": [
+                "sentiment measures",
+                "composite index",
+                "stock returns."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/dijwpfarg/1110901.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Digesting Anomalies: An Investment Approach",
+            "abstract": "Motivated from investment-based asset pricing, we propose a new factor model that consists of the market factor, a size factor, an investment factor, and a return-on-equity factor. The new model [i] outperforms the Carhart (1997) four-factor model in pricing portfolios formed on earnings surprise, idiosyncratic volatility, financial distress, equity issues, as well as on investment and return-on-equity; [ii] performs similarly as the Carhart model in pricing portfolios on momentum as well as on size and book-to-market; but [iii] underperforms in pricing the total accrual deciles. Our model's performance, combined with its clear economic intuition, suggests that it can serve as a new workhorse model for academic research and investment management practice.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2012-21.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Economics of Value Investing",
+            "abstract": "The investment CAPM provides an economic foundation for Graham and Dodd's (1934) Security Analysis, without mispricing. Expected returns vary cross-sectionally, depending on firms' investment, expected profitability, and expected investment growth. Our economic model also offers an appealing alternative to two workhorse accounting models. Empirically, many anomaly variables are associated with future investment growth, in the same direction with future returns. An expected growth factor earns on average 0.56% per month (t = 6.66), and adding it to the q-factor model improves the model*s performance substantially. In all, value investing is consistent with efficient markets.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2017-16.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

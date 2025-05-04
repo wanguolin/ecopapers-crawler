@@ -1,0 +1,155 @@
+{
+    "page_info": {
+        "page_number": 170,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Momentum on historical high",
+            "abstract": "This paper decomposes the long side of momentum portfolio holdings by comparing the location of recent prices to historically high prices. Stocks with prices near historical highs represent 45 percent of holdings in momentum and 70 percent of returns. Momentum portfolios formed in the stock universe with stocks closed to historical highs provide 6.2% alpha in comparison with 1.3% for momentum formed from stocks out of historical highs. The historical high momentum portfolio performance is sustainable to control for the lagged momentum of Novy-Marx (2012) and the 52-week high ratio of George and Hwang (2004).",
+            "keywords": [
+                "Momentum",
+                "Factor investing",
+                "Portfolio holdings",
+                "Price location"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a69_3ay_3a2024_3ai_3apb_3as1544612324012455.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The causality between liquidity and volatility in the Polish stock market",
+            "abstract": "We study dependencies between liquidity and volatility in the causality framework for stocks listed on the Warsaw Stock Exchange. Using Toda-Yamamoto and Granger causality tests we find bidirectional causality between the measures. The causal liquidity-volatility relation is more often observed than volatility-liquidity one, and both relations are frequently asymmetric. The directional spillover index suggests, that the fraction of forecast error variance due to the shock in other measure is much smaller than the response to own shocks. The choice of proxies matters: among different alternatives we find that high-low range is most often Granger cause for volatility.",
+            "keywords": [
+                "Volatility",
+                "Conditional variance",
+                "Realized variance",
+                "Illiquidity",
+                "Range",
+                "Granger causality"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a30_3ay_3a2019_3ai_3ac_3ap_3a110-115.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impacts of implied volatility on stock price realized jumps",
+            "abstract": "This paper investigates the impact of ex ante implied volatility on stock price realized jumps. In particular, it examines how the different behaviors of informed and noise traders affect stock price jumps. We find that ex ante implied volatility interacts with the level of information quality for a stock when leading realized jumps, and that the direction of the relation changes across the states of the business cycle. We also document an asymmetric impact from ex ante implied volatility on price jumps across stocks with different degrees of information-based trading activity.",
+            "keywords": [
+                "Stock price jump",
+                "Implied volatility",
+                "Information risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecosys/v_3a40_3ay_3a2016_3ai_3a4_3ap_3a622-630.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short interest and aggregate stock returns",
+            "abstract": "We show that short interest is arguably the strongest known predictor of aggregate stock returns. It outperforms a host of popular return predictors both in and out of sample, with annual R2 statistics of 12.89% and 13.24%, respectively. In addition, short interest can generate utility gains of over 300 basis points per annum for a mean-variance investor. A vector autoregression decomposition shows that the economic source of short interest\u00e2\u0080\u0099s predictive power stems predominantly from a cash flow channel. Overall, our evidence indicates that short sellers are informed traders who are able to anticipate future aggregate cash flows and associated market returns.",
+            "keywords": [
+                "Equity risk premium",
+                "Predictive regression",
+                "Short interest",
+                "Cash flow channel",
+                "Informed traders"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a121_3ay_3a2016_3ai_3a1_3ap_3a46-65.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Herding and anchoring in cryptocurrency markets: Investor reaction to fear and uncertainty",
+            "abstract": "Cryptocurrencies have emerged as an innovative alternative investment asset class, traded in data-rich markets by globally distributed investors. Although significant attention has been devoted to their pricing properties, to-date, academic literature on behavioral drivers remains less developed. We explore the question of how price dynamics of cryptocurrencies are influenced by the interaction between behavioral factors behind investor decisions and publicly accessible data flows. We use sentiment analysis to model the effects of public sentiment toward investment markets in general, and cryptocurrencies in particular on crypto assets\u00e2\u0080\u0099 valuations. Our results show that investor sentiment can predict the price direction of cryptocurrencies, indicating direct impact of herding and anchoring biases. We also discuss a new direction for analyzing behavioral drivers of the crypto assets based on the use of natural language AI to extract better quality data on investor sentiment.",
+            "keywords": [
+                "Cryptocurrencies",
+                "Blockchain",
+                "Crypto assets",
+                "Behavioral finance",
+                "Bitcoin",
+                "Ripple",
+                "Ethereum",
+                "Investment markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeebeexfi/v_3a25_3ay_3a2020_3ai_3ac_3as2214635019301534.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Newspapers tone and the overnight-intraday stock return anomaly",
+            "abstract": "We examine the associations between newspapers tone and stock market indices by translating newspapers coverage into human sentiment gauge. Our tone has positive effects on overnight stock returns and negative effects on both intraday returns and conditional volatility. The positive effect of the tone is highly significant on days of sharp price declines and when the tone is calculated using general newspapers. That positive effect, apparently thru opening prices, partly explains the overnight-intraday anomaly. The impact of negative events' coverage is about double the impact of positive events\u00e2\u0080\u0099 coverage. This asymmetry is greater when distinguishing between general and business newspapers.",
+            "keywords": [
+                "Newspaper coverage",
+                "Market sentiment",
+                "Overnight returns",
+                "Intraday returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a65_3ay_3a2023_3ai_3ac_3as1386418123000368.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Testing moving average trading strategies on ETFs",
+            "abstract": "The evidence for the profitability of MA strategies documented in the literature is usually based on non-tradable indices or portfolios/factors and the use of the zero return or risk-free rate as the benchmark. In this paper we implement MA strategies using ETFs and examine the performance of such strategies using a variety of risk-adjusted performance measures. We find that relative to the buy-and-hold strategy, MA strategies have lower average returns and Sharpe ratios, but fare better under factor-adjusted performance measures such as the CAPM alpha. We also find that MA strategies become less profitable when they are implemented using ETFs than using their underlying indices. In addition, we propose a quasi-intraday version of the standard MA strategy (QUIMA) that allows investors to trade immediately upon observing MA crossover signals. The QUIMA strategy outperforms the standard one that only trades at the close of a trading day, when the long-term MA lag length is no more than 50 days.",
+            "keywords": [
+                "Moving average",
+                "Technical trading rules",
+                "Data-snooping bias",
+                "Exchange traded funds"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a57_3ay_3a2020_3ai_3ac_3ap_3a16-32.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Empirical Cross-Sectional Asset Pricing",
+            "abstract": "I review recent research efforts in the area of empirical cross-sectional asset pricing. I start by summarizing the evidence on cross-sectional return predictability and the failure of standard (consumption) CAPM models and their conditional versions to explain these predictability patterns. One response in part of the recent literature is to focus on ad-hoc factor models, which summarize the cross-section of expected returns in parsimonious form, or on production-based approaches, which suggest links between firm characteristics and expected returns. Without imposing restrictions on investor preferences and beliefs, neither one of these two approaches can answer the question why investors price assets the way they do. Within the rational expectations paradigm, recent research that imposes such restrictions has focused on the ICAPM, long-run risks models, as well as frictions and liquidity risk. Approaches based on investor sentiment have focused on the development of empirical proxies for sentiment and for the limits to arbitrage that allow sentiment to affect prices. Empirical work that considers learning and adaptation of investors has worked with out-of-sample tests of cross-sectional predictability.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/18554.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Indicators DZ and RDZ: essence, methods of calculation, signals and rules of trading",
+            "abstract": "Speculators exert more and more influence on prices on world exchange markets. Often the result of this is a formation of so-called \u00e2\u0080\u009cbubbles\u00e2\u0080\u009d with subsequent shocks to national and global economy. The purpose of speculators is earnings in a relatively short period of time using the differences in prices for exchange assets. Most of the speculators as a reference point for decision-making use technical analysis methods (prediction of future prices based on previous prices). Using more sophisticated methods gives advantage and opportunity to earn on a relatively short-term fluctuations in the exchange markets. General rules of technical analysis applied to all types of exchange markets \u00e2\u0080\u0093 foreign exchange and stock markets, commodity markets and markets for derivative financial instruments. Thus, developing of a new technical indicator or trading strategy for FOREX (foreign exchange market) can be applied to analyze prices of gold or oil, stock indices and stock prices.",
+            "keywords": [
+                "technical analysis",
+                "indicator",
+                "oscillator",
+                "normal distribution."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/50791.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The dynamic relation between short sellers, option traders, and aggregate returns",
+            "abstract": "Contrary to existing event studies around option listing introductions, we show short selling and options trading are complements, rather than substitutes. Further, while a plethora of literature demonstrates both short sellers and option traders are informed traders, relatively little is known about which group is relatively more informed. The results of our dynamic tests indicate that options traders are relatively more informed and that short sellers are backward-looking. Our results support the claim that options markets are non-redundant.",
+            "keywords": [
+                "Short selling",
+                "options market",
+                "informed traders"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/42566.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Multiscale Analysis of Foreign Exchange Order Flows and Technical Trading Profitability",
+            "abstract": "This paper investigates the multiscale (frequency-dependent) relationship between technical trading profitability and feedback trading effects in the Canada/U.S. dollar foreign exchange market. The results suggest weak evidence that technical trading activities of financial and non-financial customers drive frequent violations of the FX market microstructure assumption that exchange rate movements are driven by order flow. After controlling for transaction costs, we find that the contribution of financial customers in feedback trading dominates the contribution of non-financial customers at lower frequencies, while the opposite holds at higher frequencies. In addition, the novel finding is that technical indicators constructed from order flows can be profitable.",
+            "keywords": [
+                "Foreign Exchange Markets",
+                "Order Flows",
+                "Technical Trading",
+                "Frequency Domain"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/rimrimwps/31_5f12.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Rethinking Capital Structure Arbitrage",
+            "abstract": "It is well known that the capital structure arbitrage strategy generated negative Sharpe ratios over the period 2005-2009. In this paper we introduce four new alternative strategies that, while still based on the discrepancy between the CDS market spread and its equity-implied spread, exploit the information provided by the time-varying price discovery of the equity and CDS markets. We implement the strategies for both US and European obligors and find that these outperform traditional arbitrage trading during the financial crisis. Moreover, the new strategies show higher Sharpe ratios when CDS and equity-implied spreads are cointegrated. The correlation of the new trading rules with hedge fund index returns is low or negative even during the crisis, which suggests that the new rules can be used for portfolio diversification at times when risk reduction is hard to achieve.",
+            "keywords": [
+                "credit spreads",
+                "price discovery",
+                "credit derivatives",
+                "information flow",
+                "convergence trading",
+                "financial crisis",
+                "limit of arbitrage"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/42850.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "page_info": {
+        "page_number": 183,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The microstructure of a U.S. Treasury ECN: The BrokerTec platform",
+            "abstract": "We assess the microstructure of the U.S. Treasury securities market following its migration to electronic trading. We model price discovery using a vector autoregression model of price and order flow. We show that both trades and limit orders affect price dynamics, suggesting that traders also choose limit orders to exploit their information. Moreover, while limit orders have a smaller price impact, their greater variation contributes more to the variance of price updates. Lastly, we find an increased price impact of trades and especially limit orders following announcements, suggesting that the private information derived from public information is disproportionally exploited through limit orders.",
+            "keywords": [
+                "Microstructure",
+                "Treasury market",
+                "Bid-ask spread",
+                "Price impact",
+                "Information"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a40_3ay_3a2018_3ai_3ac_3ap_3a2-22.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The effect of Chinese lunar calendar on individual investors' trading",
+            "abstract": "We examine whether individual investors pay more attention to the stock market on auspicious days. We define an auspicious day as being on the Chinese lunar calendar, which is the common social norm in Chinese society. This norm is reflected in (i) more extensive and (ii) less profitable trading. Furthermore, this effect is heightened in cities with more elderly, more temples of the Wealth God, and more gambling sentiment. Individual investors' preferences for lottery-like and preferred stocks are essential mechanisms to explain our findings. We provide a first understanding of the effect of a social norm on individual investors' trading behavior.",
+            "keywords": [
+                "Lunar calendar",
+                "Trading activity",
+                "Trading profit",
+                "Social norm",
+                "Chinese culture"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a71_3ay_3a2022_3ai_3ac_3as0927538x21002018.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Causality between trading volume and returns: Evidence from quantile regressions",
+            "abstract": "We analyse the causality between past trading volume and index returns in the Pacific Basin countries. OLS results indicate no causal link between volume and returns. However, the quantile regression method reveals strong nonlinear causality: positive for high return quantiles and negative for low ones. Causality in quantiles is not a statistical artefact of causality in periods of high volatility, i.e., causality does not occur in a clustered manner. Causality in quantiles helps to explain the lack of causality between volume and raw returns on the one hand and a strong causal relationship between volume and return volatility on the other.",
+            "keywords": [
+                "Trading volume",
+                "Volume\u00e2\u0080\u0093return causality",
+                "Quantile regression"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a27_3ay_3a2013_3ai_3ac_3ap_3a144-159.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impact of Russia\u00e2\u0080\u0093Ukraine conflict on Russian financial market: Evidence from TVP-VAR and quantile-VAR analysis",
+            "abstract": "This study aims to analyze the repercussions of the Russia\u00e2\u0080\u0093Ukraine conflict on the Russian financial market, focusing on the main stock market and sectorial stock indices. High-frequency hourly data from September 12, 2021, to April 29, 2022, covering the period before and after the outbreak of conflict, is utilized for analysis. The empirical investigation employs the TVP-VAR and Quantile-VAR connectedness approaches. Our findings indicate a significant impact of the conflict on the Russian stock market, leading to increased market risk during the event period. Notably, certain sectors, including oil and gas, utilities, metals & mining, financials, consumer goods, and services exerted more influence on other sectors, while chemicals, transport, and telecoms were influenced by other sectors. These insights are crucial for comprehending the financial implications of the ongoing conflict on the local economy, providing valuable guidance to portfolio managers, investors, and policymakers in devising effective financial strategies.",
+            "keywords": [
+                "Russia\u00e2\u0080\u0093Ukraine",
+                "conflict",
+                "stock",
+                "market",
+                "index",
+                "sectorial",
+                "index",
+                "TVP-VAR",
+                "quantile",
+                "network",
+                "connectedness",
+                "estimations"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/arhjrujec/v_3a9_3ay_3a2023_3ai_3a3_3ap_3a284-305.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time-Varying Arrival Rates of Informed and Uninformed Trades",
+            "abstract": "In this paper we extend the model of Easley and O'Hara (1992) to allow the arrival rates of informed and uninformed trades to be time-varying and forecastable. We specify a generalized autoregressive bivariate process for the arrival rates of informed and uninformed trades and estimate the model on 16 actively traded stocks on the New York Stock Exchange over 15 years of transaction data. Our results show that uninformed trades are highly persistent. Uninformed order arrivals clump together, with high uninformed volume days likely to follow high uninformed volume days, and conversely. This behavior is consistent with the passive characterization of the uninformed found in the literature. But we do find an important difference in how the uninformed behave; they avoid trading when the informed are forecasted to be present. Informed trades also exhibit complex patterns, but these patterns are not consistent with the strategic behavior posited in the literature. The informed do not appear to hide in order flow, but instead they trade persistently. We also investigate the correlation between the arrival rates of trades and trade composition on market volatility, liquidity and depth. We find that although volatility increases with the forecasted arrival rates of total trades, it is relatively independent of the forecasted composition of the trade. We use the opening bid-ask spread as a measure of market liquidity. We find that as the number of trades increases over time, the relative proportion of informed trades decreases and hence, spreads become narrower and the market becomes more liquid. Finally, we compute the price impact curve of consecutive buy orders and report the half life of the price impact as a measure of market depth. We find a positive correlation between the half life and total trades indicating that the market is deeper in presence of more trades.",
+            "keywords": [
+                "Arrival rates",
+                "informed trades",
+                "uninformed trades",
+                "autoregressive process",
+                "market depth",
+                "liquidity",
+                "volatility."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0207017.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sentiment versus liquidity pricing effects in the cross-section of UK stock returns",
+            "abstract": "Abstract This study examines the asset pricing role of \u00e2\u0080\u0098sentiment risk\u00e2\u0080\u0099 in UK stock returns. We define sentiment risk as the sensitivity of stock returns to investor sentiment in financial markets. We incorporate a broad range of financial market variables in measuring financial conditions and use this as a proxy for market-wide investor sentiment. The paper distinguishes between rational and irrational (noisy) investor sentiment. Initial findings indicate a strong role for rational sentiment risk in the returns of FTSE All-Share stocks. However, further analysis reveals that this sentiment risk pricing is detected in the FTSE All-Share subgroup of FTSE small-cap stocks, while no evidence of sentiment risk pricing is found among the FTSE All-Share subgroups of FTSE 250 and FTSE 100 stocks. Our paper makes a key contribution by identifying that evidence of rational sentiment risk pricing disappears after controlling for the liquidity risk features of stocks. More generally, our findings point to a strong relation between sentiment risk and liquidity risk in stock returns and to the need for careful disentangling of sentiment versus liquidity effects.",
+            "keywords": [
+                "Sentiment risk",
+                "Asset pricing",
+                "Stock returns",
+                "Financial conditions"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/palassmgt/v_3a20_3ay_3a2019_3ai_3a4_3ad_3a10.1057_5fs41260-019-00119-3.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Suisse stock return, Macro Factors, and Efficient Market \u00e2\u0080\u008eHypothesis: evidence from ARDL model",
+            "abstract": "This study investigates the short run and the long run equilibrium \u00e2\u0080\u008erelationship between Suisse stock market (SSM) prices and a set of \u00e2\u0080\u008emacroeconomic variables (inflation, interest rate, and exchange rate) using \u00e2\u0080\u008eMonthly data for the period 1999:1 to 2018:4. Different specifications and \u00e2\u0080\u008etests will be carried out, namely unit root tests (ADF and PP), Vector Auto \u00e2\u0080\u008eRegression (VAR) to select the optimal lag length and for Granger causality \u00e2\u0080\u008eand Toda and Yamamoto (TY) Wald non causality testing, VEC Model and \u00e2\u0080\u008e\u00e2\u0080\u008e(Johansen, 1988)\u00e2\u0080\u0099 test for no cointegration, and ARDL framework and FPSS \u00e2\u0080\u008etest of no cointegration hypothesis. ECM representation of the ARDL \u00e2\u0080\u008emodel confirm temporal causality between (inflation, interest rate, exchange \u00e2\u0080\u008erate) and the stock price. There is dynamic short run adjustment and long \u00e2\u0080\u008erun stable equilibrium relationship between macroeconomic variables \u00e2\u0080\u008e\u00e2\u0080\u008e(except exchange rate) and stock prices in the SSM. This imply that the \u00e2\u0080\u008eSSM is informationally inefficient because publicly available information on \u00e2\u0080\u008emacroeconomic variables (inflation and interest rate) can be potentially used \u00e2\u0080\u008ein predicting Suisse stock prices.\u00e2\u0080\u008e",
+            "keywords": [
+                "Suisse Stock market efficiency",
+                "Macroeconomic variables",
+                "Causality",
+                "cointegration",
+                "ARDL \u00e2\u0080\u008emodel\u00e2\u0080\u008e"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/105717.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of macroeconomic variables on Stock \u00e2\u0080\u008emarket in United Kingdom",
+            "abstract": "The key objective of this study is to shed light on the relationship between the stock market \u00e2\u0080\u008eand macroeconomic factors (Interest rate, Consumer Price Index, Exchange rate) in United \u00e2\u0080\u008eKingdom for the period Pre Global Financial Crisis 2008 (GFC); from January 1999 to \u00e2\u0080\u008eDecember 2007. The finding of Johansen Cointegration, and Granger and Toda Yamamoto \u00e2\u0080\u008e\u00e2\u0080\u008e(TY) Causality tests show respectively that there is no co-integration between variables, no \u00e2\u0080\u008ecausal relation is detected from macro factors to stock return, and a unidirectional causal \u00e2\u0080\u008erelation is depicted from exchange rate to stock price. While from VAR Granger non \u00e2\u0080\u008eCausality/Block Exogeneity Wald Tests results, both inflation (INF) and exchange rate \u00e2\u0080\u008egrowth (EXCG) Granger cause the UK stock market Return. Moreover, the ARDL \u00e2\u0080\u008especification show a stable long run effect of all considered macroeconomic factors on the \u00e2\u0080\u008eUK stock price. Precisely, the results of the ECM show that all considered macroeconomic \u00e2\u0080\u008efactors drives UK stock price toward long-run equilibrium at a fast speed.\u00e2\u0080\u008e",
+            "keywords": [
+                "UK Stock market",
+                "Macroeconomic variables",
+                "Causality",
+                "ECM",
+                "Cointegration",
+                "ARDL model",
+                "\u00e2\u0080\u008eF_PSSTest"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/106246.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Multivariate Causality between Stock price index and Macro variables: \u00e2\u0080\u008eevidence from Canadian stock market",
+            "abstract": "Currently, the investor considers monetary indicators a vital factor when \u00e2\u0080\u008emaking any investment in equity prices. This research aim to find the long-\u00e2\u0080\u008erun relationship between stock returns (DLSP) of Canada and monetary \u00e2\u0080\u008eindicators as the exchange rate (LEXC), the interest rate (LINT), and \u00e2\u0080\u008einflation rate (INF). We consider T=232 observations for each variable from \u00e2\u0080\u008eJanuary 1999 to April 2018. From the Johansen cointegration approaches, \u00e2\u0080\u008ethere is no long-run association between stock prices and monetary \u00e2\u0080\u008eindicators. Results of the Granger causality tests have demonstrated the \u00e2\u0080\u008eunidirectional causation from the stock return to Inflation rate and to \u00e2\u0080\u008eExchange rate growth. While Results of Toda and Yamamoto Wald tests \u00e2\u0080\u008ehave demonstrated a bidirectional causal relation between stock price and \u00e2\u0080\u008econsumer price index and a unidirectional causation from stock price to the \u00e2\u0080\u008einterest rate and to the exchange rate growth. Based on IRFs, Inflation rate \u00e2\u0080\u008eis shown to be inversely related to stock returns. Thus, it is concluded that \u00e2\u0080\u008ethe predictability of Canadian stock return relies only on the variations of \u00e2\u0080\u008einflation rate.\u00e2\u0080\u008e",
+            "keywords": [
+                "Canadian stock price index",
+                "macroeconomic variables",
+                "Granger non causality",
+                "Johansen \u00e2\u0080\u008ecointegration",
+                "Toda and Yamamoto non causality wald test, Impulse\u00e2\u0080\u0093response functions \u00e2\u0080\u008e\u00e2\u0080\u008e(IRFs).\u00e2\u0080\u008e"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/105715.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Multivariate GARCH Approaches: case of major sectorial Tunisian stock markets",
+            "abstract": "The objectif in this paper is to proposes multivariate GARCH volatility models to assess the dynamic interdependence among volatility of returns for 5 tunisian sectorial stock index series (namely : Bank, FINancial service, AUTOmobile, INDustry, and Materials (MATB)) and TUNindex series. The Monthly returns of stock indices have been considered from 2010M02 to 2019M07. Two systems are considered. The first System, with Constant Conditional (C) mean, allows for market interaction. Results from DVECH model reveals that some sectorial stock markets are interdependent, the presence of a significance and positive effect of cross shock of Finance and Bank stock returns on Tunindex return, and volatility is predictable. C Correlation, \u00cf\u0081ij, have decreasing evolution for full period or for recent years for almost all i and j except CC between Tunindex return and R_FIN (and R_BANK) and CC between R_FIN and R_IND (and R_MATB). The tests for volatility spillovers effects suggests significant volatility spillovers from MATB and AUTO sectors to IND sector and from AUTO sector to MATB sector. The second system, with macroeconomic factor instability effects as Conditional mean, examine the CCC and DCC between different sectors. The main result supports the hypotheses of DCC. The DCC provides evidence of cross border relationship between sectors and macro economic instability factors have significant effect on the mean of returns evolutions (at 5% or 10% level). Volatility of exchange rate has significant positive effect on R, R_FIN, and R_MATB, while volatility of inflation has significant negative effect on R_Fin and volatility of oil price has significant negative effect on R_AUTO.",
+            "keywords": [
+                "Sectorial stock return",
+                "MGARCH model",
+                "DVECH and DBEKK models",
+                "Conditional Correlations (CC)",
+                "Dynamic CC (DCC) and Constant CC models (CCC)."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/99658.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Diamonds vs. precious metals: What shines brightest in your investment portfolio?",
+            "abstract": "Several studies explore the use of gold and other precious metals for protecting investors\u00e2\u0080\u0099 wealth during periods of market turmoil. However, alternative investments, although increasing in popularity, still remain unfamiliar to the majority of investors. We explore the safe haven and hedging properties of diamonds versus precious metals in an international study to evaluate diamonds as a viable investment alternative. Furthermore, we compare the performance between the returns of physical diamonds and diamond indices. Our analysis indicates superior performance by precious metals compared to diamonds. However, investors enjoy greater benefit from directly investing in physical diamonds rather than diamond indices. For investors looking to protect their assets against highly volatile market conditions, precious metals remain a better option. Investors should continue to keep abreast of developments with the evolution of the diamond investments industry and physical diamonds can be included in a portfolio for their downside diversification potential.",
+            "keywords": [
+                "Gold",
+                "Diamonds",
+                "Safe haven",
+                "Hedges",
+                "Precious metals",
+                "Gold"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a43_3ay_3a2016_3ai_3ac_3ap_3a1-14.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Unsurprising shocks: information, Premia, and the Monetary Transmission",
+            "abstract": "This article studies the information content of monetary surprises, i.e. the reactions of financial markets to monetary policy announcements. We find that monetary surprises are predictable by past information, and can incorporate anticipatory effects. Surprises are decomposed into monetary policy shocks, forecast updates, and time-varying risk premia, all of which can change following the announcements. Hence, their use as identification devices is not warranted, and can have strong qualitative and quantitative implications for the estimated responses of variables to the shocks. We develop new measures for monetary policy shocks, independent of central banks\u00e2\u0080\u0099 forecasts and unpredictable by past information.",
+            "keywords": [
+                "Monetary Surprises",
+                "Identification with External Instruments",
+                "Monetary Policy",
+                "Expectations",
+                "Information Asymmetries",
+                "Event Study",
+                "Proxy SVAR."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ehllserod/86234.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

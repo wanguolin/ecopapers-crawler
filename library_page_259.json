@@ -1,0 +1,122 @@
+{
+    "page_info": {
+        "page_number": 259,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Sovereign bond-backed securities: A VAR-for-VaR and marginal expected shortfall assessment",
+            "abstract": "The risk reducing benefits of the sovereign bond-backed security (SBBS) proposal of Brunnermeier et al. (2016) have been assessed in terms of the likely losses that different kinds of holders would suffer under simulated default scenarios. However, the effects of mark-to-market losses that may occur when there is rising uncertainty about defaults, or when self-fulfilling destabilising dynamics are prevalent, have not yet been examined. We apply the \u00e2\u0080\u009cVAR-for-VaR\u00e2\u0080\u009d method of Manganelli et al. (2015) and the Marginal Expected Shortfall (MES) approach of Brownlees and Engle (2012, 2017) to estimated yields of SBBS to assess how ex ante exposures and marginal contributions to systemic risk are likely to play-out for different SBBS tranches under various securitisation structures. We compare these with exposures/MES of single sovereigns and a diversified portfolio of sovereigns. We find that the senior SBBS has extremely low ex ante tail risk and that, like the low-risk sovereigns, it acts as a hedge against extreme market-wide yield movements. The mezzanine SBBS has tail risk exposure similar to that of Italian and Spanish bonds. Yields on SBBS appear to be adequate compensation for their risks when compared with single sovereigns or a diversified portfolio.",
+            "keywords": [
+                "Safe assets",
+                "Sovereign bonds",
+                "Value-at-Risk",
+                "Spillover",
+                "CAViaR",
+                "Co-Dependence"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a53_3ay_3a2019_3ai_3ac_3ap_3a33-52.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Forecasting the realized volatility of the oil futures market: A regime switching approach",
+            "abstract": "Considering nonlinear and highly persistent dynamics of realized volatility, we introduce Markov regime switching models to the Heterogeneous Autoregressive model of the Realized Volatility (HAR-RV) models to forecast the realized volatility of the crude oil futures market. In-sample results demonstrate that the high volatility regime is short-lived. Out-of-sample results suggest that HAR-RV models with regime switching increase the forecasting ability significantly than those without regime switching. Moreover, these findings are robust for different actual volatility benchmarks, forecasting windows, and model settings.",
+            "keywords": [
+                "Volatility forecasting",
+                "HAR-RV-type models",
+                "Regime switching approach",
+                "Forecasting evaluation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a67_3ay_3a2017_3ai_3ac_3ap_3a136-145.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does investor sentiment predict the asset volatility? Evidence from emerging stock market India",
+            "abstract": "The present study probes the influence of investor sentiment on the predictability of Indian stock market volatility exploiting the non-linear conditional mean\u00e2\u0080\u0093variance framework. We developed a broad based irrational aggregate sentiment index for an emerging market India to examine this issue. We employed ten aggregate market related sentiment proxies to construct sentiment index applicable for emerging stock markets. We used GARCH model and introduced sentiment in the mean framework. To capture the impact of lagged sentiment on stock market volatility and returns spread, we employed VAR-GARCH models. We find significant effect of investor sentiment on the stock market volatility. We also find that past returns and past investor sentiment affect the volatility negatively and positively. The negative investor sentiment influences volatility and supports the proposition that the noise traders\u00e2\u0080\u0099 pessimism makes the markets highly volatile. We suggest investor sentiment captures the volatility asymmetry patterns in the returns.",
+            "keywords": [
+                "Generalized conditional heteroskedasticity (GARCH) models",
+                "Irrational investors",
+                "Investors sentiment",
+                "Noise traders",
+                "Stock market volatility",
+                "Volatility asymmetry"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeebeexfi/v_3a8_3ay_3a2015_3ai_3ac_3ap_3a25-39.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time-frequency connectedness and spillover among carbon, climate, and energy futures: Determinants and portfolio risk management implications",
+            "abstract": "This study examines returns and volatility connectedness and spillover among carbon, climate, and energy futures using TPV-VAR frequency connectedness approach with daily frequency observations from December 15, 2020 to September 23, 2022. The study also evaluates factors that contribute to connectedness and explores hedging benefits from using carbon and climate futures with bivariate and multivariate portfolio strategies. This study reveals higher levels of total return and volatility connectedness and spillover effects across carbon, climate, and energy futures markets. There are persistent high spillovers in the short term, but spillovers are lower in the long run. These spillover effects are time-varying and change with economic, geopolitical, financial market events. For return and volatility spillover, carbon, climate, natural gas, gasoil and coal futures serve as net informational and risk recipients while Brent crude oil, heating oil and gasoline futures serve as informational and risk transmitters. This transmission mechanism remains consistent in the short term. However, in the long term, crude oil futures became a net receiver, while climate change futures changed to a risk transmitter. The findings indicate that transmission mechanism changed during the Russia-Ukraine war, whereby carbon, Brent crude oil, heating oil, gasoline and gas oil futures played different roles in the return and volatility spillover network. We find that geopolitical risk, equity market volatility, global financial stress, and clean energy innovations are determinants of return and volatility connectedness. Understanding the interrelations among carbon, climate and energy markets can guide policy making to improve the effectiveness of climate actions. The findings also underline the hedging and portfolio diversification implications of carbon and climate futures for energy commodities market.",
+            "keywords": [
+                "Carbon futures, climate change futures",
+                "Energy futures, spillover",
+                "Hedging",
+                "Portfolio"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a127_3ay_3a2023_3ai_3apb_3as0140988323005327.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Complexity in Factor Pricing Models",
+            "abstract": "We theoretically characterize the behavior of machine learning asset pricing models. We prove that expected out-of-sample model performance---in terms of SDF Sharpe ratio and test asset pricing errors---is improving in model parameterization (or \"complexity''). Our empirical findings verify the theoretically predicted \"virtue of complexity'' in the cross-section of stock returns. Models with an extremely large number of factors (more than the number of training observations or base assets) outperform simpler alternatives by a large margin",
+            "keywords": [
+                "Stochastic discount factor",
+                "Portfolio choice",
+                "Alpha",
+                "Pricing errors"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/18812.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Earnings forecasts and idiosyncratic volatilities",
+            "abstract": "We test the theoretical relation between idiosyncratic return volatilities and the volatilities of cash-flow news based on the expected returns on equity (ROE) for CRSP stocks over the period 1977\u00e2\u0080\u00932008. Consistent with economic intuition, we find that using analyst forecasts of earnings is superior to using realized earnings to proxy for market expectations about future cash flow news. Our findings are consistent with a market where stock return volatilities are positively and asymmetrically related to changes in the volatilities of expectations for a fundamental driver of cash flow news (ROE). Our findings are robust after correcting for forecast biases, various fundamental variables, newly-listed and mature firms, and periods with and without earnings announcements.",
+            "keywords": [
+                "Idiosyncratic volatilities",
+                "Earnings forecasts",
+                "I/B/E/S",
+                "Cash-flow news",
+                "Fundamental variables"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a41_3ay_3a2015_3ai_3ac_3ap_3a107-123.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Show me the money: The monetary policy risk premium",
+            "abstract": "We create a parsimonious monetary policy exposure (MPE) index based on observable firm characteristics that previous studies link to how stocks react to monetary policy. Our index successfully captures stocks\u00e2\u0080\u0099 responses to both conventional and unconventional monetary policy. Stocks whose prices react more positively to expansionary monetary policy (high-MPE stocks) earn lower average returns. This result is consistent with the notion that high-MPE stocks provide a hedge against bad economic shocks, to which the Federal Reserve responds with expansionary monetary policy. A long-short trading strategy designed to exploit this effect achieves an annualized Sharpe Ratio of 0.77.",
+            "keywords": [
+                "Monetary policy",
+                "Asset pricing",
+                "Risk factors"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a135_3ay_3a2020_3ai_3a2_3ap_3a320-339.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Estimating and testing investment-based asset pricing models",
+            "abstract": "Investment-based asset pricing models typically predict a close link between a firm\u00e2\u0080\u0099s stock return and its characteristics at any point in time. Yet, previous studies have primarily focused on the weaker prediction that this link holds on average, finding substantial empirical support. We show how to incorporate the time-series predictions in the estimation and testing of investment-based models using the generalized method of moments. We find that standard specifications of investment-based models with one physical capital input fail to match the time series properties of stock returns in the data, and discuss the implications of the findings for future research.",
+            "keywords": [
+                "Asset pricing",
+                "Q-theory",
+                "Neoclassical investment",
+                "Structural estimation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a162_3ay_3a2024_3ai_3ac_3as0304405x24001685.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are under- and over-reaction the same matter? Experimental evidence",
+            "abstract": "Many argue that under- and over-reaction in asset prices are caused by inherently different factors. We design an asset market where information arrives sequentially over time to investigate the sources of these phenomena. We find that prices react insufficiently to news surprises and under-reacting drifts outnumber over-reacting reversals substantially. Under-reaction decreases in magnitude when information announcement is perfectly public, but still persists. We reject behavioral explanations based on overconfidence and disposition effect. Contrary to common beliefs, over-reaction patterns are present in our results of predominant slow adjustment of prices to surprises. With the knowledge of intrinsic value, we find that the reversal phase in over-reaction patterns is simply a sluggish adjustment, too. We propose a price inertia theory of under- and over-reaction: when information arrives sequentially over time, the market is characterized by a slow convergence toward intrinsic value; when news surprises are of the same signs, prices falls behind newly updated intrinsic values, manifesting under-reacting drifts; when news surprises change signs, prices again do not adjust quick enough to catch up with the new intrinsic values, manifesting a temporal pattern of seemingly over-reacting reversals.",
+            "keywords": [
+                "Experimental finance",
+                "Under-reaction",
+                "Over-reaction",
+                "Behavior",
+                "Price inertia",
+                "Risk aversion"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejeborg/v_3a84_3ay_3a2012_3ai_3a1_3ap_3a39-61.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "page_info": {
+        "page_number": 55,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The Arbitrage Efficiency of the Nikkei 225 Options Market: A Put-Call Parity Analysis",
+            "abstract": "This paper is concerned with arbitrage efficiency of the Nikkei index option contracts traded on the Osaka Securities Exchange ( OSE) within the put-call parity (PCP) framework. A thorough ex post analysis is first carried out. The results reveal a modest number of violations with 2.74 percent of the sample breaching the PCP equation and an average arbitrage profit of 22.61 index points for OSE member firms during the sample period (2003?05). Ex ante tests are then conducted whereby ex post profitable arbitrage strategies, signified by the matched put and call contracts, are executed with lags of one minute and three minutes. The ex ante results reveal that the number of profitable arbitrage opportunities and the average profit are both reduced significantly with an execution lag. In addition, regression analysis is used to provide further evidence about the PCP and arbitrage profitability. Overall, there is no strong evidence found against the efficiency of the Nikkei 225 options market, although arbitrage opportunities do exist occasionally.",
+            "keywords": [
+                "Put-call parity",
+                "Market efficiency",
+                "Nikkei 225 options"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/imeimemes/v_3a24_3ay_3a2006_3ai_3a2_3ap_3a33-54.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market Price Analysis and Risk Management for Convertible Bonds",
+            "abstract": "Valuation of the conversion option is essential in analyzing the market price of a convertible bond. In this paper, we use a binomial tree pricing model to derive the implied volatility of the conversion option from the past price information (time-series data for individual issues) in the Japanese market. We then use this implied volatility data: (1) to employ a Monte Carlo simulation to measure market risk for a test portfolio of convertible bonds and analyze the factors in price fluctuation; and (2) to perform regression analyses that empirically verify the characteristics of the convertible bond market in Japan. The implication for market risk management is to underscore the need to be aware of market price fluctuation caused by implied volatility fluctuation. We found that in markets such as Japan is experiencing at the present time, in which most issues have little linkage to share price movements, there is a particular need to be aware of implied volatility in risk management. Moreover, our analysis of market characteristics found that (1) there is a significant negative correlation between implied volatility and underlying equity price fluctuation; (2) implied volatility tends to move in such a way as to reduce divergence from the historical volatility of the underlying equity price; and (3) the use o convertible bonds to raise funds during the \"bubble\" period in Japan was not necessarily an advantageous firm of financing for the issuers.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/imeimemes/v_3a17_3ay_3a1999_3ai_3a2_3ap_3a47-89.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Pron\u00c3\u00b3stico de un t\u00c3\u00adtulo de renta fija en Colombia",
+            "abstract": "El objetivo de este trabajo es presentar las bondades de incluir el patr\u00c3\u00b3n de persistencia a trav\u00c3\u00a9s de la constante de Hurst en el pron\u00c3\u00b3stico de series financieras. En particular, se realiza y eval\u00c3\u00baa el pron\u00c3\u00b3stico de la serie referente de los precios del mercado con mayor volumen de negociaci\u00c3\u00b3n en Colombia, las tasas diarias de inter\u00c3\u00a9s de los bonos cero cup\u00c3\u00b3n generadas por el Banco Central. Para esto, se utiliza la informaci\u00c3\u00b3n diaria de esta variable en la ventana de tiempo 2003 a 2015. Se compararon los resultados de los procesos Ornstein Uhlenbeck y Fraccional Ornstein Uhlenbeck. La evaluaci\u00c3\u00b3n del pron\u00c3\u00b3stico se soporta en el Test de Diebold y Mariano y una evaluaci\u00c3\u00b3n financiera de una inversi\u00c3\u00b3n sin costos de transacci\u00c3\u00b3n. Aunque la estimaci\u00c3\u00b3n de la persistencia se podr\u00c3\u00ada robustecer con pruebas inferenciales, se destaca la importancia de tener en cuenta este patr\u00c3\u00b3n para obtener mejor precisi\u00c3\u00b3n en pron\u00c3\u00b3stico y un mejor retorno en inversi\u00c3\u00b3n que al trabajar con un proceso generador que asuma independencia cuando las series no sugieren este comportamiento.",
+            "keywords": [
+                "Par\u00c3\u00a1metro de Hurst",
+                "Proceso Fraccional Ornstein Uhlenbeck",
+                "Tasas de Inter\u00c3\u00a9s"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/imxjournl/v_3a11_3ay_3a2016_3ai_3a3_3ap_3a47-65.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Beating the Random Walk: Intraday Seasonality and Volatility in a Developing Stock Market",
+            "abstract": "Historical prices information has not been exhaustively exploited in forecasting the 10-minute-ahead Composite Index of the Malaysian stock market. A simple model incorporating intraday seasonality can have lower forecast errors than a random walk. Improved accuracy is achieved when time-varying volatility is included in the time-of-day seasonal model for both in-sample and out-of-sample forecasts. The updating of parameter estimates of these volatility models at each new forecast origin to incorporate the latest available information leads to further improvement in forecast performance.",
+            "keywords": [
+                "calendar effects",
+                "forecast",
+                "ARCH models",
+                "random walk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ijbjournl/v_3a5_3ay_3a2006_3ai_3a1_3ap_3a41-59.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Riesgo asim\u00c3\u00a9trico y estrategias de momentum en el mercado de valores espa\u00c3\u00b1ol",
+            "abstract": "En el presente trabajo se analiza el papel del riesgo asim\u00c3\u00a9trico en la explicaci\u00c3\u00b3n del efecto momentum en el mercado de valores espa\u00c3\u00b1ol. Inicialmente se ha observado una relaci\u00c3\u00b3n negativa y signi\u00ef\u00ac\u0081cativa entre la coasimetr\u00c3\u00ada de una cartera y su rentabilidad. Por este motivo se ha incluido un factor ligado a dicha medida, SKS, en los modelos tradicionales de valoraci\u00c3\u00b3n (CAPM y Fama-French). Los resultados indican que las estrategias de momentum est\u00c3\u00a1n expuestas de forma positiva y signi\u00ef\u00ac\u0081cativa a este tipo de riesgo. Sin embargo, dicho factor de riesgo no es capaz de explicar por completo las rentabilidades anormales de este tipo de estrategias, por lo que el debate sobre el efecto momentum todav\u00c3\u00ada permanece abierto.",
+            "keywords": [
+                "Momentum",
+                "coasimetr\u00c3\u00ada",
+                "e\u00ef\u00ac\u0081ciencia de mercado."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/iecinveco/v_3a31_3ay_3a2007_3ai_3a2_3ap_3a323-340.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Presi\u00c3\u00b3n sobre los precios en las revisiones del \u00c3\u00adndice IBEX35",
+            "abstract": "Este trabajo analiza el efecto de las redefiniciones del \u00c3\u00adndice Ibex35 en los precios y la actividad de negociaci\u00c3\u00b3n de las acciones incluidas y excluidas. La muestra utilizada est\u00c3\u00a1 formada por 26 entradas y 22 salidas estables en el periodo enero 1991-diciembre 1998. Los resultados obtenidos demuestran que las revisiones del Ibex35 provocan una importante reacci\u00c3\u00b3n positiva (negativa)en el precio de las acciones que entran (salen), fundamentalmente en el d\u00c3\u00ada siguiente al anuncio de la medida y en la fecha anterior a la recomposici\u00c3\u00b3n efectiva del indicador. Las rentabilidades anormales positivas (negativas)generadas no est\u00c3\u00a1n relacionadas con informaci\u00c3\u00b3n acerca de las perspectivas futuras de las empresas afectadas ni con medidas de cambio de liquidez. Con posterioridad al cambio efectivo los precios experimentan un proceso de reversi\u00c3\u00b3n parcial (completo) a sus niveles previos en las entradas (salidas). En conjunto, la evidencia obtenida apoya la hip\u00c3\u00b3tesis de presi\u00c3\u00b3n sobre los precios como explicaci\u00c3\u00b3n de los efectos provocados por las revisiones en la composici\u00c3\u00b3n del Ibex35. (Copyright: Fundaci\u00c3\u00b3n SEPI)",
+            "keywords": [
+                "Revisi\u00c3\u00b3n de \u00c3\u00adndices",
+                "efectos precio y volumen",
+                "presi\u00c3\u00b3n sobre los precios."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/iecinveco/v_3a27_3ay_3a2003_3ai_3a3_3ap_3a491-531.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Model of Price, Volume, and Sequential Information",
+            "abstract": "This paper models the relationship between price and volume by tracking their adjustment path and speed in a world with heterogeneous investors. Motivated by widely observed information leakage in the stock market and fast-growing electronic communication networks, the model features sequential information and direct order matching. I show that both the content and the dissemination speed of information are incorporated in price changes and volume accumulations simultaneously. A convergence trading strategy is proposed based on a joint statistic of price and volume, which should help to improve the timing of market entry and exit. The model offers an explanation for the mixed evidence on the relationship between price change and volume and provides several testable hypotheses.",
+            "keywords": [
+                "price",
+                "volume",
+                "sequential information",
+                "convergence trading strategy",
+                "event study"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ijbjournl/v_3a6_3ay_3a2007_3ai_3a3_3ap_3a207-223.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The relationship between risk and expected returns with incomplete information",
+            "abstract": "Asset pricing theory generally assumes perfect markets and, therefore, asset pricing models disregard the possibility of information deficiency in stock price formation. Our study analyses if the quantity of information about an asset determines its return. More precisely, we want to know if there is a systematic source of information related risk that makes assets which are highly sensitive to this risk factor present higher mean returns. Our results indicate that the market prices the disinformation risk. We find that models which incorporate our attention factor perform better than the traditional CAPM or the Fama and French model, both in time-series analyses and cross-sectionally.",
+            "keywords": [
+                "Incomplete information",
+                "attention by financial analysts and information differential."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/iecinveco/v_3a33_3ay_3a2009_3ai_3a1_3ap_3a69-96.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "IMPACT OF CREDIT RATINGS ON STOCK RETURNS",
+            "abstract": "This study investigates whether a change in credit ratings lead to a change in daily excess stock returns. The sample includes daily stock price data for US firms listed on the Standard & Poor\u00e2\u0080\u0099s 500 from January 2006 to December 2015. Firms\u00e2\u0080\u0099 excess stock returns are compared with the market in a 14-day window around credit rating downgrades and upgrades. Our results are asymmetric, that is, there is a significant reaction to credit ratings downgrades but not to upgrades. In addition, we report weak evidence of upgrades in credit ratings since the 2008 global credit crisis leading to significant changes in security prices.",
+            "keywords": [
+                "Credit Ratings",
+                "Firms",
+                "Stock Returns",
+                "Global Financial Crisis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/idnjournl/v_3a21_3ay_3a2019_3ai_3a3d_3ap_3a1-24.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Bayesian perspective on commodity style integration",
+            "abstract": "Commodity style integration is appealing because by forming a unique long-short portfolio with exposure to K mildly correlated factors, a larger and more stable risk premium can be extracted than with any of the standalone styles. A key decision that a commodity style-integration investor faces at each rebalancing time is the relative weighting of the factors. We propose a Bayesian optimized style-integration (BOI) strategy with excellent out-of-sample performance. Focusing on the problem of a commodity investor that seeks exposure to the carry, hedging pressure, momentum, skewness, and basis-momentum factors, the evidence suggests that the BOI portfolio achieves better Sharpe ratios and certainty equivalent returns, among other performance metrics, than the 1/K style-weighted integrated portfolio, and a battery of sophisticated optimized integrations. The findings survive the consideration of longer estimation windows, various commodity score schemes, and alternative Bayesian priors.",
+            "keywords": [
+                "Commodity risk premia",
+                "Style integration",
+                "Long-short portfolio",
+                "Parameter estimation risk",
+                "Bayesian portfolio optimization"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejocoma/v_3a30_3ay_3a2023_3ai_3ac_3as2405851323000181.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Perceptions of the threat to national security and the stock market",
+            "abstract": "This paper investigates the impact of national security concerns on equity valuations in the U.S. from 1985 to 2018. While existing literature focuses on actual events of a violent nature, our process is different. We examine the effect of continuous indices derived from media coverage of these issues. Our analysis documents that journalistic reportage can provoke significant changes in the first and, to a certain extent, the second moment of U.S. equity return distribution. These changes extend even beyond the impact of events that transpired. Furthermore, business confidence also appears to be undermined by media coverage of threats to the nation and its citizenry.",
+            "keywords": [
+                "National security",
+                "Equities",
+                "Business confidence",
+                "Economic Policy Uncertainty"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejeborg/v_3a186_3ay_3a2021_3ai_3ac_3ap_3a504-522.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Quantile dependencies and connectedness between stock and precious metals markets",
+            "abstract": "The paper examines the frequency-based interlinkages between stock indices and precious metals at extreme and median quantiles. It employs the quantile cross-spectral approach (Barun\u00c3\u00adk and Kley, 2019) and the novel frequency quantile connectedness analysis (Chatziantoniou et al., 2021) to a sample of stocks and precious metals returns. The results show that the interdependence between equity indices and precious metals markets is contingent on the state of the market (bear, bull, or normal) and the horizon of frequency domains. Of all precious metals, the diversification benefits from gold, followed by silver, are consistently the highest for SP500 and STOXX50 and the least with palladium in most cases. The same holds when we investigate the diversification potential of precious metals for industrial sectors in the US and UK. A quantile frequency connectedness approach reveals that the diversification potential of precious metals diminishes in the long frequency horizon as coherence with stock indices becomes highly positive. The connectedness between stock indices and precious metals is high during market extremities but dampens as the market attains stability. At the same time, connectedness increases during periods of financial turmoil across all frequencies. We also document a change in the diversification role of precious metals during COVID-19.",
+            "keywords": [
+                "Stocks",
+                "Precious metals",
+                "Spillovers",
+                "Quantile coherency",
+                "Quantile frequency connectedness"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejocoma/v_3a30_3ay_3a2023_3ai_3ac_3as2405851322000411.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

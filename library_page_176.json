@@ -1,0 +1,153 @@
+{
+    "page_info": {
+        "page_number": 176,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "CYCLES, SHOCKS, AND SENTIMENT: REUNIFICATION, REALIGNMENT OF PUBLIC SPENDING AND THE CYCLICAL GROWTH-NATIONAL SPORTING SUCCES NEXUS",
+            "abstract": "This study analyzes the relationship between cyclical growth and national sporting success. The literature attributes this nexus to two channels: pro-cyclical public spending for national sports or a sort of q-driven investment activity induced by national sporting success. To analyze whether such a relationship can be established using German data, we adhere to a primarily descriptive methodology. We examine daily stock market data and macroeconomic time series in annual and quarterly frequency for a relationship between these data and the results of roughly 500 matches played by the German national soccer squad in the period from 1959 to 2004. Our methods of choice are techniques from time series analysis and event study analysis. We are able to establish a nexus in the decades prior to German reunification. This relationship fades in the period after reunification. As a result the nexus for the total period is obscured and asymmetric. For the stock market, it is predominantly a pessimistic market that coincides with losses of the national team. As it is virtually impossible to disentangle the spending channel from q-driven investment effects, we attribute this finding to both disproportionate expectations and a realignment of public spending in the aftermath of reunification.",
+            "keywords": [
+                "MACROECONOMIC COMOVEMENT",
+                "NATIONAL SPORTS",
+                "REUNIFICATION"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/toujournl/v_3a31_3ay_3a2010_3ap_3a65-80.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Globalization Risk Premium",
+            "abstract": "We investigate how globalization is reflected in asset prices. We use shipping costs to measure firms\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 exposure to globalization. Firms in low shipping cost industries carry a 8 percent risk premium, suggesting that their cash-flows covary negatively with investors\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 marginal utility. We find that the premium emanates from the risk of displacement of least efficient firms triggered by import competition. These findings suggest that foreign productivity shocks are associated with times when consumption is dear for investors. We discuss conditions under which a standard model of trade with asset prices can rationalize this puzzle.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/11733.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "\u00e2\u0080\u009cMuch Ado about Nothing\u00e2\u0080\u009d? The Effect of Print Media Tone on Stock Indices",
+            "abstract": "We translate print media coverage into a gauge of human sentiment and the equivalent advertisement value, and find that the tone of media coverage substantially impacts stock markets. The tone has a positive effect on both overnight and daily stock returns but not on intraday returns, while conditional variance and daily price gaps are negatively influenced. This effect is significant on days of sharp price declines. The coverage of negative events in the capital market is about double the coverage of positive events. This asymmetry is greater when distinguishing between professional and unprofessional financial print media.",
+            "keywords": [
+                "Media coverage",
+                "Market sentiment",
+                "Overnight returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/boiwpaper/2018.10.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asymmetric risk spillovers between oil and agricultural commodities",
+            "abstract": "Increase in agricultural commodities\u00e2\u0080\u0099 prices not only increases economic and social costs, it may also affect health, education and family ties. The dependence and risk transmission between oil prices and the price of agricultural commodities is subject to possible symmetric or asymmetric changes due to legislation in the farm sector in recent times. The objective of this study is to understand the extent to which oil as a global economic factor influences the price behavior of agricultural commodities such as wheat, maize, soybeans, and rice under adverse and prosperous market scenarios. We find evidence of symmetry in the tail dependence between variables, and of asymmetry in the spillovers from oil to agricultural commodities that intensify during financial turmoil. Policymakers and traders of agricultural commodities may benefit by considering the identified asymmetries in co-movements and risk spillovers.",
+            "keywords": [
+                "Oil prices",
+                "Agricultural commodities",
+                "Static and time-varying copulas",
+                "Risk spillovers",
+                "CoVaR"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeenepol/v_3a118_3ay_3a2018_3ai_3ac_3ap_3a182-198.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A bootstrap test for predictability of asset returns",
+            "abstract": "A bootstrap test is proposed for predictability of asset returns. The bootstrap is conducted with the likelihood ratio test in a restricted VAR form. The test shows no size distortion in small samples with desirable power properties. A wild bootstrap version, valid for financial returns showing unknown forms of conditional heteroskedasticty, is also proposed. As an application, predictive powers of dividend-price ratio and interest rate for U.S stock returns are evaluated.",
+            "keywords": [
+                "GLS estimation",
+                "Predictive regression",
+                "Power analysis",
+                "Restricted VAR",
+                "Wild bootstrapping"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a35_3ay_3a2020_3ai_3ac_3as1544612319305847.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investment styles and the multiple testing of cross-sectional stock return predictability",
+            "abstract": "The scheme of simultaneously testing many profitable strategies may conceal the hazard of data-snooping bias. However, certain portfolio returns are also more likely to exhibit codependency because of their same investment styles. Aiming at the phenomena of stock return anomalies, we consider two multiple testing approaches: one ignores the classification of portfolios and the other utilizes such information. The results based on grouped multiple testing suggest that the implied adjusted critical values for t-statistics may vary across investment styles, and several statistically significant portfolios may be unidentified under the pooled setup.",
+            "keywords": [
+                "Anomalies",
+                "Cross-section of stock returns",
+                "Data-snooping bias",
+                "Multiple testing",
+                "Selective inference"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a56_3ay_3a2021_3ai_3ac_3as1386418120300677.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time-varying evidence of efficiency, decoupling, and diversification of conventional and Islamic stocks",
+            "abstract": "This study investigates the efficiency of conventional and Islamic stock markets and their diversification potential by using multifractal de-trended fluctuation analysis (MF-DFA), wavelet squared coherence (WTC) and wavelet Value-at-Risk (VaR). Evidence from regional and country-level markets indicates Islamic stocks are less efficient than conventional ones in the short term, however more efficient in the medium term. Conventional stocks in the UK, Japan, and emerging markets are more efficient than the Islamic ones in the long term, whereas those from the US and Europe are less efficient. The wavelet VaR shows that conventional stock markets are at least as risky as the Islamic ones.",
+            "keywords": [
+                "Time-varying efficiency",
+                "Market efficiency",
+                "Integration",
+                "Decoupling",
+                "Diversification benefits"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a56_3ay_3a2018_3ai_3ac_3ap_3a167-180.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Who trades with whom? Individuals, institutions, and returns",
+            "abstract": "Using all trading in Finland over a 15-year period, I study the relation between price changes and the trading of individuals and financial institutions. On average, prices increase when institutions buy from individuals, and decrease when institutions sell to individuals. No such consistent pattern is observed when individuals trade with other individuals, or when institutions trade with other institutions. If prices do move while individuals trade among themselves, they quickly revert. These reversals occur as institutions trade with individuals in a direction that pushes prices toward previous levels.",
+            "keywords": [
+                "Institutional investors",
+                "Individual investors",
+                "Liquidity provision",
+                "Price impact"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a21_3ay_3a2014_3ai_3ac_3ap_3a50-75.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The announcement effects of a change in the Bank of Japan\u00e2\u0080\u0099s ETF purchase program: An event study",
+            "abstract": "This study investigates the announcement effects of the Bank of Japan\u00e2\u0080\u0099s (BOJ) ETF purchase program on equity prices, focusing on the policy change made on March 19, 2021 when the BOJ announced that it would no longer purchase Nikkei225-tracking and JPX400-tracking ETFs but would purchase more TOPIX-tracking ETFs. A regression of intraday stock returns revealed that the announcement of a future decrease (increase) in the amount of BOJ purchases has the instantaneous effect of decreasing (increasing) stock prices.",
+            "keywords": [
+                "ETF purchase program",
+                "Bank of Japan",
+                "Event study",
+                "Announcement effects",
+                "Intraday stock returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a50_3ay_3a2022_3ai_3ac_3as1544612322004329.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The power of narrative sentiment in economic forecasts",
+            "abstract": "The sentiment, or \u00e2\u0080\u009cTonality\u00e2\u0080\u009d, extracted from the narratives that accompany Federal Reserve economic forecasts (in the Greenbook) is strongly correlated with future economic performance, positively with GDP, and negatively with unemployment and inflation. More notably, Tonality conveys substantial incremental information in that it predicts errors in Federal Reserve and even in private-sector point forecasts of unemployment and GDP up to four quarters ahead. More favorable sentiment predicts economic performance that exceeds point forecasts. Higher Tonality also predicts positive monetary policy (fed funds rate) surprises and higher stock returns up to four quarters ahead. Quantile regressions suggest that much of Tonality\u00e2\u0080\u0099s forecasting power arises from its signal of downside risks to both economic performance and stock returns. If observed in real time, tonality would have been most informative about economic prospects and stock returns when economic uncertainty was high or when point forecasts called for subpar GDP growth.",
+            "keywords": [
+                "Text Analysis",
+                "Economic Forecasts",
+                "Unemployment Rate",
+                "Inflation",
+                "Monetary Policy",
+                "Stock Returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfor/v_3a39_3ay_3a2023_3ai_3a3_3ap_3a1097-1121.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impact of macro-economic surprises on carry trade activity",
+            "abstract": "Can official news and policy announcements affect foreign exchange speculation? A widespread speculative strategy in foreign exchange markets is carry trade. This paper explores the links between macro-economic news and foreign exchange options to identify macro-economic fundamentals most relevant to the pricing of downside risk \u00e2\u0080\u0093 measured by risk reversals options contracts \u00e2\u0080\u0093 to carry trade activity. Focusing primarily on the Japanese yen carry trade, we identify a significant impact of macro-economic surprises on dollar/yen risk reversals. The effect is sizeable, with news related to bilateral trade balance of particular concern. Moreover, there is a close link between risk reversals and speculative futures positions in Japanese yen. This allows us to quantify a substantial effect of macro-economic news on carry trade activity, with the cost of hedging as the transmission mechanism.",
+            "keywords": [
+                "Macro-economic news",
+                "Risk reversals",
+                "Foreign exchange futures",
+                "Carry trade"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a37_3ay_3a2013_3ai_3a4_3ap_3a1133-1147.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Positive stock information in out-of-the-money option prices",
+            "abstract": "We examine whether the option market leads the stock market with respect to positive in addition to negative price discovery. We document that out-of-the-money (OTM) option prices, which determine the Risk-Neutral Skewness (RNS) of the underlying stock return\u00e2\u0080\u0099s distribution, can embed positive information regarding the underlying stock. A long-only portfolio of stocks with the highest RNS values yields a significant positive alpha in the post-ranking week during the period 1996\u00e2\u0080\u00932014. This outperformance is mainly driven by stocks that are relatively underpriced but are also exposed to greater downside risk. These findings are consistent with a trading mechanism where investors choose to exploit perceived stock underpricing via OTM options due to their embedded leverage, rather than directly buying the underlying stock to avoid exposure to its potential downside. Due to the absence of severe limits-to-arbitrage for the long-side, the price correction signalled by RNS is very quick, typically overnight.",
+            "keywords": [
+                "Option-Implied information",
+                "Price discovery",
+                "Risk-Neutral skewness",
+                "Stock underpricing",
+                "Downside risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a128_3ay_3a2021_3ai_3ac_3as0378426621000704.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

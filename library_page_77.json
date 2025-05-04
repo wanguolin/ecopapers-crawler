@@ -1,0 +1,141 @@
+{
+    "page_info": {
+        "page_number": 77,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Can market frictions really explain the price impact asymmetry of block trades? Evidence from the Saudi Stock Market",
+            "abstract": "We empirically examine the price impact of block trades, in the Saudi Stock Market over the time period of 2005\u00e2\u0080\u00932008. Using a unique dataset of intraday data consisting of 2.3million block buys and 1.9million block sales, we find an asymmetry in the price impact of block purchases and sales. The asymmetry persists even when we account for the bid\u00e2\u0080\u0093ask bias in block trades, which is contrary to the previous literature. Overall, our findings suggest that in an emerging market where institutional trading is relatively scarce, market microstructure cannot explain the asymmetry in the price impact of large trades.",
+            "keywords": [
+                "Saudi Stock Market",
+                "Bid\u00e2\u0080\u0093ask spreads",
+                "Block trades",
+                "Intraday data"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeememar/v_3a13_3ay_3a2012_3ai_3a2_3ap_3a202-209.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "When is a MAX not the MAX? How news resolves information uncertainty",
+            "abstract": "A well-known asset pricing anomaly, the \u00e2\u0080\u009cMAX\u00e2\u0080\u009d effect, measured by the maximum daily return in the past month, depicts stocks\u00e2\u0080\u0099 lottery-like features and investor gambling behaviour. Using the comprehensive stock-level Dow Jones (DJNS) news database between 1979 and 2016, we consider in a empirical setting how the presence of news reports affects these lottery-type stocks. We find an augmented negative relationship between MAX stocks without news and expected returns, whereby MAX with news coverage generates return momentum. The differing future return relationships between MAX stocks with and without news appears to be best explained by information uncertainty mitigation upon news arrival. Overall, our findings suggest that news plays a role in resolving information uncertainty in the stock market.",
+            "keywords": [
+                "MAX",
+                "Lottery-like stocks",
+                "News coverage",
+                "Information uncertainty",
+                "Stock return predictability",
+                "Investor sentiment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a57_3ay_3a2020_3ai_3ac_3ap_3a33-51.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The race to exploit anomalies and the cost of slow trading",
+            "abstract": "This study explores how arbitrage capital reshapes out-of-sample returns and trade volume. Studying 71 anomalies, I show that the discovery of an anomaly creates a contrarian effect on the general decay in returns. A consistent volume effect reinforces the arbitrage capital explanation. The effect duration has been shortened and starts earlier in more recent years, along with the reduction in arbitrage costs. Also consistent with the limits-to-arbitrage hypothesis, the differences in long-side and short-side portfolios diminish in more recent years. The long-lasting effect indicates a persistent mispricing component in anomalies.",
+            "keywords": [
+                "Market Efficiency",
+                "Cross-sectional anomalies",
+                "Arbitrage capital",
+                "Asset mispricing",
+                "Contrarian return effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a62_3ay_3a2023_3ai_3ac_3as1386418122000465.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Intraday momentum in FX markets: Disentangling informed trading from liquidity provision",
+            "abstract": "We examine the likely drivers of intraday momentum, defined as a significantly positive relation between the first half-hour and the last half-hour return, in a foreign exchange market with explicit trading hours. Using transaction-level data from the Moscow Interbank Currency Exchange on the RUB\u00e2\u0080\u0093USD currency pair for the 2005\u00e2\u0080\u00932014 period, our results suggest that intraday momentum in the ruble market is induced by risk aversion to overnight holdings among liquidity providers. In addition, our results complement earlier findings that suggest that market concentration due to trading hours matters for intraday momentum and that the effect is more pronounced during financial crises.",
+            "keywords": [
+                "Informed trading",
+                "Intraday",
+                "Liquidity",
+                "Momentum"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a37_3ay_3a2018_3ai_3ac_3ap_3a35-51.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Intraday liquidity dynamics and news releases around price jumps: Evidence from the DJIA stocks",
+            "abstract": "We study the dynamics of liquidity and news releases around jumps by identifying their intraday timing for the Dow Jones Industrial Average index constituents. Jumps are found to coincide with a significant increase in trading costs and demand for immediacy, amplified by the release of news. Liquidity supply remains nevertheless high and there is strong evidence of resilience. Liquidity shocks in the effective spread and the number of trades are the key drivers behind the occurrence of a jump. Order imbalance appears to be the most informative liquidity variable with respect to price discovery, especially after the arrival of news.",
+            "keywords": [
+                "High-frequency data",
+                "Liquidity",
+                "News",
+                "Price jumps",
+                "Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a17_3ay_3a2014_3ai_3ac_3ap_3a121-149.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Industry Familiarity and Trading: Evidence from the Personal Portfolios of Industry Insiders",
+            "abstract": "We study whether industry familiarity is an advantage in stock trading by exploring the trading patterns of industry insiders in their own personal portfolios. To do so, we identify accounts of industry insiders in a large dataset provided by a retail discount broker. We find that insiders trade firms from their own industry more frequently. Furthermore, they earn abnormal returns exclusively when trading own-industry stocks, especially obscure stocks (small, low analyst coverage, high volatility). In a battery of tests, we find no evidence of the use of private information. The results are most consistent with the interpretation that industry familiarity is an advantage in stock trading.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/22115.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Market for Borrowing Corporate Bonds",
+            "abstract": "This paper describes the market for borrowing corporate bonds using a comprehensive dataset from a major lender. The cost of borrowing corporate bonds is comparable to the cost of borrowing stock, between 10 and 20 basis points per year. Factors that increase borrowing costs are loan size, percentage of inventory lent, rating, and borrower identity. Trading strategies based on cost or amount of borrowing do not yield excess returns. Bonds with corresponding CDS contracts are more actively lent than those without. Finally, the 2007 Credit Crunch did not affect average borrowing cost or loan volume, but increased borrowing cost variance.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/16282.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information Content of Implied Probability Distributions: Empirical Studies of Japanese Stock Price Index Options",
+            "abstract": "Empirical studies of the information content of option prices have focused on exploring whether implied volatility contains useful information regarding the future fluctuation of underlying asset prices. If expectation formation in the option markets reflects all the currently available information regarding future price movements, option prices will be useful in forecasting the price fluctuation of underlying assets. This paper extends such an analytical framework to implied probability distribution as a whole and examines its information content by using Japanese stock price index option data (on a daily basis) from mid-1989 to mid-1996. To this end, the following questions are examined: (1) whether the implied probability distribution is a good forecast of the subsequently realized distribution of stock price fluctuations, and (2) whether a leads and lags relationship exists between stock price changes and changes in the shape of the implied probability distribution. The estimation results show that (1) the implied probability distribution contains some information regarding future price movements, but its forecasting ability is not superior to that of the historical distribution, and (2) the shape of the implied probability distribution not only responds to stock price changes but also contains some information on forecasting stock price changes. However, it should be noted that such results are highly sensitive to the choice of sample period, suggesting that the information content depends on macroeconomic and financial market conditions. Therefore, the information contained in an implied probability distribution is difficult to interpret automatically as an information variable for monetary policy, and further studies are needed on how to make use of information contained in implied probability distributions.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/imeimemes/v_3a19_3ay_3a2001_3ai_3a3_3ap_3a143-170.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading Puzzle, Puzzling Trade",
+            "abstract": "We explore the return performance of individual investors with respect to various factors such as portfolio size, turnover, holding period and also demographic factors: gender and age. We examine the daily trades in Borsa \u00c4\u00b0stanbul (formerly Istanbul Stock Exchange) of 20,000 individual investors over the two year period 2011-2012. Utilizing a weekly data set, we bring new evidence to the current debates on individual investors\u00e2\u0080\u0099 trading patterns. Our findings can be summarized as follows: There is a positive relationship between holding period and return up to a certain level. The return of the individual portfolio is positively correlated with the portfolio size. Almost 70% of all individual investors cannot beat the market. Investors who have high turnover underperform compared to those who have lower turnover. Male investors trade more and lose more vis-\u00c3 -vis the female and older investors have higher returns.",
+            "keywords": [
+                "Individual Investor",
+                "Turnover",
+                "Portfolio Size",
+                "Stock Returns",
+                "Holding Period"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/iifiifjrn/v_3a29_3ay_3a2014_3ai_3a345_3ap_3a83-102.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is Beta Still Alive? Conclusive Evidence from the Swiss Stock market",
+            "abstract": "This paper proposes an alternative approach to access the usefulness of betas and applies it to a representative sample of the Swiss stock market. The approach is based on a more pragmatic analysis of the implications of using realised, rather than expected returns and on the fact that the realised market excess return is volatile and often negative.",
+            "keywords": [
+                "CAPITAL MARKET",
+                "REGRESSION ANALYSIS"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fthehecge/97.17.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Corporate Bond Trading on a Limit Order Book Exchange",
+            "abstract": "We investigate the trading of corporate bonds (c-bonds) by an open limit order book (LOB) mechanism. To do so, we use the case of the Tel Aviv Stock Exchange (TASE) as a laboratory, in which both stocks and c-bonds are traded by an LOB mechanism. Contrary to the OTC market in the USA, the TASE c-bond market is liquid with narrow spreads and low price dispersion. The short-term traders (STT), who are the analog of the market makers in the LOB, have small trading rents and unconcentrated activity (a low Herfindahl index). In the cross-section of bonds, the low concentration is related to low spreads, low price dispersion, and small STT rents. The non-STT [including retail investors (RIs), whose participation is significant] competes with the STT on quotation and tends to tighter quotes. RIs\u00e2\u0080\u0099 activity contributes to narrower spreads.",
+            "keywords": [
+                "Corporate bonds",
+                "Trading costs",
+                "Retail investors",
+                "Short-term investors",
+                "Bid\u00e2\u0080\u0093ask spreads",
+                "Liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ouprevfin/v_3a22_3ay_3a2018_3ai_3a4_3ap_3a1413-1440..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Will Stock Rise on Valentine\u00e2\u0080\u0099s Day?",
+            "abstract": "This study is a pioneer in academic literature to investigate the relationship between Valentine\u00e2\u0080\u0099s Day and stock market returns of major economies around the world. The findings indicate that stock returns are higher on the days when Valentine\u00e2\u0080\u0099s Day is approaching than on other days for most cases, showing \u00e2\u0080\u009cthe Valentine Effect\u00e2\u0080\u009d in the stock market. Specific control variables for Valentine\u00e2\u0080\u0099s Day are also introduced to eliminate the potential influence of other effects. Unlike other holiday effects in previous literature, the Valentine\u00e2\u0080\u0099s Day Effect cannot be explained by many conventional theories, such as tax-loss selling and the inventory adjustment hypothesis.",
+            "keywords": [
+                "Valentine Effect",
+                "Tax-loss Selling Hypothesis",
+                "Inventory Adjustment Hypothesis."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/99058.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

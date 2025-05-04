@@ -1,0 +1,160 @@
+{
+    "page_info": {
+        "page_number": 38,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "On the efficiency of intra-industry information transfers: The dilution of the overreaction anomaly",
+            "abstract": "We revisit the stock market anomaly documented by Thomas and Zhang (2008) and show that the apparent mispricing of information transfers has decayed over time, as the US markets experienced rapid improvements in the efficiency of the underlying price formation processes. Utilizing recent advancements in market microstructure research to estimate firm-specific proxies for market efficiency, we demonstrate that the existence of the overreaction anomaly (where stock prices of late announcers in response to the earnings reported by early announcers in the same industry are negatively related to subsequent price responses of late announcers to their own earnings reports) is specific to an earlier sample period and results from the inefficient incorporation of information into prices, largely attributable to an environment with high barriers to arbitrage. Our results indicate that the pricing efficiency of intra-industry information transfers has increased in the recent years of increased liquidity and markedly higher trading activity.",
+            "keywords": [
+                "Information transfers",
+                "Market efficiency",
+                "Overreaction anomaly"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a60_3ay_3a2015_3ai_3ac_3ap_3a153-167.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "What explains the dynamics of 100 anomalies?",
+            "abstract": "Are anomalies strongest when investor sentiment or limits of arbitrage are considered to be greatest? We empirically explore these theoretically deducted predictions. We first identify, categorize, and replicate 100 long-short anomalies in the cross-section of expected equity returns. We then comprehensively study their interaction with popular proxies for time-varying market-level sentiment and arbitrage conditions. We find a powerful (relatively weak) role of the variation in proxies for sentiment (arbitrage constraints). In this context, the predictive power of sentiment is mostly restricted to the short leg of strategy returns. Our insights collectively suggest that the dynamics of sentiment combined with the base level (and not primarily the variations) of limits to arbitrage provide at least a partial explanation for inefficiencies.",
+            "keywords": [
+                "Anomalies",
+                "Limits to arbitrage",
+                "Sentiment",
+                "Return predictability",
+                "Behavioral finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a57_3ay_3a2015_3ai_3ac_3ap_3a65-85.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Size and value risk in financial firms",
+            "abstract": "The Fama and Frenchs three factor model (Fama and French, 1992, 1993) is now the most popular replacement for CAPM. In the model, the fact that the model excludes financial firms is significant because financial firms are a large fraction of the value of the U.S. stock market. Also, there is no theoretical reason for excluding financial firms. Modigliani and Miller (1958, 1963) suggest that leverage affects beta, but it does not invalidate the capital asset pricing model. It would therefore be more satisfying if the pricing model applied generally, rather than being restricted to non-financial corporations. Thus, we assess the validity of size and value risk as common risk factors to measure of the cross-section of expected stock returns in financial companies. Empirical asset pricing tests suggest two findings. First, size and value risk premia commonly exists in both nonfinancial and financial firms, even if two factors are less explicable in financial firms. Second, an interest rate risk premium (\u00ce\u0094L/L) which defined as a financial firm specific risk factor only appears in financial companies.",
+            "keywords": [
+                "Empirical asset pricing",
+                "Arbitrage pricing theory",
+                "Fama\u00e2\u0080\u0093French factors",
+                "Nelson and Siegel model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a55_3ay_3a2015_3ai_3ac_3ap_3a295-326.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Combining momentum with reversal in commodity futures",
+            "abstract": "This paper examines profitable trading strategies that jointly exploit momentum and reversal signals in commodity futures. While the single-sort momentum strategies returns 11.14% per annum, on average, a consistent reversal pattern of momentum profits is pronounced from 12 to 30months after portfolio formation. Combining the observed reversal pattern with the momentum signal, our double-sort strategy returns 20.24% per annum, which significantly outperforms single-sort strategies. The proposed strategy is robust to seasonality effects and sample adjustments in commodity futures. The profitability of the double-sort strategy cannot be explained by standard risk factors, term structure, market volatility, investor sentiment, data-mining or transaction costs, but appears to be related to global funding liquidity. As a consequence, the double-sort strategy in commodity futures may be employed as a portfolio diversification tool.",
+            "keywords": [
+                "Commodity futures",
+                "Momentum",
+                "Reversal",
+                "Double-sort strategy",
+                "Seasonality",
+                "Funding liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a59_3ay_3a2015_3ai_3ac_3ap_3a423-444.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are there exploitable trends in commodity futures prices?",
+            "abstract": "We provide evidence that a simple moving average timing strategy, when applied to portfolios of commodity futures, can generate superior performance to the buy-and-hold strategy. The outperformance is very robust. It can survive the transaction costs in the futures markets, it is not concentrated in a particular subperiod, and is robust to short-sale constraints, alternative specifications of the moving average lag length, alternative construction of the continuous time-series of futures prices, and impact from data mining. The outperformance of the timing strategy is not driven by the backwardation and contango. It is stronger during recession and can not be explained by macroeconomic variables. Finally, we confirm that the outperformance of the moving average timing strategy in the commodity futures comes from the successful market timing.",
+            "keywords": [
+                "Commodity futures",
+                "Moving average",
+                "Timing",
+                "Predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a70_3ay_3a2016_3ai_3ac_3ap_3a214-234.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information stages in efficient markets",
+            "abstract": "Market efficiency, in its strong form, asserts that asset prices fully reflect all available information. The classical event study methodology attempts to make explicit this link by assuming rigid and universal pre-event, event, and post-event periods. As an alternative, our framework captures the progressive diffusion of information around events as well as the overlapping impacts of separate events. We also illustrate that our approach captures mean-reversion of expected returns and increased volatility around announcement dates. These features reflect latent regime switches and are associated with semi-strong market efficiency.",
+            "keywords": [
+                "Market efficiency",
+                "Change-points",
+                "Markov chain Monte Carlo",
+                "Bayes factors"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a69_3ay_3a2016_3ai_3ac_3ap_3a84-94.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The liquidity premium in CDS transaction prices: Do frictions matter?",
+            "abstract": "Based on individual CDS transactions cleared by the Depository Trust & Clearing Corporation, we show that illiquidity strongly affects credit default swap premiums. We identify the following effects: first, transaction direction affects prices, as buy (sell) orders lead to premium increases (decreases). Second, larger transactions have a higher price impact. This finding stands in stark contrast to corporate bond markets. Third, traders charge higher premiums as a price for liquidity provision, not as compensation for asymmetric information. Fourth, buy-side investors pay significantly higher prices than dealers for demanding liquidity. Finally, inventory risk seems to matter little in explaining liquidity premiums.",
+            "keywords": [
+                "CDS",
+                "Illiquidity",
+                "Temporary price impact",
+                "Market power",
+                "Immediacy",
+                "DTCC"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a61_3ay_3a2015_3ai_3ac_3ap_3a184-205.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Why does higher variability of trading activity predict lower expected returns?",
+            "abstract": "The paper shows that controlling for the aggregate volatility risk factor eliminates the puzzling negative relation between variability of trading activity and future abnormal returns. I find that variability of other measures of liquidity and liquidity risk is largely unrelated to expected returns. Lastly, I show that the low returns to firms with high variability of trading activity are not explained by liquidity risk or mispricing theories.",
+            "keywords": [
+                "Liquidity",
+                "Uncertainty",
+                "Liquidity risk",
+                "Turnover",
+                "Trading volume",
+                "Aggregate volatility risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a58_3ay_3a2015_3ai_3ac_3ap_3a457-470.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The economic value of controlling for large losses in portfolio selection",
+            "abstract": "Research on asset pricing has shown that investor preferences include asymmetry and tail heaviness which affects the composition of optimal portfolios. This article investigates the out-of-sample economic value of introducing the risk of very large losses in portfolio selection. We combine mean\u00e2\u0080\u0093variance analysis with conditional Value-at-Risk using the subadditivity property of conditional Value-at-Risk, and we introduce a two stage method that preserves diversification while controlling for large losses. We find that strategies that account both for variance and the probability of large losses outperform efficient mean\u00e2\u0080\u0093variance portfolios, during and after the global financial crisis.",
+            "keywords": [
+                "Portfolio selection",
+                "Portfolio tail probability",
+                "Conditional Value-at-Risk",
+                "Risk management"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a72_3ay_3a2016_3ai_3as_3ap_3as81-s91.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum and downside risk",
+            "abstract": "We examine whether time-variation in the profitability of momentum strategies is related to variation in macroeconomic conditions. We find reliable evidence that the momentum strategy exposes investors to greater downside risk. Momentum strategies deliver economically large and statistically reliable negative profits in bad economic states when the expected market risk premium is high, whereas positive profits in good economic states when the expected market risk premium is low. Our results are robust to alternative constructions of momentum portfolios, out-of-sample estimation of the expected market risk premium, and after controlling for the January effect, lagged market return, and investor sentiment.",
+            "keywords": [
+                "Momentum",
+                "Economic state",
+                "Expected market risk premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a72_3ay_3a2016_3ai_3as_3ap_3as104-s118.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Commodities momentum: A behavioral perspective",
+            "abstract": "The growth in commodity-related investments has sparked interest in the performance of momentum strategies in these markets. This paper introduces a behavioral proxy of the 52-week high and low momentum that explains a significant proportion of the variation of conventional momentum returns after controlling for commodity specific risk factors. Our findings show that the 52-week high strategy generates significant profits after accounting for transaction costs. We report that the 52-week high strategy is a better predictor of returns than conventional momentum. Our findings suggest that term structure and hedging pressure risk factors provide only a partial explanation of the results.",
+            "keywords": [
+                "52-week high momentum",
+                "Term structure",
+                "Hedging pressure",
+                "Conservatism",
+                "Adaptive markets",
+                "Liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a72_3ay_3a2016_3ai_3ac_3ap_3a133-150.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The sensitivity of VPIN to the choice of trade classification algorithm",
+            "abstract": "The VPIN metric (Easley et al. 2012b) aims to detect and predict the toxicity of order flow. This paper examines the sensitivity and robustness of VPIN to the choice of trade classification scheme, which is the major input used to compute VPIN. We compare deterministic trade-by-trade classification approaches with results computed using a newly proposed heuristic approach, bulk volume classification. We find substantial differences for all levels of aggregation: trade classification, order imbalance, VPIN and identifying \u00e2\u0080\u009ctoxic periods\u00e2\u0080\u009d. We also find that the detection of toxic periods does not yield consistent results in more than 60% of cases. But regression analysis can identify volume and return volatility as parameters that contribute to higher levels of sensitivity.",
+            "keywords": [
+                "Capital markets",
+                "Information asymmetry",
+                "Volume-synchronized probability of informed trading",
+                "VPIN",
+                "Trade classification"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a73_3ay_3a2016_3ai_3ac_3ap_3a165-181.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

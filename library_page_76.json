@@ -1,0 +1,159 @@
+{
+    "page_info": {
+        "page_number": 76,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Asset allocation strategies, data snooping, and the 1 / N rule",
+            "abstract": "Using a series of advanced tests from White's (2000) \u00e2\u0080\u009cReality Check\u00e2\u0080\u009d to correct for data-snooping bias, we assess the out-of-sample performance of various portfolio strategies relative to the naive 1/N rule. When we analyze 16 basic portfolio strategies, 126 learning strategies, and nearly 2,000 extended strategies, we find that some strategies outperform the 1/N rule in conventional tests that do not account for data-snooping bias. However, after we use the new tests that control for such bias, we find that none or very few of these strategies outperform the 1/N rule. Thus, our finding underscores the necessity to control for data-snooping bias when making asset allocation decisions.",
+            "keywords": [
+                "Reality check",
+                "Portfolio strategies",
+                "Data-snooping bias"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a97_3ay_3a2018_3ai_3ac_3ap_3a257-269.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Public information arrival: Price discovery and liquidity in electronic limit order markets",
+            "abstract": "How information is translated into market prices is still an open question. This paper studies the impact of newswire messages on intraday price discovery, liquidity, and trading intensity in an electronic limit order market. We take an objective ex ante measure of the tone of a message to study the impacts of positive, negative, and neutral messages on price discovery and trading activity. As expected, we find higher adverse selection costs around the arrival of newswire messages. Negative messages are associated with higher adverse selection costs than positive or neutral messages. Liquidity increases around positive and neutral messages and decreases around negative messages. Available order book depth as well as the trading intensity increases around all news. Our results suggest that market participants possess different information gathering and processing capabilities and that negative news messages are particularly informative and induce stronger market reactions.",
+            "keywords": [
+                "Information",
+                "Liquidity",
+                "Price discovery",
+                "News",
+                "Limit order markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a37_3ay_3a2013_3ai_3a4_3ap_3a1148-1159.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Real aggregate activity and stock returns",
+            "abstract": "The notion that real aggregate activity exerts important influence on stock returns has strong theoretical appeal but weak empirical support. We argue in this paper that the lack of empirical reaction to macro news might be at least partly due to the usual focus on macro variables, which are noisy measures of real aggregate activity or the common factor. To test our conjecture, we focus on the Chicago Fed National Activity Index (CFNAI-MA3), a single summary measure of the common factor in 85 macro variables. Our main finding is that the news component of this index does affect stock returns. The effects show up at the market level as well as at the portfolio level. The effects are not only statistically but also economically significant.",
+            "keywords": [
+                "Real aggregate activity",
+                "Chicago Fed National Activity Index",
+                "Stock returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejebusi/v_3a64_3ay_3a2012_3ai_3a5_3ap_3a323-337.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Betting on Bitcoin: Does gambling volume on the blockchain explain Bitcoin price changes?",
+            "abstract": "We measure lottery appetite using historical gaming transaction data of Bitcoin holders. Changes in the volume spent on the most lottery-like gambling wallet explain 32% of variation in the returns to the BTC price pre-2016, but this effect disappears post-2016.",
+            "keywords": [
+                "Blockchain",
+                "Bitcoin",
+                "Gambling",
+                "Lottery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a191_3ay_3a2020_3ai_3ac_3as0165176519303659.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A review of the international literature on the short term predictability of stock prices conditional on large prior price changes: Microstructure, behavioral and risk related explanations",
+            "abstract": "In this paper we review the literature on the short term predictability of stock prices conditional on large prior price changes. This research area is characterized by a large number of studies reflecting different markets, time periods, methodologies and model parameters. While most of the papers do find elements of predictability in markets subsequent to large price changes the wide diversity in research approaches makes it very difficult to draw general conclusions from past studies. In addition there is little consensus within the literature regarding the causes of predictability with papers variously favoring explanations based around market microstructure, behavioral anomalies and the response of market participants to changing risk. We identify the key empirical findings from the literature, evaluate the explanations for the cause of the effects, discuss the links of the research program to other areas of finance and finally review possible topics for future research in the area.",
+            "keywords": [
+                "Stock reaction",
+                "Predictability",
+                "Large price changes",
+                "Microstructure",
+                "Behavioral",
+                "Risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a26_3ay_3a2013_3ai_3ac_3ap_3a1-17.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Comparing U.S. and European market volatility responses to interest rate policy announcements",
+            "abstract": "We examine the responses of U.S. (VIX) and German (VDAX) implied volatility indices to the announcement of interest rate policy decisions by the Federal Open Market Committee (FOMC) and the European Central Bank (ECB). We present new findings that indicate that VDAX declines on FOMC meeting days, a result that holds for nearly all announcement types. VDAX declines on ECB meeting days in which there is a negative rate surprise, or no surprise, and is unrelated to ECB meeting days otherwise. We confirm prior findings that VIX declines on FOMC meetings days regardless of the content of the meeting, but we also find that VIX is unrelated to ECB announcements. Results from our structural VAR analysis indicate that VIX (VDAX) responses to FOMC decisions are related to risk aversion (uncertainty). Taken collectively, our results indicate a prominent position for the FOMC in determining implied volatility levels worldwide.",
+            "keywords": [
+                "FOMC",
+                "ECB",
+                "VIX",
+                "VDAX",
+                "Monetary policy",
+                "Volatility spillover"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a39_3ay_3a2015_3ai_3ac_3ap_3a127-136.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading activity around chapter 11 filing",
+            "abstract": "This paper uses institutional ownership data and order flow information to document and explain equity trading patterns prior to chapter 11 bankruptcy filing.We provide a model that predicts trading activity prior to filing which results from a difference of opinion amongst different types of investors about whether the firm should be liquidated. We then test trading data to show that trading activity is elevated around chapter 11 filing as the model predicts. We show how institutional holdings change around filing and that chapter 7 firms appear relatively more attractive to institutional investors than emerging firms around filing.",
+            "keywords": [
+                "Chapter 11 and 7 bankruptcy",
+                "Trading activity",
+                "Institutional ownership"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a82_3ay_3a2022_3ai_3ac_3as1057521922000989.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "How are shorts informed?",
+            "abstract": "We find that a substantial portion of short sellers' trading advantage comes from their ability to analyze publicly available information. Using a database of short sales combined with a database of news releases, we show that the well-documented negative relation between short sales and future returns is twice as large on news days and four times as large on days with negative news. Further, we find that the most informed short sales are not from market makers but rather from clients, and we find only weak evidence that short sellers anticipate news events. Overall, the evidence suggests that public news provides valuable trading opportunities for short sellers who are skilled information processors.",
+            "keywords": [
+                "Asymmetric information",
+                "Manipulation",
+                "News media",
+                "Short sales"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a105_3ay_3a2012_3ai_3a2_3ap_3a260-278.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Idiosyncratic volatility, returns, and mispricing: No real anomaly in sight",
+            "abstract": "Recent empirical evidence has shown that the relationship between idiosyncratic volatility and a stock's expected return depends on the pricing of the stock: it is negative among overvalued stocks and positive among undervalued ones. We provide both theoretical and numerical evidence that this risk-return relationship might be driven purely by mathematical properties of return distributions. Using a simulation-based approach, we document that even in completely random samples, the correlation between idiosyncratic risk and mean returns depends on the ex-post estimation of abnormal returns.",
+            "keywords": [
+                "Idiosyncratic volatility",
+                "Low-risk anomaly",
+                "Abnormal returns",
+                "Return predictability",
+                "Mispricing",
+                "Stock market anomalies",
+                "Monte Carlo simulation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a24_3ay_3a2018_3ai_3ac_3ap_3a163-167.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Prospect Theory and market quality",
+            "abstract": "We study equilibrium trading strategies and market quality in an economy in which speculators display preferences consistent with Prospect Theory (Kahneman and Tversky, [39]; Tversky and Kahneman, [63]), i.e., loss aversion and mild risk seeking in losses. Loss aversion (risk seeking in losses) induces speculators to trade less (more), and less cautiously (more aggressively), with their private information \u00e2\u0080\u0093 but also makes them less (more) inclined to purchase private information when it is costly \u00e2\u0080\u0093 in order to mitigate (enhance) their perceived risk of a trading loss. We demonstrate that these forces have novel, nontrivial, state-dependent effects on equilibrium market liquidity, price volatility, trading volume, market efficiency, and information production.",
+            "keywords": [
+                "Prospect Theory",
+                "Market liquidity",
+                "Volatility",
+                "Trading volume",
+                "Price efficiency",
+                "Endogenous information acquisition"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejetheo/v_3a149_3ay_3a2014_3ai_3ac_3ap_3a276-310.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time-varying demand for lottery: Speculation ahead of earnings announcements",
+            "abstract": "Investor preferences for holding speculative assets are likely to be more pronounced ahead of firms\u00e2\u0080\u0099 earnings announcements, probably because of lower inventory costs and immediate payoffs or because of enhanced investor attention. We show that the demand for lottery-like stocks is stronger ahead of earnings announcements, leading to a price run-up for these stocks. In sharp contrast to the standard underperformance of lottery-like stocks, lottery-like stocks outperform non-lottery stocks by about 52 basis points in the 5-day window ahead of earnings announcements. However, this return spread is reversed by 80 basis points in the 5-day window after the announcements. Moreover, this inverted-V-shaped pattern on cumulative return spreads is more pronounced among firms with a greater retail order imbalance, among firms with low institutional ownership, and in regions with a stronger gambling propensity, and it is also robust after controlling for past 12-month returns and various proxies for investor attention.",
+            "keywords": [
+                "Speculation",
+                "Lottery",
+                "Earnings announcements",
+                "Skewness"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a138_3ay_3a2020_3ai_3a3_3ap_3a789-817.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Industry familiarity and trading: Evidence from the personal portfolios of industry insiders",
+            "abstract": "We study whether industry familiarity is an advantage in stock trading by exploring the trading patterns of industry insiders in their own personal portfolios. To do so, we identify accounts of industry insiders in a large data set provided by a retail discount broker. We find that insiders trade firms from their own industry more frequently. Furthermore, they earn abnormal returns exclusively when trading own-industry stocks, especially obscure stocks (small, low analyst coverage, high volatility). In a battery of tests, we find no evidence of the use of private information. The results are most consistent with the interpretation that industry familiarity is an advantage in stock trading.",
+            "keywords": [
+                "Retail trading",
+                "Insiders",
+                "Officers and directors",
+                "Investor experience"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a132_3ay_3a2019_3ai_3a1_3ap_3a49-75.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

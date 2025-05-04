@@ -1,0 +1,122 @@
+{
+    "page_info": {
+        "page_number": 56,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Price returns and trading volume changes in agricultural futures markets: An empirical analysis with quantile regressions",
+            "abstract": "This work examines the price-volume relationship in six agricultural futures markets using quantile regressions and daily data from 2010 to 2018. The results suggest that the association between the two variables is highly non-linear (convex). In particular, the association is positive (negative) under positive (negative) returns in line with the theoretical proposition of Blume et al. (1995) for stock markets. The existence of non-linearity explains why earlier empirical studies, that assumed a priori a linear association, ended up with conflicting and often counterintuitive findings.",
+            "keywords": [
+                "Price",
+                "Volume",
+                "Futures markets",
+                "Non-linearity",
+                "Asymmetry"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejoecas/v_3a19_3ay_3a2019_3ai_3ac_3a3.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock return comovement around the Dow Jones Islamic Market World Index revisions",
+            "abstract": "We examine patterns of comovement in stock returns around the Dow Jones Islamic Market World Index (DJIMWI) quarterly revision events. Our analysis is based on a sample of 8250 companies from eighteen countries during the period May 1999\u00e2\u0080\u0093June 2012. We find that a stock\u00e2\u0080\u0099s comovement with the DJIMWI increases when it joins and decreases when it leaves the index. We also find that the comovement of newly added (deleted) stocks with the existing DJIMWI constituents increases (declines) during periods of high trading activity and during the month of Ramadan. Further tests reveal that changes in the fundamentals have no impact on the comovements of added and deleted stocks. Overall, our results indicate that stock returns respond to the emotional state of investors around information-free events.",
+            "keywords": [
+                "DJIMWI revisions",
+                "Religion",
+                "Comovement",
+                "Ramadan effect",
+                "Behavioral finance",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejeborg/v_3a132_3ay_3a2016_3ai_3as_3ap_3a50-62.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "IQ, trading behavior, and performance",
+            "abstract": "We analyze whether IQ influences trading behavior, performance, and transaction costs. The analysis combines equity return, trade, and limit order book data with two decades of scores from an intelligence (IQ) test administered to nearly every Finnish male of draft age. Controlling for a variety of factors, we find that high-IQ investors are less subject to the disposition effect, more aggressive about tax-loss trading, and more likely to supply liquidity when stocks experience a one-month high. High-IQ investors also exhibit superior market timing, stock-picking skill, and trade execution.",
+            "keywords": [
+                "Intelligence",
+                "Household finance",
+                "Trading performance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a104_3ay_3a2012_3ai_3a2_3ap_3a339-362.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor attention, psychological anchors, and stock return predictability",
+            "abstract": "Motivated by psychological evidence on limited investor attention and anchoring, we propose two proxies for the degree to which traders under- and overreact to news, namely, the nearness to the Dow 52-week high and the nearness to the Dow historical high, respectively. We find that nearness to the 52-week high positively predicts future aggregate market returns, while nearness to the historical high negatively predicts future market returns. We further show that our proxies contain information about future market returns that is not captured by traditional macroeconomic variables and that our results are robust across G7 countries. Comprehensive Monte Carlo simulations and comparisons with the NYSE/Amex market cap index confirm the significance of these findings.",
+            "keywords": [
+                "Attention",
+                "Anchor",
+                "Overreaction",
+                "Underreaction",
+                "52-week high"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a104_3ay_3a2012_3ai_3a2_3ap_3a401-419.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sell-order liquidity and the cross-section of expected stock returns",
+            "abstract": "We estimate buy- and sell-order illiquidity measures (lambdas) for a comprehensive sample of NYSE stocks. We show that sell-order liquidity is priced more strongly than buy-order liquidity in the cross-section of equity returns. Indeed, our analysis indicates that the liquidity premium in equities emanates predominantly from the sell-order side. We also find that the average difference between sell and buy lambdas is generally positive throughout our sample period. Both buy and sell lambdas are significantly positively correlated with measures of funding liquidity such as the TED spread as well option implied volatility.",
+            "keywords": [
+                "Liquidity",
+                "Asset pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a105_3ay_3a2012_3ai_3a3_3ap_3a523-541.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can Shorts Predict Returns? A Global Perspective",
+            "abstract": "Using multiple short-sale measures, we examine the predictive power of short sales for future stock returns in 38 countries from July 2006 to December 2014. We find that the days-to-cover ratio and the utilization ratio measures have the most robust predictive power for future stock returns in the global capital market. Our results display significant cross-country and cross-firm differences in the predictive power of alternative short-sale measures. The predictive power of shorts is stronger in countries with nonprohibitive short sale regulations and for stocks with relatively low liquidity, high shorting fees, and low price efficiency.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a35_3ay_3a2022_3ai_3a5_3ap_3a2428-2463..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Man versus Machine Learning: The Term Structure of Earnings Expectations and Conditional Biases",
+            "abstract": "We introduce a real-time measure of conditional biases to firms\u00e2\u0080\u0099 earnings forecasts. The measure is defined as the difference between analysts\u00e2\u0080\u0099 expectations and a statistically optimal unbiased machine-learning benchmark. Analysts\u00e2\u0080\u0099 conditional expectations are, on average, biased upward, a bias that increases in the forecast horizon. These biases are associated with negative cross-sectional return predictability, and the short legs of many anomalies contain firms with excessively optimistic earnings forecasts. Further, managers of companies with the greatest upward-biased earnings forecasts are more likely to issue stocks. Commonly used linear earnings models do not work out-of-sample and are inferior to those analysts provide.Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a36_3ay_3a2023_3ai_3a6_3ap_3a2361-2396..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Factor Momentum",
+            "abstract": "Factors display strong cross-sectional momentum that subsumes momentum in industries and other portfolio characteristics. The profits of all these momentum strategies\u00e2\u0080\u0094based on factors, industries, and other characteristics\u00e2\u0080\u0094significantly correlate with each other and therefore likely emanate from the same source. If factors display momentum, so will any set of portfolios with cross-sectional variation in factor loadings. Consistent with factors being at the root of momentum, we find that momentum in industry-neutral factors explains industry momentum, but industry momentum explains none of the factor momentum. Cross-sectional factor momentum concentrates in the first few highest-eigenvalue factors and is distinct from time-series factor momentum.Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a36_3ay_3a2023_3ai_3a8_3ap_3a3034-3070..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Order Flows and Financial Investor Impacts in Commodity Futures Markets",
+            "abstract": "Using intraday data, we document statistically strong, but temporary, impacts of commodity index trade flows on commodity futures prices. We also examine the previously documented positive returns around the issuance of commodity-linked notes and find that these returns are an order of magnitude too large to be caused by the small trades necessary to hedge the notes. We provide new evidence that they are instead the result of endogenous issuance. Our results provide novel support for commodity financialization but highlight the importance of measuring the magnitude of financial investment, since even large financial flows have economically modest impacts on prices.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a35_3ay_3a2022_3ai_3a10_3ap_3a4712-4755..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Competition Links and Stock Returns",
+            "abstract": "This paper demonstrates that value-relevant information about a firm appearing in regulatory disclosures of other firms is overlooked by investors. Firms highly mentioned in the 10-K competition section of other firms tend to outperform with risk-adjusted returns of up to 9$\\%$ annually. Outperformance is concentrated in firms whose competition references are made in the context of targeting rather than admiration. Consistent with investor inattention, abnormal returns stem from cross-sector competition mentions as well as firms with low-analyst coverage. Moreover, highly mentioned firms exhibit improved fundamentals in subsequent years, further signifying they are underpriced.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a35_3ay_3a2022_3ai_3a9_3ap_3a4300-4340..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Using Social Media to Identify the Effects of Congressional Viewpoints on Asset Prices",
+            "abstract": "We use a high-frequency identification approach to document that individual politicians affect asset prices. We exploit the regular flow of viewpoints contained in Congress members\u00e2\u0080\u0099 tweets. Supportive (critical) tweets increase (decrease) the stock prices of the targeted firm and the corresponding industry in minutes around the tweet. The bulk of the stock price effects is concentrated in the tweets revealing news about future legislative action. The effects are amplified around committee meeting days, especially when the tweet originates from committee members and influential politicians. Overall, we show that Congress members\u00e2\u0080\u0099 social media accounts are an important source of political news.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a37_3ay_3a2024_3ai_3a7_3ap_3a2244-2272..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Bayesian inference for time varying partial adjustment model with application to intraday price discovery",
+            "abstract": "Price discovery is an important built-in function of financial markets and the central issue in the market microstructure research. Market participants need to know whether the price discovery has been achieved or how much progress has been made in order to trade at an appropriate price they consider. Since various economic events such as earnings announcement affect the price discovery, the intraday transition of price discovery varies date-by-date. In this study, we propose a statistical method to see when and how fast the intraday price discovery progresses using the high frequency price series on a daily basis. The proposed method consists of estimating three candidate models which gauge the different types of price discovery progress, i.e. no progress, smooth progress and abrupt progress, and selecting the most appropriate model based on Bayesian approach. We conduct simulation analysis to assess the performance of our proposed method and confirm that the method depicts the state of price discovery appropriately. The empirical study using the Japanese stock market index shows that the proposed method well categorizes the intraday price discovery progresses on a daily basis.",
+            "keywords": [
+                "pre-opening period",
+                "market microstructure",
+                "partial adjustment model"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/oskwpaper/2119.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

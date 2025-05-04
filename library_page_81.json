@@ -1,0 +1,143 @@
+{
+    "page_info": {
+        "page_number": 81,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Private Information and Trade Timing",
+            "abstract": "This paper investigates the Bayesian decision-theoretic foundations of the Wall Street adage that `timing is everything'. One might think that a `small' risk-neutral trader wishes to act immediately upon any private information he possesses. I begin with a counterintuitive nding that trade timing doesn't matter for an Arrow security, as one's expected return per dollar invested is a martingale. This timing irrelevance discovery motivates an analysis of general compound securities. While timing there is ambiguous, I nd that natural monotone likelihood ratio assumptions on both private and public information restore the intuition that one should trade with all due dispatch.",
+            "keywords": [
+                "DECISION MAKING",
+                "FINANCIAL MARKET",
+                "INFORMATION"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fthmichet/99-07.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short-term Momentum",
+            "abstract": "We document a striking pattern in U.S. and international stock returns: Double sorting on last month's return and share turnover reveals significant short-term reversal among low-turnover stocks whereas high-turnover stocks exhibit short-term momentum. Short-term momentum is as profitable and as persistent as conventional price momentum. It also survives transaction costs and is strongest among the largest, most liquid, and most extensively covered stocks. Our results are difficult to reconcile with models imposing strict rationality but are suggestive of an explanation based on some traders underappreciating the information in prices.",
+            "keywords": [
+                "Momentum",
+                "Reversal",
+                "Trading volume",
+                "Bounded rationality"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/15857.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A labor news hedge portfolio and the cross-section of expected stock returns",
+            "abstract": "Using the relation between the surprise component in labor statistics and an asset\u00e2\u0080\u0099s return on labor news announcement days, we derive a labor beta. By adding a labor news hedge portfolio which is long in high labor beta assets and short in low labor beta assets to the market portfolio, we obtain a labor news model. This model describes the cross-section of expected stock returns just as well as or even better than alternative multifactor models. The estimated premium for bearing labor income risk varies between three and five percentage points per annum.",
+            "keywords": [
+                "Labor news model",
+                "Fama\u00e2\u0080\u0093French factors",
+                "Hedge portfolios"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a48_3ay_3a2018_3ai_3ac_3ap_3a123-139.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Illiquidity shocks and the comovement between stocks: New evidence using smooth transition",
+            "abstract": "This paper extends the smooth transition conditional correlation model by studying for the first time the impact that illiquidity shocks have on stock market return comovement. We show that firms that experience shocks that increase illiquidity are less liquid than firms that experience shocks that decrease illiquidity. Shocks that increase illiquidity have no statistical impact on comovement. However, shocks that reduce illiquidity lead to a fall in comovement, a pattern that becomes stronger as the illiquidity of the firm increases. This discovery is consistent with increased transparency and an improvement in price efficiency. We find that a small number of firms experience a double illiquidity shock. For these firms, at the first shock, a rise in illiquidity reduces comovement while a fall in illiquidity raises comovement. The second shock partly reverses these changes as a rise in illiquidity is associated with a rise in comovement and a fall in illiquidity is associated with a fall in comovement. These results have important implications for portfolio construction and also for the measurement and evolution of market beta and the cost of capital as it suggests that investors can achieve higher returns for the same amount of market risk because of the greater diversification benefits that exist. We also find that illiquidity, friction, firm size and the pre-shock correlation are all associated with the magnitude of the correlation change.",
+            "keywords": [
+                "Stock liquidity",
+                "Comovements",
+                "Smooth transition model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a23_3ay_3a2013_3ai_3ac_3ap_3a1-15.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Which firms benefit from corporate QE during the COVID-19 crisis? The case of the ECB\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Pandemic Emergency Purchase Program",
+            "abstract": "Using an event study methodology, this paper examines how European firms have been affected by the announcement of the Pandemic Emergency Purchase Program (PEPP) of the ECB. Firms with an investment-grade rating benefit relatively more as evidenced by higher share prices and lower CDS spreads, which reflects that the ECB is restricted to purchasing investment-grade corporate debt securities. The gains to shareholders relative to the total gains of shareholders and debtholders are negatively related to firm leverage, consistent with the existence of debt overhang. Firms more heavily impacted by the pandemic benefit relatively little from the PEPP, which could reflect that the business models of some of these firms are heavily damaged by the pandemic. Monetary policy in the form of the PEPP and national fiscal responses to the pandemic are shown to be complements in the sense that a strong pre-PEPP fiscal response enhances the potential for the PEPP to positively affect equity and debt valuations.",
+            "keywords": [
+                "Quantitative easing",
+                "Equity returns",
+                "Pandemic"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/15224.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The investment value of the frequency of analyst recommendation changes for the ordinary investor",
+            "abstract": "We find that analysts who frequently revise their stock recommendations outperform those who do not. This result holds for portfolios formed on the basis of favorable changes in recommendations as well as unfavorable changes. The frequency of revision captures information incremental to factors known to identify superior recommendations. Although much of the frequently revising analysts' advantage follows events proxied by abnormally high returns or trading volume, it does not appear to derive from more public events such as earnings announcements. Further, these analysts outperform their counterparts even over the short-run, suggesting that this is not simply a \u00e2\u0080\u009cquantity over quality\u00e2\u0080\u009d phenomenon. In summary, our results imply that the superior profitability of frequently revising analysts emanates at least partly from their ability to generate private information using their superior skill. Overall, the ordinary investor is better off following the advice of analysts who revise their recommendations more frequently.",
+            "keywords": [
+                "Analyst recommendation's profitability",
+                "Frequency of recommendation changes",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a19_3ay_3a2012_3ai_3a1_3ap_3a94-108.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Why Does the Ratio of Book to Market Value of Equity Explain Cross-Section Stock Returns?",
+            "abstract": "A number of papers have reported evidence that cross-section stock returns can be explained by the ration of the book value of complanies' assets to their market value. The unresolved issue, which we address here, is whether this evidence is consistent with the efficient markets hypothesis. We argue that the efficient markets model, which implies that book to market is a proxy for risk, implies also that it is a noisy proxy. This same model also presents a way to clean up this variable so that it explains stock returns more successfully. Removing the noise from book to market in this way should improve its explanatory power under the efficient markets hypothesis, while under the alternative hypothesis of irrational pricing it should cause its explanatory power to deteriorate. We present evidence in this paper that its explanatory power deteriorates.",
+            "keywords": [
+                "Book to market",
+                "Cross-section returns",
+                "Panel data"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/exewpaper/9609.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price discovery in energy markets",
+            "abstract": "In this study, we empirically analyze the price discovery process in the futures and spot markets for crude oil, heating oil and natural gas using daily closing prices. We use two different information share measures that are based on the methods proposed by Gonzalo and Granger (1995) and Lien and Shrestha (2014). Both measures indicate that almost all the price discovery takes place in the futures markets for the heating oil and natural gas. However, for the crude oil, the price discovery takes place both in the futures and spot markets. As a whole, our study indicates that futures markets play an important role in the price discovery process.",
+            "keywords": [
+                "Unit root",
+                "Cointegration",
+                "Price discovery",
+                "Energy futures"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a45_3ay_3a2014_3ai_3ac_3ap_3a229-233.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Baidu news information flow and return volatility: Evidence for the Sequential Information Arrival Hypothesis",
+            "abstract": "This paper employs Baidu News as the proxy for information flow and investigates competing hypotheses on the relationships between information flow and return volatility in Chinese stock market. The empirical results show that: (1) trading volume and return volatility are not driven by the same variable, i.e., the information flow, and thus contradicts the predication of the Mixture of Distribution Hypothesis (MDH); (2) there exist significant lead-lag relationships between information flow and return volatility, which is in accordance with the Sequential Information Arrival Hypothesis (SIAH); (3) these findings are robust to alternative measurement of return volatility and subsample analysis. Generally speaking, these findings contradict the prediction of MDH and support the SIAH.",
+            "keywords": [
+                "Return volatility",
+                "Sequential Information Arrival Hypothesis",
+                "Mixture of Distribution Hypothesis",
+                "Information flow",
+                "Baidu News"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a69_3ay_3a2018_3ai_3ac_3ap_3a127-133.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short-term returns and the predictability of Finnish stock returns",
+            "abstract": "The predictability of Finnish stock returns is studied using the framework of Ferson and Harvey (1993). We employ a conditional asset pricing model where risk premia and risk sensitivities are conditioned on a range of financial information variables. In particular, we study the effect of the return interval on the predictability of short-term stock returns. Using daily, weekly, and monthly returns on Finnish size and industry-sorted portfolios, we find that the predictability of returns increases with the length of the return interval, but so does the power of the conditional pricing model to explain the predictability. Consistent with the earlier results, we report that the time variation in risk premium accounts for most of the predictability. However, the results also show a sizable positive interaction between the beta and the risk premium which seems to increase for smaller companies.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/fepjournl/v_3a11_3ay_3a1998_3ai_3a1_3ap_3a19-36.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Gilt-Equity Yield Ratio and the Predictability of UK and US Equity Returns",
+            "abstract": "A number of financial variables have been shown to be effective in explaining the time-series of aggregate returns in both the UK and US equity markets. These include, inter alia, the dividend yield, the spread between the yields on long and on short bonds, and lagged equity returns. Recently, however, the gilt-equity yield ratio -the ratio between the long bond yield and the equity dividend yield- has emerged as a variable that has considerable explanatory power for equity returns in the UK. This paper compares the performance of the gilt-Equity yield ratio with these other variables in the UK and US equity markets, prividing evidence on both ex post explanatory power and ex ante predictive ability.",
+            "keywords": [
+                "SHARES",
+                "DIVIDENDS",
+                "SECURITIES",
+                "FINANCIAL MARKET"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/exewpaper/9815.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Test of the Expectations Hypothesis of the Term Structure Using Cross-Section Data",
+            "abstract": "Empirical tests of the expectations hypothesis of the term structure hage almost without exception been tests of the time-series properties of interest rates. However, the expectations hypothesis has implications not just for the yield movement of a single pair of bond maturities over a number of periods but also for the relationship between yield movements of a number of bond maturities over a single period. This paper tests these implications of the expectations hypothesis using cross-section bond yield data. A long series of monthly cross-section regressions is estimated using zero coupon bond yields for maturities from two months to thirty-five years.",
+            "keywords": [
+                "ECONOMETRIC MODELS",
+                "ECONOMETRICS",
+                "MODELS",
+                "INTEREST RATE",
+                "TESTS"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/exewpaper/9812.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "page_info": {
+        "page_number": 158,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Month Related Seasonality on the Macedonian Stock Market",
+            "abstract": "A consistent theme in the market efficiency literature has concerned the presence of calendar anomalies or seasonality in stock market returns. Whereas calendar anomalies in advanced equity markets have been investigated extensively, the stock markets in the transition economies have received less attention. This research examines the month-of-the-year effect on Macedonian Stock Exchange using a simple single ANOVA model and regression-based approach. If there is evidence of existence of predictable pattern or market inefficiency, then investors can have opportunity to generate abnormal returns by forecasting of the predictable movements in asset prices. The results indicate that there is evidence of month of the year effect. ANOVA model rejected the null of equality in the monthly returns during the year, and dummy variable regression model using OLS methodology found that returns are significantly lower in November. These findings can be useful for the investors trading on the Macedonian Stock Exchange.",
+            "keywords": [
+                "Calendar pattern",
+                "seasonality",
+                "month-of-the-year",
+                "market efficiency",
+                "Macedonian stock exchange"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risbuecrj/0146.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Validity of Fama-French Three-Factor Model In Asset Pricing: An Application In Istanbul Stock Exchange",
+            "abstract": "The traditional Capital Asset Pricing Model stating that the risk premium of a financial asset is positively related to its market risk, was found to be insufficient in explaining the expected returns of stocks. Fama and French (1993) introduced the \u00e2\u0080\u009cThree-Factor Asset Pricing Model\u00e2\u0080\u009d via inserting the size and book-to-market factors to the standard Capital Asset Pricing Model. In this study, the validity of the Three-Factor Model in Istanbul Stock Exchange within 1999-2011 period is investigated. The model is tested on ISE-100 Index non-financial companies monthly data by utilizing panel data analysis. The findings reveal that Three-Factor Model gives statistically significant results in Istanbul Stock Exchange. In the forecast of the cost of capital, Three-Factor Model can be used instead of one-factor Capital Asset Pricing Model by the investors in Turkey. Our findings are consistent with most of the studies that suggested the validity of the Three-Factor Model in developed and emerging markets.",
+            "keywords": [
+                "Three-Factor Model",
+                "Fama and French",
+                "Asset Pricing",
+                "Panel Data Analysis",
+                "ISE"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risbuecrj/0081.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "New Evidence on the Information Content of Implied Volatility of S&P 500: Model-Free versus Model-Based",
+            "abstract": "This paper provides new evidence to compare the information content of model-free implied volatility (MFIV) and model-based volatility for forecasting future volatility of the S&P 500. We choose Black and Scholes (BS) implied volatility as our model-based volatility and VIX as our measure of MFIV. By using non-overlapping monthly samples from January 2004 to June 2019, we find that both BS implied volatility and MFIV are informationally efficient and subsume information contained in the historical realized volatility for forecasting future volatility. This is the first study show that BS implied volatility and MFIV contain the same information and there is no winner for forecasting future volatility. This implied that a forecast model could include both BS implied volatility and MFIV",
+            "keywords": [
+                "Implied volatility",
+                "VIX",
+                "Realized volatility",
+                "Information",
+                "Volatility forecasts",
+                "Volatility models"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2021_3ai_3a1_3ap_3a109-121.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Technical Analysis and Stochastic Properties of Exchange Rate Movements: Empirical Evidence from the Romanian Currency Market",
+            "abstract": "Romanian currency market considering the episodic character of linear and/or nonlinear dependencies, between 1999 and 2008. The main conclusion is that profitability of moving average strategies is not constant over time and that is mainly due to linear and nonlinear episodic dependencies. The trading rule profits did not declined over time in the case of the Romanian currency market. Exploring the causes of profitability, it was found that it was closely related to the intensity of manifestation of episodic linear and nonlinear dependencies, the state of the market, and it was not the result of a time varying risk premium. The empirical results are consistent with the Adaptive Markets Hypothesis (Lo, 2004), but not with the Efficient Market Hypothesis.",
+            "keywords": [
+                "technical analysis",
+                "exchange rate",
+                "random walk",
+                "episodic dependencies",
+                "bicorrelation test"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2011_3ai_3a1_3ap_3a175-192.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Chinese News Sentiment around Earnings Announcements",
+            "abstract": "We examine the effect of Chinese news on announcement drift and investigate its application to portfolio management, applying a linguistic analysis to extract various dimensions of the information content. Our empirical results reveal a positive (negative) relationship between news sentiment and cumulative abnormal returns in the pre- (post-) earnings announcement period, thereby confirming that the market response takes into consideration all relevant information on the related firm. The application of public news sentiment to portfolio management indicates that long (short) stocks with low (high) news sentiment and high public news surprises will earn positive excess returns. We suggest that the relevant news of individual stocks could be applied to the prediction of abnormal returns and portfolio management.",
+            "keywords": [
+                "media coverage",
+                "news sentiment",
+                "abnormal returns",
+                "earnings announcements",
+                "linguistic analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2013_3ai_3a3_3ap_3a44-58.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Nonlinear Behavior of the US Stock Price-Dividend: Evidence from Threshold Unit Root Tests",
+            "abstract": "This study investigates the behavior of US stock price\u00e2\u0080\u0093dividend relationships over the period 1871:01 to 2012:03 using a two-regime Threshold Autoregressive (TAR) model with an autoregressive unit root developed by Caner and Hansen (2001), which allows for simultaneously testing nonlinearity and non-stationary. Our findings indicate that the US stock price-dividend is a nonlinear series that is characterized by a unit root process in a particular month; the stock price-dividend ratio shows a decrease by more than 7.17% between the previous year and the previous fourth month.",
+            "keywords": [
+                "threshold autoregressive (TAR)",
+                "US stock price-dividend",
+                "regime change"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2013_3ai_3a4_3ap_3a82-93.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Fractal Structure of CDS Spreads: Evidence from the OECD Countries",
+            "abstract": "There is a large and growing literature that criticizes the random walk assumption of the Gaussian distribution and the Efficient Market Hypothesis (EMH) as well. In this respect, the Fractal Market Hypothesis (FMH) is an alternative approach to the EMH. On the other hand, Credit Default Swaps (CDSs) are also taken as an indicator of risk. It is a puzzle for the researchers whether CDS spreads are following a random walk process or not. The aim of this study is to investigate the validity of the FMH in CDS spreads for 34 OECD countries between March 2003 and February 2020. The rescaled range analysis is used for each country\u00e2\u0080\u0099s data with four different frequencies. The results show that there is a persistency in all CDS spreads. That process, called the Hurst process, indicates that the Fractal Market Hypothesis is valid in the CDS spreads.",
+            "keywords": [
+                "efficient market hypothesis",
+                "fractal market hypothesis",
+                "CDS",
+                "OECD countries"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2022_3ai_3a1_3ap_3a106-121.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Impact of the Juncker Plan on Investors\u00e2\u0080\u0099 Beliefs",
+            "abstract": "The third quarter of 2014 brought the first mentioning of what became known as the Juncker Plan. This extensive investment plan targeted the rejuvenation of the dynamics of investments across the European Union and quickly became a topic of interest for both political authorities and academics. In this paper we aim to fill a gap in the existing literature and investigate the reaction of financial markets to the information regarding the Investment Plan. For this purpose we employ an event study methodology constructed on 32 modeling specifications. The results point out to clear influences on all of the three classes of financial assets included in the study, which could be seen as a shift in investors\u00e2\u0080\u0099 expectations, given that the effects of the proposed policies are likely to be noticed in the long run.",
+            "keywords": [
+                "Juncker plan",
+                "financial markets",
+                "volatility",
+                "investment sentiment",
+                "event study"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2017_3ai_3a3_3ap_3a150-165.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Oferta P\u00c3\u00bablica Inicial (IPO) de a\u00c3\u00a7\u00c3\u00b5es no Brasil: uma an\u00c3\u00a1lise dos retornos da IPO de a\u00c3\u00a7\u00c3\u00b5es com baixo \u00c3\u008dndice Pre\u00c3\u00a7o/Lucro (P/L)",
+            "abstract": "The Brazilian capital market has been in the last 10 years a attractive space for negotiations and opening of company\u00e2\u0080\u0099s capital. The early studies of market anomalies that are looking for evidence on reasons of understatement and overstatement at the time of the IPO in Brazil date back to decade of 1970, from the perspective of the assumptions of hypothesis market\u00e2\u0080\u0099s efficiency. This study had as objective analyze the performance of the stocks of companies which opened their capital in BOVESPA between 2002 and 2010, seeking to identify those to obtain extraordinary returns by evaluating the multiple price / future earnings of these companies, the industry and the trading volume, as a basis for measuring the performance of stocks, reapplying the methodology proposed by Casotti and Motta (2008). We used 82 stocks of companies that have done IPO, to compare its performance with the sector through hypothesis tests for comparison of means and correlation analysis, as well as ross section regression. The results corroborate those found by authors above cited, that can\u00e2\u0080\u0099t be statistically confirmed an stock that has its ratio of price / earnings and future price / earnings ratio of sector less than one, characterizing it as an undervalued share, bring returns abnormal in the short or long term. Furthermore, the regression results significantly show that the lower the offer price stock, the greater is your risk premium in the third and fourth years.",
+            "keywords": [
+                "IPO",
+                "Cross-Section",
+                "Price Earnings Index"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/48106.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Anomali Overreaction di bursa efek Indonesia: Penelitian Saham LQ-45",
+            "abstract": "As reaction from market inefficient specified about information distribution, all market participant trying to reduce the effect with various means, among other things by perceiving historical behavior of share price. One of result namely contrarian strategy by believing that loser portfolio will experience of rebound conversely degradation at share winner portfolio. This study aim to prove existency of overreaction anomaly effect in Indonesia Stock Market specially the LQ-45 during 2003-2007. By using Debont-Thaler approach, empirical result express that there is no symptom of overreaction anomaly at three-month, six-month, and annual period. Therefore the study recommend the investor to avoid contrarian strategy specially of LQ-45 stocks.",
+            "keywords": [
+                "Market Efficiency",
+                "Overreaction",
+                "Portfolio",
+                "Return",
+                "Risk",
+                "Indonesia"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/36998.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Day \u00ef\u00bf\u00bdof\u00ef\u00bf\u00bd The\u00ef\u00bf\u00bd Week Effect in the Colombia Stock Exchange",
+            "abstract": "This study investigates the existence of day of the week effects on stock returns in the Colombian Stock Exchange (CSE) for the period between June 2001 and March 2005. The Bogot\u00c3\u00a1 Stock Exchange was established in 1928. However, the two other main bourses in the country merged with this in 2001 to create the CSE. Since then, the CSE is becoming a good diversification alternative for both domestic and foreign investors. The modelling in the study begins with linear regression analyses, but the data generating process is shown to be non-linear. A non-linear GARCH model is then applied, achieving a good explanation for the modelled rates of return. Results obtained indicate the significant presence of day of the week effects in both returns and volatility. The maximum return is on Friday whereas the minimum is on Tuesday, with return variances at their highest on Monday.",
+            "keywords": [
+                "Day of the week effect",
+                "Latin America",
+                "emerging markets",
+                "GARCH"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/43112.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Respuesta del retorno accionario a la politica monetaria: Evidencia para el mercado chileno",
+            "abstract": "This paper analyzes the response of the stock market returns to monetary policy decisions by the Central Bank of Chile. It adopts the event-study methodology in order to gauge the influence of anticipated and unanticipated changes in the Chilean monetary policy interest rate (TPM), decided in every meeting of Monetary Policy Comitee, on the return of stocks traded at Santiago Stock Exchange in the monthly period 2001-2012. Unlike most the literature on this subject, mainly associated with US Federal Reserve monetary policy, no evidence is found on the impact of monetary surprises on stock returns, when surprise is measured using the Economic Expectations Survey.",
+            "keywords": [
+                "event study",
+                "inflation targeting",
+                "monetary policy",
+                "stock returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/41091.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

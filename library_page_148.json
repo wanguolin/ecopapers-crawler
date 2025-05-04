@@ -1,0 +1,142 @@
+{
+    "page_info": {
+        "page_number": 148,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The Role of Speculative Trade in Market Efficiency: Evidence from a Betting Exchange",
+            "abstract": "Does speculative trade reduce mispricing and help create efficient markets or does it drive prices further from fundamentals? We analyze betting exchange trading on 9,562 UK horse races in 2013 and 2014 to find out. Crucially, as each race is run, the fundamental value of bets is unambiguously revealed. We find that the volume of trade is predictive of fundamentals, suggesting that speculative trade is on average conducive to market efficiency. However, much of this effect is concentrated in the in-running period during races when, even without trade, asset fundamentals would be revealed seconds later.",
+            "keywords": [
+                "Market efficiency",
+                "Trading volume",
+                "Asset fundamentals",
+                "Betting markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ouprevfin/v_3a21_3ay_3a2017_3ai_3a2_3ap_3a583-603..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Information Value of Stock Lending Fees: Are Lenders Price Takers?",
+            "abstract": "We find that higher stock lending fees predict significantly lower future returns after controlling for shorting demand for US stocks during the period 2007\u00e2\u0080\u009310. These results suggest that active institutional investors on the supply side play an important role in the return predictability of fees and they not only respond to demand but also price in additional information around earnings news announcements. Overall, we find evidence that stock lenders are informed and, together with short sellers, contribute to the price discovery process.",
+            "keywords": [
+                "Institutional ownership",
+                "Securities lending market",
+                "Short selling",
+                "Short-sale constraints"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ouprevfin/v_3a21_3ay_3a2017_3ai_3a6_3ap_3a2353-2377..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Disagreement in the Equity Options Market and Stock Returns",
+            "abstract": "We estimate investor disagreement from synthetic long and short stock trades in the equity options market. We show that high disagreement predicts low stock returns after positive earnings surprises and high stock returns after negative earnings surprises. The negative effect is stronger for high-beta stocks and stocks that are more difficult to sell short. In the cross-section of all stocks and the subset of the 500 largest companies, high disagreement robustly predicts low monthly and weekly stock returns.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a35_3ay_3a2022_3ai_3a3_3ap_3a1443-1479..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Note on the Sources of Portfolio Returns: Underlying Stock Returns and the Excess Growth Rate",
+            "abstract": "A portfolio\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s compound return over time is not simply the weighted sum of the compound returns of its underlying stocks. Instead, it is due to (a) the underlying constituent stocks\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 compound returns, and (b) a component induced by constituent covariances. This can be important. The average smallest-cap decile portfolio outperformed its largest-cap counterpart by 44 basis points per month (bps/mo), but the smallest-cap decile stock constituents on average underperformed their largest-cap counterparts by 74 bps/mo. Thus, the \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093size effect\" is not a small-firm effect, but a small-firm portfolio effect. In contrast, our high-minus-low (HML) and up-minus-down (UMD) portfolios outperformed because their individual stock constituents outperformed on average. Value and momentum are simultaneously portfolio and individual stock effects.",
+            "keywords": [
+                "Portfolio Returns",
+                "Portfolio Growth Rates",
+                "Size Effect",
+                "Long-Term Returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/nowjnlcfr/104.00000025.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Corporate Sport Sponsorship and Stock Returns: Evidence from the NFL",
+            "abstract": "Most home stadiums/arenas of major-sport teams in the U.S. are sponsored by large publicly traded companies. Using NFL data we find that stock returns to the sponsoring firms are affected by the outcomes of games played in their stadiums. Wins in Monday night games generate next-day abnormal returns 50 basis points higher than losses. The effect is 80 basis points in the post-season and when the game outcome is unexpected. This does not revert over the next few days. Outcomes of NFL games could serve as a reasonably exogenous instrument for investor sentiment.",
+            "keywords": [
+                "Stock returns",
+                "Sport sponsorship"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/nowjnlcfr/104.00000041.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Documenting the Post-2000 Decline in the Idiosyncratic Volatility Effect",
+            "abstract": "My paper investigates in which periods the idiosyncratic volatility anomaly is observable, and the trend in recent years. It uses a graphical methodology that allows the reader to assess the effects of different starting and ending months. Plots for the value-weighted portfolio show that near the end of the sample period, the Ang et al. (2006) anomaly either attenuates or disappears. Consistent with Bali and Cakici (2008), the effect is weaker and insignificant for the equal-weighted portfolio. Using 5F and 6F benchmark return models shows similar results that differ quantitatively, but not qualitatively.",
+            "keywords": [
+                "Idiosyncratic volatility",
+                "Factor models",
+                "Graphical diagnostic"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/nowjnlcfr/104.00000095.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dissecting Market Expectations in the Cross-Section of Book-to-Market Ratios",
+            "abstract": "This paper starts by successfully replicating all the main results in Kelly and Pruitt (2013) for the return on the market\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009dand providing some evidence of market premium predictability\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009dbased on their original empirical choices in the 1930\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c2010 sample. However, the evidence of market premium predictability, in particular, essentially disappears by making any one of the following changes: (i) updating the sample to June 1926\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009cDecember 2019; (ii) not taking logs of the book-to-markets used as regressors; (iii) not dividing book-to-markets by their time-series standard deviations; or (iv) not taking one extra book-to-market lag (for monthly forecasts). In summary, I find no evidence that the procedure generates a valid forecasting model of market premiums with persistently positive out-of-sample R2 in the full 1926\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c2019 sample, especially since the Oil Shock (or early 2000).",
+            "keywords": [
+                "Predictability",
+                "Out-of-sample",
+                "Equity premium",
+                "Disaggregated book-to-markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/nowjnlcfr/104.00000116.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Effects of Dividends on Stock Prices in Nepal",
+            "abstract": "This paper examines the impact of dividends on stock price in the context of Nepal. A majority of earlier studies conducted in developed countries show that dividend has a strong effect than retained earnings. The study examines whether this is consistent in the context of Nepal (or not) and the implication particularly to the banking and non-banking sector. To achieve the objective of the study, a descriptive and analytical research design has been administered. The secondary data are used to test this impact. In order to examine the impact of dividends on stock prices, a multivariate linear regression analysis has been implied in which current market stock price is taken as a dependent variable and four other variables namely Dividend Per Share (DPS), Retained Earnings Per Share (REPS), Lagged Price Earnings Ratio (P/E ratio) and Lagged Market Price Per Share (MPS) as the explanatory variables. This attempt has been made to test the dividends retained earning hypothesis and to examine the estimated relationship over the period of time. The overall conclusion drawn in this study reveals that, the impact of dividends is more pronounced than that of retained earnings in the context of Nepal. Dividend has a significant effect on market stock price in both banking and non-banking sector.",
+            "keywords": [
+                "Dividents",
+                "stock price",
+                "banking and non-banking sector",
+                "multuvariate linear regression analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/nrbjournl/v_3a24_3ay_3a2012_3ai_3a2_3ap_3a5.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Cross-Section of Volatility and Expected Returns: Then and Now",
+            "abstract": "We successfully replicate the main results of Ang et al. (2006): Aggregate-volatility risk and idiosyncratic volatility (IV) are each priced in the cross-section of stock returns from 1963 to 2000. We also examine the pricing of volatility outside the original time period and under more recent asset-pricing models. With the exception of NASDAQ stocks, aggregate-volatility risk continues to be priced in the years following the Ang et al. (2006) sample period, and none of the more recent asset-pricing models we consider consistently accounts for the pricing of aggregate-volatility risk. The difference in abnormal returns between stocks with high and low IV decreases but remains significant out of sample. More recent asset-pricing models do not resolve the IV anomaly for the Ang et al. (2006) sample, but the four-factor model of Stambaugh and Yuan (2017) and the six-factor model of Barillas and Shanken (2018) resolve the anomaly out of sample and over the extended period of 1967 to 2016. Finally, both models eliminate the arbitrage asymmetry that Stambaugh et al. (2015) propose as an explanation of the IV anomaly.",
+            "keywords": [
+                "Factor models",
+                "Trading costs",
+                "Mispricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/nowjnlcfr/104.00000125.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Nepalese stock market: Efficiency and calendar anomalies",
+            "abstract": "After describing the various forms of efficiency and calendar anomalies observed in many developed and emerging markets according to the existing literature, the present study examines this phenomenon empirically in the Nepalese stock market for daily data of Nepal Stock Exchange Index from February 1, 1995 to December 31, 2004 covering approximately ten years. Using regression model with dummies, we find persistent evidence of day-of-the-week anomaly but disappearing holiday effect, turn-of-the-month effect and time-of-the-month effect. We also document no evidence of month-of-the-year anomaly and half-month effect. Our result for the month-of-the-year anomaly is consistent to the finding observed for the Jordanian stock market and that for the day-of-the-week anomaly to the Greek stock market .In addition, our finding regarding half-month effect is consistent with the US market. For the rest, we find inconsistent results with that in the international markets. Our results indicate that the Nepalese stock market is not efficient in weak form with regard to the day-of-the-week anomaly but weakly efficient with respect to the other anomalies.",
+            "keywords": [
+                "Market efficiency",
+                "seasonal anomalies",
+                "tax-loss selling hypothesis",
+                "institutional window dressing hypothesis",
+                "information hypothesis"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/26999.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock market volatiltity around national elections",
+            "abstract": "This paper investigates a sample of 27 OECD countries to test whether national elections induce higher stock market volatility. It is found that the country-specific component of index return variance can easily double during the week around an Election Day, which shows that investors are surprised by the election outcome. Several factors, such as a narrow margin of victory, lack of compulsory voting laws, change in the political orientation of the government, or the failure to form a coalition with a majority of seats in parliament significantly contribute to the magnitude of the election shock. Our findings have important implications for the optimal strategies of risk-averse stock market investors and participants of the option markets.",
+            "keywords": [
+                "Political risk",
+                "National elections",
+                "Stock market volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/302.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock returns and economically neutral behavioral variables: evidence from the Nepalese stock market",
+            "abstract": "This article investigates whether the Nepalese stock market is efficient in weak form with respect to economically neutral behavioural variables. Simple OLS technique with White\u00e2\u0080\u0099s heteroskedasticity-corrected standard errors is used to test the relationship between stock returns and economically neutral behavioural variables represented by weather (cloud cover and temperature) and biorhythms (seasonal affective disorder). The findings indicate the existence of weak-form efficiency in the market for \u00e2\u0080\u009ctemperature\u00e2\u0080\u009d and \u00e2\u0080\u009cseasonal affective disorder\u00e2\u0080\u009d but not for the \u00e2\u0080\u009ccloud cover\u00e2\u0080\u009d. These findings are not consistent to those of results documented for developed and emerging stock markets.",
+            "keywords": [
+                "Economically Neutral Behavioural Variables",
+                "SAD",
+                "Weather Effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/27000.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

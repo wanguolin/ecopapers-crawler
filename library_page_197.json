@@ -1,0 +1,161 @@
+{
+    "page_info": {
+        "page_number": 197,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Wavelet Applications to Heterogeneous Agents Model",
+            "abstract": "A heterogeneous agent model with the WOA was considered for obtaining more realistic market conditions. The WOA replaces periodically the trading strategies that have the lowest performance level of all strategies presented on the market by the new ones. New strategies that enter on the market have the same stochastic structure as an initial set of strategies. This paper shows, by wavelets applications, strata influences of the trading strategies with the WOA.",
+            "keywords": [
+                "agents\u00e2\u0080\u0099 trading strategies",
+                "heterogeneous agent model with stochastic memory",
+                "worst out algorithm",
+                "wavelet"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fauwpaper/wp2006_5f21.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Estimating Factor-Based Spot Volatility Matrices with Noisy and Asynchronous High-Frequency Data",
+            "abstract": "We propose a new estimator of high-dimensional spot volatility matrices satisfying a low-rank plus sparse structure from noisy and asynchronous high-frequency data collected for an ultra-large number of assets. The noise processes are allowed to be temporally correlated, heteroskedastic, asymptotically vanishing and dependent on the efficient prices. We define a kernel-weighted pre-averaging method to jointly tackle the microstructure noise and asynchronicity issues, and we obtain uniformly consistent estimates for latent prices. We impose a continuous-time factor model with time-varying factor loadings on the price processes, and estimate the common factors and loadings via a local principal component analysis. Assuming a uniform sparsity condition on the idiosyncratic volatility structure, we combine the POET and kernel-smoothing techniques to estimate the spot volatility matrices for both the latent prices and idiosyncratic errors. Under some mild restrictions, the estimated spot volatility matrices are shown to be uniformly consistent under various matrix norms. We provide Monte-Carlo simulation and empirical studies to examine the numerical performance of the developed estimation methodology.",
+            "keywords": [
+                "Continuous Semimartingale",
+                "Kernel smoothing",
+                "Microstructure noise",
+                "PCA",
+                "Spot Volatility",
+                "Time-Varying Factor Models"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/camcamdae/2454.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Impact of Macroeconomic News on Bond Yields: (In)Stabilities over Time and Relative Importance",
+            "abstract": "We study the daily response of T-Bond yields to the news in a large set of macroeconomic releases over the sample running from January 1997 to September 2010. The full-sample results show that the yields react systematically to a set of news consisting of the soft data, which have very short publication lags, and the most timely hard data, with the employment report being the most important release. Further looking at sub-samples over the pre-Great Recession period reveals that parameter instability in terms of absolute and relative size of yields response to news, as well as significance, is present. The often cited dominance to markets of the employment report has been evolving over time, as the size of the yields reaction to it was steadily increasing. Over the most recent crisis period, however, there has been an overall switch in the relative importance of soft and hard data compared to the pre-crisis period, with the later becoming more important even if less timely. Moreover, the scope of hard data to which markets react to has increased and is more balanced in terms of size of the response, hence less concentrated on the employment report.",
+            "keywords": [
+                "News",
+                "Real-Time Data",
+                "Term Structure"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cbiwpaper/7_2frt_2f11.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dual Industry Effects and Cross-Stock Predictability",
+            "abstract": "This paper introduces the Peer Index (PI), a measure capturing dual industry-related effects in cross-stock predictability: the overall strength of a firm\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s peer group and its relative position within the peer group. PI robustly predicts future stock re-turns, earnings surprises, and earnings growth at both the industry and stock levels across short and longer horizons. Its predictive power persists even after controlling for expected returns derived from machine-learning models applied to firm-own characteristics. We provide evidence that markets underreact to peer-related information, with the PI effect stronger when information uncertainty is higher and investor attention lower, driving cross-stock predictability.",
+            "keywords": [
+                "Cross-Stock Predictability",
+                "Industry Effect",
+                "Asset Pricing",
+                "Economic Links",
+                "Information Aggregation"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/camcamdae/2512.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Jumps Versus Bursts: Dissection and Origins via a New Endogenous Thresholding Approach",
+            "abstract": "We study the different origins of two closely related extreme financial risk factors: volatility bursts and price jumps. We propose a new method to separate these quantities from ultra-high-frequency data via a novel endogenous thresholding approach in the presence of market microstructure noise and staleness. Our daily jump statistic proxies volatility bursts when intraday jumps are accurately controlled by our local jump test (which proves to be highly powerful with extremely low misclassification rates due to its timely detections). We find that news is more related to volatility bursts; while high-frequency trading variables, especially volume and bid/ask spread, are prominent signals for price jumps.",
+            "keywords": [
+                "Endogenous Sampling",
+                "high-frequency trading",
+                "Market microstructure noise",
+                "News Sentiment",
+                "Price Jumps",
+                "Volatility Bursts"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/camcamdae/2449.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Insider trading and information asymmetry: Evidence from the Korea Exchange",
+            "abstract": "This study examines whether pre-announcement insider trading significantly resolves or intensifies information asymmetry in the Korean emerging stock market. Local institutions are the most informed and trade in the right direction before analyst report announcements. Such insider trading increases post-announcement information asymmetry or adverse selection costs. Notably, local retail investors' trading behavior synchronizes with that of local institutions after pre-announcement insider trading.",
+            "keywords": [
+                "Adverse selection",
+                "Analyst report",
+                "Difference-in-differences",
+                "Emerging stock market",
+                "Information asymmetry",
+                "Insider trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeememar/v_3a51_3ay_3a2022_3ai_3apa_3as1566014121000558.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Advance Information and Asset Prices",
+            "abstract": "This paper provides a dynamic rational expectations equilibrium model in which investors have heterogeneous information and investment opportunities. Informed investors privately receive advance information that is useful for predicting future earnings but is unrelated to current earnings. This information is immediately partially incorporated into prices, and thus stock prices may move in ways unrelated to current fundamentals. Investors' speculative and rebalancing trades in response to advance information generate short-run momentum, mimicking an underreaction pattern. When this information materializes, the stock price reverts back to its long-run mean, mimicking an overreaction pattern.",
+            "keywords": [
+                "advance information",
+                "rational expectations equilibrium",
+                "underreaction",
+                "over-reaction",
+                "momentum and reversal effects"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/boswpaper/wp2009-017.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The forward premium anomaly and the currency carry trade hypothesis",
+            "abstract": "In this paper, we examine whether the currency carry trade hypothesis can consistently explain the forward premium bias (anomaly) across different regimes of interest rates differentials. To investigate this, we consider a nonlinear extension of the forward premium regression allowing for interest rates differentials threshold effects. Using the US dollar as home currency, we provide clear-cut evidence that the currency carry trade hypothesis can offer an explanation of the forward premium anomaly only when interest rates differentials are positive. When they are negative, or close to zero, the hypothesis fails to explain the forward premium anomaly. We show that the negative interest rates differentials regime covers periods of financial crises and distressed market conditions which may lead investors to seek safe-haven currencies and thus, adopt anti-carry trade strategies.",
+            "keywords": [
+                "Rational expectations",
+                "Forward premium anomaly",
+                "Carry trade",
+                "Interest rates differentials",
+                "Nonlinear models"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a95_3ay_3a2024_3ai_3ac_3ap_3a203-218.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Differential rates, residual information sets and transactional algebras",
+            "abstract": "The purpose of this paper is to model differential rates over residual information sets, so as to shape transactional algebras into operational grounds. Firstly, simple differential rates over residual information sets are introduced by taking advantage of finite algebras of sets. Secondly, after contextual sets and the relevant algebra of information sets is suitably fashioned, generalized differential rates over residual information sets are expanded on, while a recursive algorithm is set forth to characterize such rates and sets. Thirdly, the notion of transactional algebra is presented and heed is given to the costs of running such structure. Finally, an application to financial arbitrage processes is fully developed within a transactional algebra, setting up arbitrage returns net of transaction costs, establishing boundary conditions for an arbitrage to take place, and finally allowing for a definition of what should be meant by financial arbitrage within a transactional algebra.",
+            "keywords": [
+                "differential rates",
+                "residual information sets",
+                "transactional algebras",
+                "arbitrage"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cemdoctra/256.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "On the Extent of Arbitrage Constraints within Transaction Algebras (A non-standard approach)",
+            "abstract": "Although the standard trading arbitrage model provides with simple settings and adjustment mechanisms so as to take profit whenever an arbitrage opportunity comes up, empirical evidence has been piling up showing that this point of view suffers from many downsides, leaving distinctive issues unresolved. By the same token, similar shortcoming prevent the standard financial arbitrage model from being functional to real markets environments. To overcome such drawbacks, this paper sets forth a new approach that is grounded on transactional algebras, which shapes the arbitrage gaps of return within institutional settings, to give account of market microstructure features and enlarged transaction costs.",
+            "keywords": [
+                "Arbitrage",
+                "Transaction Costs",
+                "Residual Information Sets",
+                "Differential Rates of Return",
+                "Arbitrage Gaps"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cemdoctra/239.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Informed trading in government bond markets",
+            "abstract": "Using comprehensive administrative data from the UK, we examine trading by different investor types in government bond markets. Our sample covers virtually all secondary market trading in gilts and contains detailed information on each transaction, including the identities of both counterparties. We find that hedge funds\u00e2\u0080\u0099 daily trading positively forecasts gilt returns in the following one to five days, which is then fully reversed in the following month. A part of this short-term return predictability is due to hedge funds\u00e2\u0080\u0099 ability to predict other investors\u00e2\u0080\u0099 future demand. Mutual fund trading also positively predicts gilt returns, but over a longer horizon of one to two months. This return pattern does not revert in the following year and is partly due to mutual funds\u00e2\u0080\u0099 ability to forecast changes in short-term interest rates.",
+            "keywords": [
+                "government bonds",
+                "informed trading",
+                "return predictability",
+                "asset managers"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ehllserod/108504.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Informed trading in government bond markets",
+            "abstract": "Using comprehensive administrative data from the UK, we examine trading by different investor types in government bond markets. Our sample covers virtually all secondary market trading in gilts and contains detailed information on each transaction, including the identities of both counterparties. We find that hedge funds' daily trading positively forecasts gilt returns in the following one to five days, which is then fully reversed in the following month. A part of this short-term return predictability is due to hedge funds' ability to predict other investors' future demand. Mutual fund trading also positively predicts gilt returns, but over a longer horizon of one to two months. This return pattern does not revert in the following year and is partly due to mutual funds' ability to forecast changes in short-term interest rates.",
+            "keywords": [
+                "government bonds",
+                "informed trading",
+                "return predictability",
+                "asset managers"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ehllserod/118857.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "page_info": {
+        "page_number": 102,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The informational role of algorithmic traders in the option market",
+            "abstract": "This paper investigates the information role of algorithmic traders (AT) in the Nifty index option market. I analyse a unique dataset to test for information-based trading by looking at the effect of net buying pressure options on implied volatilities. According to the direction-learning hypothesis, (directional) informed investors' net buying pressure of calls (puts) raises the implied volatilities of calls (puts) and lowers the implied volatilities of puts (calls). In addition, their net buying pressure can also predict future index returns. According to the volatility-learning hypothesis, (volatility) informed investors' net buying pressure is always positively related to implied volatilities. I find that these relations do not hold for AT and, therefore, infer absense of information-based trading by AT. On the contrary, I find the direction-learning hypothesis to hold for non-AT who, in this market, are primarily individual investors.",
+            "keywords": [
+                "mplied Volatility",
+                "Net buying pressure",
+                "Index option market"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/indigiwpp/2015-012.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Limits to arbitrage: The case of single stock futures and spot prices",
+            "abstract": "Market frictions limit arbitrage, but these frictions affect different stocks differently. Using intraday data on a liquid single stock futures and spot market, we examine the arbitrage efficiency of these two markets. We find evidence of significant cross- sectional variation in the size and asymmetricity of no-arbitrage bands. To the extent that market frictions affect all stocks similarly, commonality in the size of the bands is expected. 17 of variation in the size of the bands is explained by the first principal component. Changes in funding liquidity is a key factor that determines variation in the common component.",
+            "keywords": [
+                "Limits to arbitrage",
+                "mispricing",
+                "no-arbitrage bands",
+                "short-selling constraints",
+                "transactions costs",
+                "funding constraints"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/indigiwpp/2015-010.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Arbitrage and Liquidity: Evidence from a Panel of Exchange Traded Funds",
+            "abstract": "Market liquidity is expected to facilitate arbitrage, which in turn should affect the liquidity of the assets traded by arbitrageurs. We study this relationship using a unique dataset of equity and bond ETFs compiled from big trade-level data. We find that liquidity is an important determinant of the efficacy of the ETF arbitrage. For less liquid bond ETFs, Granger-causality tests and impulse responses suggest that this relationship is stronger and more persistent, and liquidity spillovers are observed from portfolio constituents to ETF shares. Our results inform the design of synthetic securities, especially when derived from less liquid instruments.",
+            "keywords": [
+                "exchange-traded funds",
+                "ETF",
+                "Market liquidity",
+                "Law of one-price",
+                "Arbitrage",
+                "ETF premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedgfe/2020-97.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "News versus Sentiment: Predicting Stock Returns from News Stories",
+            "abstract": "This paper uses a dataset of more than 900,000 news stories to test whether news can predict stock returns. We measure sentiment with a proprietary Thomson-Reuters neural network. We find that daily news predicts stock returns for only 1 to 2 days, confirming previous research. Weekly news, however, predicts stock returns for one quarter. Positive news stories increase stock returns quickly, but negative stories have a long delayed reaction. Much of the delayed response to news occurs around the subsequent earnings announcement.",
+            "keywords": [
+                "News",
+                "Text Analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedgfe/2016-48.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Equity market liberalizations as country IPOs",
+            "abstract": "Equity market liberalizations are like IPOs, but they are IPOs of a country's stock market rather than of individual firms. Both are endogenous events whose benefits are limited by poor investor protection, agency costs, and information asymmetries. As for stock prices following an IPO, there are legitimate concerns about the efficiency in the period following the liberalization of the stock market returns of countries that liberalize their equity markets. Equity markets of liberalizing countries experience extremely strong performance immediately after the liberalization, but then go through a period of poor performance. This pattern of stock returns is more dramatic for countries with poorer financial development before the liberalization.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/9481.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An Arbitrage Model for the Stock Price Adjustment in the Dividend Period",
+            "abstract": "Following a dividend distribution, investors expect the stock price to decrease on the ex-dividend day. With no market imperfections, the price decrease should exactly match the amount of the dividend, thus eliminating all opportunities for profitable arbitrage. Allowing for different taxes on dividends and on capital gains results in a stock price adjustment ratio different from one, but there is still a unique equilibrium. With a simple model, considering four types of investors, we show that the consideration of transaction costs results in multiple possible equilibria (equilibrium zone), defined by the arbitrage boundaries of each type of investors. We also show that trading activity by the different types of investors is reflected in abnormal trading volume.",
+            "keywords": [
+                "Dividend",
+                "Arbitrage",
+                "Market equilibrium",
+                "Transactions costs",
+                "Taxes"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/iseisegwp/wp92007.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Level Shifts in Beta, Spurious Abnormal Returns and the TARP Announcement",
+            "abstract": "Using high frequency data, we develop an event study method to test for level shifts in beta and measure abnormal returns for events that produce such level shifts. Using this method, we estimate abnormal returns for the Troubled Asset Relief Program (TARP) announcement and find that its abnormal returns are largely realized on the first day. The abnormal returns in the remaining post event period, which show up as a drift using standard methodology, are attributed to level shifts in beta.",
+            "keywords": [
+                "Event studies",
+                "Intraday returns",
+                "Systematic risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedgfe/2018-81.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Order Flow and Exchange Rate Dynamics in Electronic Brokerage System Data",
+            "abstract": "We analyze the association between order flow and exchange rates using a new dataset representing a majority of global interdealer transactions in the two most-traded currency pairs. The data consist of six years (1999-2004) of order flow and exchange rate data for the euro-dollar and dollar-yen currency pairs at the one-minute frequency from EBS, the electronic broking system that now dominates interdealer spot trading in these currency pairs. This long span of high-frequency data allows us to gain new insights about the joint behavior of these series. We first confirm the presence of a substantial association between interdealer order flow and exchange rate returns at frequencies ranging from one minute to one week, but, using our long span of data, we find that the association is weaker at lower frequencies, with far less long-term association between cumulative order flow and long-term exchange rate movements. We study the linearity and time-variation of the association between high-frequency exchange rate returns and order flow, and document an intradaily pattern to the relationship: it is weakest at times when markets are most active. Overall, our study tends to support the view that, while order flow plays a crucial role in high-frequency exchange rate movements, its role in driving long-term fluctuations is much more limited.",
+            "keywords": [
+                "Order flow",
+                "Foreign exchange",
+                "High-frequency data",
+                "News announcements",
+                "Micro exchange rate economics",
+                "Private information"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedgif/830.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predictability of Asset Returns and the Efficient Market Hypothesis",
+            "abstract": "This paper is concerned with empirical and theoretical basis of the Efficient Market Hypothesis (EMH). The paper begins with an overview of the statistical properties of asset returns at different frequencies (daily, weekly and monthly), and considers the evidence on return predictability, risk aversion and market efficiency. The paper then focuses on the theoretical foundation of the EMH, and show that market efficiency could co-exit with heterogeneous beliefs and individual irrationality so long as individual errors are cross sectionally weakly dependent in the sense defined by Chudik, Pesaran, and Tosetti (2010). But at times of market euphoria or gloom these individual errors are likely to become cross sectionally strongly dependent and the collective outcome could display significant departures from market efficiency. Market efficiency could be the norm, but it is likely to be punctuated with episodes of bubbles and crashes. The paper also considers if market inefficiencies (assuming that they exist) can be exploited for profit.",
+            "keywords": [
+                "market efficiency",
+                "predictability",
+                "heterogeneity of expectations",
+                "forecast averaging",
+                "equity premium puzzle"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/izaizadps/dp5037.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dividend Yield and Stability versus Performance at the German Stock Market",
+            "abstract": "It is often examined in the literature whether the dividend yields of stocks correlate with their total returns. This paper analyzes the effect of dividend yield on return as well as on risk and on performance of stocks and stock portfolios. Not only the influence of dividend yield but also of dividend stability is subject of our analysis. Furthermore, tax aspects are considered. Our data set comprises daily adjusted stock prices and dividend payment data from the German capital market over the period 2000 to 2006. We use stocks from the HDAX, which include blue chips (DAX), stocks of medium-sized companies (MDAX), and stocks of technology firms (TecDAX). Our findings suggest that the performance generally improves with an increasing dividend yield. However, this result is rather based on risk reduction than on a higher return where risk reduction diminishes by increasing the degree of diversification.",
+            "keywords": [
+                "dividend yield",
+                "dividend stability",
+                "diversification",
+                "performance"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/magwpaper/07017.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Calendar Anomaly and the Degree of Market Inefficiency of Bitcoin",
+            "abstract": "We find evidence for a day of the week calendar anomaly in Bitcoin returns and argue that not considering this anomaly results in a biased estimate of the market efficiency. Further, it also quantifies the degree of market inefficiency of Bitcoin over time using the methodology proposed by Ito and Sugiyama (2009) and found evidence in favor of very high degree of market inefficiency for the period spanning from July 2010 to January 2018. This result contradicts some of the recent studies that argue in favor of the market efficiency of Bitcoin",
+            "keywords": [
+                "Bitcoin",
+                "Level of inefficiency",
+                "State-space model"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/madwpaper/2018-168.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Optimal Corridor for Implied Volatility: from Calm to Turmoil Periods",
+            "abstract": "Corridor implied volatility is obtained from model-free implied volatility by truncating the integration domain between two barriers. Empirical evidence on volatility forecasting, in various markets, points to the utility of trimming the risk-neutral distribution of the underlying stock price, in order to obtain unbiased measures of future realised volatility (see e.g. [9], [3]). The aim of the paper is to investigate, both in a statistical and in an economic setting, the optimal corridor of strike prices to use for volatility forecasting in the Italian market, by analysing a data set which covers the years 2005-2010 and span both a relatively tranquil and a turmoil period",
+            "keywords": [
+                "corridor implied volatility",
+                "model-free implied volatility",
+                "volatility forecasting",
+                "financial turmoil"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/moddembwp/0029.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

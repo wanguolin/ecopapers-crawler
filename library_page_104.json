@@ -1,0 +1,143 @@
+{
+    "page_info": {
+        "page_number": 104,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Profitability of Technical Trading Rules on the Baltic Stock Markets",
+            "abstract": "In this note we study whether simple technical trading rules are profitable on the three Baltic stock markets. To statistically assess our findings we consider the conventional t-test and a block-bootstrap procedure. The two evaluation methods give conflicting results. The t-test supports some of the rules, while the block-bootstrap does not.",
+            "keywords": [
+                "Baltic stock markets",
+                "technical trading rules",
+                "block bootstrap"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhsumnees/0761.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of information-based familiarity on the stock market",
+            "abstract": "Since the familiarity-based investment plays an important role in portfolio construction, mounting literature has investigated the nature of familiarity and summarized two contradicting hypotheses: information-based trading and behavioral heuristic explanation. However, existing studies leave blank for this issue in Chinese stock market. In this paper, we prove that the familiarity-based investment is driven by information through utilizing the \u00e2\u0080\u009cApproach Your Company, Know Your Investment\u00e2\u0080\u009d activities organized by Shenzhen Stock Exchange. In particular, the empirical results show that investors holding stocks with high degrees of familiarity earn more abnormal returns compared with those investing in stocks with less familiarity and such discrepancy remains in the subsequent 50 trading days. Moreover, we observe that the information-based familiarity results in significant decreases in both liquidity and volatility. All these findings not only complement the existing literature through providing alternative evidence for the nature of familiarity in developing markets, but also have implications for both individual investors and policy makers.",
+            "keywords": [
+                "Familiarity",
+                "Information advantages",
+                "Home bias",
+                "Psychological bias",
+                "Liquidity and volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/jauwpaper/2016_2f08.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Risk Components of Liquidity",
+            "abstract": "Does liquidity risk differ depending on our choice of liquidity proxy? Unlike literature that considers common liquidity variation, we focus on identifying different components of liquidity, statistically and economically, using more than a decade of US transaction data. We identify three main statistical liquidity factors which are utilized in a linear asset pricing framework. We motivate a correspondence of the statistical factors to traditional dimensions of liquidity as well as the notion of order and trade based liquidity measures. We find evidence of multiple liquidity risk premia, but only a subset of the financial liquidity factors are associated with significant risk premia. These are the factors that we relate to the dimensions of immediacy and resilliency, while the depth dimension does not command a risk premium in any of the models. Our results suggests caution when choosing liquidity variables in asset pricing applications, since liquidity premia may be reflected in only some dimensions of liquidity.",
+            "keywords": [
+                "Liquidity Risk",
+                "Liquidity Factors",
+                "Asset Pricing",
+                "Market Microstructure"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhsnhhfms/2008_5f007.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Financial Symmetry and Moods in the Market",
+            "abstract": "This paper introduces a theoretical framework for collective decision making to describe fluctuations and transitions in financial markets. Investors are assumed to be boundedly rational, using a limited set of information including past price history and expectation on future dividends. Investment strategies are dynamically changed based on realized returns within a game theoretical scheme with Nash equilibria. In such a setting, markets behave as complex systems whose payoff reflect an intrinsic financial symmetry that guarantees equilibrium in price dynamics (fundamentalist state) until the symmetry is broken leading to bubble or anti-bubble scenarios (speculative state). We model such two-phase transition in a micro-to-macro scheme through a Ginzburg-Landau-based power expansion leading to a market temperature parameter which modulates the state transitions in the market. Via simulation we prove that complex market dynamics can be phenomenologically explained by the number of traders, the strategies used by agents and the past price history, all included in our market temperature parameter",
+            "keywords": [
+                "Agent-based modelling",
+                "game theory",
+                "Ginzburg-Landau theory",
+                "financial symmetry"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/msecesdoc/14030.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A multi-horizon scale for volatility",
+            "abstract": "We decompose volatility of a stock market index both in time and scale using wavelet filters and design a probabilistic indicator for valatilities, analogous to the Richter scale in geophysics. The peak-over-threshold method is used to fit the generalized Pareto probability distribution for the extreme values in the realized variances of wavelet coefficients. The indicator is computed for the daily Dow Jones Industrial Averages index data from 1986 to 2007 and for the intraday CAC 40 data from 1995 to 2006. The results are used for comparison and structural multi-resolution analysis of extreme events on the stock market and for the detection of financial crises",
+            "keywords": [
+                "Stock market",
+                "volatility",
+                "wavelets",
+                "multi-resolution analysis",
+                "financial crisis"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/msecesdoc/bla08020.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Diversification Meltdown or the Impact of Fat tails on Conditional Correlation?",
+            "abstract": "A perceived increase in correlation during turbulent market conditions implies a reduction in the benefits arising from portfolio diversification. Unfortunately, it is exactly then that these benefits are most needed. To determine whether diversification truly breaks down, we investigate the robustness of a popular conditional correlation estimator against alternative distributional assumptions. Analytical results show that the apparent meltdown in the benefits from diversification could be a consequence of assuming normally distributed returns. A more realistic assumption - the bivariate Student-t distribution - suggests that constant correlation may be sustained over the full support of the multivariate return distribution",
+            "keywords": [
+                "Conditional correlation",
+                "Truncated correlation",
+                "Bivariate Student-t correlation."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/mshebswps/2003-18.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Reaction of Stock Returns to News about Fundamentals",
+            "abstract": "This paper analyzes the reaction of stock returns to news about the state of the economy. We develop a general equilibrium asset pricing model where the investor learns about the growth rate of the economy through two sources of information, dividend realizations and regularly scheduled announcements about the state of the economy. We distinguish between dividend news and the unexpected part of the external signal and characterize the reaction of stock returns to news from these two sources of information. We show that the reaction to these news variables can be quite different under different assumptions about their precisions in different states. Our model is able to account for several empirical facts about the reaction of stock returns to news, such as time-varying and state-dependent reaction, asymmetric reaction to extreme news and stronger reaction to more precise signals.",
+            "keywords": [
+                "Regime Switching",
+                "Asymmetric Reaction",
+                "Dividend News",
+                "Public Announcements"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/lvllacicr/1032.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Assessing Dependence Changes in the Asian Financial Market Returns Using Plots Based on Nonparametric Measures",
+            "abstract": "This paper investigates whether or not there are significant changes in the dependence between the Thai equity market and six Asian markets - namely, Singaporean, Malaysian, Hong Kong, Korean, Indonesian and Taiwanese markets - due to 1997-July financial crisis. If so, this may be an indication that the underlying bivariate joint distributions capturing the dependence between the Thai market and these six markets have changed. We employ the chi-plot proposed by Fisher and Switzer (2001) and the Kendall plot proposed by Genest and Boies (2003) to examine the dependence in these six markets for the pre- and post-1997 financial crisis periods. We find that marginal distributions of all seven markets have notably changed due to this financial crisis, and that the functional forms of the underlying joint distributions generating the dependence in the Korean, Indonesian and Taiwan markets have also changed for the post-crisis period. It appears that the same parametric copula can capture the dependence in the Singapore, Malaysia and Hong Kong markets for both pre- and post-crisis periods, and that only the tail indices of bivariate distributions between the Thai and these three markets have changed. It is interesting to observe that the same conclusions can be drawn using both chi- and Kendall plots.",
+            "keywords": [
+                "chi-plot",
+                "copula",
+                "dependence",
+                "Kendall-plot"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/mshebswps/2006-9.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Late to the Party or Insider Trading? Exploring Channels for the Rise of Volatility Before News",
+            "abstract": "We introduce the tardy news hypothesis as a new channel that complements information leakage to explain why volatility rises before public news. Through a novel information processing framework, we show that both channels can lead to bias and inconsistency in the estimated relationship between news and volatility, and we establish bounds for the true relationship. Using a dataset that combines realized volatility withRavenPack news analytics for S&P 500 constituents, we find that the type of events anews item covers is related to the likelihood of a rise in pre-news volatility, and the sizeof the firm is related to the magnitude of the rise. This heterogeneity from event andfirm types is consistent with the tardy news hypothesis.",
+            "keywords": [
+                "Information Leakage",
+                "Tardy News",
+                "Public News",
+                "Realized Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/mshebswps/2024-21.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Monetary Expansion and Stock Returns in Pakistan",
+            "abstract": "The objective of the paper is to examine the causal relationship between money supply and stock prices in Pakistan. Two measures of money stocks (M1 and M2) and six stock price indices (general and five sectors) were taken for the period June 1991 to June 1999. The co-integration analysis indicates a long run relationship between stock prices and money supply for both M1 and M2. The Error Correction Model, on the other hand, does not endorse the long run relationship between stock prices and M1. Regarding long run relationship between stock prices and M2, the model suggests a unidirectional causality running from M2 to stock prices. The model also shows the evidence of short run effects of M2 on stock prices. The analysis suggests that the stock market is not efficient with respect to money supply.",
+            "keywords": [
+                ": Money",
+                "Stock Prices",
+                "Pakistan",
+                "Long Run Relationship",
+                "Market Efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/5020.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The price impact of rating announcements: evidence from the credit default swap market",
+            "abstract": "Rating announcements affect spreads on credit default swaps. The impact is more pronounced for negative reviews and downgrades than for outlook changes.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/bisbisqtr/0406e.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Options Trading Costs Are Lower than You Think",
+            "abstract": "Conventional estimates of the costs of taking liquidity in options markets are large. Nonetheless, options trading volume is high. We resolve this puzzle by showing that options price changes are predictable at high frequency, and many traders time executions by buying (selling) when the option fair value is close to the ask (bid). Effective spreads of traders who time executions are less than 40% of the size of conventional measures, and the overall average effective spread is one-quarter smaller than conventional estimates. Price impact measures are also affected. These findings alter conclusions about the after-cost profitability of options trading strategies.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ouprfinst/v_3a33_3ay_3a2020_3ai_3a11_3ap_3a4973-5014..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

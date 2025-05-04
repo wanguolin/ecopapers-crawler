@@ -1,0 +1,155 @@
+{
+    "page_info": {
+        "page_number": 174,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Linkages between international securitized real estate markets: Further evidence from time-varying and stochastic cointegration",
+            "abstract": "This paper analyzes long-run co-movements between international real estate stock markets and between regions based on bivariate and multivariate tests for cointegration. While the topic has been analyzed in previous studies such as Gallo and Zhang (2009) and Yunus (2009) among others, this paper is of significant contribution to existing studies since we compare results from different cointegration methodologies and explicitly control for instability in cointegration relationships and deviations from normality. Furthermore, the analyzed time period is longer than in previous studies and ranges from 1990 to 2009 covering 20 years. In line with previous studies, the empirical results indicate several cointegration relationships between national real estate stock markets. However, it is also shown that most cointegration relationships are unstable and that the results from cointegration methodologies suggested by Engle and Granger (1987) and Johansen (1988) might be misleading in that common long-run comovements appear to be stronger when structural breaks are considered. Thus, the results indicate that investors would benefit from broadening their investment horizon from their domestic continent to international markets. This particularly applies for the European securitized real estate markets.",
+            "keywords": [
+                "international securitized real estate markets",
+                "diversification",
+                "time-varying cointegration",
+                "stochastic cointegration"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwzewdip/10051.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Long-term benefits from investing in international real estate",
+            "abstract": "This paper analyses long- and short-term co-movements between 14 international real estate stock markets based on bivariate testing for cointegration and correlation analysis. The results indicate that there exist strong long-term relationships within economic and geographical regions, but less long-run linkages between real estate markets in different continents. Thus, investors would benefit from broadening their investment horizon from their domestic continent to Australia, Europe, and Northern America. Furthermore, it is shown that within each region there are one or two key markets influencing neighbouring markets like Australia in the Asia-Pacific region, the U.S. in the Anglo-Saxon area, and France and the Netherlands in the EMU. Therefore it is implied, from an investor's point of view, that it should be sufficient to focus only on these central markets. With respect to the efficient market hypothesis, the findings by cointegration analysis put some further doubt on its validity for securitized real estate markets.",
+            "keywords": [
+                "Cointegration",
+                "Correlation Analysis",
+                "Diversification",
+                "Securitized Real Estate Markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwzewdip/09023.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of macroeconomic news on quote adjustments, noise, and informational volatility",
+            "abstract": "We study the impact of the arrival of macroeconomic news on the informational and noise-driven components in high-frequency quote processes and their conditional variances. Bid and ask returns are decomposed into a common ('efficient return') factor and two market-side-specific components capturing market microstructure effects. The corresponding variance components reflect information-driven and noise-induced volatilities. We find that all volatility components reveal distinct dynamics and are positively influenced by news. The proportion of noise-induced variances is highest before announcements and significantly declines thereafter. Moreover, news-affected responses in all volatility components are influenced by order flow imbalances.",
+            "keywords": [
+                "efficient return",
+                "macroeconomic announcements",
+                "microstructure noise",
+                "informational volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwsfb649/sfb649dp2010-005.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Limits to arbitrage in markets with stochastic settlement latency",
+            "abstract": "Distributed ledger technologies rely on consensus protocols confronting traders with random waiting times until the transfer of ownership is accomplished. This time consuming settlement process exposes arbitrageurs to price risk and imposes limits to arbitrage. We derive theoretical arbitrage boundaries under general assumptions and show that they increase with expected latency, latency uncertainty, spot volatility, and risk aversion. Using high-frequency data from the Bitcoin network, we estimate arbitrage boundaries due to settlement latency of on average 124 basis points, covering 88% of the observed cross-exchange price differences. Settlement through decentralized systems thus induces non-trivial frictions affecting market efficiency and price formation.",
+            "keywords": [
+                "Arbitrage",
+                "Settlement Latency",
+                "Distributed Ledger",
+                "Blockchain"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/616.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of macroeconomic news on quote adjustments, noise, and informational volatility",
+            "abstract": "We study the impact of the arrival of macroeconomic news on the informational and noise-driven components in high-frequency quote processes and their conditional variances. Bid and ask returns are decomposed into a common ('efficient return') factor and two market-side-specific components capturing market microstructure effects. The corresponding variance components reflect information-driven and noise-induced volatilities. We find that all volatility components reveal distinct dynamics and are positively influenced by news. The proportion of noise-induced variances is highest before announcements and significantly declines thereafter. Moreover, news-affected responses in all volatility components are influenced by order flow imbalances.",
+            "keywords": [
+                "Efficient Return",
+                "Macroeconomic Announcements",
+                "Microstructure Noise",
+                "Informational Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/201001.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Volatility, information feedback and market microstructure noise: A tale of two regimes",
+            "abstract": "We extend the classical \"martingale-plus-noise\" model for high-frequency prices by an error correction mechanism originating from prevailing mispricing. The speed of price reversal is a natural measure for informational efficiency. The strength of the price reversal relative to the signal-to-noise ratio determines the signs of the return serial correlation and the bias in standard realized variance estimates. We derive the model's properties and locally estimate it based on mid-quote returns of the NASDAQ 100 constituents. There is evidence of mildly persistent local regimes of positive and negative serial correlation, arising from lagged feedback effects and sluggish price adjustments. The model performance is decidedly superior to existing stylized microstructure models. Finally, we document intraday periodicities in the speed of price reversion and noise-to-signal ratios.",
+            "keywords": [
+                "volatility estimation",
+                "market microstructure noise",
+                "price reversal",
+                "momentum trading",
+                "contrarian trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/569.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Modelling Intraday Trading Activity Using Box-Cox-ACD Models",
+            "abstract": "In this paper, I model the intraday trading activity based on volume durations, i.e. the waiting time until a predetermined volume is absorbed by the market. Since this concept measures the trading volume per time it is strongly related to market liquidity. I focus on volumes measured independently of the side of the market as well as on buy volumes, sell volumes and volumes measured on both market sides simultaneously. For econometric modelling of the different duration concepts, the performance of alternative types of Box-Cox-ACD models are analyzed. By evaluating out-of-sample forecasts, evidence is provided that Box-Cox-ACD models are a valuable tool for predicting volume durations. It is shown that volume durations measured independently of the side of the market have the best predictability. Furthermore, I illustrate that the inclusion of explanatory variables capturing past market activities concerning the price process and imbalances between the buy and sell side of the market. The empirical study uses IBM transaction data from the NYSE.",
+            "keywords": [
+                "volume durations",
+                "liquidity concepts",
+                "Generalized F distribution",
+                "out-of-sample-forecasts"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcofedp/0205.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Proxying for Expected Returns with Price Earnings Ratios",
+            "abstract": "Long-run regression models using the trailing earnings over price ratio to predict future returns suggested by Campbell and Shiller (1988, 2001) work quite well. However, in this note we show that this variable might result in a downward biased proxy for expected future returns. Instead we suggest using a moving average of the log of 1 plus the earnings price ratio when forecasting long-run returns. The empirical results for the S&P 500 show the superiority of our approach to existing ones.",
+            "keywords": [
+                "Earnings yield",
+                "Stock Return",
+                "Forecasting"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0410019.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Treasury Rates No Longer Predict Returns: A Reappraisal of Breen, Glosten and Jagannathan (1989)",
+            "abstract": "Breen et al. (1989) show that the negative relation between excess stock returns and Treasury bill rates is economically important. From 1954 to 1986, the predictive ability of interest rates facilitated a trading strategy that generated average returns at least on par with a buy-and-hold market investment but with significantly lower risk. The services of a portfolio manager using this predictive model to invest justified a management fee of nearly 2% per annum. Using currently-available data, we can nearly perfectly replicate Breen et al.\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s (1989) key findings in sample. However, the success of Treasury bill rates as a predictor of equity returns appears to be specific to the time period studied. When the same methodology is applied out of sample from 1987 to 2018, there is little statistical or economic evidence of predictability. Additional out-of-sample analysis of G20 countries shows only sporadic support for the notion that interest rates predict equity returns.",
+            "keywords": [
+                "Return predictability",
+                "Treasury bill rates",
+                "Trading strategy",
+                "Out-of-sample forecasts"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/nowjnlcfr/104.00000096.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asset Price Dynamics in a Financial Market with Heterogeneous Trading Strategies and Time Delays",
+            "abstract": "In this paper we present a continuous time dynamical model of heterogeneous agents interacting in a financial market where transactions are cleared by a market maker. The market is composed of fundamentalist, trend following and contrarian agents who process information from the market with different time delays. Each class of investors is characterized by path dependent risk aversion. We also allow for the possibility of evolutionary switching between trend following and contrarian strategies. We find that the system shows periodic, quasi-periodic and chaotic dynamics as well as synchronization between technical traders. Furthermore, the model is able to generate time series of returns that exhibit statistical properties similar to those of the S&P500 index, which is characterized by excess kurtosis, volatility clustering and long memory.",
+            "keywords": [
+                "Dynamic asset pricing",
+                "Heterogeneous agents",
+                "Complex dynamics",
+                "Strange attractors",
+                "Chaos",
+                "Intermittency",
+                "Stock market dynamics",
+                "Synchronization"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0510026.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Limits to arbitrage and the MAX anomaly in advanced emerging markets",
+            "abstract": "Evidence of a negative relationship between extreme positive returns and future returns has been reported in developed markets (Bali, Cakici, & Whitelaw, 2011; Zhong & Gray, 2016). This study examines this \u00e2\u0080\u009cMAX anomaly\u00e2\u0080\u009d across advanced emerging markets, which are characterised by a higher level of limits to arbitrage compared with developed markets, but lower financial frictions than their secondary emerging counterparts. The MAX anomaly is shown to be larger in magnitude in advanced emerging markets compared with developed markets. Our results support the proposition that the MAX anomaly is a pervasive anomaly that is related to mispricing.",
+            "keywords": [
+                "MAX anomaly",
+                "Limits of arbitrage",
+                "Mispricing",
+                "Emerging markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeememar/v_3a36_3ay_3a2018_3ai_3ac_3ap_3a95-109.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Price-Trading Volume Relationship in the Brazilian Stock Market, the Impact of Stock Lending and a Role for Technical Analysis",
+            "abstract": "We examine the relationship between price and volume in the Brazilian stock market. It tests the \u00e2\u0080\u009cV-shaped relationship\u00e2\u0080\u009d developed by Karpoff (1987), identified in several empirical papers for the U.S. market. This is expressed by positive covariance between a stock\u00e2\u0080\u0099s market turnover and the absolute value of that stock\u00e2\u0080\u0099s price change in the same period. This would contradict the implication from weak market efficiency that current price would impound all information. We analyze daily data for 47 stocks covering the period from January 04, 2010 to June 28, 2013. The results indicate that the V-shaped relationship is significant.",
+            "keywords": [
+                "Weak-form efficiency",
+                "Technical analysis",
+                "Price-volume relationship"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/brfjournl/v_3a13_3ay_3a2015_3ai_3a4_3ap_3a631-649.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

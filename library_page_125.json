@@ -1,0 +1,149 @@
+{
+    "page_info": {
+        "page_number": 125,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Crude Oil Prices and the Egyptian Economy Evidence from the Stock Market",
+            "abstract": "This paper investigates two important things; the role of crude oil prices in explaining the Egyptian stock market return, and what factors derive from Egyptian crude oil prices. Using 6 log difference time series variables this paper finds that multiple regression is an inappropriate model to test the two goals mentioned above. On the other hand, using Vector Autoregression (VAR Model) is much more profitable in achieving the paper\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s goals. Although the VAR model results are more reliable, crude oil price fails to explain the Egyptian stock market return because Egypt is not a big oil exporter. Furthermore, the VAR model shows that the Energy sector index, stock world index (S and P 500 the proxy), stock exchange index, exchange rate, and the global financial crisis are all factors that derive and determine the Egyptian crude oil price.",
+            "keywords": [
+                "Crude Oil Price",
+                "Vector Autoregression (VAR Model)",
+                "Egyptian Stock Market Return",
+                "Oil Exporter",
+                "Energy Sector Index"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn2/2024-01-41.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "DETERMINATION OF VOLATILITY AND MEAN RETURNS: AN EVIDENCE FROM AN EMERGING STOCK MARKET",
+            "abstract": "In the present research we work with excess returns for an emerging stock market i.e. Jamaican Stock Price Index for the determination of volatility persistence and persistence in the mean returns series. We model excess returns in this stock market using state space or unobserved component models, which is a signal extraction approach. Our model encompass stable distributions to account for fat tails and GARCH-like effects to account for time varying volatility that may be present in the series. The study results that are obtained using the most general as well as the restricted versions of the state space models reveal statistically significant evidence of volatility persistence in the excess returns series. Further, there exist persistent predictable signals in returns series at 5 percent level of significance, and the value of an efficiently estimated excess returns series is percent per month (percent per annum). Further, the series encompass a stable characteristic exponent of showing a non-normal behavior in this market.",
+            "keywords": [
+                "stock return predictability",
+                "unobserved components",
+                "fat tails",
+                "stable distributions"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eaaijaeqs/v_3a4_3ay2007_3ai_3a1_5f7.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Borsa Istanbul\u00e2\u0080\u0099da Islem Goren Yenilenebilir Enerji Sirketlerinin Pay Fiyat Etkinliginin Fourier Birim Kok Testleri ile Sinanmasi",
+            "abstract": "Son birka\u00c3\u00a7 yuzyilda teknolojik gelismeler ile birlikte hizla artan enerji talebinin fosil yakitlarla karsilanmasi kit kaynaklarin tuketimini hizlandirmis ve beraberinde ekonomik ve cevresel sorunlara yol acmistir. Bu sorunlar; dusuk salinimli, yenilenebilir ve surdurulebilir enerji kaynaklarina yonelimi zorunlu kilm\u00c3\u00bdstir. Surdurulebilirlik uzerine yapilan vurgu ile bilinclenen ureticilerin yenilenebilir enerji kaynaklarina yonelimleri son yillarda artmistir. Benzer sekilde finansal piyasalarin yatirimcilari, yenilenebilir enerji sirketlerinin paylarina yatirimlari artmistir. Ancak, yatirimcilar acisindan yatirim yaptiklari enstrumanlarin etkinligi onem arz etmektedir. Bu calismanin amaci, Borsa Istanbul\u00e2\u0080\u0099da islem goren ve yenilenebilir enerji ureten sirketlerin pay fiyatlarinin zayif formda etkin olup olmadiklarini arastirmaktir. Analize konu olan pay fiyatlari serilerinde coklu kirilmalar tespit edildiginden zayif formda etkinlik sinamasinda Fourier KPSS, Fourier ADF ve Fourier LM testleri kullanilmistir. Analiz sonuclari, 6 sirketten ikisinin pay fiyatlarinin zayif formda etkin olmayabilecegini, dolayisi ile bu sirketlerin paylarina yatirim yapan yatirimcilarin anormal getiri elde etme potansiyeline sahip olabilecekleri yonundedir.",
+            "keywords": [
+                "Yenilenebilir enerji sirketleri",
+                "Fourier birim kok testleri",
+                "Piyasa etkinligi."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn4/2023-02-06.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Persistency of Price Patterns in the International Oil Industry, 2001-2016",
+            "abstract": "This paper is aimed at studying price patterns and their persistency in selected international oil companies (Exxon Mobil, British Petroleum, Royal Dutch Shell, and China Petroleum Sinopec). The proposal uses a one-step counting of price patterns and a two-step counting derived from transition probabilities of price patterns both procedures based on Japanese candlesticks. An extension of Kolmogorov Smirnov test for discrete variables, provided by Taylor and Emerson (2011), is used to measure the statistical significance of the obtained results. Furthermore, the persistence of patterns is examined via the correlation in two-step conditional probabilities by using Blomqvist s beta test. This method is useful to identify patterns even under market booms and busts, and in high and low volatility environments.",
+            "keywords": [
+                "Oil Industry",
+                "Transition Probabilities",
+                "Persistent Price Patterns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn2/2017-01-02.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Interaction of Major Crypto-assets, Clean Energy, and Technology Indices in Diversified Portfolios",
+            "abstract": "Cryptocurrencies have gained high interest from media, regulatory authorities, and both retailer and institutional investors especially in the COVID-19 pandemic followed by a tremendous academic interest. Classification of cryptos as an asset is one important issue while another crucial topic is the significantly high return and volatility fluctuations which does not make life easier for portfolio investors. High energy consumption to produce cryptos and carbon emission issues are also not developing the favor of cryptocurrencies. Moreover, in financial literature recent studies show that prices of renewable energy stocks have long-term cointegrating relationship with technology companies. In this context first we employ an asymmetric VAR-GARCH model to study spillover effects between major crypto-currencies, clean energy, and technology indices. Using daily data of the two major cryptocurrencies for the period of 1/1/2016 and 30/09/2021, we relate risk and return of different mean-variance portfolio strategies to Bitcoin (BTC), Etherium (ETH), S&P Global Clean Energy Index (SPGCE) and MSCI World Information Technology Index (MSCIWIT). Secondly, we apply the Markowitz mean-variance framework to assess risk-return benefits of cryptocurrency-portfolios. Our main goal is to offer optimal portfolio allocation approaches including cyptocurrencies with traditional financial assets. We will combine cryptocurrencies, clean energy, and technology indices to maximize return and Sharpe ratio. Furthermore, we will use our asymmetric VAR-GARCH models results to understand and cross check the Markowitz portfolio allocation results in details.",
+            "keywords": [
+                "Cryptocurrencies",
+                "Portfolio optimization",
+                "Markowitz",
+                "Spillover",
+                "VAR-VECH-TARCH"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn2/2022-02-54.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Statistical Arbitrage Pairs Trading with High-frequency Data",
+            "abstract": "In recent years, more sophisticated techniques for analyzing data and exponential increase in computing power allow high-frequency trading. This paper provides a detailed overview on pairs trading in the context of intraday data and applies different strategies to minute-by-minute prices of the S&P 500 constituents from 1998 to 2015. In the back-testing study, the best performing pairs trading approach produces statistically and economically significant returns of 50.50% p.a. and an annualized Sharpe ratio of 8.14 after transaction costs. Although most algorithms show declining returns over time, there still exist pairs trading strategies with favorable results in the recent past.",
+            "keywords": [
+                "Finance",
+                "Pairs Trading",
+                "High-frequency data"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2017-04-76.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Fama-French Five Factor Model: Evidence from Turkey",
+            "abstract": "The aim of this study is to test the validity of the Fama-French Five Factor Model (FF5F) in Borsa Istanbul (BIST) during the 132-month period between July 2005 and June 2016. Therefore, the excess returns of 14 different intersection portfolios constructed on the basis of size, market to book ratio, profitability and investment factors have been used during period between July 2005 and June 2016. Our results show that there is no pricing error according to result of Gibbons, Ross, and Shanken (1989) GRS-F test of FF5F. Hence, FF5F seems to be valid in the BIST. In addition, FF5F appear to explain variations on excess portfolio returns.",
+            "keywords": [
+                "CAPM",
+                "Fama-French Five Factor Model",
+                "Asset Pricing Models",
+                "Time Series."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2017-06-16.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Exploring the Stock Price Correspondence to Oil Price Shocks In the Gulf Cooperation Council Countries: Evidence from Linear (Symmetric) Model",
+            "abstract": "This study investigates the linkage between oil price index and stock price index in six GCC countries in two folds. Firstly, it studies the long-run relationship linking the stock price Index (SPI) and the oil price Index (OPI) for the time span, beginning February 2002 to May 2015. After confirming the dependency of the SPI across cross-sectional units for the six GCC countries three types of panel cointegration tests were used. Pedroni; Kao which is an Engle-Granger two step residual based test, and Fisher which is a combined Johansen test. Secondly, it investigates the linear short-run effect of oil price index shocks on these markets by using bootstrapped resample residuals. The findings reveal a robust long-run relationship amid OPI and SPI of six GCC country members. Furthermore, the linear short-run results indicate significant and positive consequence on Oman, Qatar, and UAE of oil price index shocks. The findings also indicate that Qatar is the most oriented market for the oil price changes within a short time period.",
+            "keywords": [
+                "Stock price",
+                "oil price",
+                "panel cointegration",
+                "bootstrapped resample residuals and linear short-run model."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2018-01-31.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Performances Appraisal of Real Estate Investment Trust in Borsa Istanbul",
+            "abstract": "The real estate investment trusts (REITs) have an important role in the development of the real estate sector. For investors, the REITs are financial institution that offer service such as professional portfolio management, risk reduced through diversification, and utilization of scale economies. The REITs offer new opportunities for investors by making liquidity high securities the real estate properties in their portfolios. In this paper, the performances of firms traded as the REITs in borsa istanbul (BIST) during July 2005 - June 2016 are investigated by employing 4 different regression models (the capital asset pricing model, Fama-French 3 factor model, FF Four F model, and FF five F model. In this manner, regression model is estimated in which returns of the REITs are used as dependent variable; whereas market premium, size premium, value premium, profitability premium, and investment premium are used as independent variables. The Jensen Alpha which is a risk-adjusted performance measure is estimated as fixed term (alpha) between related returns and factors in regression equation. Positive alpha value refers to the risk-adjusted high performance, while negative alpha value refers the risk-adjusted low performance. It is also tested whether the alpha value is different from zero in performance appraisal. Empirical findings suggest that the alpha coefficient is not statistically significant in four different regression models. This result indicate that the REITs do not seem to over perform than market premium, size premium, value premium, profitability premium, and investment premium during the analysis period. Thus, analysts or investors will be able to estimate expected returns by considering these premiums.",
+            "keywords": [
+                "Real Estate Investment Trust",
+                "Jensen Alpha",
+                "Capital Asset Pricing Model",
+                "Fama-French Factor Models"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2018-06-26.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Value Stocks and Growth Stocks: A Study of the Italian Market",
+            "abstract": "This article focuses on the study of value and growth stocks in the Italian market during the period 2001-2018, trying to understand if there is a difference in terms of return between the two share classes and which could be the explanation. The analysis reveals a persistent and large value premium in the early 2000s, while after the financial crisis the premium diminished considerably. The excess return provided by value stocks was marked and persistent only in case of smaller firms, while in case of large-cap stocks the phenomenon was limited and present only in the early years of the 21st century. Finally, the analysis suggests that value stocks are not particularly riskier than growth stocks. Therefore, it seems that, at least in part, the value premium in the Italian market may present a mispricing explanation.",
+            "keywords": [
+                "Value premium",
+                "stock return",
+                "systematic risk."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2020-03-2.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Earnings Surprises, Investor Sentiments and Contrarian Strategies",
+            "abstract": "This study documents that contrarian investment strategies offer superior returns because these strategies exploit investors' expectation errors. There are two sources of expectation errors, na ve extrapolation of past performance and biased analysts' earnings forecasts. Our results suggest that investors naively extrapolate past performance and overestimate the future growth rates of glamour stocks relative to value stocks. In addition, analysts tend to be excessively pessimistic about value stocks and over optimistic about glamour stocks. We find that both positive earnings surprises and negative earnings surprises significantly affect subsequent returns. However, negative earnings surprises have less impact on value stocks relative to glamour stocks. We also find new evidence that investor sentiments could be an alternative source of superior performances from value stocks. Our results indicate that when the investor sentiment is higher, value stocks earn significant higher returns than glamour stocks.",
+            "keywords": [
+                "Contrarian Strategy",
+                "Value and Glamour Stocks",
+                "Earnings Surprise",
+                "Investor Sentiments"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2017-01-20.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Random or Deterministic? Evidence from Indian Stock Market",
+            "abstract": "This study investigates the presence of long memory and non-linear dynamics in Indian stock market returns for a period of 19 years from May 1997 to May 2016 by using rescaled range (R/S) method and V-statistics. The empirical findings suggest that Indian stock market shows a high degree of long-range persistence and future stock price can be predicted. The study also finds the presence of multiple non-periodic cycles in the data generating process, with a maximum cycle length of 3.7 years. This study is quite helpful to the participants of the capital markets to improve their portfolio performance by taking efficient strategy before making investment decision.",
+            "keywords": [
+                "R/S Analysis",
+                "V-statistic",
+                "Non-linear Dynamics"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2016-04-57.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

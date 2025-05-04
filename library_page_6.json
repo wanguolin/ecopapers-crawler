@@ -1,0 +1,151 @@
+{
+    "page_info": {
+        "page_number": 6,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Business seasonality and stock liquidity",
+            "abstract": "We investigate the relation between firms' business seasonality and their stock market liquidity and find robust evidence that firms with seasonal business tend to have less liquid equity. The effect of seasonality on stock liquidity is amplified for firms facing greater information asymmetry. Furthermore, firms with seasonal business patterns are associated with a higher probability of informed trading, and their stock returns co-move less with the market. Overall, our results suggest that the business patterns of such firms may negatively affect their information environments, and investors\u00e2\u0080\u0099 concerns with regard to adverse selection impede the liquidity provision for these firms.",
+            "keywords": [
+                "Seasonality",
+                "Information asymmetry",
+                "Stock liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a67_3ay_3a2024_3ai_3ac_3as1386418123000678.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Narrative attention and related cryptocurrency returns",
+            "abstract": "We investigate the causal relationship between investor attention to prevailing narratives and the returns of narrative-related coins. We find that when a particular narrative gains prevalence, the returns of coins related to that narrative increase significantly. In turn, the higher price growth of coins attracts more investor attention and increases the search queries for the corresponding narrative. Our empirical results suggest that investors can use information on narrative attention to make investment decisions for narrative-related coins. Our research also helps to explain the recent rapid price growth of artificial intelligence-related cryptocurrencies, which is driven by the AI narrative, propelled by the success of ChatGPT.",
+            "keywords": [
+                "Cryptocurrencies",
+                "Cryptocurrency narrative",
+                "Investor attention",
+                "ChatGPT",
+                "AI"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a56_3ay_3a2023_3ai_3ac_3as1544612323005469.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impacts of COVID-19 outbreak on the spillovers between US and Chinese stock sectors",
+            "abstract": "This paper examines the impacts of COVID-19 outbreak on the spillover between ten US and Chinese equity sectors. We use Copula and Conditional Value at Risk approaches. The results show evidence of asymmetric tail dependence during the COVID-19 outbreak with the exception of the Utilities sector, where a symmetric tail dependence is found. Moreover, we find time-varying bidirectional asymmetric risk spillovers from the US to China and vice versa. The risk spillover is higher from the US to China before COVID-19 and from China to the US during COVD-19 spread, which is significantly intensified between March 2020 and April 2020.",
+            "keywords": [
+                "COVID-19",
+                "Stock sectors",
+                "Spillovers",
+                "Copula",
+                "CoVaR"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a40_3ay_3a2021_3ai_3ac_3as1544612321000039.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "COVID-19 and financial market efficiency: Evidence from an entropy-based analysis",
+            "abstract": "This study assesses the market efficiency of S&P 500 Index, gold, Bitcoin and US Dollar Index during the extreme event of COVID-19 pandemic. Market efficiency is estimated by a multiscale entropy-based method for the scales of hourly and 1 to 30 business days. At all scales, four markets\u00e2\u0080\u0099 efficiency decreases sharply and persistently during February-March 2020. Market efficiency decreases the most in S&P 500 Index and the least in Bitcoin market. Bitcoin market efficiency is more resilient than others during the extreme event, which is an attractive feature to serve as a safe haven asset.",
+            "keywords": [
+                "COVID-19",
+                "Entropy",
+                "Extreme events",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a42_3ay_3a2021_3ai_3ac_3as1544612320317025.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock name length and high visibility premium",
+            "abstract": "High stock visibility reduces the cost of capital and creates high firm value. In China's A-share market, only 427 stocks have a three-character name, while almost 3000 stocks have four-character names; we use posts read and reply at BBS to verify the high visibility of former. We then use stock name length as the measure of stock visibility and examine abnormally high returns of stocks with high visibility. We find that the premiums of three-character length name stocks exist after controlling for systematic risks, and that premiums could decrease when the information environment for stocks improves.",
+            "keywords": [
+                "Stock name",
+                "Stock visibility",
+                "Investor base",
+                "Information environment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a39_3ay_3a2021_3ai_3ac_3as1544612320304992.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does the carbon market signal the market efficiency of clean and dirty cryptocurrencies? An analysis of quantile directional dependence",
+            "abstract": "The role of the carbon market in the market efficiency of cryptocurrencies has not received much attention from scholars, despite its particular relevance for integrating environmental externalities into the theory and practice of digital financial markets. We investigate whether and how the performance of the carbon market during busts and booms affects the market efficiency of both clean and dirty cryptocurrencies. Overall, our results underscore the complex quantile dependence of cryptocurrency market efficiency on carbon market performance, highlighting significant variability in how different types of cryptocurrencies respond to carbon market. These results have significant implications for regulatory policies, investment strategies, industry practices, public perceptions, and technological advances in the pursuit of aligning cryptocurrency markets with environmental sustainability goals.",
+            "keywords": [
+                "Clean cryptocurrency",
+                "Dirty cryptocurrency",
+                "Carbon market",
+                "Market efficiency",
+                "Cross-quantilogram technique"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a67_3ay_3a2024_3ai_3apb_3as1544612324009437.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Voluntary CEO turnover, online information, and idiosyncratic volatility",
+            "abstract": "CEO turnover, whether voluntary or forced, affects corporate decisions. This study investigates the relationship between voluntary CEO turnover and idiosyncratic return volatility, as well as the influence of online information on this relationship. We find that voluntary CEO turnover leads to higher idiosyncratic volatility, the volume and positive tone of online information can mitigate the positive effect, while negative tone fails to do so. Additional analysis shows that voluntary CEO turnover increases noise trading, whereas online information decreases noise trading, verifying the non-information view in China's stock market.",
+            "keywords": [
+                "Idiosyncratic volatility",
+                "Voluntary ceo turnover",
+                "Online information",
+                "Chief executive officer turnover"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a49_3ay_3a2022_3ai_3ac_3as1544612322003518.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short sales and put options: Where is the bad news first traded?",
+            "abstract": "Although the literature provides strong evidence supporting the presence of informed trading in both the option and the short equity markets, it is not clear which market attracts more informed trading. Using a unique dataset that covers intraday transaction data in the option and short equity markets, we investigate informed trading in a cross-market environment by explicitly studying the lead\u00e2\u0080\u0093lag relationship between the put net trade volume and short sales of the underlying stock. Our high frequency analysis shows that in general short sales contain more information. However, put options become more informative before the release of negative earnings announcements.",
+            "keywords": [
+                "Put option",
+                "Short sales",
+                "Informed trading",
+                "Earnings announcements"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a16_3ay_3a2013_3ai_3a2_3ap_3a308-330.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Microstructure-based manipulation: Strategic behavior and performance of spoofing traders",
+            "abstract": "We examine how investors strategically spoof the stock market by placing orders with little chance of being executed, but which mislead other traders into thinking there is an imbalance in the order book. Using the complete intraday order and trade data of the Korea Exchange (KRX) in a custom data set identifying individual accounts, we find that investors strategically placed spoofing orders which, given the KRX's order-disclosure rule at the time, created the impression of a substantial order book imbalance, with the intent to manipulate subsequent prices. This manipulation, which made use of specific features of the market microstructure, differs from previously studied forms of manipulation based on information or transactions. Roughly half of the spoofing orders were placed in conjunction with day trading. Stocks targeted for manipulation had higher return volatility, lower market capitalization, lower price level, and lower managerial transparency. We also find that spoofing traders achieved substantial extra profits. The frequency of spoofing orders decreased drastically after the KRX altered its order-disclosure rule.",
+            "keywords": [
+                "Spoofing order",
+                "Microstructure-based manipulation",
+                "Pre-trade transparency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a16_3ay_3a2013_3ai_3a2_3ap_3a227-252.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Buy-side trades and sell-side recommendations: Interactions and information content",
+            "abstract": "We examine the performance of buy-side institutional investor trades and sell-side brokerage analyst stock recommendations, as well as their interactions. Buy-side trades follow sell-side analyst recommendations but not the other way around. While buy-side purchases significantly outperform their sales, the difference in performance is largely concentrated on the day of the transaction. Following recommendation changes, buy-side trades in the same direction as the recommendation change earn the same returns as trades in the opposite direction. Therefore, institutional investors do not exhibit special skills in discerning the quality of recommendations.",
+            "keywords": [
+                "Analyst recommendations",
+                "Institutional trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a15_3ay_3a2012_3ai_3a2_3ap_3a207-232.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Wish or reality? On the exploitability of triangular arbitrage in cryptocurrency markets",
+            "abstract": "This study investigates the efficiency of cryptocurrency markets by examining the presence and exploitability of arbitrage opportunities. Using high-frequency data from the Binance Exchange, we implement a triangular arbitrage strategy, considering Bitcoin, Litecoin, and the U.S. Dollar. We find 4,879 possible arbitrage opportunities. Although these findings suggest potential inefficiencies, transaction costs and limited trading volumes in the order book eliminate their profitability. Consequently, centralized cryptocurrency markets exhibit a high degree of efficiency. Moreover, our results suggest that the mere number of triangular arbitrage opportunities is not a reliable indicator of market inefficiency.",
+            "keywords": [
+                "Triangular arbitrage",
+                "Cryptocurrencies",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a73_3ay_3a2025_3ai_3ac_3as154461232401537x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price discovery in stock and options markets",
+            "abstract": "Using new empirical measures of information leadership, we find that the role of options in price discovery is up to five times larger than previously thought. Approximately one-quarter of new information is reflected in options prices before being transmitted to stock prices, with options playing a more important role in price discovery around information events. Using unique data on traders prosecuted for insider trading, we find that they often choose to trade in options, attracted by their leverage, and when they do the options share of price discovery is higher. Our results help interpret conflicting findings in the existing literature.",
+            "keywords": [
+                "Price discovery",
+                "Stock",
+                "Option",
+                "Information share",
+                "Insider trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a47_3ay_3a2020_3ai_3ac_3as1386418119303544.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

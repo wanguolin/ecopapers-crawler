@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 33,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Google search intensity and its relationship to the returns and liquidity of Japanese startup stocks",
+            "abstract": "This study investigates the relationship between investor attention and stock price movements in Japan's startup stock exchanges, Mothers and JASDAQ. We find a positive relationship between search intensity and stock returns and between search intensity and liquidity. The positive correlation between search intensity and stock returns/liquidity tends to be larger for startup firms with a high proportion of individual shareholders. Contrary to prior studies that have reported a reversal after an immediate stock price increase, our results show the possibility that an immediate increase in stock returns of startup firms may not be neutralized in the long run.",
+            "keywords": [
+                "Attention",
+                "Stock price",
+                "Trading volume",
+                "Behavioral finance",
+                "Investor sentiment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a46_3ay_3a2017_3ai_3apb_3ap_3a243-257.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Media sentiment and trading strategies of different types of traders",
+            "abstract": "This paper investigates how the prevailing sentiment conveyed by the media influences trading by retail and institutional traders around earnings announcements made by ASX200 constituent firms. We find that media sentiment influences institutional traders to overreact to earnings news measured by analyst forecast errors. In contrast, retail traders are indifferent to either positive or negative unexpected earnings in the presence of media sentiment. Further analysis reveals that their trading decisions are affected by media sentiment alone, independent of the earnings surprise. We also find that firm-specific media sentiment complements market-wide sentiment by providing timelier information to investors in shaping their perceptions of unexpected earnings in the Australian market.",
+            "keywords": [
+                "Media sentiment",
+                "Abnormal net purchase",
+                "Unexpected earnings",
+                "Analyst forecast error"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a44_3ay_3a2017_3ai_3ac_3ap_3a160-172.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Post-earnings-announcement-drift and 52-week high: Evidence from Korea",
+            "abstract": "Post-earnings-announcement drift (PEAD) is frequently discovered in numerous countries including Korea. We attempt to explain PEAD in the Korean market using anchoring bias. Investors interpret impact of earnings news based on a stock's nearness to 52-week high, and hence underreact to positive earnings news if the stock price is near its peak. We find that among positive earnings stocks, PEAD is pronounced when they are near 52-week highs. Furthermore, excessive optimism in analyst forecasts is larger among stocks far from 52-week highs. Lastly, individual investors' buying pressure around earnings announcement is concentrated on stocks far from 52-week highs.",
+            "keywords": [
+                "Post-earnings-announcement-drift",
+                "Anchoring bias",
+                "Nearness to 52-week high"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a44_3ay_3a2017_3ai_3ac_3ap_3a150-159.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Financial distress, short sale constraints, and mispricing",
+            "abstract": "This paper specifically examine how the extent of the distress puzzle differs according to the degree of mispricing and short sale constraints. We find that the distress puzzle observed for overpriced stocks, not for underpriced stocks, becomes insignificant after adjustment for short sale constraints due to an asymmetric pricing effect of short sale constraints only on the short-leg side of distress. However, after adjustment for arbitrage risk, the distress puzzle remains unchanged. These results indicate that the distress puzzle is mainly attributable to short sale constraints, rather than other limits-to-arbitrages such as arbitrage risk, which has a bi-lateral pricing effect on both short-leg and long-leg sides of distress. To mitigate a possible endogeneity problem relation among financial distress, mispricing, and short sale constraints, we measure these variables with different timing.",
+            "keywords": [
+                "Financial distress puzzle",
+                "Short sale constraints",
+                "Degree of mispricing",
+                "Asymmetric pricing effect",
+                "Benchmark-adjusted returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a53_3ay_3a2019_3ai_3ac_3ap_3a94-111.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investors\u00e2\u0080\u0099 financial attention frequency and trading activity",
+            "abstract": "Based on data on users' daily adoption of securities service mobile applications, we measure investors' financial attention frequency, which reflects how often they use such apps, to obtain information on their frequency of opening these apps and online duration. We find that financial attention frequency shows a clear ostrich effect, suggesting that investors acquire financial information less frequently following periods of low market returns and high market volatility. In addition, it significantly promotes trading activity in the market. Further, this driving force remains after a series of robustness tests controlling for other market factors such as investor attention and sentiment and after addressing endogeneity concerns. Finally, financial attention frequency also increases individuals' net buying transactions.",
+            "keywords": [
+                "Securities service mobile applications",
+                "Financial attention frequency",
+                "Ostrich effect",
+                "Trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a58_3ay_3a2019_3ai_3ac_3as0927538x19301684.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do Investors exaggerate corporate ESG information? Evidence of the ESG momentum effect in the Taiwanese market",
+            "abstract": "As environmental, social, and governance (ESG) factors become increasingly important in the business sector, investors pay more attention to corporate ESG information. Integrating ESG factors into the investment process has transformed from a niche to mainstream activity. This study demonstrates that investors systematically exaggerate corporate ESG information, leading to ESG momentum effects in financial markets. Specifically, investors exhibit optimistic responses to good news about companies with higher ESG scores but pessimistic responses to bad news about companies with lower ESG scores. Consistent with the overreaction hypothesis, the empirical results show that an ESG momentum strategy can lead to substantial profits in the short run and reversals in the long run. Moreover, this study reveals that investors overreact to the environmental factor more than social or governance factors.",
+            "keywords": [
+                "ESG",
+                "ESG momentum strategy",
+                "Excessive extrapolation",
+                "Investor sentiment",
+                "Momentum strategy",
+                "Overreaction hypothesis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a63_3ay_3a2020_3ai_3ac_3as0927538x19306493.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Turnover premia in China's stock markets",
+            "abstract": "This paper explores turnover premia in China's stock markets. There is a negative cross-sectional relation between turnover and average realized returns. Turnover premia, which is the return on buying low turnover stocks and shorting high turnover stocks, can reach 34% per annum. In effect, turnover in China's stock markets can be explained mainly by both liquidity risk and firm-specific uncertainty. Turnover premia are more pronounced for firms with higher cash flow risk, an indicator of firm-specific uncertainty. Cash flow risk could also amplify the turnover premia of option-like firms.",
+            "keywords": [
+                "China's stock markets",
+                "Turnover premia",
+                "Aggregate volatility risk",
+                "Idiosyncratic volatility",
+                "Real options",
+                "Cash-flow risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a65_3ay_3a2021_3ai_3ac_3as0927538x20306995.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Commonality in disagreement",
+            "abstract": "We examine the relationship between firms' individual disagreement and the aggregate disagreement. We find that a commonality in firms' individual disagreements exists at the market level, industry level, and geographic level. This commonality increases with a firm's asymmetric information, uncertainty, and the degree of coverage, but decreases with a firm's accounting information quality. We show that disagreement commonality can be a new measure of firm-specific information centering on analysts. We find a positive relationship between firms' commonality in disagreement and co-movement in their stock returns. A higher disagreement commonality may indicate lower usefulness of firm-specific information that strengthens the synchronicity between a firm's stock return and the market return. Our measure of disagreement commonality is especially useful among inefficient markets where analysts are heavily relied on by investors, such as Asia Pacific markets.",
+            "keywords": [
+                "Disagreement",
+                "Information environment",
+                "Stock return co-movement"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a67_3ay_3a2021_3ai_3ac_3as0927538x21000809.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "What factors are associated with stock price jumps in high frequency?",
+            "abstract": "We analyze the complete tick-level stock trading records at the Taiwan Stock Exchange and explore what factors are principally associated with stock price jumps in high frequency. Among the potential candidate variables suggested in the literature, liquidity proxies appear to be primarily associated with signed jumps in high frequency. The results from the least absolute shrinkage and selection operator (LASSO), the elastic net method, and principal component analysis further show that liquidity issues are more important than information or sentiment in understanding sudden and discontinuous price innovations to financial assets in high frequency.",
+            "keywords": [
+                "Signed jumps",
+                "Information asymmetry",
+                "Liquidity",
+                "Herding",
+                "Big data",
+                "Machine learning"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a68_3ay_3a2021_3ai_3ac_3as0927538x21001098.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Digesting anomalies: A q-factor approach for the Thai market",
+            "abstract": "We study the extent to which a q-factor approach explains other cross-sectional factor returns in the Thai market from 2000 to 2019. Univariate statistics of the q-factor premia show that the Thai factors have almost double the statistical and economic significance compared to US factors. While the q-factor model and the Fama-French six-factor model have similar performances in the US, they do not in Thailand. We find that the q-factor model reduces the t-statistics of the alphas for 13 out of 15 anomalies when compared to the six-factor model. Our findings suggest that the q-factor model is a better empirical asset pricing model in Thailand, showing external validity of the model even in an emerging market.",
+            "keywords": [
+                "Factor investing",
+                "Q-factor",
+                "Empirical asset pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a69_3ay_3a2021_3ai_3ac_3as0927538x21001542.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The response of different investor types to macroeconomic news",
+            "abstract": "We provide the first investigation of foreign, local institutional and local individual investors\u00e2\u0080\u0099 trading responses to global, regional and local macroeconomic surprises using daily buy-sell volumes for Korea, taking account of endogeneity. Investor types respond differently to different shocks and differentially to the same news. Responses also differ across market states. However, behavior is more complex than previously recognized. Local individuals\u00e2\u0080\u0099 (institutions\u00e2\u0080\u0099) responses to local news suggest they are contrarian (momentum) traders with respect to expected policy responses, rather than the raw shocks themselves. The importance of investor type to understanding the impact of macroeconomic news on behavior is highlighted.",
+            "keywords": [
+                "Foreign investors",
+                "Institutional investors",
+                "Individual investors",
+                "Macroeconomic announcements",
+                "Trading decisions"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeemulfin/v_3a50_3ay_3a2019_3ai_3ac_3ap_3a13-28.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Gold, platinum, and expected Bitcoin returns",
+            "abstract": "This study examines the prediction power of the ratio of gold to platinum prices (GP) on Bitcoin. By using different models and data sources for Bitcoin, we find that GP predicts future Bitcoin return. When the price of gold relative to platinum increases, Bitcoin return also goes up. This finding is consistent with previous studies and contributes to the ongoing discussion whether GP can be used as an indicator for aggregate market risk. Using variance decomposition, we also find that volatility in the gold and platinum market can influence Bitcoin volatility and that this relationship shows time-varying dependency. Finally, our results are robust to including new year effects and data of different frequency. Hence, this paper contributes to the current literature of Bitcoin by showing that GP provides an important proxy of risk in the economy.",
+            "keywords": [
+                "Gold",
+                "Platinum",
+                "Bitcoin return",
+                "Cryptocurrency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeemulfin/v_3a56_3ay_3a2020_3ai_3ac_3as1042444x20300177.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

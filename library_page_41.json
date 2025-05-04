@@ -1,0 +1,153 @@
+{
+    "page_info": {
+        "page_number": 41,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Stock price and volume effects associated with changes in the composition of the FTSE Bursa Malaysian KLCI",
+            "abstract": "We examine the stock price and volume effects associated with changes in the composition of the FTSE Bursa Malaysia Kuala Lumpur Composite Index (KLCI), over the time period of 2005\u00e2\u0080\u00932012. We find evidence to support the price pressure hypothesis for both additions to and deletions from the KLCI. This is because significant stock price and trading volume effects in the pre index revision period are entirely reversed after the announcement of the news. Our empirical findings can be explained by the market microstructure literature. Significant changes in liquidity cause trading volume and stock prices to reverse back to their original level before the index revisions took place.",
+            "keywords": [
+                "Index revision",
+                "Price effect",
+                "Liquidity effect",
+                "Volume effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a28_3ay_3a2014_3ai_3ac_3ap_3a20-35.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The relevance of information and trading costs in explaining momentum profits: Evidence from optioned and non-optioned stocks",
+            "abstract": "Considerable evidence from many countries suggests momentum strategies generate profits. These have been difficult to rationalise and evidence on the sources of such profitability is inconclusive. We utilise a sample of optioned stocks, characterised by high liquidity, high market capitalisation and fewer short sales constraints and compare results with control samples of non optioned stocks chosen on the basis of market value, turnover and bid\u00e2\u0080\u0093ask spread. The sample characteristics, and the fact that derivatives improve the impounding of information into prices, enable us to draw conclusions about the causes of momentum profits. While we find that short sales constraints are not the major driver of profitability and that most momentum profits disappear using two transactions costs measures of the bid\u00e2\u0080\u0093ask spread, one not previously used, the persistence of some momentum profits indicates that the market underreacts even to the most publicly available information.",
+            "keywords": [
+                "Momentum",
+                "Information",
+                "Bid\u00e2\u0080\u0093ask spread",
+                "Options"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a22_3ay_3a2012_3ai_3a3_3ap_3a589-608.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do leveraged exchange-traded products deliver their stated multiples?",
+            "abstract": "Using the longest history of a U.S. equity market index, this paper simulates the return deviation and multiple deviation for Leveraged Exchange-Traded Products (LETPs) with different rebalancing frequencies, including daily, monthly, annually, and every five years, over various holding periods. We find that the general perception that daily-rebalanced LETPs are not suitable for long-term strategies is not substantiated. Advancing the analysis, we construct a comprehensive framework that determines the deviation of an LETP\u00e2\u0080\u0099s effective multiple from its stated product multiple under various rebalancing frequencies and holding period scenarios. The empirical framework and results from this paper hold the promise of guiding regulators, policy makers, and investors in their understanding of the tracking performance of LETPs.",
+            "keywords": [
+                "Leveraged Exchange-Traded Products (LETPs)",
+                "Return Multiple",
+                "Rebalancing period"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a43_3ay_3a2014_3ai_3ac_3ap_3a29-47.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The second moment matters! Cross-sectional dispersion of firm valuations and expected returns",
+            "abstract": "Behavioral theories predict that firm valuation dispersion in the cross-section (\u00e2\u0080\u009cdispersion\u00e2\u0080\u009d) measures aggregate overpricing caused by investor overconfidence and should be negatively related to expected aggregate returns. This paper develops and tests these hypotheses. Consistent with the model predictions, I find that measures of dispersion are positively related to aggregate valuations, trading volume, idiosyncratic volatility, past market returns, and current and future investor sentiment indexes. Dispersion is a strong negative predictor of subsequent short- and long-term market excess returns. Market beta is positively related to stock returns when the beginning-of-period dispersion is low and this relationship reverses when initial dispersion is high. A simple forecast model based on dispersion significantly outperforms a naive model based on historical equity premium in out-of-sample tests and the predictability is stronger in economic downturns.",
+            "keywords": [
+                "Return predictability",
+                "Dispersion",
+                "Overconfidence",
+                "Investor sentiment",
+                "Valuation ratios",
+                "Business cycle"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a37_3ay_3a2013_3ai_3a10_3ap_3a3974-3992.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The information content of option ratios",
+            "abstract": "A broad stream of research shows that information flows into underlying stock prices through the options market. For instance, prior research shows that both the Put\u00e2\u0080\u0093Call Ratio (P/C) and the Option-to-Stock Volume Ratio (O/S) predict negative future stock returns. In this paper, we compare the level of information contained in these two commonly used option volume ratios. First, we find that P/C ratios contain more predictability about future stock returns at the daily level than O/S ratios. Second, in contrast to our first set of results, O/S ratios contain more predictability about future returns at the weekly and monthly levels than P/C ratios. In fact, our tests show that while P/C ratios contain predictability about future daily returns and, to some extent, future weekly returns, the return predictability in P/C ratios is fleeting. O/S ratios, on the other hand, significantly predict negative returns at all levels: daily, weekly, and monthly. While Pan and Poteshman (2006) show that signed P/C ratios, which require proprietary data, have predictive power, we find that unsigned P/C ratios, which do not require proprietary data, also have predictive power.",
+            "keywords": [
+                "Put-Call Ratio",
+                "Option-to-Stock Volume Ratio",
+                "Informed trading",
+                "Return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a43_3ay_3a2014_3ai_3ac_3ap_3a179-187.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Informed trading, information uncertainty, and price momentum",
+            "abstract": "In this paper we investigate the effects of informed trading (PIN) and information uncertainty in determining price momentum. We find that trading strategies based on buying high-uncertainty good-news stocks and shorting high-uncertainty bad-news stocks work well when limited to high-PIN stocks, while stocks with low-PIN do not exhibit price continuations, even when the uncertainty level of those stocks is high. In contrast, momentum returns are always significant for high-PIN stocks, irrespective of information uncertainty. Overall, we show that the informed trading effect is both independent of and stronger than that of information uncertainty in determining price momentum.",
+            "keywords": [
+                "Informed trading",
+                "Information uncertainty",
+                "Price momentum"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a36_3ay_3a2012_3ai_3a7_3ap_3a2095-2109.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do Japanese candlesticks help solve the trader\u00e2\u0080\u0099s dilemma?",
+            "abstract": "In this paper, we investigate whether Japanese candlesticks can help traders to find the best trade-off between market timing and market impact costs. Based on fixed-effect panel regressions on a sample of 81 European stocks, we show that implicit transaction costs are better characterized by using specific Japanese candlesticks patterns. Although market timing costs are not lower when Hammer-like and Doji configurations occur, market impact costs are significantly lower when and after a Doji structure occurs. We further check the potential gains through order submission simulations and find that submission strategies based on the occurrence of Doji result in significantly lower market impact cost than random submission strategies. These findings are of great interest for investors who look for occasional liquidity pools to execute their orders inexpensively such as institutional traders or hedgers.",
+            "keywords": [
+                "Liquidity",
+                "Japanese candlesticks",
+                "Transaction costs",
+                "Market timing",
+                "Market impact"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a48_3ay_3a2014_3ai_3ac_3ap_3a386-395.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time-varying expected momentum profits",
+            "abstract": "This paper examines the time variations of expected momentum profits using a two-state Markov switching model with time-varying transition probabilities to evaluate the empirical relevance of recent rational theories of momentum profits. We find that in the expansion state the expected returns of winner stocks are more affected by aggregate economic conditions than those of loser stocks, while in the recession state the expected returns of loser stocks are more affected than those of winner stocks. Consequently, expected momentum profits display strong procyclical variations. We argue that the observed momentum profits are the realization of such expected returns and can be interpreted as the procyclicality premium. We provide a plausible explanation for time-varying momentum profits through the differential effect of leverage and growth options across business cycles.",
+            "keywords": [
+                "Momentum",
+                "Time-varying expected returns",
+                "Markov switching regression model",
+                "Business cycle",
+                "Procyclicality",
+                "Growth options"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a49_3ay_3a2014_3ai_3ac_3ap_3a191-215.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are good-news firms riskier than bad-news firms?",
+            "abstract": "This paper examines the relative risk of good-news firms, i.e., those with high standardized unexpected earnings (SUE), and bad-news (low SUE) firms using a stochastic discount factor approach. We find that a stochastic discount factor constructed from a set of basis assets helps explain post-earnings-announcement drift (PEAD). The risk exposures on the pricing kernel increase monotonically from the lowest to highest SUE sorted portfolios. Specifically, good-news firms always have higher risk exposures than bad-news firms in both 10 SUE sorted portfolios and 25 size and SUE sorted portfolios. However, the estimated expected risk premium is too small to explain the observed magnitude of returns on the PEAD strategy. Our risk adjustment can explain only about one-fourth of the total magnitude of the average realized return to the PEAD strategy. As a result, the average risk-adjusted returns of earnings momentum strategies are mostly positive and significant. Overall, our results support the view that at least some portion of the returns to the earnings momentum strategies examined represent compensation for bearing increased risk.",
+            "keywords": [
+                "Post-earnings-announcement drift",
+                "Stochastic discount factor",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a36_3ay_3a2012_3ai_3a5_3ap_3a1528-1535.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "ETF arbitrage: Intraday evidence",
+            "abstract": "We use two extremely liquid S&P 500 ETFs to analyze the prevailing trading conditions when mispricing allowing arbitrage opportunities is created. While these ETFs are not perfect substitutes, our correlation and error correction results suggest investors view them as close substitutes. Spreads increase just before arbitrage opportunities, consistent with a decrease in liquidity. Order imbalance increases as markets become more one-sided and spread changes become more volatile which suggests an increase in liquidity risk. The price deviations are followed by a tendency to quickly correct back towards parity.",
+            "keywords": [
+                "Arbitrage",
+                "Pairs trading",
+                "ETF"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a37_3ay_3a2013_3ai_3a9_3ap_3a3486-3498.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does revenue momentum drive or ride earnings or price momentum?",
+            "abstract": "This paper examines the profits of revenue, earnings, and price momentum strategies in an attempt to understand investor reactions when facing multiple information of firm performance in various scenarios. We first offer evidence that there is no dominating momentum strategy among the revenue, earnings, and price momentums, suggesting that revenue surprises, earnings surprises, and prior returns each carry some exclusive unpriced information content. We next show that the profits of momentum driven by firm fundamental performance information (revenue or earnings) depend upon the accompanying firm market performance information (price), and vice versa. The robust monotonicity in multivariate momentum returns is consistent with the argument that the market does not only underestimate the individual information but also the joint implications of multiple information on firm performance, particularly when they point in the same direction. A three-way combined momentum strategy may offer monthly return as high as 1.44%. The information conveyed by revenue surprises and earnings surprises combined account for about 19% of price momentum effects, which finding adds to the large literature on tracing the sources of price momentum.",
+            "keywords": [
+                "Revenue surprises",
+                "Earnings surprises",
+                "Post-earnings-announcement drift",
+                "Momentum strategies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a38_3ay_3a2014_3ai_3ac_3ap_3a166-185.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Fast profits: Investor sentiment and stock returns during Ramadan",
+            "abstract": "Observed by more than 1.5 billion Muslims, Ramadan is one of the most celebrated religious traditions in the world. We investigate stock returns during Ramadan for 14 predominantly Muslim countries over the years 1989\u00e2\u0080\u00932007. The results show that stock returns during Ramadan are significantly higher and less volatile than during the rest of the year. No discernible declines in market liquidity are recorded. We find these results consistent with a notion that Ramadan positively affects investor psychology, as it promotes feelings of solidarity and social identity among Muslims world-wide, leading to optimistic beliefs that extend to investment decisions.",
+            "keywords": [
+                "Ramadan effect",
+                "Behavioral finance",
+                "Market efficiency",
+                "Religion"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a36_3ay_3a2012_3ai_3a3_3ap_3a835-845.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "page_info": {
+        "page_number": 121,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "When does the stock market listen to economic news? New evidence from copulas and news wires",
+            "abstract": "We study association between macroeconomic news and stock market returns using the statistical theory of copulas, and a new comprehensive measure of news based on textual review and classification of news wires. We find the impact of economic news on equity returns to be nonlinear and asymmetric. In particular, controlling for economic conditions and surprises associated with releases of economic data, we find that the market reacts strongly and negatively to the most unfavourable macroeconomic news, but appears to largely discount the good news. Further, the most-unfavorable news creates price drift, and we document that selling stocks short in the wake of unusually-bad news yields annual abnormal gross returns greater than four percent.",
+            "keywords": [
+                "Stock returns",
+                "Macroeconomic news",
+                "Copulas",
+                "Tail dependence",
+                "Macroeconomic news index"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a65_3ay_3a2016_3ai_3ac_3ap_3a27-40.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Assessing the information content of short-selling metrics using daily disclosures",
+            "abstract": "As a consequence of the 2008 financial crisis, the Australian regulator mandated daily reporting and disclosure of both short flow and short interest at an individual stock level. This provides a unique opportunity to study the nature and source of information embedded in each metric. Our empirical findings are consistent with short sellers being heterogeneous with respect to their information. Short flow is strongly related to recent returns and buy-order imbalance, and both anticipates and reacts to price-relevant announcements. In contrast, short interest is related to the mispricing of firm fundamentals. The distinct differences in the nature of information embedded in the two metrics provide an economic rationale for both the unique ability of each metric to predict returns and the future horizons over which the information is relevant.",
+            "keywords": [
+                "Short selling",
+                "Information content",
+                "Short interest",
+                "Short flow"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a64_3ay_3a2016_3ai_3ac_3ap_3a188-204.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Why do carbon prices and price volatility change?",
+            "abstract": "An asymmetric information microstructural pricing model is proposed in which price responses to information and liquidity vary with every transaction. bid-ask quotes and price components account for learning by incorporating changing expectations of the rate of transacted volume (trading intensity) and the risk level of incoming trades. Analysis of European carbon futures transactions finds expected trading intensity to simultaneously increase the information component and decrease the liquidity component of price changes, but at different rates. This explains some conflicting results in prior literature. Further, the expected persistence in trading intensity explains the majority of the autocorrelations in the level and the conditional variance of price change; helps predict hourly patterns in returns, variance and the bid-ask spread; and differentiates the price impact of buy versus sell and continuing versus reversing trades.",
+            "keywords": [
+                "CO2 emission allowances",
+                "Market microstructure",
+                "Duration",
+                "Liquidity",
+                "Price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a63_3ay_3a2016_3ai_3ac_3ap_3a76-94.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Option pricing under time-varying risk-aversion with applications to risk forecasting",
+            "abstract": "We present a two-factor option-pricing model, which parsimoniously captures the difference in volatility persistences under the historical and risk-neutral probabilities. The model generates an S-shaped pricing kernel that exhibits time-varying risk aversion. We apply our model for two purposes. First, we analyze the risk preference implied by S&P500 index options during 2001\u00e2\u0080\u00932009 and find that risk-aversion level strongly increases during stressed market conditions. Second, we apply our model for Value-at-Risk (VaR) forecasts during the subprime crisis period and find that it outperforms several leading VaR models.",
+            "keywords": [
+                "Pricing kernel",
+                "Option pricing",
+                "Implied risk premium",
+                "Value-at-Risk forecast"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a76_3ay_3a2017_3ai_3ac_3ap_3a120-138.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Cash flow news, discount rate news, and momentum",
+            "abstract": "We examine the effect of aggregate cash flow news and discount rate news on momentum returns. We find that momentum profits are higher following aggregate positive cash flow news, even in down markets or low sentiment periods. This finding expands on the evidence in Cooper et al. (2004) that momentum is significant only when past market returns are non-negative and in Antoniou et al. (2013) that momentum is weaker when sentiment is pessimistic. We find that the higher momentum profits during aggregate positive cash flow news periods are primarily driven by the losers continuing to underperform in subsequent periods. Our findings are consistent with the Hong and Stein (1999) model in the sense that gradual diffusion of contradictory news is accentuated when change in wealth is positive and relatively more permanent.",
+            "keywords": [
+                "Momentum",
+                "Cash flow news",
+                "Asset pricing",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a72_3ay_3a2016_3ai_3ac_3ap_3a240-254.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The q-factors and expected bond returns",
+            "abstract": "This study provides new insight into the recent debate on profitability and investment patterns in the cross-section of expected returns. Relying on implied risk premia of U.S. corporate bonds, we document a strong negative relation between exposure to the profitability factor and cost of debt. We do not observe a robust relation between exposure to the investment factor and cost of debt. Our findings are consistent with profitability being a risk factor, but suggest that high profitability implies lower (and not higher) risk. Because the market portfolio consists of all risky assets including corporate bonds, our findings challenge a risk-based explanation for the profitability and investment patterns in stock returns.",
+            "keywords": [
+                "Anomalies",
+                "Corporate bonds",
+                "Credit markets",
+                "Expected returns",
+                "Factors",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a83_3ay_3a2017_3ai_3ac_3ap_3a19-35.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment and price discovery: Evidence from the pricing dynamics between the futures and spot markets",
+            "abstract": "This study examines the role of investor sentiment in the pricing dynamics between the spot and futures markets. The empirical evidence suggests that investor sentiment has a positive impact on price volatility and the bid\u00e2\u0080\u0093ask spread on both the spot and futures markets, which induces higher arbitrage risk and trading costs during high sentiment periods. Consequently, during high sentiment periods, informed traders become less willing to leverage their information advantages on the futures market, which diminishes the futures markets\u00e2\u0080\u0099 leading informational role and contributions to price discovery. Our findings provide support for the theory of limits to arbitrage.",
+            "keywords": [
+                "Information shares",
+                "Investor sentiment",
+                "Lead\u00e2\u0080\u0093lag relation",
+                "Limits to arbitrage",
+                "Price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a90_3ay_3a2018_3ai_3ac_3ap_3a17-31.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Option-Implied variance asymmetry and the cross-section of stock returns",
+            "abstract": "We find a positive relationship between individual stocks\u00e2\u0080\u0099 implied variance asymmetry, defined as the difference between upside and downside risk-neutral semivariances extracted from out-of-money options, and future stock returns. The high-minus-low hedge portfolio earns the excess return of 0.90% (0.67%) per month in equal-weighted (value-weighted) returns. We show that implied variance asymmetry provides a neat measure of risk-neutral skewness and outperforms the standard risk-neutral skewness in predicting the cross-section of future stock returns. Risk-based equilibrium asset pricing models can not explain such a positive relationship, which instead can be potentially explained by information asymmetry and informed trading.",
+            "keywords": [
+                "Risk-neutral semivariances",
+                "Implied variance asymmetry",
+                "Risk-neutral skewness",
+                "Return predictability",
+                "Informed trading",
+                "Liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a101_3ay_3a2019_3ai_3ac_3ap_3a21-36.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asset growth, style investing, and momentum",
+            "abstract": "We establish a significant and robust connection between asset growth (AG) and style investing by showing that past style returns constructed based on AG and size jointly predict future stock returns significantly. Motivated by this notion, we propose a style momentum strategy based on AG and size and find that it dominates price momentum and size-BM style momentum in generating momentum profits. We examine two explanations for this predictability, including risk exposure to common risk factors and the limited-attention theory. Empirical evidence shows that the AG-size style momentum profit is induced because investors neglect the AG-size style performance, consistent with the limited-attention explanation, but not risk exposure to the investment factor. Further, we show that the profit of the AG-size style momentum is robust to different time periods partitioned by several time-series predictors.",
+            "keywords": [
+                "Asset growth",
+                "Style investing",
+                "Style momentum",
+                "Limited attention"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a98_3ay_3a2019_3ai_3ac_3ap_3a108-124.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Demand curves for stocks do not slope down: Evidence using an exogenous supply shock",
+            "abstract": "We analyze the price impact of an exogenous share sale of inside blockholders who were forced to sell a part of their shareholdings following a regulatory change in India. The affected firms experience a negative excess return of 4.3% during the issue week. Crucially, the price impact reverses within around 16 days of the event. Our results are consistent with the view that long-term demand curves for stocks are flat; this view is echoed in classical finance theories. The short-term price reaction to a sale is probably due to temporary price pressure.",
+            "keywords": [
+                "Supply shock",
+                "Slow moving capital",
+                "Demand curve",
+                "Price pressure"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a104_3ay_3a2019_3ai_3ac_3ap_3a19-30.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Striking up with the in crowd: When option markets and insiders agree",
+            "abstract": "We study whether the trading behavior of corporate insiders provides additional information to the market, after controlling for the public information integrated by sophisticated investors. First, we establish that insiders and option market participants trade in the same direction on average. Second, we show that insidertrading is relatively more informed when the option market sentiment is positive. The marginal information content of insider trades is higher for firms with higher levels of information asymmetry and during time periods when future economic conditions are less certain.",
+            "keywords": [
+                "Insiders",
+                "Volatility spread",
+                "Predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a120_3ay_3a2020_3ai_3ac_3as0378426620302259.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The role of psychological barriers in lottery-related anomalies",
+            "abstract": "It is well documented that stocks with lottery-like characteristics are overpriced. We find that the lottery-related anomaly exists primarily among stocks that are far from their 52-week high prices. When implemented among such stocks, the strategy of buying the least lottery-like stocks and selling the most delivers a significantly positive risk-adjusted return of 2.22% per month. In contrast, it yields an insignificant negative return of -0.31% per month for stocks near their 52-week high. The pattern holds after controlling for capital gains overhang and idiosyncratic volatility. We also find that investors\u00e2\u0080\u0099 optimistic earnings forecasts for lottery-like stocks are attenuated by their nearness to the 52-week high. Our findings suggest that investors consider the 52-week high as the upper price limit and that this psychological barrier affects their preferences for lottery-like stocks.",
+            "keywords": [
+                "Prospect theory",
+                "Lottery",
+                "Skewness",
+                "Psychological barrier",
+                "52-week-high price",
+                "Anchoring bias"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a114_3ay_3a2020_3ai_3ac_3as0378426620300546.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

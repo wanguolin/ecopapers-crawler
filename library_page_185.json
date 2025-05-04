@@ -1,0 +1,153 @@
+{
+    "page_info": {
+        "page_number": 185,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Explaining the Stylized Facts of Foreign Exchange Markets with a Simple Agent-based Version of Paul de Grauwe\u00e2\u0080\u0099s Chaotic Exchange Rate Model",
+            "abstract": "Abstract We propose a simple agent-based version of Paul de Grauwe\u00e2\u0080\u0099s chaotic exchange rate model. In particular, we assume that each speculator follows his own technical and fundamental trading rule. Moreover, a speculator\u00e2\u0080\u0099s choice between these two trading philosophies depends on his individual assessment of current market circumstances. Our agent-based model setup is able to explain a number of important stylized facts of foreign exchange markets, including bubbles and crashes, excess volatility, fat-tailed return distributions, serially uncorrelated returns and volatility clustering. A stability and bifurcation analysis of its deterministic skeleton provides us with useful insights that foster our understanding of exchange rate dynamics.",
+            "keywords": [
+                "Foreign exchange markets",
+                "Exchange rates",
+                "Chartists and fundamentalists",
+                "Agent-based computational economics",
+                "Stability and bifurcation analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kapcompec/v_3a65_3ay_3a2025_3ai_3a2_3ad_3a10.1007_5fs10614-024-10546-z.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Disentangling the impact of economic and health crises on financial markets",
+            "abstract": "This paper explores the impact of different crises on the informational efficiency of financial assets. The study covers stock markets indices (ASX200, DAX30, EuroStoxx50, S&P500 and Nikkei), commodities (gold and oil) and volatility (VIX). The study analyzes, using a rolling window method, the long memory profile and the multifractality of the time series by means of the DFA and generalized Hurst exponents. This dynamic analysis is important as it uncovers the time-varying behavior of returns characteristics, affecting the investment decisions and trading strategies at different moments of time. The paper extends the current literature on informational efficiency, providing evidence of the distinct impact on the long memory and on the multifractality of the time series, depending on the nature of the crisis and the market. The results could be of interest for investors as well as for academics, regarding the hedging limits of the models during calm or turbulent times.",
+            "keywords": [
+                "Hurst exponent",
+                "Multifractality",
+                "Crisis",
+                "Covid-19",
+                "Informational efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a65_3ay_3a2023_3ai_3ac_3as0275531923000545.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investing in the Presence of Massive Flows: The Case of MSCI Country Reclassifications",
+            "abstract": "Almost $10 trillion is benchmarked to Morgan Stanley Capital International\u00e2\u0080\u0099s Developed, Emerging, Frontier, and standalone market indexes. Reclassifications from one index to another require thousands of investors to decide how to react. We study a comprehensive sample of past reclassifications to inform this decision. On average, reclassified markets\u00e2\u0080\u0099 prices substantially overshoot between the announcement and effective dates\u00e2\u0080\u0094prices fall when a market moves from an index with more benchmarked ownership to one with less, such from Emerging to Frontier, and vice-versa\u00e2\u0080\u0094but largely revert within a year. We identify alpha-maximizing responses to reclassifications for both benchmarked and more flexible investors.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/23557.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Modeling Bid and Ask Price Dynamics with an Extended Hawkes Process and Its Empirical Applications for High-Frequency Stock Market Data",
+            "abstract": "This study proposes a versatile model for the dynamics of the best bid and ask prices using an extended Hawkes process. The model incorporates the zero intensities of the spread-narrowing processes at the minimum bid\u00e2\u0080\u0093ask spread, spread-dependent intensities, possible negative excitement, and nonnegative intensities. We apply the model to high-frequency best bid and ask price data from U.S. stock markets. The empirical findings demonstrate a spread-narrowing tendency, excitations of the intensities caused by previous events, the impact of flash crashes, characteristic trends in fast trading over time, and the different features of market participants in the various exchanges.",
+            "keywords": [
+                "bid\u00e2\u0080\u0093ask spread",
+                "exchange",
+                "Hawkes process",
+                "high-frequency trading",
+                "stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/oupjfinec/v_3a21_3ay_3a2023_3ai_3a4_3ap_3a1099-1142..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment and the holiday effect in the cryptocurrency market: evidence from China",
+            "abstract": "Abstract This study employs a fixed-effects model to investigate the holiday effect in the cryptocurrency market, using trading data for the top 100 cryptocurrencies by market capitalization on Coinmarketcap.com from January 1, 2017 to July 1, 2022. The results indicate that returns on cryptocurrencies increase significantly during Chinese holiday periods. Additionally, we use textual analysis to construct an investor sentiment indicator and find that positive investor sentiment boosts cryptocurrency market returns. However, when positive investor sentiment prevails in the cryptocurrency market, the holiday effect weakens, implying that positive investor sentiment attenuates the holiday effect. Robustness tests based on the Bitcoin market generate consistent results. Moreover, this study explores the mechanisms underlying the cryptocurrency holiday effect and examines the impact of epidemic transmission risk and heterogeneity characteristics on this phenomenon. These findings offer novel insights into the impact of Chinese statutory holidays on the cryptocurrency market and illuminate the role of investor sentiment in this market.",
+            "keywords": [
+                "Cryptocurrency",
+                "Holiday effect",
+                "Investor sentiment",
+                "Text analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprfininn/v_3a10_3ay_3a2024_3ai_3a1_3ad_3a10.1186_5fs40854-024-00639-x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The dynamics of frequency connectedness between technology ETFs and uncertainty indices under extreme market conditions",
+            "abstract": "Abstract We examine technology ETF and uncertainty index (VIX, GVZ, and OVZ) spillover dynamics and quantile frequency interconnectedness across market states. This study is the first to use quantile-frequency spillover, quadruple wavelet coherence, and wavelet quantile correlation methodologies to facilitate these analyses. The total connectedness index value is 70%, which is much higher in both the upper and lower quantiles. Under normal market conditions, short-term connectedness significantly exceeds long-term connectedness. Levels of ETF-uncertainty indicator connectedness increase under extreme market conditions; most technology ETFs are net spillover transmitters and uncertainty indices net spillover receivers, indicating the contagion risk of ETF investments. We show that while greater ETF-uncertainty index connectedness may benefit portfolio diversification, large fluctuations in technology EFTs can result in financial instability due to high market volatility. In the long term, the joint effects of uncertainty indices on ETFs are significant, with negative correlations between ETFs and uncertainties at different frequencies, supporting the potential role of uncertainty indices in hedging technology ETF portfolio risks. Dynamic portfolio rebalancing, scenario analysis, and stress testing may help to manage the effects of high connectedness.",
+            "keywords": [
+                "ETFs",
+                "Uncertainty indexes",
+                "Quantile-frequency connectedness",
+                "Wavelet quantile correlation",
+                "Quadruple wavelet coherence",
+                "Network analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprfininn/v_3a11_3ay_3a2025_3ai_3a1_3ad_3a10.1186_5fs40854-025-00760-5.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Political Cognitive Biases Effects on Fund Managers' Performance",
+            "abstract": "Does political affiliation matter for stock-market investing? Rare events can produce polarized narratives that potentiate cognitive dissonance on a spectrum of agents. Using a comprehensive dataset of equity hedge funds' performance and managers' political affiliation matched by their partisan contributions, I document higher returns of funds managed by Democrats for ten subsequent months\u00e2\u0080\u0094from December 2008 to September 2009\u00e2\u0080\u0094when the interpretation of the US central bank policy was politically polarized and conducive to cognitive dissonance. This result is robust to a set of falsification tests and randomized quasi-experiments.",
+            "keywords": [
+                "Political Biases",
+                "Money Managers' Performance"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/101572.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Modeling gasoline price volatility",
+            "abstract": "We investigate the asymmetry in gasoline price volatility using a new pseudo leverage heterogeneous autoregressive (P-LHAR) model. The model introduces a common leverage factor derived through principal component regression, replacing the traditional individual leverage factor. We apply this model to forecast the volatility of RBOB gasoline prices. Our results show that the P-LHAR model outperforms the traditional HAR, LHAR and combination models, especially in turbulent periods, on weekly and monthly horizons. In-sample estimates indicate the relevance of the common leverage factor, which further strengthened by the superior out-of-sample predictive performance across various horizons. Robustness checks confirm the model's reliability.",
+            "keywords": [
+                "Commodity market",
+                "Gasoline",
+                "Volatility forecasting",
+                "Forecast combination",
+                "Leverage effect",
+                "Common factor"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a73_3ay_3a2025_3ai_3ac_3as1544612324016866.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Risk aversion, informative noise trading, and long-lived information",
+            "abstract": "We build a dynamic strategic trading model in which noise trading demand may be correlated with an asset's fundamental value. This correlation shapes the temporal properties of a perfect Bayesian equilibrium. The more positive the correlation coefficient, the faster prices incorporate private information. In contrast, when the correlation is negative and only one risk-neutral insider exists, an abundant amount of private information cannot be revealed after the final trade, and market liquidity deteriorates over time. Moreover, information is revealed faster during earlier periods if positively correlated noise demand is concentrated early, whereas more information remains hidden after the final trade if negatively correlated noise demand is concentrated later. The inefficiency caused by negatively correlated noise demand can be resolved if insiders are competitive or risk averse.",
+            "keywords": [
+                "Informative noise trading",
+                "Risk aversion",
+                "Price efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a97_3ay_3a2021_3ai_3ac_3ap_3a247-254.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Assessing Market Efficiency And Volatility Of Exchange Rates in South Africa and United Kingdom: Analysis Using Hurst Exponent",
+            "abstract": "The possibility of random walk movements in the log-returns of exchange rate series as well as the characterization of returns by periods of tranquility and volatility is of interest in financial time series modelling. These features make the analysis of exchange rates to be important in the design of policy, portfolio and risk management whenever international trade and finance is discussed. This paper investigated the level of exchange rates market efficiency and volatility at three market phases of US Dollar-South African Rands and US Dollars-British Pounds exchange rates for the daily periods from 2 January 1995 to 8 June 2016. This paper applied the modified Hurst exponent' and volatility modelling techniques on the series log-returns, absolute and squared log-returns used as proxies to volatility. The results of the modified Hurst exponent techniques on the log-returns and squared log-returns show that the future path of the exchange rates returns in these markets are not governed by their immediate past in the second and third identified phases. Thus, the two markets have been in the state of weak form of efficiency since 2001 to the current transition, with UK exchange rate market more efficient than South African exchange rate market. Using the efficiency and volatility indices to classify the two exchange rate markets as well as the market phases, we observe similar transition in the level of market efficiency in these markets, this which is as a result of trade partnership between the two countries. In terms of market volatility, we cannot make a clearer judgement between the two economies. This paper has repositioned the stability foreign exchange rates of South Africa, a member of Group of 20 (G20) countries, with that of a member of the G7 countries, that is, the UK. To the government, risk and portfolio managers, the findings emanating from this paper indicated that the South Africa's Rand is also stable like the British Pound, and thus, can be traded on the international currency market without fear of excessive loss/gain.",
+            "keywords": [
+                "Exchange Rates",
+                "Hurst Exponent",
+                "Market Efficiency",
+                "Random Walk Hypothesis",
+                "Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/jdajournl/vol.53_3ayear_3a2019_3aissue2_3app_3a126-145.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impact of uncertainty on high frequency response of the U.S. stock markets to the Fed's policy surprises",
+            "abstract": "This paper examines the impact of uncertainty on estimated response of stock returns to U.S. monetary policy surprise. This is motivated by the Lucas island model which suggests an inverse relationship between the effectiveness of a policy and the level of uncertainty in the economy. Using high frequency daily data from the Federal funds futures market, we first estimate the response of S&P 500 stock returns to monetary policy surprises within the time varying parameter (TVP) model. We then analyze the relationship of these time varying estimates with the benchmark VIX index and alternative measures of uncertainty. Evidence suggests a significant negative relationship between the level of uncertainty and the time varying response of S&P 500 stock returns to unanticipated changes in the interest rate. Thus, at higher levels of uncertainty the impact of monetary policy shocks on stock markets is lower. The results are robust to different measures of uncertainty.",
+            "keywords": [
+                "Fed funds futures market",
+                "Monetary policy",
+                "Stock returns",
+                "Time-varying parameter model",
+                "VIX",
+                "Uncertainty"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a54_3ay_3a2014_3ai_3a3_3ap_3a382-392.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market fragmentation and post-earnings announcement drift",
+            "abstract": "Abstract This paper examines the effects of dark and lit market fragmentation around both earnings announcements and earnings surprises. Results indicate that both dark and lit market fragmentation increase around earnings announcements. Further, I test whether dark and lit fragmentation hinder the level of price discovery around the earnings announcement, resulting in greater post-earnings announcement drift, PEAD. The analysis reveals that lit fragmentation has no significant impact on PEAD while dark fragmentation reduces the level of PEAD for stocks with positive earnings surprises. This result is consistent with the notion that dark venues capture more uninformed trading around positive news events, resulting in greater informed trading and higher informational efficiency in the lit venue. However, the results also indicate that dark fragmentation leads to stronger PEAD for stocks with negative earnings surprises. This last finding suggests that informed traders migrate to dark venues around negative earnings surprises, consistent with previous research that argues informed traders follow passive trading strategies around negative news events.",
+            "keywords": [
+                "Market fragmentation",
+                "Earnings announcement",
+                "Price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprjecfin/v_3a44_3ay_3a2020_3ai_3a3_3ad_3a10.1007_5fs12197-020-09506-8.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

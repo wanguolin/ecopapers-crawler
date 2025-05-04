@@ -1,0 +1,153 @@
+{
+    "page_info": {
+        "page_number": 88,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The determinants of quantile autocorrelations: Evidence from the UK",
+            "abstract": "We empirically analyse the cross-sectional determinants of stock return autocorrelations in the UK in different quantiles of conditional return distributions. Autocorrelations in low quantiles are predominantly positive, whereas those in the remaining quantiles are negative. Autocorrelations in different quantiles depend on different sets of firm and trading characteristics: when returns are normal or high, prices react quickly to information, are driven by positive feedback traders, instantaneous news arrivals, and overshoot, trades are predominantly motivated by hedging/liquidity needs, and measured autocorrelations can be biassed by the bid\u00e2\u0080\u0093ask bounce effect and nonsynchronous trading. However, when returns are unusually low, prices are driven by information arriving sequentially and react sluggishly to it, and are influenced by trading on private information and/or negative feedback traders.",
+            "keywords": [
+                "Stock return autocorrelation",
+                "Quantile regression"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a29_3ay_3a2013_3ai_3ac_3ap_3a51-61.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asymmetry, earnings announcements, and the beta-return relation",
+            "abstract": "We find that the beta\u00e2\u0080\u0093return relationship is asymmetric around earnings announcements. The security market line has a positive slope in the days leading up to earnings announcements, but a negative slope in the days that follow. This striking shift in the risk\u00e2\u0080\u0093return trade-off is driven primarily by high-beta stocks. Moreover, a modified conditional market-timing beta strategy, incorporating the timing of earnings announcements, enhances profitability. Overall, the results lend empirical support to the theoretical predictions of Hong and Sraer (2016), which posit that beta amplifies disagreements regarding the stock market's prospects.",
+            "keywords": [
+                "Earnings announcements",
+                "Security market line",
+                "Beta-return relationship",
+                "Speculation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a67_3ay_3a2024_3ai_3apb_3as1544612324009723.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Pricing innovations in consumption growth: A re-evaluation of the recursive utility model",
+            "abstract": "We re-evaluate the cross-sectional asset pricing implications of the recursive utility function of Epstein and Zin (1989, 1991), using innovations in future consumption growth in our tests. Our empirical specification helps explain the size, value and momentum effects. Specifically, we find that (\u00d1\u0096) the beta associated with news about consumption growth has a systematic pattern: beta decreases along the size dimension and increases along the book-to-market and momentum dimensions, (\u00d1\u0096\u00d1\u0096) innovation in consumption growth is significantly priced in asset returns using both the Fama and MacBeth (1973) and the stochastic discount factor approaches, and (\u00d1\u0096\u00d1\u0096\u00d1\u0096) the model performs better than both the CAPM and Fama\u00e2\u0080\u0093French model.",
+            "keywords": [
+                "Consumption based asset pricing model",
+                "Epstein and Zin\u00e2\u0080\u0099s recursive utility function",
+                "Economic tracking portfolio"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a37_3ay_3a2013_3ai_3a11_3ap_3a4465-4475.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Leveling the trading field",
+            "abstract": "We examine the impact on stock prices of a major upgrade to the New York Stock Exchange's trading environment. The upgrade improved information dissemination on the trading floor and reduced the latency in reporting trades and quotes. The portion of the upgrade that reduced latency for electronic orders had significant impacts on liquidity, turnover, and returns. A portfolio that is long stocks undergoing the upgrade in the first 20 days of the upgrade and short stocks receiving the upgrade later has a return of roughly 3% over the period. The abnormal return was a priced effect of the improved liquidity produced by the upgrade.",
+            "keywords": [
+                "Market structure",
+                "Stock exchange",
+                "Trading volume",
+                "Transparency",
+                "Information",
+                "Latency",
+                "Technology upgrade"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a17_3ay_3a2014_3ai_3ac_3ap_3a65-93.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Financing-Based Misvaluation Factor and the Cross Section of Expected Returns",
+            "abstract": "Behavioral theories suggest that investor misperceptions and market mispricing will be correlated across firms. We use equity and debt financing to identify common misvaluation across firms. A zero-investment portfolio (UMO, Undervalued Minus Overvalued) built from repurchase and new issue firms captures comovement in returns beyond that in some standard multifactor models, and substantially improves the Sharpe ratio of the tangency portfolio. Loadings on UMO incrementally predict the cross-section of returns on both portfolios and individual stocks, even among firms not recently involved in external financing activities. Further evidence suggests that UMO loadings proxy for the common component of a stock's misvaluation.",
+            "keywords": [
+                "Misvaluation",
+                "financing",
+                "new issues",
+                "repurchase",
+                "factor models",
+                "market efficiency",
+                "behavioral finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/20636.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Aggregate Insider Trading and Stock Market Volatility in the UK",
+            "abstract": "This paper examines the relationship between aggregate insider trading (AIT) and stock market volatility using monthly data on insider transactions by UK executives in public limited companies for the period January 2002 - December 2020. More specifically, a Vector Autoregression (VAR) model is estimated and Impulse Response analysis as well as Forecast Error Variance Decomposition are carried out. The main finding is that higher AIT (more specifically, insider purchases) leads to a short-run increase in stock market volatility; this can be attributed to a combination of insiders manipulating the timing and content of the information they release and the revelation of new economy-wide information to the market. The UK being a well-regulated market, it is plausible that the main driver of the increase in stock market volatility should be the information effect. These results are shown to be robust to using alternative (direct) measures of AIT.",
+            "keywords": [
+                "aggregate insider trading",
+                "stock market volatility",
+                "VAR",
+                "impulse responses"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cesceswps/_5f10511.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Understanding Mutual Fund and Hedge Fund Styles Using Return Based Style Analysis",
+            "abstract": "We provide an introduction to the use of return based style analysis of Sharpe (1992) in practice. We demonstrate the importance of selecting the right style benchmarks and how the use of inappropriate style benchmarks may lead to wrong conclusions. When style analysis is applied to sector oriented funds such as healthcare, precious metals, energy, technology, etc., the set of benchmarks should include sector or industry indexes. Following Glosten and Jagannathan (1994), Fung and Hsieh (2001), and Agarwal and Naik (2001), we show how to analyze the investment style of hedge fund managers by including the returns on selected option based strategies as style benchmarks. In the examples we consider, return based style analysis provides insights not available through commonly used 'peer' evaluation alone.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/9111.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Commonality in Misvaluation, Equity Financing, and the Cross Section of Stock Returns",
+            "abstract": "Behavioral theories suggest that investor misperceptions and market mispricing will be correlated across firms. This paper uses equity financing to identify comovement in returns and commonality in misvaluation. A zero-investment portfolio (UMO, Undervalued Minus Overvalued) built from repurchase and new issue stocks captures excess comovement in general stock returns relative to a set of multi-factor models. Adding UMO to the 3-factors makes the alphas insignificant for portfolios with extreme size and book-to-market, or based on M&A, convertible bond issuance, and dividend initiation, resumption, and omission. The loadings on UMO incrementally predict the cross-section of returns on portfolios as well as individual stocks. Further evidence is consistent with the UMO loading proxying for the common component of a stock's misvaluation.",
+            "keywords": [
+                "Comovement",
+                "equity financing",
+                "new issue",
+                "repurchase",
+                "systematic mispricing",
+                "return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/16134.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An analysis of cryptocurrencies conditional cross correlations",
+            "abstract": "This letter explores the behavior of conditional correlations among main cryptocurrencies, stock and bond indices, and gold, using a generalized DCC class model. From a portfolio management point of view, asset correlation is a key metric in order to construct efficient portfolios. We find that: (i) correlations among cryptocurrencies are positive, albeit varying across time; (ii) correlations with Monero are more stable across time; (iii) correlations between cryptocurrencies and traditional financial assets are negligible.",
+            "keywords": [
+                "Cryptocurrency",
+                "Correlation",
+                "GARCH",
+                "Dynamic Conditional Correlation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a31_3ay_3a2019_3ai_3ac_3ap_3a130-137.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of the financial crisis on the long-range memory of European corporate bond and stock markets",
+            "abstract": "Abstract This paper investigates the presence of long memory in corporate bond and stock indices of six European Union countries from July 1998 to February 2015. We compute the Hurst exponent by means of the DFA method and using a sliding window in order to measure long range dependence. We detect that Hurst exponents behave differently in the stock and bond markets, being smoother in the stock indices than in the bond indices. We verify that the level of informational efficiency is time-varying. Moreover we find an asymmetric impact of the 2008 financial crisis in the fixed income and the stock markets, affecting the former but not the latter. Similar results are obtained using the R/S method.",
+            "keywords": [
+                "Hurst",
+                "DFA",
+                "Corporate bond indices",
+                "Stock indices",
+                "Financial crisis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kapempiri/v_3a45_3ay_3a2018_3ai_3a1_3ad_3a10.1007_5fs10663-016-9340-8.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Oil information uncertainty and aggregate market returns: A natural experiment based on satellite data",
+            "abstract": "Satellites can \u00e2\u0080\u009csee\u00e2\u0080\u009d oil inventory in oil tanks, but they are sensitive to cloud cover. Cloud cover introduces a new uncertainty related to information quality. We measure such information uncertainty by assessing cloud cover over floating roof oil tanks. Using a cloud cover index, we demonstrate that higher information uncertainty leads to lower future returns (mean effect) and a stronger momentum anomaly (interaction effect). These two effects can be explained by investor overconfidence and arbitrage costs, respectively. An investor with a mean\u00e2\u0080\u0093variance preference obtains sizable gains in terms of certainty equivalent return, which accounts for the mean effect.",
+            "keywords": [
+                "Alternative data",
+                "Satellite information uncertainty",
+                "Cloud cover",
+                "Excess returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a70_3ay_3a2024_3ai_3ac_3as1386418124000314.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The crypto world trades at tea time: intraday evidence from centralized exchanges across the globe",
+            "abstract": "Abstract It is a stylized fact that trading activity, volatility and liquidity in equity and other financial markets follow specific intraday patterns. These patterns are to a large extent determined by institutional features such as exchange trading hours or batch settlement procedures. We analyze the intraday patterns that emerge when these institutional constraints are absent. We compile a large sample of 1940 currency pairs traded on 38 cryptocurrency exchanges located on five continents. These exchanges operate 24 h a day, seven days a week, and settle trades instantly. We find that there are pronounced time-of-day patterns in trading activity, volatility and liquidity. These patterns are remarkably similar across exchanges, time zones and cryptocurrency pairs. Specifically, trading activity, volatility and illiquidity all peak between 16:00 and 17:00 Coordinated Universal Time (UTC), i.e. during U.K. tea time. We find that characteristics of the exchanges (such as their locations) and of the traded currency pairs (e.g. whether two pairs share a common currency) explain some, but not all of the commonality in intraday patterns.",
+            "keywords": [
+                "Cryptocurrencies",
+                "Seasonalities",
+                "Time-of-the-day patterns",
+                "Liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a64_3ay_3a2025_3ai_3a1_3ad_3a10.1007_5fs11156-024-01304-1.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

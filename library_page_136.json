@@ -1,0 +1,149 @@
+{
+    "page_info": {
+        "page_number": 136,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The asset pricing implications of global oil price uncertainty: Evidence from the cross-section of Chinese stock returns",
+            "abstract": "This study examines the role of global oil price uncertainty in the cross-sectional pricing of individual stocks in the Chinese stock market, motivated by the intertemporal capital asset pricing model. Using both Fama-Macbeth regressions and multifactor time-series regressions, we find that stocks with higher oil price uncertainty betas have significantly lower expected returns. This finding is consistent with the asset pricing implications of the demand of investors for stocks with high potential to hedge against oil price uncertainty. We further conduct an industry analysis and find that the negative association between the oil price uncertainty beta and expected returns is pronounced, primarily in the Manufacturing and Transportation & Communication industries. Moreover, we demonstrate that the return predictability of the oil price uncertainty beta cannot be subsumed by those of other oil-related betas and well-known macro-uncertainty betas, thus supporting that global oil price uncertainty is an independent source of systematic risk in the Chinese stock market.",
+            "keywords": [
+                "Oil price uncertainty",
+                "Systematic risk",
+                "Intertemporal capital asset pricing model",
+                "Cross-sectional pricing",
+                "Energy finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeenergy/v_3a285_3ay_3a2023_3ai_3ac_3as0360544223028013.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Revisiting the residual momentum in Japan",
+            "abstract": "This study examines whether the residual momentum effect is actually at play in the Japanese stock market. The results confirm that the effects of residual momentum are not significant after adjusting for short-term and long-term reversal effects. We, therefore, establish that there is a problem with the method used to compute residual momentum in previous studies. By using the corrected method to calculate residual momentum, it is evident that the residual momentum effect is not significant.",
+            "keywords": [
+                "Residual momentum",
+                "Reversal effect",
+                "Japan"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a93_3ay_3a2024_3ai_3ac_3as1057521924001224.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The crucial role of the five-year Treasury in the US yield curve",
+            "abstract": "This paper analyzes the connectedness and spillover transmission mechanism in the U.S. Treasury yields with different maturities than previous studies which focused on the spread between short- and long-term rates. We find that 5-year Treasury yields play the role of the transmitter to other yields, conveying their liquidity and center location in yield curve advantages. Most importantly, the information transmitter role of 5-year Treasury yields remains unchanged under unconventional monetary policies even though these policies decrease the total connectedness of Treasury yields. The transmitter role of the 5-year Treasury has also manifested in the Treasury market flash event and in Treasury futures and ETFs.",
+            "keywords": [
+                "Treasury yield",
+                "Connectedness",
+                "Treasury market flash"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a90_3ay_3a2023_3ai_3ac_3as1057521923003447.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "ESG rating disagreement and stock returns: Evidence from China",
+            "abstract": "Environmental, social, and governance (ESG) ratings are receiving increasing attention in the financial market. However, ESG rating disagreement creates a barrier to ESG investment. This study explores empirically how ESG rating disagreement affects the Chinese capital market based on rating data from six agencies. The results show that ESG rating disagreement has a significant negative impact on stock returns. Mechanism analysis indicates that ESG rating disagreement can lead to decreased investor sentiment and, subsequently, a drop in stock returns. Heterogeneity analysis reveals that this negative impact is more pronounced in non-state-owned enterprises, companies with higher average ESG ratings, and those with fewer institutional investors. Moreover, the governance dimension is the crucial factor driving the drop in stock returns. Therefore, investors and decision makers should consider comprehensive information from multiple agencies when assessing ESG ratings to help mitigate decision bias.",
+            "keywords": [
+                "ESG",
+                "Rating disagreement",
+                "Stock returns",
+                "Investor behaviour"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a91_3ay_3a2024_3ai_3ac_3as1057521923005598.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do stress and overstatement in the news affect the stock market? Evidence from COVID-19 news in The Wall Street Journal",
+            "abstract": "This study investigated the effect of media coverage on financial markets in response to COVID-19-related news. By collecting data from the United States Centers for Disease Control and Prevention, we study the effect of The Wall Street Journal's coverage and tone on stock markets. In particular, we attempted to measure media overstatements by comparing the number of articles and stress words with the number of COVID-19 cases. We obtained three main findings. First, investors discount macroeconomic news and objective measures of COVID-19. Second, excessive stress in the media tone leads to greater uncertainty and lower returns. Third, these results hold across sectors, although heterogeneity exists. Overall, long periods of high-stress sentiment and uncertainty affect investors more than single-day news.",
+            "keywords": [
+                "COVID-19",
+                "Stock markets",
+                "Media sentiment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a93_3ay_3a2024_3ai_3ac_3as1057521924001108.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The 52-week high, momentum, and investor sentiment",
+            "abstract": "This paper examines the link between the profitability of the 52-week high momentum strategy and investor sentiment. We hypothesize that investors' investment decisions are subject to behavioral biases when the level of investor sentiment is high, resulting in higher profits for the 52-week high momentum following high-sentiment periods. Our empirical results confirm this prediction. In addition, we find that the significant profit of the 52-week high momentum following high-sentiment periods persists up to five years. Further investigations show that the strong persistence of the 52-week high winners (losers) is concentrated in stocks with higher (lower) earnings surprises, especially during periods following high sentiment. Overall, our results provide supportive evidence for the anchoring biases in explaining the 52-week high momentum, especially when the role of investor sentiment is taken into account.",
+            "keywords": [
+                "52-Week high",
+                "Momentum profits",
+                "Investor sentiment",
+                "Earnings announcement"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a57_3ay_3a2018_3ai_3ac_3ap_3a167-183.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock prices and geographic proximity of information: Evidence from the Ebola outbreak",
+            "abstract": "Behavioral finance studies reveal that investor sentiment affects investment decisions and may therefore affect stock pricing. This paper examines whether the geographic proximity of information disseminated by the 2014\u00e2\u0080\u00932016 Ebola outbreak events combined with intense media coverage affected stock prices in the U.S. We find that the Ebola outbreak event effect is the strongest for the stocks of companies with exposure of their operations to the West African countries (WAC) and the U.S. and for the events located in the WAC and the U.S. This result suggests that the information about Ebola outbreak events is more relevant for companies that are geographically closer to both the birthplace of the Ebola outbreak events and the financial markets. The results also show that the effect is more pronounced for small and more volatile stocks, stocks of specific industry, and for the stocks exposed to the intense media coverage. The event effect is also followed by the elevated perceived risk; that is, the implied volatility increases after the Ebola outbreak events.",
+            "keywords": [
+                "Ebola outbreak",
+                "Investor sentiment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a56_3ay_3a2018_3ai_3ac_3ap_3a153-166.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Who exacerbates the extreme swings in the Chinese stock market?",
+            "abstract": "We investigate which investors buy or sell relatively more on the days when the absolute value of market returns or the daily range of market index prices exceeds 5% in the Chinese stock market. Unlike Dennis and Strickland [Journal of Finance 57(5): 1923\u00e2\u0080\u00931949 (2002)] who find that institutional investors are buying (selling) more when there is a large market increase (decline) in U.S. equity markets, we find that institutional investors in China are systematically buying more than the less sophisticated individual investors during extreme market swings, particularly on extreme market-down days. We reveal that institutional investors in China (primarily pension funds), provide a stabilizing influence during market downturn days. Our findings highlight the benefits of having active institutional investors in an extremely volatile emerging market dominated by less sophisticated individual investors.",
+            "keywords": [
+                "Institutional ownership",
+                "Institutional trading",
+                "Abnormal returns",
+                "Extreme market swings"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a55_3ay_3a2018_3ai_3ac_3ap_3a50-59.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment: Does it augment the performance of asset pricing models?",
+            "abstract": "This paper examines whether incorporating various investor sentiment measures in conditional asset pricing models can help to capture the impact of size, value, liquidity, and momentum effects on risk-adjusted returns of U.S. individual stocks. Using monthly data for the period January 1980 to December 2014, we determine the significance of equity fund flow, initial public offering (IPO) first day returns, IPO volume, closed-end fund discount, equity put-call ratio, dividend premium, change in margin debt, and sentiment index, by including them as conditioning information in asset pricing models. Our results show that sentiment augmented asset pricing models significantly capture the impacts of size, value, liquidity, and momentum effects on risk-adjusted returns. In particular, we observe that conditioning beta on equity fund flow, IPO first day return, and put-call ratio capture the predictive power of equity characteristics for all the asset pricing models.",
+            "keywords": [
+                "Investor sentiment",
+                "Asset pricing",
+                "Anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a59_3ay_3a2018_3ai_3ac_3ap_3a290-303.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading European Central Bank rumours on the EUR-USD exchange rate market",
+            "abstract": "This paper investigates whether the release of market-relevant news in the form of rumours on Twitter can explain the excess of market volatility previously attributed to private information, speculation, and noise traders. We define a simple theoretical model to show that the systematic information content of such rumours should result in detectable price effects in macro-markets. We then pinpoint the arrival of 63 rumours of forthcoming ECB actions over a 420-day sample of one-minute spot EUR-USD rates, and show that there is a real-time, intraday increase in market volatility. This largely unexplored information set can potentially account for significant amounts of unexplained volatility in macro-markets and, therefore, identify a possible explanation of one of the most prominent puzzles in price discovery research.",
+            "keywords": [
+                "Informational efficiency",
+                "Price discovery",
+                "Exchange rate volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a61_3ay_3a2019_3ai_3ac_3ap_3a53-70.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock index futures arbitrage: Evidence from a meta-analysis",
+            "abstract": "A number of empirical studies have focused on examining the stock index futures arbitrage. The reported results were not consistent and depended on a number of factors. Our study aims to review the literature on stock index futures arbitrage using meta-regression techniques. In particular, it aims to synthesize estimates on the existence of mispricing and on the relationship between mispricing and time to maturity. We do not find strong evidence on the publication bias in reported estimates on mispricing and estimates on the effect of time to maturity on mispricing. Finally, this study tests whether characteristics of data and publication determine the heterogeneity in the reported estimates on mispricing and time to maturity. The results suggest that these characteristics could explain these differences significantly.",
+            "keywords": [
+                "Cost-of-carry model",
+                "Index arbitrage",
+                "Meta-analysis",
+                "Publication bias"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a61_3ay_3a2019_3ai_3ac_3ap_3a284-294.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investment-related anomalies in Australia: Evidence and explanations",
+            "abstract": "This paper documents the existence of five investment-related anomalies in the Australian market. Cross-sectional stock returns are negatively related to each of asset growth, net operating assets, inventory growth and investment-to-assets, and positively related to asset tangibility. While the investment-return relation is theoretically motivated by q-theory, there is only support for the q-theory explanation in relation to the investment-to-assets effect. Limits to arbitrage appear to be a factor in the asset-tangibility effect, where the mispricing can be traced to the over-pricing of stocks with high levels of goodwill.",
+            "keywords": [
+                "Anomalies",
+                "Investment",
+                "q -Theory",
+                "Mispricing",
+                "Asset growth",
+                "Net operating assets",
+                "Asset tangibility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a61_3ay_3a2019_3ai_3ac_3ap_3a97-109.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "page_info": {
+        "page_number": 252,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Discount Factors and Monetary Policy: Evidence from Dual-Listed Stocks",
+            "abstract": "This paper studies the transmission of monetary policy to the stock market through investors\u00e2\u0080\u0099 discount factors. To isolate this channel, we investigate the effect of US monetary policy surprises on the ratio of prices of the same stock listed simultaneously in Hong Kong and Mainland China, and thereby control for revisions in cash-flow expectations. We find this channel to be strong and asymmetric, with the effect driven by surprise monetary policy interest rate cuts. A 100 basis point surprise cut results in a 30 basis point increase in the ratio of stock prices over 5 days. These results suggest significant slow-moving reductions in stock market risk premia following accommodating monetary policy surprises.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/32499.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Gold-backed cryptocurrencies: A hedging tool against categorical and regional financial stress",
+            "abstract": "This study evaluates the potential of gold-backed cryptocurrencies, such as Tether Gold and PAX Gold, as a hedge and safe haven against global, regional, and categorical financial stresses. Hedge and safe haven properties of gold-backed cryptocurrencies are also compared with those of gold and Bitcoin. For the analyses, dynamic conditional correlation (DCC) and quantile coherency techniques are applied to daily data from February 2020 to March 2023. The results show that Tether Gold and PAX Gold are strong safe havens against the US and equity-valuation-related financial stress but weak safe havens against global financial stress. Tether Gold is a weak safe haven against credit-related financial stress as well. Tether Gold is a strong hedge against US financial stress but a weak hedge against aggregate financial stress of developed economies and that of emerging economies. In our sample, gold-backed cryptocurrencies usually outperform gold and Bitcoin as a hedge and safe haven against financial stresses. The Quantile coherency analysis shows that Tether Gold is a hedge against low to moderate financial stress and a safe haven against extreme financial stresses. These findings have important implications for investors, risk-managers and policy makers.",
+            "keywords": [
+                "Gold-backed crypto",
+                "Gold",
+                "Bitcoin",
+                "Financial stress",
+                "DCC",
+                "Quantile coherency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeglofin/v_3a60_3ay_3a2024_3ai_3ac_3as104402832400036x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Interest rate volatility and risk management: Evidence from CBOE Treasury options",
+            "abstract": "This paper investigates US Treasury market volatility and develops new ways of dealing with the underlying interest rate volatility risk. We adopt an innovative approach which is based on a class of model-free interest rate volatility (VXI) indices we derive from options traded on the CBOE. The empirical analysis indicates substantial interest rate volatility risk for medium-term instruments which declines to the levels of the equity market only as the tenor increases to 30 years. We show that this risk appears to be priced in the market and has a significant time-varying relationship with equity volatility risk. US Treasury market volatility is appealing from an investment diversification perspective since the VXI indices are negatively correlated with the levels of interest rates and of equity market implied volatility indices, respectively. Although VXI indices are affected by macroeconomic and monetary news, they are only partially spanned by information contained in the yield curve. Motivated by our results on the magnitude and the nature of interest rate volatility risk and by the phenomenal recent growth of the equity volatility derivative market, we propose the use of our VXI indices as benchmarks for monitoring, securitizing, managing and trading interest rate volatility risk. As a first step in this direction, we describe a framework of one-factor equilibrium models for pricing VXI futures and options on the basis of empirically favored mean-reverting jump-diffusions.",
+            "keywords": [
+                "Interest rate volatility",
+                "Volatility indices",
+                "Volatility risk premium",
+                "Level effect",
+                "Unspanned stochastic volatility",
+                "Macroeconomic news"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a68_3ay_3a2018_3ai_3ac_3ap_3a190-202.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dynamic network and own effects on abnormal returns: evidence from China\u00e2\u0080\u0099s stock market",
+            "abstract": "Abstract This paper addresses the question of how to model the process of abnormal returns on individual stocks. It postulates a framework, where abnormal returns are generated by a process which features two autoregressive components, one stock-specific and one related to network effects. This process deviates from customary ones in that the parameters are specific to each stock/firm, that the autoregressive process is explicitly modelled instead of using cumulative abnormal returns over a pre-specified window, and that network effects are present. Abandoning either one of those deviations is rejected by data on Chinese stocks in 2018 and 2019, an episode which is significant for an abnormal stock-market returns analysis, as it was characterized by numerous tariff-setting events related to the \u00e2\u0080\u009ctrade war\u00e2\u0080\u009d between the USA and China.",
+            "keywords": [
+                "Cumulative abnormal returns",
+                "Listed firms",
+                "Spillovers",
+                "Spatial and network models",
+                "Panel models"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprempeco/v_3a60_3ay_3a2021_3ai_3a1_3ad_3a10.1007_5fs00181-020-01979-0.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Herding, Information Cascades and Volatility Spillovers in Futures Markets",
+            "abstract": "Economists and financial analysts have begun to recognise the importance of the actions of other agents in the decision-making process. Herding is the deliberate mimicking of the decisions of other agents. Examples of mimicry range from the choice of restaurant, fashion and financial market participants, to academic research. Herding may conjure negative images of irrational agents sheepishly following the actions of others, but such actions can be rational under asymmetric information and uncertainty. This paper uses futures position data in nine different markets of the Commodity Futures Trading Commission (CFTC) to provide a direct test of herding behaviour, namely the extent to which small traders mimic the positions of large speculators. Evidence consistent with herding among small traders is found for the Canadian dollar, British pound, gold, S&P 500 and Nikkei 225 futures. Consistent with survey-based results on technical analysis, the positions are significantly correlated with both current and past market returns. Using various time-varying volatility models to accommodate conditional heteroskedasticity, the empirical results are found to be robust to alternative models and methods of estimation. When a test of causality-in-variance is used to analyse if volatility among small traders spills over into spot markets, it is found that spillovers occur only with Nikkei 225 futures. The policy implications of the findings are also discussed",
+            "keywords": [
+                "Herding",
+                "speculation",
+                "hedging",
+                "noise traders",
+                "currency and commodity markets",
+                "futures and spot markets",
+                "time-varying volatility",
+                "causality-in-variance",
+                "spillovers"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/lifjrgelg/v_3a2_3ay_3a2013_3ap_3a307-329.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is a normal copula the right copula?",
+            "abstract": "We derive computationally simple and intuitive expressions for score tests of Gaussian copulas against Generalised Hyperbolic alternatives, including symmetric and asymmetric Student t, and Hermite polynomial expansions. We decompose our tests into third and fourth moment components, and obtain one-sided Likelihood Ratio analogues, whose asymptotic distribution we provide. We conduct Monte Carlo exercises to assess the finite sample properties of asymptotic and bootstrap versions of our tests. In an empirical application to CRSP stocks, we find that short-term reversals and momentum effects are better captured by non-Gaussian copulas. We estimate their parameters by indirect inference, and devise successful trading strategies.",
+            "keywords": [
+                "Cokurtosis",
+                "Coskewness",
+                "indirect inference",
+                "Kuhn-tucker test",
+                "Momentum strategies",
+                "Non-linear dependence",
+                "Short-term reversals",
+                "Supremum test",
+                "Underidentified parameters"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/10809.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mind Your Language: Market Responses to Central Bank Speeches",
+            "abstract": "Researchers have carefully studied post-meeting central bank communication and have found that it often moves markets, but they have paid less attention to the more frequent central bankers\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 speeches. We create a novel dataset of US Federal Reserve speeches and use supervised multimodal natural language processing methods to identify how monetary policy news affect financial volatility and tail risk through implied changes in forecasts of GDP, inflation, and unemployment. We find that news in central bankers\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 speeches can help explain volatility and tail risk in both equity and bond markets. We also find that markets attend to these signals more closely during abnormal GDP and inflation regimes. Our results challenge the conventional view that central bank communication primarily resolves uncertainty.",
+            "keywords": [
+                "Central bank communication",
+                "Multimodal Machine Learning",
+                "Natural language processing",
+                "Speech analysis",
+                "High frequency data",
+                "Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/18191.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time and frequency domain connectedness and spillover among categorical and regional financial stress, gold and bitcoin market",
+            "abstract": "Fragility of the financial system has been a matter of global concern. This study examines connectedness and spillovers among financial stress index (FSI) categories, regional FSI, gold, and Bitcoin. We employed time-varying and frequency domain approach of Chatziantoniou et al. (2021) using weekly data. We confirmed the interdependencies and connectedness of gold and Bitcoin with global categorical and regional financial stress. We find that credit FSI category is the largest transmitters in every model, implying that credit risk is an important driver of financial stress. United States is the largest stress contributor within the regional category. Additionally, connectedness among FSI categories, regional FSI, gold and Bitcoin has intensified during COVID-19 pandemic. In the short run, while gold and Bitcoin are net shocks receivers of categorical and regional financial stress, they are net shocks transmitters in the long run. Hence, gold and Bitcoin lost their safe-haven properties in the short-run but retained their values in the long-run. The findings expand understanding on the role of gold and Bitcoin for investors seeking protection from global financial stress.",
+            "keywords": [
+                "Financial stress index",
+                "Gold",
+                "Bitcoin",
+                "Spillover",
+                "COVID-19"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a85_3ay_3a2023_3ai_3apa_3as030142072300497x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are there Monday effects in stock returns: a stochastic dominance approach",
+            "abstract": "We provide a test of the Monday effect in daily stock index returns. Unlike previous studies we define the Monday effect based on the stochastic dominance criterion. This is a stronger criterion than those based on comparing means used in previous work and has a well defined economic meaning. We apply our test to a number of stock indexes including large caps and small caps as well as UK and Japanese indexes. We find strong evidence of a Monday effect in many cases under this stronger criterion. The effect has reversed or weakened in the Dow Jones and S&P 500 indexes post 1987, but is still strong in more broadly based indexes like the NASDAQ, the Russell 2000 and the CRSP.",
+            "keywords": [
+                "efficient markets",
+                "stock market anomalies",
+                "subsampling"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ehllserod/24520.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Which Factors?",
+            "abstract": "Many recently proposed, seemingly different factor models are closely related. In spanning tests, the q-factor model largely subsumes the Fama-French (2015, 2018) 5-and 6-factor models, and the q\u00e2\u0081\u00b5 model captures the Stambaugh-Yuan (2017) model. The Stambaugh-Yuan factors are sensitive to their construction, and once replicated via the standard approach, are close to the q-factors, with correlations of 0.8 and 0.84. Finally, it seems difficult to motivate the Fama-French 5-factor model from valuation theory, which predicts a positive relation between the expected investment and the expected return.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/20682.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Divided governments and futures prices",
+            "abstract": "This paper investigates the effect of divided governments on asset prices. For identification, we use changes in the implied probability of a divided government while votes are being counted. Using high frequency data from the betting market and US overnight futures market, we estimate a 1.4% decrease in the S&P 500 futures in the election event of a divided government. Results are similar for the 2010 UK election. Further analysis shows that divided government affects expected stock returns through the mechanism of policy uncertainty.",
+            "keywords": [
+                "Divided government",
+                "Elections",
+                "Expected returns",
+                "Policy uncertainty",
+                "Prediction markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeconom/v_3a187_3ay_3a2015_3ai_3a2_3ap_3a622-633.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sentiment trading with large language models",
+            "abstract": "We analyse the performance of the large language models (LLMs) OPT, BERT, and FinBERT, alongside the traditional Loughran-McDonald dictionary, in the sentiment analysis of 965,375 U.S. financial news articles from 2010 to 2023. Our findings reveal that the GPT-3-based OPT model significantly outperforms the others, predicting stock market returns with an accuracy of 74.4%. A long-short strategy based on OPT, accounting for 10 basis points (bps) in transaction costs, yields an exceptional Sharpe ratio of 3.05. From August 2021 to July 2023, this strategy produces an impressive 355% gain, outperforming other strategies and traditional market portfolios. This underscores the transformative potential of LLMs in financial market prediction and portfolio management and the necessity of employing sophisticated language models to develop effective investment strategies based on news sentiment.",
+            "keywords": [
+                "artificial intelligence investment strategies",
+                "generative pre-trained transformer (GPT)",
+                "large language models",
+                "machine learning in stock return prediction",
+                "natural language processing (NLP)"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ehllserod/122592.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

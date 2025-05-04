@@ -1,0 +1,146 @@
+{
+    "page_info": {
+        "page_number": 151,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Forecasting stock market volatility and the informational efficiency of the DAX-index options market",
+            "abstract": "Alternative strategies for predicting stock market volatility are examined. In out-of-sample forecasting experiments implied-volatility information, derived from contemporaneously observed option prices or history-based volatility predictors, such as GARCH models, are investigated, to determine if they are more appropriate for predicting future return volatility. Employing German DAX-index return data it is found that past returns do not contain useful information beyond the volatility expectations already reflected in option prices. This supports the efficient market hypothesis for the DAX-index options market.",
+            "keywords": [
+                "market efficiency",
+                "implied volatility",
+                "GARCH",
+                "combined forecasting"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/200204.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are options on index futures profitable for risk averse investors? Empirical evidence",
+            "abstract": "American call and put options on the S&P 500 index futures that violate the stochastic dominance bounds of Constantinides and Perrakis (2007) over 1983-2006 are identified as potentially profitable investment opportunities. Call bid prices more frequently violate their upper bound than put bid prices do, while evidence of underpriced calls and puts over this period is scant. In out-of-sample tests, the inclusion of short positions in such overpriced calls, puts, and, particularly, straddles in the market portfolio is shown to increase the expected utility of any risk averse investor and also increase the Sharpe ratio, net of transaction costs and bid-ask spreads. The results are strongly supportive of mispricing.",
+            "keywords": [
+                "option mispricing",
+                "futures options",
+                "derivatives pricing",
+                "stochastic dominance",
+                "transaction costs",
+                "market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcofedp/0808.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Tell-tale tails: A data driven approach to estimate unique market information shares",
+            "abstract": "The trading of securities on multiple markets raises the question of each market's share in the discovery of the informationally efficient price. We exploit salient distributional features of multivariate financial price processes to uniquely determine these contributions. Thereby we resolve the main drawback of the widely used Hasbrouck (1995) methodology which merely delivers upper and lower bounds of a market's information share. When these bounds diverge, as is the case in many applications, informational leadership becomes blurred. We show how fat tails and tail dependence of price changes, which emerge as a result of differences in market design and liquidity, can be exploited to estimate unique information shares. The empirical application of the new methodology emphasizes the leading role of the credit derivatives market compared to the corporate bond market in pricing credit risk during the pre-crisis period.",
+            "keywords": [
+                "price discovery",
+                "information share",
+                "fat tails",
+                "tail dependence",
+                "liquidity",
+                "credit risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/1006.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "CEO-speeches and stock returns",
+            "abstract": "We analyze the market reaction to the sentiment of the CEO speech at the Annual General Meeting (AGM). As the AGM is typically preceded by several information disclosures, the CEO speech may be expected to contribute only marginally to investors' decision-making. Surprisingly, however, we observe from the transcripts of 338 CEO speeches of German corporates between 2008 and 2016 that their sentiment is significantly related to abnormal stock returns and trading volumes following the AGM. Using a novel business-specific German dictionary based on Loughran and McDonald (2011), we find a negative association of the post-AGM returns with the speeches - negativity and a positive association with the speeches - relative positivity (i.e. positivity relative to negativity). Relative positivity moreover corresponds with a lower trading volume in a short time window surrounding the AGM. Investors hence seem to perceive the sentiment of CEO speeches at AGMs as a valuable indicator of future firm performance.",
+            "keywords": [
+                "Textual Sentiment",
+                "CEO Speeches",
+                "Market Efficiency",
+                "Textual Analysis",
+                "Annual General Meeting"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/583.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The winner's curse on art markets",
+            "abstract": "We investigate the effect of overreaction in the fine art market. Using a unique sample of auction prices of modern prints, we define an overvalued (undervalued) print as a print that was bought for a price above (below) its high (low) auction pricing estimate. Based on the overreaction hypothesis, we predict that overvalued (undervalued) prints generate a negative (positive) excess return at a subsequent sale. Our empirical findings confirm our expectations. We report that prints that were bought for a price 10 percent above (below) its high (low) pricing estimate generate a positive (negative) excess return of 12 percent (17 percent) after controlling for the general price movement on the prints market. The price correction for overvalued (undervalued) prints is more pronounced during recessions (expansions).",
+            "keywords": [
+                "overreaction",
+                "winner's curse",
+                "pricing estimates",
+                "repeat sale",
+                "auction",
+                "art market"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/564.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Fundamental information in technical trading strategies",
+            "abstract": "Technical trading strategies assume that past changes in prices help predict future changes. This makes sense if the past price trend reflects fundamental information that has not yet been fully incorporated in the current price. However, if the past price trend only reflects temporary pricing pressures, the technical trading strategy is doomed to fail. We demonstrate that this failure can be avoided by using financial statements as additional sources of information. We implement a trading strategy that invests in stocks with high past returns and high operating cash flows. This combination strategy yields a 3-factor alpha of 15% per year, which is much higher than that of the pure momentum strategy that invests in stocks with high past returns without considering operating cash flows. The combination strategy outperforms the momentum strategy in almost all years. The outperformance can be traced back to a higher probability of picking outperforming stocks. These are stocks that yield high future cash flows and hardly ever delist due to poor performance. The combination strategy is easily implemented: the information used is publicly available, the stocks chosen are liquid, and even high transaction costs do not erode the outperformance.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/0812.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "ANALYSIS OF THE AVERAGE SHARE PRICE OF COMPANIES LISTED ON BSE DEPENDING ON THE PROFIT AND EXCHANGE SEGMENT. DIFFERENT TECHNIQUES OF GENERAL LEAST SQUARE AND COMPUTING COEFFICIENT COVARIANCE FOR MEAN PRICE EQUATION ESTIMATION",
+            "abstract": "The main purpose in our scientific approach is the analysis of the evolution of the share price of Romanian companies listed on the Bucharest Stock Exchange in 2007-2013, and how this reacts to the registered profit. The forecast evaluation details for adjusted sample 2008- 2013 indicated that the Bias and Variance Proportions are small, which implies that the error of prediction is concentrated in covariance proportion and shows that the forecast is quite \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093acceptable\u00c3\u00a2\u00e2\u0082\u00ac . The Theil Inequality Coefficient gives an acceptable indicator in measuring the \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093fit\u00c3\u00a2\u00e2\u0082\u00ac of the model than the Mean Absolute Percentage Error. Finally the comparison between real data and the forecast outlined the fact that the PriceF reacts abnormally. Therefore analysis shows that if Profit increases, the stock price falls (i.e. Criterion 4 - PriceF&Profit) in almost 48% cases, compared with the real situation of about 24% cases (i.e. Criterion 4 - Price&Profit). In conclusion, even if we managed to translate the low prices of financial-economic crisis period into \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093normal capital market time\u00c3\u00a2\u00e2\u0082\u00ac , using the model, one may notice that in 2009-2013 the cases number of shares that recorded higher prices grow up to 113 instead of 77 (i.e. Appendix C). Yet if we look at the evolution of Price&Profit / PriceF&Profit tandem we note that the profit recorded by the company is not a strength factor for the dynamic average share price of the Romanian listed companies.",
+            "keywords": [
+                "share price",
+                "profit",
+                "GLS Weights",
+                "robust coefficient covariances",
+                "ANCOVA"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/alujournl/v_3a1_3ay_3a2015_3ai_3a17_3ap_3a7.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investment Recommendations Made by Financial Analysts and Their Impact upon the Price Evolution of the Shares Listed on the Bucharest Stock Exchange",
+            "abstract": "The investment decisions made by investors on the capital market are based, among others, on the recommendations made by financial analysts. The extent to which investors take into consideration the investment recommendations made by the analysts differs mainly due to the degree of the capital market development, the role it plays in financial intermediation process and the informational efficiency of the market. Based on the data collected on the Bloomberg platform, we analyzed to what extent the stock exchange evolution trend (increase or decrease) overlaps the trend forecasted by the analysts. Thus, we test whether the increase/decrease estimated by the analysts matched the stock exchange evolution in the following quarter of the recommendation announcement, without highlighting the level of the recorded increase/decrease. Also, we compared the estimated potential upside/downside against the percentage change of the average price in the quarter following the recommendation announcement compared with the price recorded on the day of recommendation.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/vajjournl/v_3a6_3ay_3a2011_3ai_3a2_3ap_3a100-123.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Idiosyncratic risk and mutual fund performance",
+            "abstract": "Abstract In this paper we present new evidence on the relation between idiosyncratic risk and mutual fund performance using asset pricing models. We use a unique data set containing monthly returns of 949 UK equity mutual funds over a 28-year period to measure fund performance. We find that idiosyncratic risk cannot be eliminated in UK mutual funds. We show that idiosyncratic risk is negatively related to returns for all funds investment style categories. We present evidence that the inclusion of idiosyncratic risk significantly increases the number of funds showing statistically significant and positive selectivity skills (alpha). Furthermore, all equity mutual funds turn to show significant volatility timing performance when idiosyncratic risk is considered. Finally, we find that idiosyncratic risk can forecast fund returns after controlling for macroeconomic variables.",
+            "keywords": [
+                "Mutual fund performance",
+                "Idiosyncratic risk",
+                "Investment style",
+                "Market timing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprannopr/v_3a281_3ay_3a2019_3ai_3a1_3ad_3a10.1007_5fs10479-018-2794-2.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The informational role of thin options markets: Empirical evidence from the Spanish case",
+            "abstract": "This study investigates the informational role of thin options markets, specifically the Spanish options market. Firstly, we examine the effect of options markets by analysing stock market reaction to earnings news, conditional on the availability of options markets. Secondly, we examine options trading activity before the release of earnings news (including the announcement period). The results show that the impact on prices before the earnings release is significantly bigger when options trading is available. Moreover, the dissemination of earnings news is associated with significant unusual activity in the options market due to informed trading, especially when the earnings surprise is highly good.",
+            "keywords": [
+                "options market",
+                "thin market",
+                "informed trading",
+                "price discovery process",
+                "earnings announcement"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/udcesteco/v_3a43_3ay_3a2016_3ai_3a2_3ap_3a233-263.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Fundamental Analysis of Financial Instruments in the Context of Diverse Investing Styles",
+            "abstract": "The present work establishes the relevance of certain contextual factors such as different investing styles to the conclusions and recommendations of the fundamental analysis report. From the category of contextual factors, aspects such as the financial instrument, its price, the moment and time span of the analysis and the investor's person have been dwelled upon. From the category of investing styles, the styles based on Value, Growth and Alpha have been reviewed, as well as their conjunction areas with the object of fundamental research and with the selection of the most appropriate working tools for the economy of the analysis report.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/vajjournl/v_3a4_3ay_3a2009_3ai_3a2_3ap_3a108-129.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Insider Trading at Zagreb Stock Exchange",
+            "abstract": "This paper is the first paper that systematically observes and describes all publicly available data on insider trading on the Zagreb Stock Exchange during the period of June 2010 - June 2021. To accomplish this objective both parametric and non-parametric event-study tests are conducted using the data collected from 827 notifications published on the Zagreb Stock Exchange website. After filtering the notifications for overlapping events, there were 48 insiders\u00e2\u0080\u0099 purchase events and 50 insiders\u00e2\u0080\u0099 sales events. The results indicate that insiders can earn abnormal returns on share purchases based on their insider knowledge and that the information on insider purchases can bring additional information to outside investors. However, in the case of notifications of share sales by insiders, Cumulative Average Abnormal Returns (CAARs) after the event are not statistically significant and are just slightly positive, thus bringing no abnormal returns for insiders and not conveying information to the public. This suggests that the market may perceive sales having a lower informational content, as motivation for sales may be other needs, such as liquidity.",
+            "keywords": [
+                "event study",
+                "abnormal return",
+                "insider trading",
+                "Zagreb Stock Exchange"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/vrszirebs/v_3a25_3ay_3a2022_3ai_3a1_3ap_3a79-94_3an_3a1005.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

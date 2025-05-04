@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 66,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Seasonal Anomalies in Istanbul Stock Exchange",
+            "abstract": "According to efficient market hypothesis, investors perceive all available information in the same manner and it is not possible that any investor obtain more profit than others. Various anomalies in stock markets cause the failure of the efficient market hypothesis. Anomalies mean that the returns of the stock market are different on each the time period. The existence of anomalies in stock markets is important for investors. In this study, it is examined to whether there are seasonal anomalies in Istanbul Stock Exchange. For this purpose, it is tested intra-day effect, day of the week effect, the January effect, intra-month effect, turn of the month effect, turn of the year effect and the holiday effect for the period of 2003-2012, using least squares method. According to results, there is an evidence for intra-day effect and day of the week effect in Istanbul Stock Exchange for this period.",
+            "keywords": [
+                "Seasonal anomalies",
+                "Stock market",
+                "Market efficiency hypothesis",
+                "Least squares",
+                "Dummy variable regression."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risbuecrj/0126.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Measuring the Impact of the US Presidential Elections on the Stock Market using Event Study Methodology",
+            "abstract": "The paper analyzes the sign and statistical significance of abnormal return generated on the New York Stock Exchange as a consequence of two US presidential elections cycles in November 2016 and November 2020. The analysis involved a total of 283 companies listed on the NYSE, in five business sector. The analysis relied on standard event study methodology. The main findings showed that companies in the military, financial and energy sectors have consistent reactions: positive when the Republican candidate wins the elections, and negative when the Democratic candidate wins. Electronic industry companies did not show consistent results: after the 2016 elections, there was no statistically significant abnormal return, while after the 2020 elections they recorded statistically significant positive abnormal return. As for companies in the medical sector, therewas no abnormal return after any election cycle.",
+            "keywords": [
+                "event study",
+                "abnormal return",
+                "market return",
+                "presidential elections"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2023_3ai_3a2_3ap_3a92-103.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor Sentiment, Extrapolation and Asset Pricing",
+            "abstract": "We develop an asset pricing model with investor sentiment and extrapolative behavior by assuming that there are many investors in the market who form their stock demand by weighting the sentiment signal, the extrapolative signal and the value signal. Our model predicts that both investor sentiment and extrapolation impose positive effects on the stock price deviation from fundamental value, and the direction and magnitude of stock price deviation depend on the relative strength of the sentiment signal and the extrapolation signal. Futhermore, we find that the weights of the sentiment signal and the extrapolative signal are positively related to the short-term correlation of stock returns, while the lagged weight of sentiment signal negatively effects the short-term correlation of stock returns. Moreover, the model also predicts that the sentiment signal and extrapolative signal weights are positively correlated with stock volatility, and extrapolative behavior exacerbates the sentiment-driven stock volatility due to extrapolating endogenous stock returns. Finally, we find empirical evidence consistent with the model\u00e2\u0080\u0099s predictions.",
+            "keywords": [
+                "investor sentiment",
+                "extrapolation",
+                "price deviation",
+                "return correlation",
+                "excess volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2022_3ai_3a4_3ap_3a182-205.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impact of Changes in Foreign Investors Ownership on Return, Volatility and Liquidity: A Panel Data Analysis for BIST REIT Market",
+            "abstract": "This study aims to test the validity of base broadening hypothesis for the impact of changes in foreign investors\u00e2\u0080\u0099 ownership on the return, volatility and liquidity of the shares of the real estate investment trusts (REITs) traded in Borsa Istanbul between 2010 and 2018 by panel regression analysis. Results show that a statistically significant relation exists between the sudden changes in the ownership of the foreign investors and the return, liquidity and volatility of the shares for a short term (up to 3 months). So, it has been seen that base broadening hypothesis is not valid for a long period of time. Even if it can be claimed that price pressure hypothesis could prevail looking at the statistically significant relationship for a short time, it has been considered that this case emerged thanks to the domestic investors paying more court to the market with trading more shares when they were informed about the changes in foreign investors\u00e2\u0080\u0099 ownership depending on its nature as information content, not as a result of the traded shares actually by the foreign investors.",
+            "keywords": [
+                "Foreign Investors",
+                "Base Broadening",
+                "Price Pressure",
+                "REIT",
+                "BIST"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risbuecrj/0479.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Institutional Investor Sentiment and Market Returns: Evidence from the Taiwan Futures Market",
+            "abstract": "This study explores the dynamic relationship between the sentiment of institutional investors and market returns in the futures market. Using data from the Taiwan futures market, the empirical results show that the dynamic relationship between the sentiment of foreign institutional investors and the futures returns is much stronger than that of the sentiment of domestic institutional investors and the futures returns. Our empirical results also display that the sentiment of foreign institutional investors Granger-causes the sentiment of domestic institutional investors, but not vice versa. Finally, the sentiment of foreign institutional investors has a larger effect on subsequent market returns and market states than that of the sentiment of domestic institutional investors. Overall, our empirical results suggest that the relationship among the institutional investor sentiment, market returns, as well as market conditions in the Taiwan futures market is dominated by the sentiment of foreign institutional investors.",
+            "keywords": [
+                "Institutional Investor Sentiment",
+                "Foreign Investors",
+                "Domestic Investors",
+                "Futures Returns",
+                "Market States."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2014_3ai_3a4_3ap_3a140-167.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market timing with candlestick technical analysis",
+            "abstract": "We investigate the profitability of the quantitative market timing technique of candlestick technical analysis in the U.S. equity market. Despite being used for centuries in Japan and now having a wide following amongst market practitioners globally, there is little research documenting its profitability or otherwise. We find that these strategies are not generally profitable when applied to large U.S. stocks. Basing trading decisions solely on these techniques does not seem sensible but we cannot rule out the possibility that they compliment some other market timing techniques.",
+            "keywords": [
+                "Timing",
+                "Candlesticks",
+                "Technical Analysis",
+                "Quantitative Investment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risjofitr/0834.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Rendimiento ex-dividendo como indicador de eficiencia en un mercado emergente:caso colombiano 1999-2007",
+            "abstract": "Se eval\u00c3\u00baa el rendimiento ex-dividendo en acciones colombianas entre 1999 y 2007, periodo que incluye la conformaci\u00c3\u00b3n en julio de 2001 de la Bolsa de Valores de Colombia, resultado de la integraci\u00c3\u00b3n de tres bolsas previamente existentes. Contrario a la hip\u00c3\u00b3tesis de eficiencia de mercado, se encontraron rendimientos exdividendo positivos y estad\u00c3\u00adsticamente significativos, similares a los evidenciados en diversos mercados internacionales. Se comprueba que los rendimientos ex-dividendo no son explicados en su totalidad por costos de transacci\u00c3\u00b3n ni por efectos impositivos. Una estrategia limitada de captura de dividendos, substrayendo dichos costos, habr\u00c3\u00ada entregado rendimientos positivos y econ\u00c3\u00b3micamente importantes entre 2006 y 2007 en las acciones m\u00c3\u00a1s liquidas del mercado. Sin embargo, estos rendimientos tienden a disminuir en el per\u00c3\u00adodo de estudio, consistentes con un avance hacia una mayor eficiencia en el mercado accionario colombiano despu\u00c3\u00a9s de la integraci\u00c3\u00b3n. Este estudio pone de relieve la importancia de considerar las fricciones en estudios acad\u00c3\u00a9micos de eficiencia y de evaluaci\u00c3\u00b3n de estrategias especulativas.",
+            "keywords": [
+                "Mercados financieros",
+                "Eficiencia de mercado",
+                "Rendimiento ex-dividendo Costos de transacci\u00c3\u00b3n Estrategias especulativas",
+                "Efectos impositivos",
+                "Microestructura de mercados"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risjoefas/0049.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "THE IMPACT OF FINANCIAL NEWS AND PRESS FREEDOM ON ABNORMAL RETURNS AROUND EARNINGS ANNOUNCEMENT PERIODS IN THE SHANGHAI, SHENZHEN AND TAIWAN STOCK MARKETS",
+            "abstract": "We set out in this study to examine the impact of news sentiment and press freedom on cumulative abnormal returns (CARs) around earnings announcement periods; our focus is on the stock markets of Greater China, comprising of the Shanghai, Shenzhen and Taiwan stock markets. The news sentiment ratio is calculated using content analysis under the semantic orientation approach, with our empirical results revealing that news reports released prior to the earnings announcements made by firms have significant negative impacts on the CARs of the stocks of such firms following their announcements. We also find that press freedom may reduce the explanatory power of news reports on positive abnormal returns. The greater (lesser) the level of press freedom in a particular market, then the weaker (stronger) the level of information asymmetry, which can lead to a reduction (increase) in the risk premium, ultimately resulting in lower (higher) CARs.",
+            "keywords": [
+                "news sentiment",
+                "press freedom",
+                "Greater China",
+                "abnormal returns",
+                "earnings announcements"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2015_3ai_3a3_3ap_3a39-59.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Tools and Techniques for Economic Decision Analysis",
+            "abstract": "This paper is focused on building investment portfolios by using the Markowitz Portfo-lio Theory (MPT). Derivation based on the Capital Asset Pricing Model (CAPM) is used to calculate the weights of individual securities in portfolios. The calculated portfolios include a portfolio copying the benchmark made using the CAPM model, portfolio with low and high beta coefficients, and a random portfolio. Only stocks were selected for the examined sample from all the asset classes. Stocks in each portfolio are put together according to predefined criteria. All stocks were selected from Dow Jones Industrial Average (DJIA) index which serves as a benchmark, too. Portfolios were compared based on their risk and return profiles. The results of this work will provide general recommendations on the optimal approach to choose securities for an investor's portfolio.",
+            "keywords": [
+                "Markowitz Portfolio Theory",
+                "Modern Portfolio Theory",
+                "Capital Asset Pricing Model",
+                "CAPM",
+                "diversification",
+                "stock portfolio"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/77516.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is the Mongolian Equity Market Efficient? Empirical Evidence from Tests of Weak-Form Efficiency",
+            "abstract": "This paper investigates the empirical validity of the weak-form of the Efficient Market Hypothesis in the Mongolian equity market over Jan 1999 to Jul 2012. We examine the characteristics of the market by testing the fit of returns to a normal distribution using the Jarque-Bera Test, and find strong evidence against normality. The data also exhibits positive skewness and a high level of excess kurtosis. Next, we test for the presence of autocorrelation using the Ljung-Box Q Test and the non-parametric Runs Test, and find strong evidence against the null hypothesis of no autocorrelation for both of these tests. Finally, we test the associated Random Walk Hypothesis using the Augmented Dickey- Fuller Test and the Chow-Denning Multiple Variance Ratio (MVR) Test. We reject the null hypothesis of the presence of a unit root for the Augmented Dickey-Fuller Test. In addition, we find evidence against the Random Walk Hypothesis even after adjusting for the possible presence of heteroscedasticity in the MVR Test. Since all the tests present results consistent with weak-form inefficiency, we reject the weak-form of the Efficient Market Hypothesis for the Mongolian equity market.",
+            "keywords": [
+                "Weak-form efficient market hypothesis",
+                "Mongolian equity market",
+                "Random walk hypothesis"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/41834.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Recent Evidence on International Stock Markets Overreaction",
+            "abstract": "Investors are told to be overreacting when their sentiment drives the price of a certain security up (down) enough to make it the biggest winners (loser), in most cases considering this overreaction period as long as 3 or 5 years. This paper studies the overreaction hypothesis in market indices. Using end of month data from December 1970 to December 2018 from 49 Morgan Stanley Capital International Indices we studied the overreaction hypothesis on Market Indices for 3- and 5-years\u00e2\u0080\u0099 investment periods. Instead of Cumulative Average Returns the returns were computed as Holding Period Returns to avoid the upward bias. We found strong return reversals for 3-year investment periods, which were statistically significant at a 5% significant level. However, the returns might be weaker depending on the time period we consider. When implemented only in developed markets there is still evidence which supports the overreaction hypothesis, although the excess returns are economically weaker. Evidence for the overreaction hypothesis was also found when 5-year investment periods were considered. Not only did losers outperform winners, but they were also less risky than winners. Regardless of the market, investment period and/or time-period considered, losers\u00e2\u0080\u0099 portfolio beta was always smaller than the winners\u00e2\u0080\u0099 portfolio beta. Notwithstanding these results, the overreaction strategy is sensitive to the time periods considered which highlights the possibility that the overreaction strategy success it\u00e2\u0080\u0099s not time stationary.",
+            "keywords": [
+                "Market indices",
+                "overreaction hypothesis",
+                "winner-losers\u00e2\u0080\u0099 reversals"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/97983.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "IPO Price, Heterogeneous Priors and Gradual Information Flows",
+            "abstract": "This paper attempts to develop a theoretical framework that builds on heterogeneous beliefs to explain the financial anomalies related to IPO stocks. In particular, we develop a dynamic analysis framework to study the valuation of IPO price and the short-term probability of falling below IPO price based on perspectives of investors' heterogeneous priors and gradual information flow. Our study shows that the valuation of IPO price increases as the degree of heterogeneity due to investors' heterogeneous priors increases. Moreover, the short-term probability of falling below IPO price increases as the degree of investors' cognitive biases caused by gradual information flow increases.",
+            "keywords": [
+                "heterogeneous priors",
+                "gradual information flow",
+                "IPO price",
+                "probability of falling below IPO price"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/prgjnlpep/v_3a2017_3ay_3a2017_3ai_3a2_3aid_3a603_3ap_3a188-197.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

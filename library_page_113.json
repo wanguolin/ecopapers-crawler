@@ -1,0 +1,168 @@
+{
+    "page_info": {
+        "page_number": 113,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "On the conditional performance of the IVOL anomaly",
+            "abstract": "This paper proposes that the well-known idiosyncratic volatility (IVOL) puzzle is partly due to an overconditioning bias in IVOL estimates when there exists nonlinearity between stock and factor returns. We analytically derive the overconditioning bias when beta and IVOL are contemporaneously estimated using daily returns. To mitigate the estimation bias, we employ a conditional factor model, as in Avramov and Chordia (2006), to estimate systematic risk exposure and IVOL. Our empirical results show that the conditional IVOL estimates do not imply a negative return premium when firm fundamentals are used as conditioning variables, and the associated conditional factor-adjusted alpha is much smaller than the original IVOL puzzle. Our findings are robust in the U.S. and Chinese stock markets.",
+            "keywords": [
+                "Idiosyncratic volatility",
+                "Conditional factor models",
+                "Overconditioning bias",
+                "Firm characteristics"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a89_3ay_3a2024_3ai_3apa_3ap_3a337-350.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment and stock returns: New evidence from Chinese carbon-neutral stock markets based on multi-source data",
+            "abstract": "Combining internet text and stock trading data, we construct two investor sentiment proxies for 78 carbon-neutral stocks in Chinese stock markets based on the FinBERT model and principal component analysis. We then examine the effects of the two investor sentiment indices on carbon-neutral stock returns using dynamic panel models. We also investigate the mediating role of liquidity on the effects of investor sentiment. Our results reveal that both trading and internet sentiment negatively affect stock returns through the mediating effect of liquidity. This finding holds after robustness checks for dividing the sample into pre and post-epidemics. However, due to the effects of COVID-19, carbon-neutral stock returns are found to be more susceptible to investor sentiment.",
+            "keywords": [
+                "FinBERT",
+                "Internet sentiment",
+                "Trading sentiment",
+                "Carbon-neutral stock",
+                "Mediation effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a92_3ay_3a2024_3ai_3ac_3ap_3a438-450.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Volume, volatility and information linkages in the stock and option markets",
+            "abstract": "This paper examines the relationship between option trading activity and stock market volatility. Although the option market is uniquely suited for trading on volatility information, there is little analysis on how trading activity in this market is linked to stock price volatility. The bulk of the discussion tends to focus on whether trading activity in the stock market is informative about stock volatility. To analyze the information in option trading activity for stock market volatility, a sample of 15 stocks with the highest option trading volume is selected. For each stock, it is noted that the trading activities in the put and call option markets have significant explanatory power for stock market volatility. In addition, the results indicate that the call option trading activity has a stronger impact on stock volatility compared with that of the put options. Our results demonstrate that information and sentiment in the option market is useful for the estimation of stock market volatility. Also, the significance of the effects of option trading activity on stock price volatility is observed to be comparable to that of stock market trading activity. Furthermore, the persistence and asymmetric effects in the volatility of some stocks tend to disappear once option trading activity is taken into account.",
+            "keywords": [
+                "Information linkage",
+                "Stock market volatility",
+                "Option trading volume",
+                "Asymmetric effects"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeerevfin/v_3a21_3ay_3a2012_3ai_3a4_3ap_3a168-174.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock return predictability in emerging markets: Does the choice of predictors and models matter across countries?",
+            "abstract": "This study aims to examine return predictability in 24 emerging markets disaggregated in different regions. We propose four specifications, including a benchmark model. Then, an augmented model appropriate for each country, including a large set of potential factors, is evaluated. Furthermore, a dynamic multifactor model is investigated for all countries. Finally, we relax the symmetric hypothesis in asset return predictability based on a non-parametric non-linear approach: the projection pursuit regression model. Our study reveals three main findings. First, we reject all previous findings supporting a standard model of asset return predictability that is valuable for all countries, as we show that each country has specific domestic factors (both macroeconomic and financial) useful to predict future returns. Second, our empirical framework shows that asset return predictability might be robustly modelled based on non-linear specification based on the projection pursuit regression model. Our findings\u00e2\u0080\u0099 explanatory power of out-of-sample estimations is economically relevant. Our results are useful for investors and policy-makers for portfolio diversification and regulation policies.",
+            "keywords": [
+                "Predictability modelling",
+                "Nonlinear",
+                "Flexible regression model",
+                "Projection pursuit regression",
+                "Static model",
+                "Dynamic model",
+                "Forecasting"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a42_3ay_3a2017_3ai_3ac_3ap_3a39-60.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "New evidence on determinants of price momentum in the Japanese stock market",
+            "abstract": "We investigate the cross section momentum effect in the Japanese stock market over the period January 1997 to December 2013, sub-periods before August 2008 and during the crisis September 2008\u00e2\u0080\u00932009. From previous studies, it follows that the Japanese market is the exception to the findings on developed capital markets (momentum effect does not occur or is weak). Our study highlights the limitation of standard notions; we document the conditional nature of momentum and identify the characteristics of companies and their stocks and market states, allowing investors to earn positive momentum profit in the Japanese market (the statistically significant positive monthly return of zero cost portfolios is not less than 1%). It is shown that investors should take into account the seasonal pattern (for the Japanese stocks this revealed two months when we do not recommend taking investment activity) to increase portfolio profits. We explain the results from the specifics of the Japanese financial and governance systems, the ownership structure of listed Japanese firms and socio-cultural factors.",
+            "keywords": [
+                "Cross section momentum effect",
+                "Long-short portfolios",
+                "Seasonal effect",
+                "Size and value effects",
+                "Japanese stock market",
+                "Japanese financial system",
+                "Ownership structure"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a34_3ay_3a2015_3ai_3ac_3ap_3a84-109.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is there momentum in equity anomalies? Evidence from the Polish emerging market",
+            "abstract": "Emerging markets are thought to be a cornucopia of equity anomalies. Yet while markets mature, by learning investors raise the level of market efficiency diminishing the profitability of the existing patterns. Taking the Polish stock market as an example, we offer a viable solution to this tendency \u00e2\u0080\u0093 an active asset allocation strategy based on the momentum effect. First, we identify and replicate 100 anomalies in the cross-section of returns. Then, having documented the momentum in their performance, we translate it into a profitable strategy. Going long (short) on the anomalies which performed best (worst) in the past produces significant raw and risk-adjusted returns outperforming a naive benchmark of equal weights of all profitable anomalies. The results are robust to various considerations.",
+            "keywords": [
+                "Momentum",
+                "Stock market anomalies",
+                "Performance persistence",
+                "Investor learning",
+                "Emerging markets",
+                "Poland",
+                "Market efficiency",
+                "Return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a38_3ay_3a2016_3ai_3ac_3ap_3a546-564.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "IPO first-day returns: Skewness preference, investor sentiment and uncertainty underlying factors",
+            "abstract": "In this paper, we investigate the initial public offering (IPO) first-day returns. Our focus is to examine the irrational component of the agent behavior towards IPO lotteries. Based on 234 French IPOs performed between 2002 and 2012, we find that IPOs with high initial returns have higher idiosyncratic skewness, turnover and momentum. This finding provides empirical evidence for investors' preference for stocks with lottery-like features and investor sentiment. In addition, we show that the skewness preference and the investor sentiment effect are stronger during periods of favorable market conditions. Our results are robust to the integration of uncertainty underlying factors.",
+            "keywords": [
+                "IPO first-day returns",
+                "Idiosyncratic skewness",
+                "Investor sentiment",
+                "Uncertainty underlying factors"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeerevfin/v_3a23_3ay_3a2014_3ai_3a3_3ap_3a148-154.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A detrended cross correlation analysis for stock markets of the United States, Japan, and the Europe",
+            "abstract": "This paper investigates the long range cross covariances among the stock price returns for the United States, Japan, and the Europe. Empirical results suggest that the stock price returns of these regions have cross covariances of slow moving fluctuations.",
+            "keywords": [
+                "Long range dependence",
+                "Stock price returns",
+                "Power-law distributions"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeephsmap/v_3a484_3ay_3a2017_3ai_3ac_3ap_3a194-198.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The incremental information content of innovations in implied idiosyncratic volatility",
+            "abstract": "Motivated by mixed evidence related to the pricing of measures of risk, we investigate the information content of innovations in implied idiosyncratic volatility. Using both cross-sectional and time-series methodologies, we find that innovations in implied idiosyncratic volatility explain future returns for a sample of 2864 optionable firms examined during the 1999\u00e2\u0080\u00932010 sample period. We find that long-short portfolios formed using innovations in implied idiosyncratic volatility produce much larger abnormal returns than long-short portfolios formed using the level of implied idiosyncratic volatility. We also find that significant (both statistically and economically) abnormal returns continue to be generated for portfolios formed using innovations in implied idiosyncratic volatility when the sample is partitioned by: firm size, book-to-market equity, implied idiosyncratic volatility persistence, volatility risk, jump risk and option skewness. Our cross-sectional results lead to similar conclusions and are robust to the inclusion of traditional risk factors. Therefore, our results provide evidence of a significant and, to this point, undetected ex ante measure of risk.",
+            "keywords": [
+                "Risk\u00e2\u0080\u0093return",
+                "Asset pricing",
+                "Derivatives",
+                "Options"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeerevfin/v_3a30_3ay_3a2016_3ai_3ac_3ap_3a33-44.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market tempo: Decoding information speed across global stock markets",
+            "abstract": "This study explores the speed of information absorption in global stock markets using the Damodaran model. Analysing daily stock returns from 2005 to 2015 across 25 countries and 26 indices, the research categorizes markets into major, OECD, and emerging types. Major markets demonstrate the fastest adjustment, achieving a remarkable 1-day speed, followed by OECD markets with a 2\u00e2\u0080\u00934-day span and emerging markets showing a 2\u00e2\u0080\u00936-day duration for full information absorption. The results highlight significant mean speed variations across these market categories, offering practical insights for international businesses, corporations, and mutual funds navigating financial transactions globally. This study contributes valuable insights into information absorption speed, emphasizing the hierarchy of major, OECD, and emerging markets based on their speediness. Limitations include the exclusive focus on daily stock returns and the absence of specific diagnostic statistics for the Damodaran model.",
+            "keywords": [
+                "Stock prices",
+                "Stock market volatility",
+                "Financial markets",
+                "Price adjustment",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a96_3ay_3a2024_3ai_3apb_3as1059056024006270.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is the impact of oil shocks more pronounced during extreme market conditions?",
+            "abstract": "The international oil market has the tendency to affect any economy either developed or emerging. We examine the effect of structural oil shocks on the returns of developed and emerging stock markets. This effect is measured by employing the extreme dependence measure and connectedness approach across different quantile distributions. Our data ranges from January 1, 2006, to July 5, 2021. Oil shocks are extracted using the work of Ready (2018) as supply, demand and risk-related shocks. Our results highlight that demand shocks exhibit strong coherence as compared with supply and risk-driven shocks in the short-run. However, during extreme market conditions, we witness the pronounced effect of oil shocks on stock returns. Results of connectedness using Ando et al. (2022) show that France significantly transmits to the system across all quantile distributions. Among BRICs, Brazil appears as the most substantial net contributor. In terms of net receiver, Japanese equity market appears most sensitive to oil shocks followed by the Indian and Chinese stock markets. Our work carries important implications for investments and policymakers.",
+            "keywords": [
+                "Oil shocks",
+                "BRIC",
+                "G7",
+                "Quantile coherence",
+                "Spillover",
+                "Connectedness network"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a85_3ay_3a2023_3ai_3apa_3as0301420723006104.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Realized semi variance quantile connectedness between oil prices and stock market: Spillover from Russian-Ukraine clash",
+            "abstract": "This study aims to investigate the dynamic relationship between oil prices and stock markets in the G5+ countries using Parkinson's proximal realized volatility. We separate positive and negative semi-variance to compute asymmetric aggregate static spillovers according to the Diebold and Yilmaz (DY) approach. Moreover, we use a Quantile VAR to investigate the behavior of series in different quantiles corresponding to different market scenarios. Consistently with the literature concerns, we use a daily sample of market indices prices with the Brent oil price from June 1, 2017, to July 2, 2022. We found an asymmetric linkage between oil prices and the stock market, which has significant implications for portfolio hedging strategies. Specifically, our research indicates that the impact of the Russian-Ukrainian conflict on the energy crisis has been significantly higher than that of the COVID-19 pandemic, especially in the short term. However, we observe a higher persistence of negative spillovers for COVID-19 compared to those recorded during the Russia-Ukraine war. From a methodological viewpoint, this result enforces the choice of an asymmetric model to investigate the volatility transmission between financial market series. Finally, we found crude oil to emit volatility spillovers in quantiles above 80%. This result emphasizes the instability perceived in crude oil price when general market volatility increase. Quite the opposite, about one-third of oil price shocks, are linked to the national stock exchange uncertainty in low and middle quantiles, underlining the investors' dependency on this commodity. These results have important implications for policymakers and institutional authorities, who must consider the changing macroeconomic environment and reduce dependence on Russian energy.",
+            "keywords": [
+                "COVID-19",
+                "Russia-Ukrainian conflict",
+                "Semi variance realized spillover",
+                "Novel quantile connectedness",
+                "Oil prices",
+                "Stock market",
+                "VAR"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a85_3ay_3a2023_3ai_3apa_3as0301420723005093.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

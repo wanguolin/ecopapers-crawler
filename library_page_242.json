@@ -1,0 +1,148 @@
+{
+    "page_info": {
+        "page_number": 242,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Emotion in Euro Area Monetary Policy Communication and Bond Yields: The Draghi Era",
+            "abstract": "We combine modern methods from Speech Emotion Recognition and Natural Language Processing with high-frequency financial data to analyze how the vocal emotions and language of ECB President Mario Draghi affect the yield curve of major euro area economies. Vocal emotions significantly impact the yield curve. However, their impact varies in size and sign: positive signals raise German and French yields, while Italian yields react negatively, which is reflected in an increase in yield spreads. A by-product of our study is the construction and provision of a synchronized data set for voice and language.",
+            "keywords": [
+                "Communication",
+                "ECB",
+                "Neural Networks",
+                "High-Frequency Data",
+                "Speech Emotion Recognition",
+                "Asset Prices"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cqewpaper/10322.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Emotion in Euro Area Monetary Policy Communication and Bond Yields: The Draghi Era",
+            "abstract": "We combine modern methods from Speech Emotion Recognition and Natural Language Processing with high-frequency financial data to precisely analyze how the vocal emotions and language of ECB President Mario Draghi affect the yields and yield spreads of major euro area economies. This novel approach to central bank communication reveals that vocal and verbal emotions significantly impact the yield curve, with effects varying in magnitude and direction. Our results reveal an important asymmetry in yield changes with positive signals raising German, French, and Spanish yields, while negative cues increase Italian yields. Our analysis of bond spreads and equity markets indicates that positive communication influences the risk-free yield component, whereas negative communication affects the risk premium. Additionally, our study contributes by constructing a synchronized dataset for voice and language analysis.",
+            "keywords": [
+                "artificial intelligence",
+                "asset prices",
+                "communication",
+                "ECB",
+                "high-frequency data",
+                "speech emotion recognition"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/eencamaaa/2025-25.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "On the impact of macroeconomic news surprises on Treasury-bond yields",
+            "abstract": "This paper investigates the impact of surprises associated with monthly macroeconomic news releases on Treasury-bond yields, by paying particular attention to the moment at which the information is published in the month. Implementing an event study on intraday data, we show that (i) the main bond market movers are based on economic activity and in ation indicators, (ii) long-maturity bonds are slightly more impacted by surprises than short-maturity ones, and (iii) the bond market is more sensitive to bad news than to good announcements. Finally, we evidence an empirical monotonic relationship between the surprises' impact and their corresponding news' publication date and/or their sign.",
+            "keywords": [
+                "bond market",
+                "event study",
+                "macroeconomic news."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/drmwpaper/2014-20.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time-Varying Spot and Futures Oil Price Dynamics",
+            "abstract": "We investigate the role of crude oil spot and futures prices in the process of price discovery by using a cost-of-carry model with an endogenous convenience yield and daily data over the period from January 1990 to December 2008. We provide evidence that futures markets play a more important role than spot markets in the case of contracts with shorter maturities, but the relative contribution of the two types of market turns out to be highly unstable, especially for the most deferred contracts. The implications of these results for hedging and forecasting crude oil spot prices are also discussed.",
+            "keywords": [
+                "Cointegration",
+                "oil market",
+                "futures prices",
+                "price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/diwdiwwpp/dp988.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Ambiguity Aversion: Implications for the Uncovered Interest Rate Parity Puzzle",
+            "abstract": "High-interest-rate currencies tend to appreciate in the future relative to low-interest-rate currencies instead of depreciating as uncovered-interest-parity (UIP) predicts. I construct a model of exchange-rate determination in which ambiguity-averse agents face a dynamic filtering problem featuring signals of uncertain precision. Solving a max-min problem, agents act upon a worst-case signal precision and systematically underestimate the hidden state that controls payoffs. Thus, on average, agents next periods perceive positive innovations, which generates an upward re-evaluation of the strategy's profitability and implies ex-post departures from UIP. The model also produces predictable expectational errors, ex-post profitability and negative skewness of currency speculation payoffs.",
+            "keywords": [
+                "uncovered interest rate parity",
+                "carry trade",
+                "ambiguity aversion",
+                "robust filtering"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/dukdukeec/10-53.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Day of the Week and the Cross-Section of Returns",
+            "abstract": "This paper documents a new empirical fact. Long-short anomaly returns are strongly related to the day of the week. Anomalies for which the speculative leg is the short (long) leg experience the highest (lowest) strategy returns on Monday. The exact opposite pattern is observed on Fridays. The effects are large; Monday (Friday) alone accounts for over 100% of monthly returns for all anomalies examined for which the short (long) leg is the speculative leg. Consistent with a mispricing explanation, the pattern is fully driven by the speculative leg of the strategy. The observed patterns are consistent with the abundance of evidence in the psychology literature documenting that mood increases from Thursday to Friday and decreases on Monday.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2016-1.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Impact of Macroeconomic News on the Euro-Dollar Exchange Rate",
+            "abstract": "This paper studies the effect of macroeconomic \"news\" (market now-cast errors related to the flow of data releases on macroeconomic fundamentals) on the daily USD/EUR exchange rate. I consider a large number of real-time macroeconomic announcements from both the US and the euro-zone, and the related market expectations as reported by Bloomberg. For the euro-zone I also study country level announcements for the four biggest economies (Germany, France, Italy, Spain). The results for the whole sample (1999-2012) show that both the \"news\" associated with euro-zone releases and those associated with US ones have a significant impact on the USD/EUR exchange rate. However, the effect of the euro-zone \"news\" has become larger since the 2008 crisis and it is now more sizeable than that of the US \"news\".",
+            "keywords": [
+                "macroeconomic news",
+                "exchange rate",
+                "event studies",
+                "real-time data"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ecawpaper/2013_2f235612.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Herding in Equity Crowdfunding",
+            "abstract": "Equity crowdfunding has recently become available and is quickly expanding. Concerns have been raised that investors ('backers') may be following the crowd 'too much' and making investments ('pledges') based on past investments rather than private information. We construct a model of equilibrium rational herding where uninformed investors follow signals generated by in formed investors with private information and a public belief generated by all past pledges. We show that large investments provide positive public information about the project's quality, whereas periods of absence of investment provide negative information. An information cascade is shown to occur only if not enough positive signals are generated. We then empirically analyse a large number of pledges from a leading European equity crowdfunding platform. We show that a pledge is strongly affected by both the size of the most recent pledge, and the time elapsed since the most recent pledge. For pledges that are not adjacent in the order of arrivals, the correlation between their sizes is still positive, but after being separated by two or more intervening pledges the correlation is no longer statistically significant. The effects are strongest for less-informed investors, and in some specifications the effects are strongest at the early stage of a campaign. We find similar results in IV analysis. Results are consistent with our model and inconsistent with some alternative models.",
+            "keywords": [
+                "Equity Crowdfunding",
+                "Herding"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgheccah/1245.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "When does investor sentiment predict stock returns?",
+            "abstract": "We examine the asymmetry in the predictive power of investor sentiment in the cross-section of stock returns across economic expansion and recession states. We test the implication of behavioral theories and evidence that the return predictability of sentiment should be most pronounced in an expansion state when investors' optimism increases. We segregate economic states according to the NBER business cycles and further implement a multivariate Markov-switching model to capture the unobservable dynamics of the changes in the economic regime. The evidence suggests that only in the expansion state does sentiment perform both in-sample and out-of-sample predictive power for the returns of portfolio formed on size, book-to-market equity ratio, dividend yield, earnings-to-price ratio, age, return volatility, asset tangibility, growth opportunities, and 11 widely documented anomalies. In a recession state, however, the predictive power of sentiment is generally insignificant.",
+            "keywords": [
+                "Investor sentiment",
+                "Return predictability",
+                "Multivariate Markov-switching model",
+                "Bootstrap"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a19_3ay_3a2012_3ai_3a2_3ap_3a217-240.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Withdrawal of the State from Economic Activity: An Austrian Capital Market Perspective",
+            "abstract": "In this paper we investigate the success of recent privatization in Austria from a capital market perspective. The empirical analysis draws upon the concept of initial public offerings indexes to document the medium-run aftermarket performance of initial public offerings (IPOs). Due to certain peculiarities, governmental IPOs outperform non-governmental IPOs in terms of cumulative average returns. Among the approaches discussed, the theory of property rights, together with the economic theory of politics, appears to be particularly appealing in explaining this phenomenon. If market participants adjust their investment decisions accordingly, the superior performance of governmental IPOs must, however, be expected to vanish during later stages of a privatization program. The withdrawal of the state from the ownership of enterprises has repercussions on the expansion of existing private companies due to rising capital costs. Privatization programs thus temporarily inhibit the substitution of inside equity by outside equity in private companies.",
+            "keywords": [
+                "Initial Public Offerings",
+                "Privatization",
+                "Stock Market Index",
+                "Performance Analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ihsihsesp/19.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Forecasting Stock Market Averages to Enhance Profitable Trading Strategies",
+            "abstract": "In this paper we design a simple trading strategy to exploit the hypothesized distinct informational content of the arithmetic and geometric mean. The rejection of cointegration between the two stock market indicators supports this conjecture. The profits generated by this cheaply replicable trading scheme cannot be expected to persist. Therefore we forecast the averages using autoregressive linear and neural network models to gain a competitive advantage relative to other investors. Refining the trading scheme using the forecasts further increases the mean return as compared to a buy and hold strategy.",
+            "keywords": [
+                "Trading Strategy",
+                "Stock Market Index",
+                "Neural Networks",
+                "Cointegration"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ihsihsesp/21.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Uncovering the portfolio balance channel with the use of sovereign credit ratings",
+            "abstract": "In this paper we study exchange rate effects due to shifts in the portfolio composition of the Colombian financial sector during 2003\u00e2\u0080\u00932014. We first provide a theoretical understanding of the channel\u00e2\u0080\u0099s transmission mechanism by modeling how the banking sector optimally allocates its portfolio composition. This allows us to characterize departures from the uncovered interest rate parity condition (UIP) in terms of foreign and domestic assets. In the empirical application, we control for a potential simultaneity bias by using a novel instrument for portfolio compositions: the use of sovereign credit ratings and outlook changes made by Moody\u00e2\u0080\u0099s, Standard and Poor\u00e2\u0080\u0099s and Fitch Ratings. Our findings indicate that shifts in portfolio balances affect only the long term (5-year) risk premium in up to five months before the effects subside. Additionally, we find stronger and more persistent portfolio effects in cases in which US ratings increased relative to Colombian ratings.******En este art\u00c3\u00adculo estudiamos los efectos en el tipo de cambio debidos a las modificaciones en la composici\u00c3\u00b3n de cartera del sector financiero colombiano durante 2003-2014. Inicialmente facilitamos un entendimiento te\u00c3\u00b3rico del mecanismo de transmisi\u00c3\u00b3n del canal a trav\u00c3\u00a9s de un modelo de c\u00c3\u00b3mo el sector bancario asigna de manera \u00c3\u00b3ptima su composici\u00c3\u00b3n de cartera. Esto nos permite caracterizar las desviaciones con respecto a la paridad descubierta de tasas de inter\u00c3\u00a9s en materia de activos nacionales y en el extranjero. En la aplicaci\u00c3\u00b3n emp\u00c3\u00adrica controlamos por un potencial sesgo de simultaneidad utilizando un novedoso instrumento para las composiciones de cartera: el uso de calificaciones crediticias de deuda soberana y los cambios en las perspectivas de Moody\u00e2\u0080\u0099s, Standard and Poor\u00e2\u0080\u0099s y Fitch Ratings. Nuestros hallazgos indican que los cambios en las composiciones de cartera solo afectan la prima de riesgo a largo plazo (5 anos) en hasta cinco meses antes de que desaparezcan los efectos. Adem\u00c3\u00a1s, encontramos efectos m\u00c3\u00a1s fuertes y persistentes en las composiciones para casos en los que las calificaciones estadounidenses aumentaron con relaci\u00c3\u00b3n a las calificaciones colombianas.",
+            "keywords": [
+                "Portfolio balance channel",
+                "Sovereign credit rating",
+                "Uncovered interest rate parity",
+                "Monetary trilemma."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/col000107/015222.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "page_info": {
+        "page_number": 31,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Upward/downward multifractality and efficiency in metals futures markets: The impacts of financial and oil crises",
+            "abstract": "This study investigates the multifractality behavior, time-varying efficiency, and long memory in leading precious and industrial metals futures markets. We use Hurst exponent and an asymmetric multifractal detrended fluctuations analysis (A-MF-DFA). We show significant asymmetric multifractality. Moreover, gold has the lowest asymmetric multifractality behavior and silver experiences the highest magnitude of asymmetric multifractality. All metals markets show persistence under negative scales and anti-persistence at positive scales. Precious metals are more inefficient in a downward trend before and during the 2008 global financial crisis and European sovereign debt crisis (GFC and ESDC) and during the oil crisis. Industrial metals are highly inefficient in a downward trend before and during the GFC and ESDC and the recovery period, while the resuxlts are mixed during the oil crisis.",
+            "keywords": [
+                "Metals futures markets",
+                "Multifractality",
+                "Efficiency",
+                "Financial and energy crises",
+                "Asymmetric MF-DFA"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejrpoli/v_3a76_3ay_3a2022_3ai_3ac_3as0301420722000940.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Implied volatility of structured warrants: Emerging market evidence",
+            "abstract": "This paper examines the informational content of Implied Volatility (IV) for 493 Malaysian and 945 Thai structured call warrants from 2014 to 2015. Unlike a regular warrant (issued by the firm) and attached to bonds, loan stocks, or preferred stocks as sweeteners, a structured warrant is issued by a third party. Structured warrant is a prevalent exchange-traded instrument in South-East Asian countries. This study is among the first to examine the IV of structured warrants using emerging market datasets from Bursa Malaysia and the Stock Exchange of Thailand. Our predictive regression models compare IV's effectiveness in anticipating future realized volatility vis-\u00c3 -vis historical volatility. We record that IV in both exchanges contains relevant information about future realized volatility only on a handful of occasions. Additionally, structured warrants' IV is a mostly biased predictor with a diminutive efficiency threshold. Our findings bear implications for the region's derivatives market growth and risk management practices.",
+            "keywords": [
+                "Implied volatility",
+                "Structured warrants",
+                "Information content",
+                "Bursa Malaysia",
+                "Stock exchange of Thailand",
+                "Derivatives"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a80_3ay_3a2021_3ai_3ac_3ap_3a464-479.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Idiosyncratic volatility shocks, behavior bias, and cross-sectional stock returns",
+            "abstract": "This paper examines the impact of idiosyncratic volatility (IV) shocks on cross-sectional stock returns. The IV shock is defined by comparing a stock\u00e2\u0080\u0099s idiosyncratic volatility in month t against its own idiosyncratic volatilities estimated in the previous months. The results indicate that stocks with positive (negative) IV shocks subsequently underperform (outperform). Unlike the conventional cross-sectional sorts on the level of IV, the intertemporal IV shocks identified in this paper are better served to capture the very moment when firm specific information arrives or is fully absorbed. Therefore, the performance divergence between stocks with positive and negative IV shocks reflects how investors interpret the new information. We document that cognitive bias, such as the disposition effect and gambler\u00e2\u0080\u0099s fallacy, may provide a reasonable explanation for the IV shock effect.",
+            "keywords": [
+                "Idiosyncratic volatility shocks",
+                "Cross-sectional stock returns",
+                "Behavior bias",
+                "Disposition effect",
+                "Gambler\u00e2\u0080\u0099s fallacy"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a75_3ay_3a2020_3ai_3ac_3ap_3a276-293.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Seasonal patterns of earnings releases and post-earnings announcement drift",
+            "abstract": "In line with SEC regulations, U.S. firms tend to announce their earnings in specific weeks, resulting in clustered earnings releases. Our study examines whether this pattern of earnings releases leads to delayed market responses. We observe that firms announcing earnings in the two busy weeks of each season exhibit a stronger post-earnings announcement drift (PEAD) compared to those in non-busy weeks. Additionally, we find that firms with fewer institutional investors, financial analysts, and smaller sizes are more susceptible to market under-reaction. These findings support the hypothesis that under-reaction plays a role in the occurrence of PEAD. We attribute this under-reaction mainly to investors' limited capacity to promptly process a large volume of earnings news simultaneously.",
+            "keywords": [
+                "Timing",
+                "Earnings announcements",
+                "Post-earnings announcement drift",
+                "Investor attention"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a91_3ay_3a2023_3ai_3ac_3ap_3a15-24.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do opinion polls move stock prices? Evidence from the US presidential election in 2016",
+            "abstract": "This paper analyzes stock returns before and during the 2016 US presidential election. This election stands out because both nominees Clinton and Trump were frequently characterized to have very different profiles and the outcome was considered as a major surprise. We explore the relationship between polling data and stock prices during the pre-election period. To measure the impact of polling data on stock prices, we develop the \u00e2\u0080\u009cTrump Head-to-Head Momentum\u00e2\u0080\u009d (THHM) reflecting increasing poll scores for Trump during election uncertainty. Implementing a GARCH-in-Mean model, we find that the measure is significantly related to industries representing about 30% of the market capitalization. Moreover, we find that THHM-based active trading strategies outperform passive strategies after the election. This also suggests that stock prices have been exposed to changes in the probability of the event \u00e2\u0080\u009cTrump wins the election\u00e2\u0080\u009d in the pre-election period.",
+            "keywords": [
+                "Presidential election uncertainty",
+                "Pre-election information",
+                "Opinion polls",
+                "Industry returns",
+                "GARCH-M",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a80_3ay_3a2021_3ai_3ac_3ap_3a665-690.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Russell index reconstitutions and short interest",
+            "abstract": "Our purpose is to extend the reconstitution literature by considering short interest activity and shareholder wealth effects around the rebalancing of the Russell 2000 index. For index additions, we find an inverse relationship in the reconstitution period, suggesting a dominant price pressure effect, and a direct relationship post-reconstitution, suggesting that short interest liquidity benefits dominate. For index deletions, our evidence suggests there are permanent negative wealth effects and persistent increases in short interest surrounding index reconstitutions, consistent with the imperfect substitutes hypothesis. Overall, our results show that short interest is an influential factor in the wealth effects of Russell 2000 index reconstitutions.",
+            "keywords": [
+                "Index reconstitution",
+                "Short interest",
+                "Wealth effects"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a84_3ay_3a2022_3ai_3ac_3ap_3a577-588.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trade links and return predictability: The Australian evidence",
+            "abstract": "This paper investigates the extent to which information contained in trading partners' stock prices is reflected in Australian stock returns. We document that the fundamentals of Australian firms are correlated along supply chain. Further, the lagged returns of customers predict the one-month future returns of focal firms, implying that information embedded in trade links is not fully incorporated in stock prices. A long-short portfolio that buys (short-sells) stocks with high (low) lagged customer returns yields 0.8% monthly abnormal return on average. The predictive power of customer returns is weakened among large firms, firms with a greater number of informed market participants and a higher level of investor attention, and dissipates as the holding period lengthens. This provides strong support for the gradual-information-diffusion hypothesis.",
+            "keywords": [
+                "Trade links",
+                "Asset pricing",
+                "Information diffusion",
+                "Return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a78_3ay_3a2023_3ai_3ac_3as0927538x23000410.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Revisiting the momentum effect in Taiwan: The role of persistency",
+            "abstract": "The Taiwan stock market has been widely documented as a remarkable exception to the momentum phenomenon. We show evidence that a high turnover rate exists for winner and loser portfolios, which in turn attenuates momentum profits in this market. Nevertheless, a persistency-based momentum strategy that involves buying persistent winners and short-selling persistent losers generates significant profits in the intermediate term, and thus claims a momentum effect for this market. Further analysis indicates that momentum persistency is positively associated with investors' heterogeneous beliefs. Finally, the persistency-based momentum strategy is robustly profitable for international markets, especially those without the momentum effect.",
+            "keywords": [
+                "Momentum persistency",
+                "Underreaction",
+                "Heterogeneous beliefs",
+                "Taiwan stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a78_3ay_3a2023_3ai_3ac_3as0927538x23000094.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does short-term momentum exist in China?",
+            "abstract": "Medhat and Schmeling (2022) find significant short-term reversal among low-turnover stocks and short-term momentum among high-turnover stocks by double sorting on stocks\u00e2\u0080\u0099 previous month\u00e2\u0080\u0099s return and share turnover. We replicate their research in the Chinese stock market and find that there is no short-term momentum but only short-term reversal exists in that market. A lack of volume that affects the ability of realized returns to predict firms\u00e2\u0080\u0099 fundamentals or investor heterogeneity might cause the absence of short-term momentum in China.",
+            "keywords": [
+                "Short-term momentum",
+                "Short-term reversal",
+                "Turnover",
+                "China"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a77_3ay_3a2023_3ai_3ac_3as0927538x22002153.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Real estate climate index and aggregate stock returns: Evidence from China",
+            "abstract": "We show that China's real estate climate index (RECI) can be used to forecast the aggregate stock market return. It outperforms popular return predictors both in- and out-of-sample, especially at the monthly horizon. Additionally, RECI's predictive ability is stronger among stocks of small market capitalization and low momentum. For a typical mean-variance investor, RECI's predictive power may provide an additional utility gain of 3.41%. We discuss three potential sources of RECI's predictive ability and present the corresponding evidence, including the cash flow channel, the firm fundamental channel, and the investment substitution channel.",
+            "keywords": [
+                "Real estate climate index",
+                "Return predictability",
+                "Asset allocation",
+                "Predictive regression",
+                "Equity risk premium",
+                "Cash flow channel",
+                "Firm fundamentals",
+                "Substitution effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a75_3ay_3a2022_3ai_3ac_3as0927538x22001366.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do insider investment horizons contain information? Evidence from Australia",
+            "abstract": "We examine the information content of insiders' investment horizon using a large sample of Australian insider trades from 2002 to 2021. In contrast to the finding of Akbas et al. (2020) in the U.S. context, we find that, while Australian insiders are predictive of future abnormal returns, their trading horizon contains little relevant information. We further find that Australian insider trades are dominated by purchasing transactions, which is contrary to the U.S. insider transactions that are predominately selling transactions. Our study provides useful insights for investors who are interested in detecting insiders' information, and for policy makers who strive for setting more effective insider trading laws.",
+            "keywords": [
+                "Australian insiders",
+                "Investment horizons",
+                "Information",
+                "Legal environment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a79_3ay_3a2023_3ai_3ac_3as0927538x23000124.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trend information and cross-sectional returns: The role of analysts",
+            "abstract": "This study investigates the role of analysts on the relationship between trend information and cross-sectional returns. Our results show that the trend information about past price and trading volume significantly predicts future stock returns in the Chinese stock market. The trend effect is more pronounced among stocks without analyst coverage or low analyst coverage, which indicates that analysts play an important role in disseminating information and helping information to be incorporated into stock price more quickly, thus reducing mispricing and weakening the trend effect. Considering the information's updates from analysts, the findings suggest that the trend effect is stronger for stocks with no revision, while the trend effect becomes weaker or even disappears for stocks with upgrade or downgrade revision. Moreover, our results show that analyst recommendations fail to take full advantage of trend information or even contradict trend signals although analyst recommendations do contain forecast information related to future stock returns. Furthermore, we find that analyst recommendations provide additional useful information that can enhance the predictability of trend information, but the value of information reflected in their recommendations cannot offset the value of trend information.",
+            "keywords": [
+                "Trend information",
+                "Past price",
+                "Trading volume",
+                "Analyst coverage",
+                "Analyst recommendations"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a80_3ay_3a2023_3ai_3ac_3as0927538x23001452.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

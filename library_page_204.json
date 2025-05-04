@@ -1,0 +1,148 @@
+{
+    "page_info": {
+        "page_number": 204,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Got Milk? The Effect of Export Price Shocks on Exchange Rates",
+            "abstract": "I examine the effect of exogenous terms of trade shocks on an exchange rate by turning to New Zealand\u00e2\u0080\u0099s dairy auctions. Dairy is New Zealand\u00e2\u0080\u0099s largest export category, making up almost 20 percent of exports. Specifically, whole milk powder accounts for 6 to 11 percent of total exports, and its price is determined in twice-monthly auctions. I use event studies to quantify the impact of surprise auction results on the New Zealand dollar on a high-frequency basis. I find that a 1 percent increase in whole milk powder prices has a modest, but nevertheless significant, effect on the nominal exchange rate that does not seem to be explained by interest rate movements. Rather, the effect seems to be driven by a combination of two channels: a financial flows channel and a fundamental channel. The methodology developed here can potentially be applied to other commodity exporters.",
+            "keywords": [
+                "exchange rates",
+                "commodity prices",
+                "terms of trade",
+                "event studies"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedbwp/95646.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Exchange-traded Funds as an Alternative Investment Option: a Case Study",
+            "abstract": "We conduct an analysis of Exchange-traded Funds (ETFs), Index and Equity mutual funds and their respective benchmark during the 2010-2015 period for the Portuguese fund industry. For the period 2010-2017 we test ETFs for price inefficiency (existence of deviations between prices and the Net Asset Value) and persistence. We find that ETF do not always outperform index funds in replicating the variations of the PSI 20 index, despite exhibiting better tracking ability when facing downside deviations of the benchmark and a better capacity of smoothing tracking deviations. Regarding ETFs price efficiency and its persistence, the study reveals that the analyzed ETF is priced at a low average discount with evidence of deviations persistence of at least two days. The investment schemes with the highest ability to track the PSI 20 Index were PSI20 (ETF), BBVA PPA \u00c3\u008dndice PSI20, and the equity mutual fund BPI Portugal.",
+            "keywords": [
+                "Exchange-traded fund",
+                "Mutual fund",
+                "Performance evaluation",
+                "Tracking error",
+                "Price efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/iseremwps/wp0222017.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum Trading, Return Chasing and Predictable Crashes",
+            "abstract": "We combine self-collected historical data from 1867 to 1907 with CRSP data from 1926 to 2012, to examine the risk and return over the past 140 years of one of the most popular mechanical trading strategies ? momentum. We find that momentum has earned abnormally high risk-adjusted returns ?a three factor alpha of 1 percent per month between 1927 and 2012 and 0.5 percent per month between 1867 and 1907 ? both statistically significantly different from zero. However, the momentum strategy also exposed investors to large losses (crashes) during both periods. Momentum crashes were predictable ? more likely when momentum recently performed well (both eras), interest rates were relatively low (1867?1907), or momentum had recently outperformed the stock market (CRSP era) ? times when borrowing or attracting return chasing ?blind capital? would have been easier. Based on a stylized model and simulated outcomes from a richer model, we argue that a money manager has an incentive to remain invested in momentum even when the crash risk is known to be high when (1) he competes for funds from return and (2) he is compensated via fees that are convex in the amount of money managed and the return on that money.",
+            "keywords": [
+                "Momentum",
+                "crashes",
+                "return chasing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedhwp/wp-2014-27.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market Efficiency in the Age of Big Data",
+            "abstract": "Modern investors face a high-dimensional prediction problem: thousands of observable variables are potentially relevant for forecasting. We reassess the conventional wisdom on market efficiency in light of this fact. In our model economy, which resembles a typical machine learning setting, N assets have cash flows that are a linear function of J firm characteristics, but with uncertain coefficients. Risk-neutral Bayesian investors impose shrinkage (ridge regression) or sparsity (Lasso) when they estimate the J coefficients of the model and use them to price assets. When J is comparable in size to N, returns appear cross-sectionally predictable using firm characteristics to an econometrician who analyzes data from the economy ex post. A factor zoo emerges even without p-hacking and data-mining. Standard in-sample tests of market efficiency reject the no-predictability null with high probability, despite the fact that investors optimally use the information available to them in real time. In contrast, out-of-sample tests retain their economic meaning.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/26586.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "D\u00c3\u00b6viz kurlar\u00c4\u00b1n\u00c4\u00b1n \u00c3\u00b6ng\u00c3\u00b6r\u00c3\u00bcs\u00c3\u00bcnde stokastik oynakl\u00c4\u00b1k modelleri",
+            "abstract": "Geli\u00c5\u009fmekte olan piyasalar, g\u00c3\u00b6receli olarak d\u00c3\u00bc\u00c5\u009f\u00c3\u00bck i\u00c5\u009flem hacmi, ekonomik ve politik istikrars\u00c4\u00b1zl\u00c4\u00b1k, yasal d\u00c3\u00bczenlemelerde yap\u00c4\u00b1lan s\u00c4\u00b1k de\u00c4\u009fi\u00c5\u009fiklikler gibi nedenlerle, geli\u00c5\u009fmi\u00c5\u009f piyasalara g\u00c3\u00b6re daha y\u00c3\u00bcksek oynakl\u00c4\u00b1k sergilemektedir. Bu t\u00c3\u00bcr ekonomilerde, finansal varl\u00c4\u00b1k fiyatlar\u00c4\u00b1ndaki oynakl\u00c4\u00b1k, filitreleme kullan\u00c4\u00b1larak tahmin edilebilmektedir. Bu makalede, Kalman filtresi kullan\u00c4\u00b1larak logaritmik normal stokastik oynakl\u00c4\u00b1k modelinin, Hamilton filtresi kullan\u00c4\u00b1larak ise ikili rejim de\u00c4\u009fi\u00c5\u009fken stokastik oynakl\u00c4\u00b1k modelinin d\u00c3\u00b6viz kurlar\u00c4\u00b1n\u00c4\u00b1n tahminindeki ba\u00c5\u009far\u00c4\u00b1 performans\u00c4\u00b1 incelenmi\u00c5\u009ftir. 01/01/2004-25/07/2007 tarihleri aras\u00c4\u00b1ndaki g\u00c3\u00bcnl\u00c3\u00bck ABD dolar\u00c4\u00b1/T\u00c3\u00bcrk Liras\u00c4\u00b1 d\u00c3\u00b6viz kuruna ait zaman serisi kullan\u00c4\u00b1larak yap\u00c4\u00b1lan analiz sonucunda, her iki modelin d\u00c3\u00b6viz kurlar\u00c4\u00b1n\u00c4\u00b1n k\u00c4\u00b1sa vadeli tahmininde istatistiksel olarak ba\u00c5\u009far\u00c4\u00b1l\u00c4\u00b1 oldu\u00c4\u009fu, logaritmik normal stokastik oynakl\u00c4\u00b1k modelinin tahmindeki ba\u00c5\u009far\u00c4\u00b1s\u00c4\u00b1n\u00c4\u00b1 uzun vadeli \u00c3\u00b6ng\u00c3\u00b6r\u00c3\u00bc i\u00c3\u00a7in de korudu\u00c4\u009fu belirlenmi\u00c5\u009ftir. Makale, T\u00c3\u00bcrkiye\u00e2\u0080\u0099de d\u00c3\u00b6viz kurlar\u00c4\u00b1na ait veri kullan\u00c4\u00b1larak s\u00c3\u00b6z konusu modellerle kar\u00c5\u009f\u00c4\u00b1la\u00c5\u009ft\u00c4\u00b1rmal\u00c4\u00b1 ampirik analiz yap\u00c4\u00b1lan, bilgimiz dahilindeki, ilk \u00c3\u00a7al\u00c4\u00b1\u00c5\u009fma olmas\u00c4\u00b1 a\u00c3\u00a7\u00c4\u00b1s\u00c4\u00b1ndan orijinallik ta\u00c5\u009f\u00c4\u00b1maktad\u00c4\u00b1r.",
+            "keywords": [
+                "rejim de\u00c4\u009fi\u00c5\u009fken modeller",
+                "stokastik oynakl\u00c4\u00b1k",
+                "hamilton filtresi",
+                "kalman filtresi",
+                "d\u00c3\u00b6viz kurlar\u00c4\u00b1"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/iifiifjrn/v_3a23_3ay_3a2008_3ai_3a265_3ap_3a50-67.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price Pressure and Price Discovery in the Term Structure of Interest Rates",
+            "abstract": "We study the price pressure and price discovery effects in the U.S. Treasury market by using a term structure model. Our model decomposes yield curve shifts into two components: a virtually permanent change related to order flow and a transitory, price pressure effect due to dealer inventories. We find strong evidence that net dealer Treasury inventories has impact on the yield curve. Cash Treasury instruments in inventory have a larger impact on yields than futures contracts, suggesting that cash and futures inventories are not perfect substitutes. Price discovery in the level of interest rates is most strongly linked to non-dealer order flow in the 10-year futures contract, while price discovery in the slope of the curve is linked to order flow in the 10-year futures and the 5-year cash market.",
+            "keywords": [
+                "Dealers",
+                "Liquidity",
+                "Price discovery",
+                "Price pressure",
+                "Treasury market"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedgfe/2018-65.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Informational Centrality of Banks",
+            "abstract": "The equity and debt prices of large nonbank firms contain information about the future state of the banking system. In this sense, banks are informationally central. The amount of this information varies over time and over equity and debt. During a financial crisis banks are, by definition of a crisis, at risk of failure. Debt prices became about 50 percent more informative than equity prices about the future state of the banking system during the financial crisis of 2007-2009. This was partly due to investors' fears that banks might not be able to refinance the firms' debt.",
+            "keywords": [
+                "Price informativeness",
+                "Asset pricing",
+                "Banking system",
+                "Financial crises"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedgfe/2024-06.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Variance Disparity and Market Frictions",
+            "abstract": "This paper introduces a new model-free approach to measuring the expectation of market variance using VIX derivatives. This approach shows that VIX derivatives carry different information about future variance than S&P 500 (SPX) options, especially during the 2008 financial crisis. I find that the segmentation is associated with frictions such as funding illiquidity, market illiquidity, and asymmetric information. When they are segmented, VIX derivatives contribute more to the variance discovery process than SPX options. These findings imply that VIX derivatives would offer a better estimate of expected variance than SPX options, and that a measure of segmentation may be useful for policymakers as it signals the severity of frictions.",
+            "keywords": [
+                "VIX derivative",
+                "Asymmetric information",
+                "Economic uncertainty",
+                "Illiquidity",
+                "Implied variance"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedgfe/2019-59.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Stock Return Decomposition Using Observables",
+            "abstract": "We propose a new method for decomposing realized stock market capital gains into contributions from changes to the real yield curve, equity premia, and expected dividends. The method centers on changes to observable inputs of the present value formula and requires no regressions or log-linearization. In S&P500 data for 2005-2023, changes to expected dividends dominated the cumulative capital gain. Changes to the real yield curve and equity premia contributed more to capital gain fluctuations. A mix of higher equity premia and lower expected earnings drove the 2008 and 2020 market declines, while higher real yields drove the 2022 market drop.",
+            "keywords": [
+                "Return decomposition",
+                "Stock Market",
+                "Duration",
+                "Asset pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedgfe/2022-14.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trader Positions and Marketwide Liquidity Demand",
+            "abstract": "In electronic, liquid markets, traders frequently change their positions. The distribution of these trader position changes carries important information about liquidity demand in the market. From this distribution of trader position-changes, we construct a marketwide measure for intraday liquidity demand that does not necessarily depend on aggressive trading. Using a rich regulatory dataset on S&P 500 E-mini futures and 10-year Treasury futures markets, we show that this liquidity demand measure has a positive impact on prices. We then decompose our measure of liquidity demand into three components: aggressive, passive and mixed liquidity demand. Passive liquidity demand also has an impact on prices; a one standard deviation increase in passive liquidity demand is associated with 0.5 tick rise in prices for S&P 500 E-mini futures. In addition, we find that new information is incorporated into the prices when passive liquidity demanders take positions. By providing direct evidence, we contribute to the growing literature on the impact of passive limit orders.",
+            "keywords": [
+                "Liquidity",
+                "Passive Trading",
+                "Price Impact"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedgfe/2017-103.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Decoding Equity Market Reactions to Macroeconomic News",
+            "abstract": "The equity market\u00e2\u0080\u0099s reaction to macroeconomic news is consistent with the propagation of news into the real economy. We embody all the macro news in an activity news index and a price news index that together explain 34% of the quarterly stock price returns variation. When those indexes capture a stream of favorable macroeconomic surprises, publicly traded firms experience increases in revenues, profitability, financing, and investment activities. The firm-level resultslead up to an expansion of the real side of the whole U.S. economy. Our findings, taken together, show that stock prices\u00e2\u0080\u0099 reactions to macro news have a strong association with firm-level and economy-wide growth.",
+            "keywords": [
+                "Macroeconomic News",
+                "Equity Markets",
+                "Real Activity"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfedgfe/2025-07.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum Has Its Own Values",
+            "abstract": "We find high momentum stocks with preserving substantial \"fundamental value\" are more likely to rebound after unexpected financial shocks. The portfolio test show that our proposed investment strategy can inherit more portfolio downside risk, especially the momentum crash during turbulent times.",
+            "keywords": [
+                "Momentum",
+                "Financial Crisis",
+                "Fama-French Factors",
+                "Systemic Risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/iujwpaper/ems_5f2021_5f02.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

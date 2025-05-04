@@ -1,0 +1,149 @@
+{
+    "page_info": {
+        "page_number": 47,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Currency jumps, cojumps and the role of macro news",
+            "abstract": "This study investigates the impact of macro news on currency jumps and cojumps. The analysis uses intra-day data, sampled at 5-min frequency, for four currencies for the period 2005\u00e2\u0080\u00932010. Results indicate that currency jumps are a good proxy for news arrival. We find 9\u00e2\u0080\u009315% of currency jumps can be directly linked to U.S. announcements. Notably, news can explain 22\u00e2\u0080\u009356% of the 5-min jump returns, and there is evidence that better-than-expected news about the U.S. economy has a negative impact on currency jumps. Cojump statistics suggest close dependencies among European currencies, especially between the euro and the Swiss franc. We also provide evidence on the uncertainty resolution to news.",
+            "keywords": [
+                "Currency jumps",
+                "Cojumps",
+                "Macroeconomic news"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejimfin/v_3a40_3ay_3a2014_3ai_3ac_3ap_3a42-62.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impact of different investment horizons in heterogeneous agent models: Do long-term traders bring market stability?",
+            "abstract": "This study incorporates the difference in agents\u00e2\u0080\u0099 investment horizons into the heterogeneous agent model developed by Brock and Hommes (1998). It shows that the effect of a longer investment horizon appears as a reduction in the fraction of the strategy adopted by long-term traders under the assumption of no autocorrelation among the excess returns on the asset. Specifically, it considers the case where long-term traders are fundamentalists and short-term traders are technical analysts. In this case, the main result obtained by Brock and Hommes (1998) that an increase in the intensity of choice to switch predictors can lead to market instability is robust provided that short-term traders bear lower costs than long-term traders. Furthermore, when short-term traders bear no costs, long-term trading by fundamentalists destabilizes the market in the sense that the pitchfork or the period doubling bifurcation value of the intensity of choice decreases compared with the corresponding values in Brock and Hommes (1998).",
+            "keywords": [
+                "Asset pricing",
+                "Heterogeneous belief",
+                "Investment horizon"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejeborg/v_3a196_3ay_3a2022_3ai_3ac_3ap_3a393-401.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Recovering the FOMC risk premium",
+            "abstract": "The Federal Open Market Committee (FOMC) meetings are among the most important economic events. We propose a novel method to recover the FOMC risk premium and drift sizes. Empirically, we find that for the 192 meetings from 1996 to 2019, the FOMC risk premium varies across meetings, from 1 to 326 basis points (bps) with an average of 45 bps. We obtain an out-of-sample R2 of 7.51% when using the recovered FOMC premium to predict the meeting returns around the announcement. The average predicted upward drift size is 101 bps, and the average predicted downward drift size is 129 bps, matching well with the realized ones.",
+            "keywords": [
+                "Options",
+                "FOMC meeting",
+                "Risk premium",
+                "Drift",
+                "Recovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a145_3ay_3a2022_3ai_3a1_3ap_3a45-68.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Music sentiment and stock returns around the world",
+            "abstract": "This paper introduces a real-time, continuous measure of national sentiment that is language-free and thus comparable globally: the positivity of songs that individuals choose to listen to. This is a direct measure of mood that does not pre-specify certain mood-affecting events nor assume the extent of their impact on investors. We validate our music-based sentiment measure by correlating it with mood swings induced by seasonal factors, weather conditions, and COVID-related restrictions. We find that music sentiment is positively correlated with same-week equity market returns and negatively correlated with next-week returns, consistent with sentiment-induced temporary mispricing. Results also hold under a daily analysis and are stronger when trading restrictions limit arbitrage. Music sentiment also predicts increases in net mutual fund flows, and absolute sentiment precedes a rise in stock market volatility. It is negatively associated with government bond returns, consistent with a flight to safety.",
+            "keywords": [
+                "Investor sentiment",
+                "Investor mood",
+                "Behavioral finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a145_3ay_3a2022_3ai_3a2_3ap_3a234-254.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Eye in the sky: Private satellites and government macro data",
+            "abstract": "We develop an approach to identify whether recent technological advancements\u00e2\u0080\u0094such as the rise of commercial satellite-based macro estimates\u00e2\u0080\u0094can provide an alternative to government data. We measure the extent to which satellite estimates affect the value of a government macro announcement using its asset price impact. Our identification relies on cloud cover, which prevents satellites from observing economic activity at a few key hubs. Applying our approach, we find that some satellite estimates are now so effective that markets are no longer surprised by government announcements. Our results point to a future in which the resolution of macro uncertainty is smoother and governments have less control over macro information.",
+            "keywords": [
+                "Alternative macroeconomic data",
+                "Satellite-based forecasts",
+                "Role of hubs in economic forecasting",
+                "US crude oil",
+                "Chinese Purchasing Managers\u00e2\u0080\u0099 Index"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a141_3ay_3a2021_3ai_3a1_3ap_3a234-254.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Corporate actions and the manipulation of retail investors in China: An analysis of stock splits",
+            "abstract": "We identify a group of \u00e2\u0080\u009csuspicious\u00e2\u0080\u009d firms that use stock splits, perhaps along with other activities, to artificially inflate their share prices. Following the initiation of suspicious splits, share prices temporarily increase, and subsequently decline below their presplit levels. Using account level data, we find that small retail investors acquire shares in firms initiating suspicious splits, while more sophisticated investors accumulate positions before suspicious split announcements and sell in the postsplit period. We also find that insiders sell large blocks of shares and obtain loans using company stock as collateral around the initiation of suspicious splits.",
+            "keywords": [
+                "Stock price manipulation",
+                "Stock splits",
+                "Retail investors",
+                "China"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a145_3ay_3a2022_3ai_3a3_3ap_3a762-787.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The colour of finance words",
+            "abstract": "Our paper relies on stock price reactions to colour words, in order to provide new dictionaries of positive and negative words in a finance context. We extend the machine learning algorithm of Taddy (2013), adding a cross-validation layer to avoid over-fitting. In head-to-head comparisons, our dictionaries outperform the standard bag-of-words approach (Loughran and McDonald, 2011) when predicting stock price movements out-of-sample. By comparing their composition, word-by-word, our method refines and expands the sentiment dictionaries in the literature. The breadth of our dictionaries and their ability to disambiguate words using bigrams both help to colour finance discourse better.",
+            "keywords": [
+                "Measuring sentiment",
+                "Machine learning",
+                "Earnings calls",
+                "10-Ks",
+                "WSJ"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a147_3ay_3a2023_3ai_3a3_3ap_3a525-549.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Premium for heightened uncertainty: Explaining pre-announcement market returns",
+            "abstract": "We find large overnight returns with no abnormal variance before nonfarm payrolls, ISM, and GDP announcements, similar to the pre-FOMC returns. To explain this common pattern, we propose a two-risk model with the uncertainty about the magnitude of the impending news\u00e2\u0080\u0099 market impact as an additional risk, and link the pre-announcement return directly to the accumulation of heightened uncertainty and its later resolution prior to the announcement. We empirically test and verify the model\u00e2\u0080\u0099s distinct predictions on the joint intertemporal behavior of return, variance, and particularly VIX \u00e2\u0080\u0093 a gauge of impact uncertainty by our model, surrounding macroeconomic announcements.",
+            "keywords": [
+                "Pre-Announcement drift",
+                "Macroeconomic announcements",
+                "FOMC",
+                "Heightened uncertainty",
+                "VIX"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a145_3ay_3a2022_3ai_3a3_3ap_3a909-936.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "High frequency trading and extreme price movements",
+            "abstract": "Are endogenous liquidity providers (ELPs) reliable in times of market stress? We examine the activity of a common ELP type\u00e2\u0080\u0094high frequency traders (HFTs)\u00e2\u0080\u0094around extreme price movements (EPMs). We find that on average HFTs provide liquidity during EPMs by absorbing imbalances created by non-high frequency traders (nHFTs). Yet HFT liquidity provision is limited to EPMs in single stocks. When several stocks experience simultaneous EPMs, HFT liquidity demand dominates their supply. There is little evidence of HFTs causing EPMs.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a128_3ay_3a2018_3ai_3a2_3ap_3a253-265.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do idiosyncratic jumps matter?",
+            "abstract": "We show that idiosyncratic jumps are a key determinant of mean stock returns from both an ex post and ex ante perspective. Ex post, the entire annual average return of a typical stock accrues on the four days on which its price jumps. Ex ante, idiosyncratic jump risk earns a premium: a value-weighted weekly long-short portfolio that buys (sells) stocks with high (low) predicted jump probabilities earns annualized mean returns of 9.4% and four-factor alphas of 8.1%. This strategy\u00e2\u0080\u0099s returns are larger when there are greater limits to arbitrage. These results are consistent with investor aversion to idiosyncratic jump risk.",
+            "keywords": [
+                "Idiosyncratic jumps",
+                "Idiosyncratic risk",
+                "Limits to arbitrage"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a131_3ay_3a2019_3ai_3a3_3ap_3a666-692.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "How does the stock market absorb shocks?",
+            "abstract": "Using a comprehensive set of news stories, we find a stark difference in market responses to positive and negative price shocks accompanied by new information. When there is a news story about a firm, positive price shocks are followed by reversal, while negative ones result in drift. This is interpreted as the stock market overreaction to good news and underreaction to bad news. These seemingly contradictory results can be explained in a single framework, considering the interaction of retail investors with attention bias, and arbitrageurs with short-run capital constraints. Consistent with this hypothesis, we find that both patterns are stronger when the attention bias is stronger, and when the arbitrage capital is scarce.",
+            "keywords": [
+                "Stock return predictability",
+                "News",
+                "Limits to arbitrage",
+                "Limited attention",
+                "Overreaction",
+                "Underreaction",
+                "Text analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a129_3ay_3a2018_3ai_3a1_3ap_3a136-153.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Day of the week and the cross-section of returns",
+            "abstract": "Long-short anomaly returns are strongly related to the day of the week. Anomalies for which the speculative leg is the short (long) leg experience the highest (lowest) returns on Monday. The opposite pattern is observed on Friday. The effects are large. Monday (Friday) alone accounts for over 100% of returns for all anomalies examined for which the short (long) leg is the speculative leg. Consistent with a mispricing explanation, the pattern is driven by the speculative leg. The observed patterns are consistent with the abundance of evidence in the psychology literature that mood increases on Friday and decreases on Monday.",
+            "keywords": [
+                "Investor sentiment",
+                "Return predictability",
+                "Anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a130_3ay_3a2018_3ai_3a1_3ap_3a182-214.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

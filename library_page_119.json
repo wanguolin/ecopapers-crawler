@@ -1,0 +1,156 @@
+{
+    "page_info": {
+        "page_number": 119,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Industry-level media tone and the cross-section of stock returns",
+            "abstract": "This paper investigates the cross-sectional relation between industry-level media tone and expected stock returns in China. Using a machine learning technique to establish a proxy for industry-level media tone, we find that stocks in industries with more positive media tone earn significantly higher future returns than these with more negative media tone. Specifically, relative to stock-specific media tone, industry media tone plays a dominant role in forecasting stock returns. Moreover, the return premium for higher industry-level media tone continues for two months, and the returns are positive though insignificant within half a year, indicating that the media contains fundamental information.",
+            "keywords": [
+                "Media tone",
+                "Stock return",
+                "Industry",
+                "News",
+                "Investor sentiment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a77_3ay_3a2022_3ai_3ac_3ap_3a59-77.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of US news on the German stock market\u00e2\u0080\u0094An event study analysis",
+            "abstract": "This paper investigates the impact of the opening of US stock markets on the German stock market. Quantiles of the S&P 500 return distribution are used to distinguish good, bad, and no news days. We find that the German market reacts to the US news announcements which typically precede the opening of the NYSE. The opening of the market itself and the beginning of trading is not found to affect the DAX. On calm days there is no measurable impact. Once important news is transmitted, it is processed rapidly. Volatility is found to be significantly higher on news days.",
+            "keywords": [
+                "Event study",
+                "News impact",
+                "Spillover",
+                "Volatility",
+                "Price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a51_3ay_3a2011_3ai_3a4_3ap_3a389-398.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Orthogonalized factors and systematic risk decomposition",
+            "abstract": "In the context of linear multi-factor models, this study proposes an egalitarian, optimal and unique procedure to find orthogonalized factors, which also facilitates the decomposition of the coefficient of determination. Importantly, the new risk factors may diverge significantly from the original ones. The decomposition of risk allows one to explicitly examine the impact of individual factors on the return variation of risky assets, which provides discriminative power for factor selection. The procedure is experimentally robust even for small samples. Empirically we find that even though, on average, approximately eighty (sixty-five) percent of style (industry) portfolios\u00e2\u0080\u0099 volatility is explained by the market and size factors, other factors such as value, momentum and contrarian still play an important role for certain portfolios. The components of systematic risk, while dynamic over time, generally exhibit negative correlation between market, on one side, and size, value, momentum and contrarian, on the other side.",
+            "keywords": [
+                "Orthogonalization",
+                "Systematic risk",
+                "Decomposition",
+                "Fama-French Model",
+                "Asset pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeequaeco/v_3a53_3ay_3a2013_3ai_3a2_3ap_3a175-187.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predictive power of investor sentiment for Bitcoin returns: Evidence from COVID-19 pandemic",
+            "abstract": "In this paper, we examine the impact of investor sentiment on Bitcoin returns. Using a large dataset of messages discussed on social media and several financial indicators, we create a sentiment indicator based on computational text analysis and driven by the principal component analysis (PCA) method. We utilize a vector autoregressive analysis and other analytical methods to examine the sentiment index\u00e2\u0080\u0093bitcoin return nexus. Our findings reveal that the sentiment index is a strong predictor of cryptocurrency market returns in the short term. Furthermore, we confirm that during the COVID-19 pandemic, investors' sentiments significantly impacted Bitcoin returns. Our results show that the proposed sentiment index can generate excess returns for investors who utilize it as a return predictor. Our empirical findings suggest important policy implications.",
+            "keywords": [
+                "Behavioral finance",
+                "Investor sentiment",
+                "Bitcoin",
+                "Cryptocurrencies",
+                "Textual analysis for sentiment analysis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeetefoso/v_3a184_3ay_3a2022_3ai_3ac_3as0040162522005200.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Effects of Terrorism on Turkish Stock Market",
+            "abstract": "This paper uses daily data to analyze how Turkish stock market reacted to terror attacks that took place between 1996 and 2007 in Turkey and September 11, 2001 in the United States. Two different methodologies are used. The first one is abnormal returns methodology, and the second one is time series analysis. Although, some of the events in our sample experienced high negative returns, most events do not have statistically significant abnormal returns (ARs) for the event day (t=0).For longer event windows, from the event date to 5 days following the event (t= + 5) and from the event date to 10 days following the event (t= + 10) the cumulative abnormal returns (CARs) are calculated. CARs are higher than the event day ARs for most of the events. This implies that the stock market continued to decline the following days.On the other hand, the volatility models used for the analysis revealed that Turkish stock market is sensitive to terrorist attacks.",
+            "keywords": [
+                "Stock market",
+                "volatility",
+                "abnormal returns",
+                "terrorism"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/egejournl/v_3a14_3ay_3a2014_3ai_3a1_3ap_3a31-41.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "El efecto maquillaje de la instituciones de inversi\u00c3\u00b3n colectiva la legislaci\u00c3\u00b3n fiscal y la estacionalidad del mercado de valores",
+            "abstract": "This work analyzes the stock market january seasonality throughout the selling and purchasing behavior of mutual funds. In particular, window dressing is considered as an explanation of the january seasonal. It is argued that selling losers and purchasing winners may be used in order to impact the net asset value of mutual funds. Our empirical evidence suggests that funds do not follow window dressing strategies. On the contrary, they tend to pursue contrarian investement strategies. Tax-induced trading continues to be the main reason behind the january seasonal in the Spanish capital market.",
+            "keywords": [
+                "Estacionalidad",
+                "mercado burs\u00c3\u00a1til",
+                "pol\u00c3\u00adtica fiscal"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ekzekonoz/1994202.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Economic information transmissions and liquidity between shipping markets: New evidence from freight derivatives",
+            "abstract": "Economic return and volatility spillovers of derivatives markets on a number of assets have been extensively examined in the general economics literature. However, there are only a limited number of studies that investigate such interactions between freight rates and the freight futures, and no studies that also consider potential linkages with freight options. This study fills this gap by investigating the economic spillovers between time-charter rates, freight futures and freight options prices in the dry-bulk sector of the international shipping industry. Empirical results indicate the existence of significant information transmission in both returns and volatilities between the three related markets, which we attribute to varying trading activity and market liquidity. The results also point out that, consistent with theory, the freight futures market informationally leads the freight rate market, though surprisingly, freight options lag behind both futures and physical freight rates. The documented three-way economic interactions between the related markets can be used to enhance budget planning and risk management strategies, potentially attract more investors, and thus, improve the liquidity of the freight derivatives market.",
+            "keywords": [
+                "Freight derivatives",
+                "Options contracts",
+                "Price discovery",
+                "Volatility spillovers",
+                "Liquidity",
+                "Impulse responses"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeetranse/v_3a98_3ay_3a2017_3ai_3ac_3ap_3a82-104.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dividend Yields for Forecasting Stock Market Returns. An ARDL Cointegration Analysis for Germany",
+            "abstract": "This paper empirically assesses the ability of dividend yields to predict future tock returns in Germany assuming efficient markets and rational expectations. Since the order of integration of repressors are not exactly known, a bound procedure, namely a n autoregressive distributed lag (ARDL) model, is applied to test for cointegrating relationships among future stock returns and today\u00e2\u0080\u0099s divided yields. It is also capable of dealing with the controversial issue of exogeneity of the dividend yield. ARDL and error-correction models are estimated for (future) stock returns and the dividend yield based on consistent estimates and standard normal asymptotic theory.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/eknekonom/v_3a9_3ay_3a2006_3ai_3a1_3ap_3a86-116.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Two-Stage Asset Allocation with Data Envelopment Analysis: The Case of Emerging Markets",
+            "abstract": "Emerging countries have experienced significant geopolitical, economic and demographic changes in recent years. These changes have led investors to doubt the merits of investing in them or not. This study examines different rules of portfolio construction using exchange-traded funds from eighteen emerging markets and employs Data Envelopment Analysis to select the efficient ones. We show that portfolios created using this method clearly outperform equally weighted portfolios and also those built using classical portfolio optimization approaches.",
+            "keywords": [
+                "Data Envelopment Analysis",
+                "emerging markets",
+                "exchange-traded funds",
+                "portfolio optimization",
+                "performance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/faufauart/v_3a70_3ay_3a2020_3ai_3a5_3ap_3a386-406.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Profitability of the Moving Average Strategy and the Episodic Dependencies: Empirical Evidence from European Stock",
+            "abstract": "Numerous recent studies are emphasizing the existence of different stock price behaviors, namely long random walk sub periods alternating with short ones characterized by strong linear and/or nonlinear correlations. All these studies suggest that these serial dependencies have an episodic nature. In this paper we investigate the profitability of an optimum moving average strategy selected from 15,000 combinations on the main European capital markets considering the episodic character of linear and/or nonlinear dependencies, the period under study being 1997-2008. The empirical results are consistent the assumptions made by the Adaptive Markets Hypothesis (AMH) of Lo (2004) regarding the fact that profit opportunities do exist from time to time. More than that, the paper proves that the profitability of those strategies is mainly due to nonlinear episodic dependencies.",
+            "keywords": [
+                "Nonlinear dependence",
+                "Bi-correlation",
+                "Market Efficiency",
+                "Technical Analysis."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ersjournl/v_3axii_3ay_3a2009_3ai_3a1_3ap_3a63-72.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Heterogeneous Agents Model with the Worst Out Algorithm",
+            "abstract": "Heterogeneous agents\u00e2\u0080\u0099 model with the stochastic beliefs formation is considered. Fundamentalists rely on their model employing fundamental information basis to forecast the next price period. Chartists determine whether current conditions call for the acquisition of fundamental information in a forward looking manner rather than relying on the past performance. It was shown that implementation of the agents memory can significantly change the preferences of trader strategies. The Worst out Algorithm (WOA) is used with considered heterogeneous agents\u00e2\u0080\u0099 model to simulate more realistic market conditions. The WOA replaces periodically the trading strategy that has the lowest performance level of all strategies presented on the market by the new one. The memory length of the new strategy that enters the market has the same stochastic structure as the initial strategies. This paper shows an influence of the agent memory as a stochastic process on the heterogeneous agents model with the WOA. Simulations show difference in price returns behaviour between two types of agents\u00e2\u0080\u0099 memory length distribution functions (Uniform and Normal). There is a significant difference in the values of the Hurst exponent and the variance in these two cases. A lower Hurst exponent in the uniform case is caused by a richer spectrum of agents\u00e2\u0080\u0099 memory length, because agents are equally distributed across all trading horizons. For the uniform case there is no opportunity for any prediction. On the other hand, the value of the Hurst exponent gives a signal for a possibility of the price prediction in the normal case.",
+            "keywords": [
+                "Efficient Markets Hypothesis",
+                "Fractal Market Hypothesis",
+                "agents\u00e2\u0080\u0099 investment horizons",
+                "agents\u00e2\u0080\u0099 trading strategies",
+                "technical trading rules",
+                "heterogeneous agent model with stochastic memory",
+                "Worst out Algorithm"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/fauaucocz/au2007_5f054.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An empirical investigation of underpricing in Greek IPO\u00e2\u0080\u0099s: 1990-2003",
+            "abstract": "This paper discusses evidence on the initial underpricing of Initial Public Offerings in the Athens Stock Exchange, during the period 1990-2003. Differences in average initial returns are analyzed in terms of differential IPO characteristics. The findings suggest that in the Athens Stock Exchange there exists a relatively high degree of information asymmetry. The findings are similar to those, which have been observed in the majority of the emerging markets.",
+            "keywords": [
+                "Initial public offerings",
+                "underpricing",
+                "asymmetric information",
+                "Greece"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ersjournl/v_3aviii_3ay_3a2005_3ai_3a1-2_3ap_3a3-20.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

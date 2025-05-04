@@ -1,0 +1,166 @@
+{
+    "page_info": {
+        "page_number": 110,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Short-term momentum and reversals, turnover, and a stock\u00e2\u0080\u0099s price-to-52-week-high ratio",
+            "abstract": "We show that short-term reversal behavior declines with a stock\u00e2\u0080\u0099s turnover and the prior month\u00e2\u0080\u0099s price-to-52-week-high ratio (PTH), shifting to momentum for stocks with both a relatively high turnover and PTH. This behavior of consecutive one-month individual stock returns is robust to subperiod analysis, risk adjustments, and alternative methodologies. Our findings suggest opposing channels. First, promoting short-term momentum, our evidence implies a PTH-anchoring underreaction to recent news, consistent with the short-term contrarian price-dampening channel of Atmaz et al. (2024) with higher turnover implying a stronger contrarian-induced underreaction. Second, promoting short-term reversals, our evidence reinforces the importance of the well-known liquidity-provision-compensation channel. Reversals are especially strong for low-PTH, low-turnover stocks, where the lower PTH implies a generally smaller-cap, less-liquid stock and the lower turnover implies a weaker contrarian-induced underreaction. We also find that the return behaviors vary with dispersion in analysts\u00e2\u0080\u0099 earnings forecasts and with market-wide sentiment, in a manner consistent with these channels.",
+            "keywords": [
+                "Short-term stock momentum and reversals",
+                "Price to 52-week-high ratio",
+                "Share turnover",
+                "Price anchors"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a79_3ay_3a2024_3ai_3ac_3as0927539824000902.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Option gamma and stock returns",
+            "abstract": "Stocks with high net gamma exposure systematically underperform stocks with low net gamma exposure. This effect is distinct from other well-known return predictors, and survives many robustness checks. We show that stocks with low net gamma exposure negatively predict future realized volatility, and argue that investors command a risk premium to hold low net gamma exposure stocks, which are riskier. Lastly, we show that the volatility predictability stems from a non-informational channel, and not from private information.",
+            "keywords": [
+                "Cross-section of stock returns",
+                "Option demand",
+                "Gamma hedging",
+                "Return predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a74_3ay_3a2023_3ai_3ac_3as0927539823001093.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time-dependent lottery preference and the cross-section of stock returns",
+            "abstract": "Highlighting the importance of benchmark to identify lottery-like payoffs of stocks, this study proposes that investors\u00e2\u0080\u0099 lottery preference is formed toward tracking stocks\u00e2\u0080\u0099 performance over time. Accordingly, we develop a strategy based on time-dependent maximum daily return (denoted as TMAX) by buying (short selling) stocks with the most recent maximum daily returns (MAX) ranked in the bottom (top) decile of the historical distribution. The TMAX strategy generates significant premium that subsumes the profitability of Bali, Cakici, and Whitelaw\u00e2\u0080\u0099s (2011) MAX strategy, but not vice versa. A major advantage of the TMAX strategy is its time-invariant profitability across different periods and sentiment states. Further analyses show that the TMAX premium can be explained by shorting flow and behavioral theories, supporting the time-dependent feature of lottery preference.",
+            "keywords": [
+                "Lottery preference",
+                "Time dependence",
+                "Maximum daily returns",
+                "Stock returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a64_3ay_3a2021_3ai_3ac_3ap_3a272-294.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are alternative energies a real alternative for investors?",
+            "abstract": "Fossil fuels supply most of the energy we need for many functions but alternative energy global consumption is expected to increase in the future supported by great incentives, advances in technologies, and the depletion of fuel oil reserves. In that context, investors begin to consider the possibility of investing in the alternative energy sector using different assets such as the Exchange Traded Funds (ETFs). We evaluate the out-of-sample performance of four strategies using the returns and volatility forecasts from a VAR-ADCC approach. We provide evidence that Alternative Energy ETFs clearly outperform Energy ETFs and, therefore, they are a real alternative for investors. These findings are relevant not only for academics but also for active professional managers who can use this technique to add value to their investment strategies.",
+            "keywords": [
+                "Alternative energy",
+                "Energy",
+                "Exchange traded funds",
+                "Multivariate GARCH",
+                "Out-of-sample performance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a78_3ay_3a2019_3ai_3ac_3ap_3a535-545.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Generating options-implied probability densities to understand oil market events",
+            "abstract": "We investigate the informational content of options-implied probability density functions (PDFs) for the future price of oil. Using a semiparametric variant of the methodology in Breeden and Litzenberger (1978), we investigate the fit and smoothness of distributions derived from alternative PDF estimation methods, and develop a set of robust summary statistics. Using PDFs estimated around episodes of high geopolitical tensions, oil supply disruptions, macroeconomic data releases, and shifts in OPEC production strategy, we explore the extent to which oil price movements are expected or unexpected, and whether agents believe these movements to be persistent or temporary.",
+            "keywords": [
+                "Options-implied PDFs",
+                "Futures",
+                "Options",
+                "Oil"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a64_3ay_3a2017_3ai_3ac_3ap_3a440-457.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading behavior and profits in experimental asset markets with asymmetric information",
+            "abstract": "We study trading behavior and its profitability in experimental asset markets with asymmetrically informed traders. We find that insiders make most of their profits from trades which are initiated by their limit orders. The average informed lose most with market orders and their losses are highest when they pick up insiders\u00e2\u0080\u0099 limit orders. Uninformed traders act as liquidity providers. They place the highest number of limit orders and end up with the market return.",
+            "keywords": [
+                "Asymmetric information",
+                "Liquidity",
+                "Trading behavior",
+                "Limit order markets",
+                "Experimental finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeebeexfi/v_3a2_3ay_3a2014_3ai_3ac_3ap_3a18-30.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is investor sentiment contagious? International sentiment and UK equity returns",
+            "abstract": "This paper contributes to a growing body of literature studying investor sentiment. Separate sentiment measures for UK investors and UK institutional investors are constructed from commonly cited sentiment indicators using the first principle component method. We then examine if the sentiment measures can help predict UK equity returns, distinguishing between \u00e2\u0080\u009cturbulent\u00e2\u0080\u009d and \u00e2\u0080\u009ctranquil\u00e2\u0080\u009d periods in the financial markets. We find that sentiment tends to be a more important determinant of returns in the run-up to a crisis than at other times. We also examine if US investor sentiment can help predict UK equity returns, and find that US investor sentiment is highly significant in explaining the UK equity returns.",
+            "keywords": [
+                "Investor sentiment",
+                "Contagion",
+                "Institutional investors",
+                "Equity returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeebeexfi/v_3a5_3ay_3a2015_3ai_3ac_3ap_3a46-59.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Timing the stock market: Does it really make no sense?",
+            "abstract": "Many private and institutional investors attempt to time the market and generate abnormal returns by periodically switching their portfolio allocations between the stock market and the cash market based on their return predictions. However, most academic studies emphasize that a successful market timing strategy requires a prediction accuracy that is usually not observable in reality. While prior studies evaluate the outcomes based on traditional return and risk measures, we adopt both expected and non-expected utility models to compare market timing with common benchmarks. Our analyses are based on a \u00e2\u0080\u009csimulated market timer\u00e2\u0080\u009d that does not require a specific forecast model. Bootstrap-based simulations show that even with low hit ratios, investors with non-expected utility preferences can consider market timing as highly desirable. The attractiveness of market timing is also partly attributable to short-termism in performance evaluation.",
+            "keywords": [
+                "Market timing",
+                "Expected utility theory",
+                "Regret theory",
+                "Anticipated utility theory",
+                "Cumulative prospect theory",
+                "Bootstrap simulation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeebeexfi/v_3a10_3ay_3a2016_3ai_3ac_3ap_3a88-104.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading on mean-reversion in energy futures markets",
+            "abstract": "We study whether simple technical trading strategies enjoying large popularity among practitioners can be employed profitably in the context of hedge portfolios for Crude Oil, Natural Gas, Gasoline and Heating Oil futures. The strategies tested are based on mean-reverting calendar spread portfolios established with dynamic hedge ratios. Entry and exit signals are generated by so-called Bollinger Bands. The trading system is applied to twenty-two years of historical data from 1992 to 2013 for various specifications, taking transaction costs into account. The significance of the results is evaluated with a bootstrap test in which randomly generated orders are compared to orders placed by the trading system. Whereas we find most combinations involving the front-month and second-month futures to be significantly profitable for all commodities tested, the best results for the risk-adjusted Sharpe Ratio are obtained for WTI Crude Oil and Natural Gas, with Sharpe Ratios in excess of 2 for most combinations and a rather smooth performance for all calendar spreads. Based on our results, there is a serious doubt whether energy futures markets can be considered weakly efficient in the short-term.",
+            "keywords": [
+                "Technical trading",
+                "Bollinger Bands",
+                "Energy futures",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a51_3ay_3a2015_3ai_3ac_3ap_3a312-319.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Understanding BOXPI \u00e2\u0080\u0094 Industry portfolio perspectives",
+            "abstract": "\u00e2\u0080\u009cBOXPI\u00e2\u0080\u009d is an acronym for the boxed Korea Composite Stock Price Index (KOSPI). Uniquely, KOSPI has remained within an extremely narrow range during 2012\u00e2\u0080\u00932016 despite the global liquidity expansion. This study develops a continuous-time model to describe sector rotation and interprets the BOXPI phenomenon from industry portfolio perspectives. We find that the upper bound of the BOXPI can be interpreted as a consequence of the rotations from cyclical to defensive sector in the Korean stock market during that period. Furthermore, a Bayesian variable selection analysis shows that the lower bound of the BOXPI can be regarded as a result of low price-to-book ratio of the KOSPI in the BOXPI period.",
+            "keywords": [
+                "Bayesian variable selection",
+                "BOXPI",
+                "Industry momentum",
+                "Sector rotation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeasieco/v_3a81_3ay_3a2022_3ai_3ac_3as1049007822000574.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Order aggressiveness, pre-trade transparency, and long memory in an order-driven market",
+            "abstract": "Recent empirical research has documented that the state of the limit order book influences stock investors' strategies. Investors place more aggressive orders when the same side of the order book is thicker, and less aggressive orders when it is thinner. We conjecture and demonstrate that this behavior is related to long memories of trading volume, volatility, and order signs in stock markets. We investigate our conjecture in two types of artificial stock markets: a transparent market, in which agents observe all limit orders on both sides of the book and order volumes at those prices before they trade; and a less transparent market, in which agents observe only the best five bid and ask quotes with the depth available at these limit prices. The first market structure resembles certain actual stock exchanges in the level of pre-trade transparency, such as the Australian Stock Exchange, NYSE OpenBook, and the London Stock Exchange, whereas the second market structure is consistent with stock exchanges such as Euronext Paris, the Toronto Stock Exchange, the Tokyo Stock Exchange, and Hong Kong Exchanges and Clearing. We demonstrate that our long memory results are robust with different levels of pre-trade transparency, implying that the strategy constructed by the state of the order book is key for explaining long memories in many actual stock exchanges.",
+            "keywords": [
+                "Long memory",
+                "Order aggressiveness",
+                "Pre-trade transparency",
+                "Market microstructure",
+                "Agent-based modeling"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeedyncon/v_3a35_3ay_3a2011_3ai_3a11_3ap_3a1938-1963.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Optimal portfolio with insider information on the stochastic interest rate",
+            "abstract": "We consider the optimal portfolio problem where the interest rate is stochastic and the agent has insider information on its value at a finite terminal time. The agent's objective is to optimize the terminal value of herportfolio under a logarithmic utility function. Using techniques of initial enlargement of filtration, we identify the optimal strategy and compute the value of the information. The interest rate is first assumed to be an affine diffusion, then more explicit formulas are computed for the Vasicek interest rate model where the interest rate moves according to an Ornstein-Uhlenbeck process. We show that when the interest rate process is correlated with the price process of the risky asset, the value of the information is infinite, as is usually the case for initial-enlargement-type problems. However, since the agent does not know exactly the correlation factor, this may induce an infinite loss instead of an infinite gain. Finally weakening the information own by the agent, and assuming that she only knows a lower-bound for the terminal value of the interest rate process, we show that the value of the information is finite.",
+            "keywords": [
+                "Optimal",
+                "portfolio",
+                "Enlargement",
+                "of",
+                "filtrations",
+                "Vasicek",
+                "interest",
+                "rate",
+                "model",
+                "Value",
+                "of",
+                "the",
+                "information"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ctewsrepe/25819.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

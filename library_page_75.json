@@ -1,0 +1,152 @@
+{
+    "page_info": {
+        "page_number": 75,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Effects of changes in stock market index composition on stock returns: event study methodology on Zagreb Stock Exchange",
+            "abstract": "This paper observes the short-run effects of stock market index composition changes on stock returns on the Zagreb Stock Exchange (ZSE). In that way, event study methodology is employed in order to estimate abnormal returns and compare them amongst three subsets of stocks: those leaving the market index, those entering it, and constantly included stocks. The research included 14 regular and extraordinary revisions of the market index in the period from January 2nd, 2015 until March 21st, 2018. The results have confirmed two research hypotheses: stock exclusions from the market index have a negative effect on stock returns on the ZSE, which is consistent with the price pressure hypothesis; and there exist asymmetric effects of index composition changes on stock returns. This is the first study of this kind on the Croatian stock market, thus more questions need to be answered in future research.",
+            "keywords": [
+                "abnormal returns",
+                "Croatian stock market",
+                "event study",
+                "index composition change"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/vrscrebss/v_3a5_3ay_3a2019_3ai_3a1_3ap_3a43-54_3an_3a5.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short Interest and Stock Returns",
+            "abstract": "Using a longer time period and both NYSE-Amex and Nasdaq stocks, this paper examines short interest and stock returns in more detail than any previous study and finds that many documented patterns are not robust. While equally weighted high short interest portfolios generally underperform, value weighted portfolios do not. In addition, there is a negative correlation between market returns and short interest over our whole period. Finally, inferences from short time periods, such as 1988-1994 when the underperformance of high short interest stocks was exceptional or 1995-2002, when high short interest Nasdaq stocks did not underperform, are misleading.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/10434.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are Momentum Profits Robust to Trading Costs?",
+            "abstract": "We test whether momentum-based strategies remain profitable after considering market frictions induced by trading. Intra-day data are used to estimate alternative measures of proportional (spread) and non- proportional (price impact) trading costs. A cross-sectional model of the relation between trading costs and firm characteristics is used to predict costs out-of-sample. The price impact models imply that abnormal returns to portfolio strategies decline with portfolio size. We calculate break-even fund sizes which lead to zero abnormal returns. In addition to commonly studied equal- and value-weighted momentum strategies, we derive a liquidity-weighted strategy designed to reduce the cost of trades. Equal-weighted strategies perform the best before trading costs and the worst after trading costs. Liquidity-weighted and hybrid liquidity/value-weighted strategies have the largest break-even fund sizes: conservatively, $5 billion or more (relative to December 1999 market capitalization) may be invested in these momentum-based strategies before the apparent profit opportunities vanish.",
+            "keywords": [
+                "Momentum strategies",
+                "Transaction costs",
+                "Price impact",
+                "Optimal trading",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0308004.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Individual Analysts\u00e2\u0080\u0099 Earnings Forecasts: Evidence for Overreaction in the UK Stock Market",
+            "abstract": "This paper presents an analysis of two forms of overreaction (generalized overreaction and overreaction to prior earnings changes) in analysts\u00e2\u0080\u0099 earnings forecasts for the UK stock market, using a sample of individual forecasts of earning per share from a British investment bank over the period 1989-2002. Given that previous UK empirical research over 1980s and mid \u00e2\u0080\u009890s has provided limited and contradictory findings, we investigate whether and how overreaction of analysts forecasts varies across forecast horizons, firm size (small and large) and growth opportunities (high and low P/E ratio) in order to provide further and comparable evidence. Overall, our findings support the generalized overreaction hypothesis but reject the firm size effect, the overreaction for high P/E ratio companies and the higher overreaction regarding the forecasting horizon.",
+            "keywords": [
+                "Overreaction",
+                "Underreaction",
+                "Analysts forecasts",
+                "forecast horizons",
+                "size effect",
+                "price/earnings ratio."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0512011.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "PRICE DISCOVERY IN THE ATHENS DERIVATIVES EXCHANGE: EVIDENCE FOR THE FTSE/ASE-20 FUTURES MARKET",
+            "abstract": "The FTSE/ASE-20 futures market, as the first organised Greek derivatives market, established in August 1999 and its operation rests with the Athens Derivatives Exchange (ADEX) and the Athens Derivatives Exchange Clearing House (ADECH). Cointegration tests are used and an error correction model is developed in order to examine the relationship between price movements of FTSE/ASE-20 three-month futures index and the underlying cash market in Athens Stock Exchange (ASE). \u00c3\u0094he investigation of its price discovery mechanism has been motivated by the existing paucity of similar research in such newly established (emerging) futures markets and the growing importance of this market for both investors and the Greek capital market. The results show the presence of a bi- directional causality between stock index spot and futures markets, indicating that the newly established ADEX can provide futures contracts that serve as a focal point of information assimilation and fulfil their price discovery.",
+            "keywords": [
+                "Athens Derivatives Exchange",
+                "FTSE/ASE 20 futures contract",
+                "Price discovery",
+                "Cointegration analysis",
+                "Causality"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wpawuwpfi/0512014.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time varying price discovery",
+            "abstract": "We show how multivariate GARCH models can be used to generate a time-varying \u00e2\u0080\u009cinformation share\u00e2\u0080\u009d (Hasbrouck, 1995) to represent the changing patterns of price discovery in closely related securities. We find that time-varying information shares can improve credit spread predictions.",
+            "keywords": [
+                "Credit spreads",
+                "Price discovery",
+                "Multivariate GARCH"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a126_3ay_3a2015_3ai_3ac_3ap_3a18-21.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "New evidence from the random walk hypothesis for BRICS stock indices: a wavelet unit root test approach",
+            "abstract": "We examine the use of the random walk hypothesis on the BRICS stock indices. Our examination of the stock indices uses a recently developed wavelet-based unit root test by Fan and Gen\u00c3\u00a7ay (2010) along with a battery of unit root tests. We also examine the sensitivity of the wavelet-based unit root test. Our wavelet-based unit root tests show evidence that rejects the null of the unit root for all of the BRICS countries except for the Russian Federation. Hence, the tests provide support for the predictability of stock market indices in these economies on the basis of historical information. However, there is a need for caution because the results are based on a relatively small sample of only 11years of monthly observations.",
+            "keywords": [
+                "Stock market",
+                "Market efficiency",
+                "Random walk",
+                "Structural break",
+                "Wavelet unit root"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a43_3ay_3a2014_3ai_3ac_3ap_3a38-41.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor heterogeneity and negative skewness in stock returns: Evidence from institutional investors",
+            "abstract": "We examine the relation between the probability of future stock price crash and investors\u00e2\u0080\u0099 investment horizons. Using negative skewness as a proxy for firm-specific crash risk, we document a positive association between institutional ownership and stock price crash risk. The relation is, however, driven by short-term institutional investors, while the presence of long-term institutional investors has a negative effect on stock price crash risk. In addition, we find that the presence of short-term institutional investors induces corporate risk-taking behavior. Our results are robust to alternative model specifications, endogeneity concerns, and different measures of crash risk and proxies of investors\u00e2\u0080\u0099 horizons.",
+            "keywords": [
+                "Investors\u00e2\u0080\u0099 investment horizons",
+                "Crash risk",
+                "Skewness",
+                "Institutional Investors"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a81_3ay_3a2022_3ai_3ac_3as1042443122001627.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Access to information and international portfolio allocation",
+            "abstract": "We examine whether foreign equity holdings of portfolio investors depend on the level of information accessibility between the investors\u00e2\u0080\u0099 home and host countries. Using a comprehensive data set, alternative measures of information accessibility and robust analytical techniques, we show that differences in access to cross-country information significantly influence investors\u00e2\u0080\u0099 portfolio allocation decisions. Furthermore, the results suggest that for a given level of access to information, investors prefer to invest more in countries with a higher quality of legal/macro-institutions. Finally, the findings also confirm that the implications of information accessibility are more pronounced when markets are turbulent.",
+            "keywords": [
+                "Access to information",
+                "International equity portfolio",
+                "Panel data models",
+                "Legal/macro-institutions",
+                "Turbulent market condition"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a37_3ay_3a2013_3ai_3a7_3ap_3a2255-2267.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price impact of block trades in the Saudi stock market",
+            "abstract": "This paper examines the price impact of block trades for all listed firms in the Saudi stock market (SSM) using high frequency data. We find an asymmetric price impact for block trades of 0.5% for block purchases and \u00e2\u0088\u00920.38% for block sales. However, on average, the price effect of a block trade is small and short-lived suggesting that resiliency is high in the market. Moreover, we find a direct relationship between the size of the trades and the level of information asymmetry. The intraday pattern of price impacts is similar to patterns documented in other markets, namely an inverse J-shaped pattern. Finally, sophisticated traders can gain abnormal profits through \u00e2\u0080\u009cfree riding\u00e2\u0080\u009d benefiting from overreaction before and price reversals after block trades.",
+            "keywords": [
+                "Price impact",
+                "Block trades",
+                "Saudi stock market",
+                "Information asymmetry and liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a23_3ay_3a2013_3ai_3ac_3ap_3a322-341.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Pricing deviation, misvaluation comovement, and macroeconomic conditions",
+            "abstract": "We measure an individual stock\u00e2\u0080\u0099s misvaluation based on the deviation of its price from predicted intrinsic value. Both under- and overvalued stocks identified by this misvaluation measure exhibit greater valuation uncertainty and arbitrage difficulty, and the misvaluation measure strongly predicts stock returns incremental to size, book-to-market ratio, past returns, and various return anomalies. Based on the misvaluation measure, we form a misvaluation factor and find that stock return covariances with this factor possess significant and robust return predictive power. We further show that the misvaluation factor predicts future economic conditions, providing additional insight into the real effect of systematic misvaluation in the stock market.",
+            "keywords": [
+                "Misvaluation",
+                "Comovement",
+                "Market efficiency",
+                "Systematic risk",
+                "Macroeconomic conditions"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a37_3ay_3a2013_3ai_3a12_3ap_3a5285-5299.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of internet stock message boards on cross-sectional returns of small-capitalization stocks",
+            "abstract": "We examine the impact of more than 2.5 million HotCopper messages on the Australian stock market. HotCopper is the largest online stock message board in Australia and the sample of messages covers over 2000 companies listed on the Australian Securities Exchange (ASX) from January 2003 through December 2008. We exclude messages surrounding public price-sensitive announcements released centrally by the ASX in order to examine the private information content of internet board messages. We find that the number of board messages and message sentiment significantly and positively relate to the contemporaneous returns of underperforming (low ROE, EBIT margin, EPS) small capitalization stocks with high market growth potential (low book-to-market). Posting activity is positively associated with trading volume for small stocks and negatively associated with bid-ask spreads for small and large stocks in the short term. Bullish small stocks outperform bearish ones significantly in respective days and months, exhibiting no return reversals to pre-message board activity levels in subsequent time periods. Large stocks are not found to be affected by message board activity. We conclude that higher message board activity quickly reflects itself into the prices of small capitalization stocks in a highly regulated market like the ASX.",
+            "keywords": [
+                "Internet message boards",
+                "Stock returns",
+                "Small capitalization stocks"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a55_3ay_3a2015_3ai_3ac_3ap_3a37-55.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

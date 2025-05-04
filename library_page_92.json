@@ -1,0 +1,148 @@
+{
+    "page_info": {
+        "page_number": 92,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Evaluaci\u00c3\u00b3n de los factores de riesgo en los activos de renta variable que conforman el \u00c3\u00adndice S&P MILA 40: aplicaci\u00c3\u00b3n del modelo de tres factores de Fama y French en el periodo 2009-2013",
+            "abstract": "El presente art\u00c3\u00adculo de investigaci\u00c3\u00b3n estima los factores de riesgo en los activos de renta variable que conforman el \u00c3\u00adndice S&P MILA 40, a trav\u00c3\u00a9s de la aplicaci\u00c3\u00b3n del modelo de tres factores de Fama y French en el periodo 2009-2013. Este modelo, a partir de la evaluaci\u00c3\u00b3n de componentes microecon\u00c3\u00b3micos, busca identificar las variables que potencialmente pueden tener influencia en la estimaci\u00c3\u00b3n de retornos de los activos y, de esta manera, lograr generar mayores niveles de informaci\u00c3\u00b3n al mercado y a los agentes para la toma de decisiones de inversi\u00c3\u00b3n. Luego de realizar los procedimientos, se puede establecer que, para los activos seleccionados, las carteras de menor capitalizaci\u00c3\u00b3n generan los mayores rendimientos para los inversionistas, dentro las cuales se destaca la participaci\u00c3\u00b3n de manera ponderada de activos del mercado peruano; estos, por la naturaleza de las empresas y las condiciones de la econom\u00c3\u00ada, permitieron el surgimiento y la potencializaci\u00c3\u00b3n de activos de inversi\u00c3\u00b3n que generan mayores condiciones de rentabilidad.",
+            "keywords": [
+                "factor",
+                "rentabilidad",
+                "riesgo",
+                "valoraci\u00c3\u00b3n"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/col000443/016370.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Order flow and volatility: An empirical investigation",
+            "abstract": "We study the relationship between order flow and volatility. To this end we develop a comprehensive framework that simultaneously controls for the effects of macro announcements and order flow on prices and the effect of macro announcements on volatility. Using high-frequency 30-year U.S. Treasury bond futures data, we find a statistically and economically significant relationship between the absolute value of order flow and volatility. Moreover, this relationship is robust, inter alia, to a number of factors including the introduction of liquidity effects, use of data measured over a different frequency, and market conditions.",
+            "keywords": [
+                "Information",
+                "Order flow",
+                "Macroeconomic announcements",
+                "Treasury futures"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a28_3ay_3a2014_3ai_3ac_3ap_3a185-201.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Evaluaci\u00c3\u00b3n de los factores de riesgo en los activos de renta variable que conforman el \u00c3\u00adndice S&P MILA 40: aplicaci\u00c3\u00b3n del modelo de tres factores de Fama y French en el periodo 2009-2013",
+            "abstract": "El presente art\u00c3\u00adculo de investigaci\u00c3\u00b3n estima los factores de riesgo en los activos de renta variable que conforman el \u00c3\u00adndice S&P MILA 40, a trav\u00c3\u00a9s de la aplicaci\u00c3\u00b3n del modelo de tres factores de Fama y French en el periodo 2009- 2013. Este modelo, a partir de la evaluaci\u00c3\u00b3n de componentes microecon\u00c3\u00b3micos, busca identificar las variables que potencialmente pueden tener influencia en la estimaci\u00c3\u00b3n de retornos de los activos y, de esta manera, lograr generar mayores niveles de informaci\u00c3\u00b3n al mercado y a los agentes para la toma de decisiones de inversi\u00c3\u00b3n. Luego de realizar los procedimientos, se puede establecer que, para los activos seleccionados, las carteras de menor capitalizaci\u00c3\u00b3n generan los mayores rendimientos para los inversionistas, dentro las cuales se destaca la participaci\u00c3\u00b3n de manera ponderada de activos del mercado peruano; estos, por la naturaleza de las empresas y las condiciones de la econom\u00c3\u00ada, permitieron el surgimiento y la potencializaci\u00c3\u00b3n de activos de inversi\u00c3\u00b3n que generan mayores condiciones de rentabilidad.",
+            "keywords": [
+                "factor",
+                "rentabilidad",
+                "riesgo",
+                "valoraci\u00c3\u00b3n."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/col000443/016479.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock Returns Volatility in an Emerging Market: The Pakistani Evidence",
+            "abstract": "This paper examines stock returns volatility in the Pakistani equity market. Using daily stock prices of 36 companies, 8 sector indices, and the general market index, the AutoRegressive Conditional Heteroscedasticity (ARCH) class of models was applied. The analyses suggest that one of the factors causing high serial dependence in stock returns in the Pakistani equity market is the presence of conditional heteroscedasticity or volatility in stock returns and that even after controlling for volatility the returns in the market are, in general, predictable. The results show GARCH(1,1) to be an appropriate representation of conditional variance implying that current volatility in the market is significantly affected by the past volatilities. There is also strong evidence of persistence in variance in returns implying that shocks to volatility continue for a long period. However, after accounting for the structural shift due to opening of the market, the persistence was found to decline significantly.",
+            "keywords": [
+                "Stock Returns",
+                "Volatility",
+                "Pakistan",
+                "ARCH Models",
+                "Persistence"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/5270.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Non-parametric momentum based on ranks and signs",
+            "abstract": "This study proposes alternative momentum strategies built on the rank and sign of daily returns. Rank and sign momentum strategies are robust to the presence of extreme price movements. They generate significant profits for short-term holding periods and exhibit no long-term return reversals. More importantly, they subsume traditional price momentum, but not vice versa. In addition, rank and sign momentum strategies experience much weaker momentum crashes. Further evidence indicates that rank and sign momentum profitability is less vulnerable to salient past returns while traditional price momentum winners (losers) tend to be overvalued (undervalued) when they face a higher degree of salience.",
+            "keywords": [
+                "Rank",
+                "Sign",
+                "Salience",
+                "Price momentum"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a60_3ay_3a2021_3ai_3ac_3ap_3a94-109.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Capturing the risk premium of commodity futures: The role of hedging pressure",
+            "abstract": "We construct long\u00e2\u0080\u0093short factor mimicking portfolios that capture the hedging pressure risk premium of commodity futures. We consider single sorts based on the open interests of hedgers or speculators, as well as double sorts based on both positions. The long\u00e2\u0080\u0093short hedging pressure portfolios are priced cross-sectionally and present Sharpe ratios that systematically exceed those of long-only benchmarks. Further tests show that the hedging pressure risk premiums rise with the volatility of commodity futures markets and that the predictive power of hedging pressure over cross-sectional commodity futures returns is different from the previously documented forecasting power of past returns and the slope of the term structure.",
+            "keywords": [
+                "Commodity risk premium",
+                "Hedging pressure",
+                "Term structure",
+                "Momentum"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a37_3ay_3a2013_3ai_3a7_3ap_3a2652-2664.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock return predictability and investor sentiment: A high-frequency perspective",
+            "abstract": "We explore the predictive relation between high-frequency investor sentiment and stock market returns. Our results are based on a proprietary dataset of high-frequency investor sentiment, which is computed based on a comprehensive textual analysis of sources from news wires, internet news sources, and social media. We find substantial evidence that intraday S&P 500 index returns are predictable using lagged half-hour investor sentiment. The predictive power is also found in other stock and bond index ETFs. We document that this sentiment effect is independent of the intraday momentum effect, which is based on lagged half-hour returns. While the intraday momentum effect only exists in the last half hour, the sentiment effect persists in at least the last two hours of a trading day. From an investment perspective, high-frequency investor sentiment also appears to have significant economic value when evaluated with market timing trading strategies. We find evidence that the return predictability is most likely driven by the trading activities of noise traders.",
+            "keywords": [
+                "Intraday",
+                "Investor sentiment",
+                "High frequency",
+                "Stock return predictability",
+                "Noise trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a73_3ay_3a2016_3ai_3ac_3ap_3a147-164.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading Inefficiencies in California's Electricity Markets",
+            "abstract": "We study price convergence between the two major markets for wholesale electricity in California from their deregulation in April 1998 through November 2000, nearly the end of trading in one market. We would expect profit-maximizing traders to have eliminated persistent price differences between the markets. Institutional impediments and traders' incomplete understanding of the markets, however, could have delayed or prevented price convergence. We find that the two benchmark electricity prices in California -- the Power Exchange's day-ahead price and the Independent System Operator's real-time price -- differed substantially after the markets opened but then appeared to be converging by the beginning of 2000. Starting in May 2000, however, price levels and price differences increased dramatically. We consider several explanations for the significant price differences and conclude that rapidly changing market rules and market fundamentals, including one buyer's attempt to exercise a form of monopsony power, made it difficult for traders to take advantage of opportunities that ex post appear to have been profitable.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/8620.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Walking on thin ice: Market quality around FOMC announcements",
+            "abstract": "This paper examines market quality for the E-Mini S&P 500 futures around Federal Reserve announcements. I document that the release of the Federal Open Market Committee (FOMC) statement induces significantly \u00e2\u0080\u009chigher than normal\u00e2\u0080\u009d volatility and trading volume. The bid\u00e2\u0080\u0093ask spread is significantly higher in the minutes preceding the release, but it returns to its \u00e2\u0080\u009cnormal\u00e2\u0080\u009d level immediately after the release. Using order-level data, I show that market depth behind the best bid and ask quotes is much lower on event days, hitting an intraday low immediately before the FOMC release at values on average about 20 percent of the level observed in control days.",
+            "keywords": [
+                "U.S. Federal Reserve",
+                "Central bank announcements",
+                "High-frequency data",
+                "Market quality"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a138_3ay_3a2016_3ai_3ac_3ap_3a5-8.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Tests of technical trading rules and the 52-week high strategy in the corporate bond market",
+            "abstract": "This article presents the first tests of technical trend-following rules (TTRs) and the 52-week high strategy in individual corporate bonds, along with comparisons to corresponding stocks. Over the 2002\u00e2\u0080\u00932015 period, TTR and the 52-week strategy are unprofitable in both bonds and stocks. Short legs of these trend-following strategies lead to significant losses in corporate bonds, which can be interpreted as evidence of bond investors' overreaction to bad news. Thus, short-term contrarian strategies, the profitability of which is viewed as the reward to liquidity provision, are more rewarding in corporate bonds. TTR buy signals can predict lower-volatility days in bonds as in stocks, despite the low/negative return correlations between the two.",
+            "keywords": [
+                "Technical trend-following rules",
+                "The 52-week high momentum strategy",
+                "Corporate bonds"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeglofin/v_3a40_3ay_3a2019_3ai_3ac_3ap_3a85-103.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Intraday price discovery in fragmented markets",
+            "abstract": "We explore intraday variation in the contribution to price discovery across different exchanges. We estimate a structural model with time-varying parameters in state space form using maximum likelihood. We analyze data for 50 S&P 500 stocks in 2013 and find that the constancy of shares in price discovery is rejected. Tighter quoted spreads attract informed trading from other exchanges. Exchange listing and industrial sector of a stock significantly affect the dominant venues of price discovery in different parts of the day and following macroeconomic news announcements.",
+            "keywords": [
+                "High-frequency data",
+                "Market microstructure",
+                "Price discovery",
+                "Kalman filter"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a32_3ay_3a2017_3ai_3ac_3ap_3a28-48.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asset pricing: A tale of two days",
+            "abstract": "We show that asset prices behave very differently on days when important macroeconomic news is scheduled for announcement. In addition to significantly higher average returns for risky assets on announcement days, return patterns are much easier to reconcile with standard asset pricing theories, both cross-sectionally and over time. On such days, stock market beta is strongly related to average returns. This positive relation holds for individual stocks, for various test portfolios, and even for bonds and currencies, suggesting that beta is after all an important measure of systematic risk. Furthermore, a robust risk\u00e2\u0080\u0093return trade-off exists on announcement days. Expected variance is positively related to future aggregated quarterly announcement day returns, but not to aggregated non-announcement day returns. We explore the implications of our findings in the context of various asset pricing models.",
+            "keywords": [
+                "Cross-section of returns",
+                "CAPM",
+                "Announcements",
+                "Risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a113_3ay_3a2014_3ai_3a2_3ap_3a171-201.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "page_info": {
+        "page_number": 168,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "CUSUM-Based Monitoring for Explosive Episodes in Financial Data in the Presence of Time-Varying Volatility*",
+            "abstract": "We generalize the Homm and Breitung (2012) CUSUM-based procedure for the real-time detection of explosive autoregressive episodes in financial price data to allow for time-varying volatility. Such behavior can heavily inflate the false positive rate (FPR) of the CUSUM-based procedure to spuriously signal the presence of an explosive episode. Our modified procedure involves replacing the standard variance estimate in the CUSUM statistics with a nonparametric kernel-based spot variance estimate. We show that the sequence of modified CUSUM statistics has a joint limiting null distribution which is invariant to any time-varying volatility present in the innovations and that this delivers a real-time monitoring procedure whose theoretical FPR is controlled. Simulations show that the modification is effective in controlling the empirical FPR of the procedure, yet sacrifices only a small amount of power to detect explosive episodes, relative to the standard procedure, when the shocks are homoskedastic. An empirical illustration using Bitcoin price data is provided.",
+            "keywords": [
+                "CUSUM",
+                "explosive autoregression",
+                "nonparametric spot volatility estimator",
+                "rational bubble",
+                "real-time monitoring"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/oupjfinec/v_3a21_3ay_3a2023_3ai_3a1_3ap_3a187-227..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Quand la psychologie et la linguistique rencontrent la finance:le cas de la France",
+            "abstract": "(VF)En Finance, la mesure du sentiment des investisseurs reste largement d\u00c3\u00a9battue. Dans cet article, nous utilisons la mesure du sentiment GTNS d\u00c3\u00a9velopp\u00c3\u00a9e par Beer et al. (2013). Cette derni\u00c3\u00a8re s\u00e2\u0080\u0099appuie sur des r\u00c3\u00a9sultats de recherche issus de la psychologie et de la linguistique. L\u00e2\u0080\u0099objectif principal de cet article consiste \u00c3 analyser l\u00e2\u0080\u0099impact de cette mesure du sentiment des investisseurs sur les rentabilit\u00c3\u00a9s boursi\u00c3\u00a8res des entreprises fran\u00c3\u00a7aises. En utilisant la m\u00c3\u00a9thodologie de Baker et Wurgler (2006), nous montrons, \u00c3 partir d\u00e2\u0080\u0099un travail empirique sur la France, que les rentabilit\u00c3\u00a9s des actions difficiles \u00c3 \u00c3\u00a9valuer et \u00c3 arbitrer sont influenc\u00c3\u00a9es par le sentiment des investisseurs. Cet effet, prononc\u00c3\u00a9 dans le court terme, dispara\u00c3\u00aet toutefois dans le long terme.(VA)In the financial field, measures of investor sentiment are regularly debated. In this paper, we use the GTNS measure of Beer et al. (2013). It is based on research results coming from psychology and natural language processing. In this paper, we study the impact of this measure of investor sentiment on the French stock returns. Using the Baker and Wurgler (2006) methodology, we show \u00e2\u0080\u0093 in a French experiment - that the returns of stocks that are hard to value and hard to arbitrage are affected by investor sentiment. This effect is significant in the short run, but disappears in the long run.",
+            "keywords": [
+                "sentiment des investisseurs",
+                "rentabilit\u00c3\u00a9 boursi\u00c3\u00a8re",
+                "investor sentiment",
+                "stock returns."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/dijrevfcs/v_3a17_3ay_3a2014_3ai_3a1_3ap_3a25-46..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Learning, information processing and order submission in limit order markets",
+            "abstract": "By introducing a genetic algorithm learning with a classifier system into a limit order market, this paper provides a unified framework of microstructure and agent-based models of limit order markets that allows traders to determine their order submission endogenously according to market conditions. It examines how traders process and learn from market information and how the learning affects limit order markets. It is found that, measured by the average usage of different group of market information, trading rules under the learning become stationary in the long run. Also informed traders pay more attention to the last transaction sign while uninformed traders pay more attention to technical rules. Learning of uninformed traders improves market information efficiency, but not necessarily when informed traders learn. Opposite to the learning of informed traders, learning makes uninformed traders submit less aggressive limit orders and more market orders. Furthermore private values can have significant impact in the short run, but not in the long run. One implication is that the probability of informed trading (PIN) is positively related to the volatility and the bid-ask spread.",
+            "keywords": [
+                "Limit order book",
+                "Order submission",
+                "Genetic algorithm learning",
+                "Asymmetric information",
+                "Probability of informed trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeedyncon/v_3a61_3ay_3a2015_3ai_3ac_3ap_3a245-268.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Factor models and investment strategies in the renewable energy sector",
+            "abstract": "The growing concern about the natural environment is getting relevance not only on institutional investors but also on individual ones. However, these retail investors face some difficulties, such as the fact that they are often not able to monitor many assets but they are also unable to use most of the methodology proposed in the empirical evidence because it is not feasible for them. We avoid these problems by proposing an investment strategy based on the different values of the alpha and beta coefficients from the Fama-French and Carhart models. We use Exchange Traded Funds (ETFs) which track companies involved on clean and renewable energy businesses and it is provided evidence that in most of the cases the best investment strategy is to follow the positive and significant values of the alphas from the estimated models and to hold the portfolio for a short period of time. Additionally, we also report that the signals from the coefficients associated to the value factor (HML) must not be undervalued. Finally, we demonstrate that wind, clean energy and solar energy sectors are the most important renewable energies for investors. These findings reinforce the importance of investing on renewable companies using ETFs.",
+            "keywords": [
+                "Renewable energies",
+                "Fama-French",
+                "Factor models",
+                "Exchange traded funds",
+                "Investment strategies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a132_3ay_3a2024_3ai_3ac_3as0140988324001919.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The time-varying response of foreign stock markets to U.S. monetary policy surprises: Evidence from the Federal funds futures market",
+            "abstract": "In this paper, we estimate the time-varying response of foreign stock markets to U.S. monetary policy shocks derived from the high-frequency Federal funds futures market. Our results show significant time-variation in the response of the global equity markets to U.S. monetary policy surprises, where an unanticipated interest rate cut leads to an increase in stock returns. Our findings suggest that the foreign stock markets respond more to U.S. monetary policy surprises during the crisis periods. We also find that the stock markets in Europe and the U.S. responded negatively to unanticipated interest rate cuts by the Fed during the recent financial crisis.",
+            "keywords": [
+                "Fed funds futures market",
+                "Monetary policy",
+                "Stock returns",
+                "Time-varying parameter model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a24_3ay_3a2013_3ai_3ac_3ap_3a1-24.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Rational disposition effects: Theory and evidence",
+            "abstract": "The disposition effect is a longstanding puzzle in financial economics. This paper demonstrates that it is not intrinsically at odds with rational behavior. In a rational expectations model with asymmetrically informed investors, trading strategies as predicted by the disposition effect can arise as an optimal response to dynamic changes in the information structure. The model predicts that the disposition behavior of uninformed investors weakens after events that reduce information asymmetries. The data, trading records of 50,000 clients at a German discount brokerage firm from 1995 to 2000, are consistent with this prediction.",
+            "keywords": [
+                "Disposition effect",
+                "Behavioral finance",
+                "Time-varying information asymmetry"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a153_3ay_3a2023_3ai_3ac_3as0378426623000821.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asymmetric dynamics of stock price continuation",
+            "abstract": "This paper finds that the dynamics of stock price continuation are asymmetrical, in terms of both business cycles and past performances. During times of recession, stock returns are explained differently for past losers and winners; the level of credit quality dominates the return dynamics for extreme losers, while levels of information-based trading activity and information ambiguity contribute to winners\u00e2\u0080\u0099 medium-term returns. Such asymmetry is proposed as the source of insignificant profits achieved using conventional momentum strategies. On the other hand, in times of expansion, conventional asset pricing factors are found to affect stock returns with a dependence on the level of credit quality; this suggests that more profitable momentum strategies remain to be discovered.",
+            "keywords": [
+                "Momentum",
+                "Credit default swaps",
+                "Probability of informed trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a36_3ay_3a2012_3ai_3a6_3ap_3a1839-1855.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Large versus small foreign exchange interventions",
+            "abstract": "We use non-temporal threshold analysis to investigate the exchange rate effects of large versus small interventions. More than two decades of official daily data on intervention in the JPY/USD market facilitate our analysis. We find no evidence that small interventions exert a discernible influence on the exchange rate while large interventions significantly influence the exchange rate in the theoretically consistent manner. We conclude that small interventions may not be considered a determinant of the exchange rate while large interventions constitute an important element in our understanding, and modeling, of the exchange rate.",
+            "keywords": [
+                "Foreign exchange markets",
+                "Foreign exchange market intervention",
+                "Intervention amount"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a43_3ay_3a2014_3ai_3ac_3ap_3a114-123.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of economic news on bond prices: Evidence from the MTS platform",
+            "abstract": "Although there is an extensive literature on the impact of macroeconomic announcements on asset prices, the bond market has received less attention than the foreign exchange and equity markets, even less if we consider the European market. This paper uses high-frequency intra-day data over a three-year period to investigate the impact of regularly scheduled macroeconomic news and monetary policy announcements on the returns of the Italian government bond market, the largest one in the Euro-zone. With respect to the previous papers, we use a much broader set of announcements, 68, and a relatively novel dataset (MTS). We find that 25 news have a significant impact on bond returns and that almost all announcements are incorporated into prices within 20min from the release.",
+            "keywords": [
+                "Macroeconomic news announcements",
+                "Bond returns",
+                "MTS"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a49_3ay_3a2014_3ai_3ac_3ap_3a302-322.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum spillover from stocks to corporate bonds",
+            "abstract": "We investigate and improve momentum spillover from stocks to corporate bonds, i.e. the phenomenon that past winners in the equity market are future winners in the corporate bond market. We find that a momentum spillover strategy exhibits strong structural and time-varying default risk exposures that cause a drag on the profitability of the strategy and lead to large drawdowns if the market cycle turns from a bear to a bull market. By ranking companies on their firm-specific equity return, instead of their total equity return, the default risk exposures halve, the Sharpe ratio doubles and the drawdowns are substantially reduced.",
+            "keywords": [
+                "Corporate bond",
+                "Spillover",
+                "Momentum",
+                "Time-varying risk",
+                "Residual return"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a79_3ay_3a2017_3ai_3ac_3ap_3a28-41.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Idiosyncratic risk, costly arbitrage, and the cross-section of stock returns",
+            "abstract": "We test a new cross-sectional relation between expected stock return and idiosyncratic risk implied by the theory of costly arbitrage. If arbitrageurs find it more difficult to correct the mispricing of stocks with high idiosyncratic risk, there should be a positive (negative) relation between expected return and idiosyncratic risk for undervalued (overvalued) stocks. We combine several well-known anomalies to measure stock mispricing and proxy stock idiosyncratic risk using an exponential GARCH model for stock returns. We confirm that average stock returns monotonically increase (decrease) with idiosyncratic risk for undervalued (overvalued) stocks. Overall, our results support the importance of idiosyncratic risk as an arbitrage cost.",
+            "keywords": [
+                "Costly arbitrage",
+                "Idiosyncratic risk",
+                "Mispricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a73_3ay_3a2016_3ai_3ac_3ap_3a1-15.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Optimal pricing in the online betting market",
+            "abstract": "I find that the optimal price of a bet for a risk-averse bookmaker is a function of elasticity of demand and the number of outcomes of the betting event. In the presence of shocks to the order flow, however, the optimal price can change, and large adjustments can create arbitrage opportunities for informed investors. Using a large sample of online bookmakers and a unique data set of real-time betting odds, I find strong support for these predictions. Overall, the results shed new light on the efficiency of online betting prices.",
+            "keywords": [
+                "Betting market",
+                "Market efficiency",
+                "Risk aversion",
+                "Arbitrage"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejeborg/v_3a186_3ay_3a2021_3ai_3ac_3ap_3a344-363.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

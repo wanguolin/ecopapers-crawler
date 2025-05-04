@@ -1,0 +1,119 @@
+{
+    "page_info": {
+        "page_number": 200,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Is Sentiment Risk Priced by Stock Market?",
+            "abstract": "This study tests if the financial markets price the investor\u00e2\u0080\u0099s sentiment risk. We construct portfolios based upon the stock returns\u00e2\u0080\u0099 exposure to sentiment. Our results show that the portfolio returns are positively correlated with the exposure of stocks to sentiment. The strategy that consists of buying stocks with the highest exposure to sentiment and selling stocks with the lowest exposure to sentiment generates a significant raw profit. Exploring the sources of profit, we find that neither the traditional risk factors nor the momentum factor can account for the profit. However, we find that the addition of the sentiment risk premium contributes to explain the profit.",
+            "keywords": [
+                "investor sentiment",
+                "stock returns",
+                "noise trader risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/dijwpfarg/1110502.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "De Facto Seniority, Credit Risk, and Corporate Bond Prices",
+            "abstract": "We study the effect of a bond's place in its issuer's maturity structure on credit risk. Using a structural model as motivation, we argue that bonds due relatively late in their issuers' maturity structure have greater credit risk than do bonds due relatively early. Empirically, we find robust evidence that these later bonds have larger yield spreads and greater comovement with equity and that the magnitude of the effects is consistent with model predictions for investment-grade bonds. Our results highlight the importance of bond-specific credit risk for understanding corporate bond prices.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2017-17.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sentiment and Uncertainty",
+            "abstract": "Sentiment should exhibit its strongest effects on asset prices at times when valuations are most subjective. Consistent with this hypothesis, we show that a one-standard-deviation increase in aggregate uncertainty amplifies the predictive ability of sentiment for market returns by two to four times relative to when uncertainty is at its mean. We find similar evidence for the cross-section of returns; the predictive ability of sentiment for returns of test assets expected to be most sensitive to sentiment and for anomaly returns is substantially larger in times of higher uncertainty. The results hold for both daily and monthly proxies for sentiment and for various proxies for uncertainty. The evidence sheds light on one component of time-series variation in mispricing and suggests that the effects of sentiment are greatest in times of higher uncertainty.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2020-10.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Disentangling Anomalies: Risk versus Mispricing",
+            "abstract": "Systematic mispricing primarily affects speculative stocks and tends to take the form of overpricing, predicting lower average returns. Because speculative stocks are typically deemed risky by rational models, failing to control for exposure to systematic mispricing can bias tests of risk-return tradeoffs. Controlling for the effects of systematic mispricing, we recover robust positive risk-return relations for a large number of cross-sectional risk proxies, including many low-risk and distress anomalies. We also recover robust positive illiquidity-return relations. We provide a unifying framework to explain a number of puzzles arising from the empirical failure of standard asset-pricing models and show that risk-return relations supporting rational models can be recovered from the data by accounting for the existence of time-varying common mispricing.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2020-29.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Expert Network Calls",
+            "abstract": "Expert networks provide investors with in-depth discussions with subject matter experts. Expert call demand is higher for younger, technology-oriented firms and those with greater intangible assets, consistent with demand for information on hard-to-value firms. Expert calls are more (less) likely to emphasize technology and operational (financial) topics relative to earnings calls. We find that expert call volume is associated with hedge fund position changes and greater price efficiency. The relation is asymmetric, with call volume preceding hedge fund sales, greater short interest, and negative firm performance. The evidence suggests that expert networks help investors discern complicated bad news.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2022-13.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Comovement of Corporate Bonds and Equities",
+            "abstract": "We study heterogeneity in the comovement of corporate bonds and equities, both at the bond level and at the firm level. Using an extended Merton model, we illustrate that corporate bonds that mature late relative to the rest of the bonds in its issuer's maturity structure should have stronger comovement with equities. In contrast, endogenous default models suggest that a bond's position in its issuer's maturity structure has little relation with the strength of the comovement between bonds and equities. Empirically, we find results consistent with the prediction of the extended Merton model. In addition, we find that comovement between bonds and equities is stronger for firms with higher credit risk as proxied by the book-to-market ratio and distance-to-default even after controlling for ratings. Our evidence suggests that market participants are able to assess credit quality at a more granular level than ratings.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2013-11.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Algorithmic Pricing and Liquidity in Securities Markets",
+            "abstract": "We let ``Algorithmic Market Makers'' (AMs), using Q-learning algorithms, determine prices for a risky asset in a standard market making game with adverse selection and compare these prices to the Nash equilibrium of the game. We observe that AMs effectively adapt to adverse selection, adjusting prices post-trade as anticipated. However, AMs charge a markup over the competitive price and this markup increases when adverse selection costs decrease, in contrast to the predictions of the Nash equilibrium. We attribute this unexpected pattern to the diminished learning capacity of AMs when faced with increased profit variance.",
+            "keywords": [
+                "Algorithmic pricing",
+                "Market Making",
+                "Adverse Selection",
+                "Market Power",
+                "Reinforcement learning"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgheccah/1459.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Psychological Barriers, Expectational Errors, and Underreaction to News",
+            "abstract": "This paper provides evidence that the 52-week high serves as a psychological barrier, inducing expectational errors and underreaction to news. Two clear predictions emerge and are confirmed in the data. First, nearness to a 52-week high induces expectational errors; evidence from earnings surprises and analyst price targets indicate that investor and analyst expectations are biased in a downward direction for stocks near a 52-week high and biased in an upward direction for stocks trading far from a 52-week high. Second, nearness to a 52-week high induces underreaction to news. Among positive earnings surprise stocks, post-announcement drift exists only for those stocks near a 52-week high. The evidence suggests that in contrast to currently offered preference-based explanations, a belief-based explanation may better explain the previously documented 52-week high anomalies.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2014-03.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Nominal Price Premium",
+            "abstract": "Motivated by the evidence that investors tend to be overly optimistic about low-priced stocks, we examine how nominal price affects the cross section of stock returns. To circumvent the mechanical inverse relationship between price and expected return, we construct a novel way of examining the effect of nominal price on the cross section of stock returns. In the cross-section, a portfolio exploiting this strategy generates a value-weighted (equal-weighted) four-factor alpha of 85 (88) basis points per month, while raw price does not predict return robustly. Consistent with a mispricing-based explanation, the results are stronger for hard-to-arbitrage stocks and following high sentiment periods, and strategy returns are highly correlated with contemporaneous changes in sentiment. Using stock splits as an exogenous change in price level, we find that the post-split return dynamics mimic those predicted by our hypothesis. Evidence from earnings surprises and analyst price target forecasts confirms that beliefs are overly optimistic for low-priced stocks. Providing further evidence that the results reflect a belief-based rather than purely a preference-based channel, we find that the effect is distinct from other gambling related proxies that have been used in the past such as extreme returns, idiosyncratic volatility, and skewness.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/eclohidic/2015-15.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Demand for Information, Macroeconomic Uncertainty, and the Response of U.S. Treasury Securities to News",
+            "abstract": "We measure demand for information prior to nonfarm payroll announcements using a novel dataset consisting of clicks on news articles. We find that when information demand is high shortly before the release of the nonfarm payroll announcement, the price response of U.S. Treasury note futures to nonfarm payroll news surprises doubles. We argue that this relationship stems from the fact that market participants have more incentive to collect information when uncertainty about asset payoffs is higher, as implied by Bayesian learning models. Thus, high information demand about macroeconomic news is a proxy for high macroeconomic uncertainty.",
+            "keywords": [
+                "Public information",
+                "Macroeconomic News",
+                "Uncertainty",
+                "U.S. Treasury futures",
+                "Investors Attention",
+                "Information Demand",
+                "Bitly",
+                "Media Coverage"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgheccah/1263.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Early Bird Catches the Worm: How Lasting is the Value of New, Alternative Data?",
+            "abstract": "We investigate how the information content of alternative data is impounded in prices and the duration of its value to mutual fund managers. Using a regression discontinuity design, we document that mutual funds increase their loadings on specific stocks by 0.7%-3% in response to exogenous, rounding-induced 1-percentage-point increase in ratings from customer-generated comments about companies\u00e2\u0080\u0099 products and services on social media platforms. This effect is more pronounced when information asymmetry is greater. Funds relying more on such data yield higher abnormal future returns and exhibit better stock-picking and market-timing abilities. This effect dissipates when the data becomes public.",
+            "keywords": [
+                "alternative data",
+                "asset pricing",
+                "mutual funds"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgheccah/1518.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Securities Lending and Trading by Active and Passive Funds",
+            "abstract": "U.S. mutual funds that participate in the securities lending market extract information from stock borrowing. Active mutual funds exploit this information for trading by rebalancing their portfolios away from borrowed stocks, whereas passive funds do not. This trading avoids capital losses on borrowed stocks, whose prices tend to decrease. Active funds also trade more aggressively on stocks with more negative future returns, suggesting that they are able to identify informed borrowing. Finally, passive funds charge higher lending fees than active funds, which is consistent with short sellers paying a premium to lenders with lower recall risk.",
+            "keywords": [
+                "Securities lending",
+                "short selling",
+                "mutual funds"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgheccah/1390.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

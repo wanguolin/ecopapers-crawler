@@ -1,0 +1,147 @@
+{
+    "page_info": {
+        "page_number": 203,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Dynamic information spillovers in intraregionally-focused spot and forward currency markets",
+            "abstract": "This paper proposes an intraregionally-focused tri-currency modeling framework to investigate dynamic information spillovers across spot and forward exchange rate markets in frontier and emerging country currencies, for both price levels and volatilities. Empirical estimates of structural parameters were obtained using an MGARCH\u00e2\u0080\u0093MSKST model that incorporated the term structure of non-deliverable forward (NDF) and deliverable forward (DF) markets, the dominance of regional currencies, and the influence of differing forward contract maturities (1-, 3-, 6- and 12-months). The currencies for nine countries were grouped into three regions: Northeast Asia (China, Korea and Taiwan); South/Southeast Asia (India, Indonesia and Philippines); and Latin America (Brazil, Chile and Columbia). The currency for each selected country was evaluated within the regionally determined tri-currency system. We found that NDF markets play a dominant role over DF markets with regard to price discovery during periods of tranquility. During periods of crisis, both NDF and DF markets exhibit a more balanced impact on currency market price discovery mechanisms. In addition, distinct differences were observed across regions: currencies in Northeast Asia were shown to be affected by the Chinese renminbi during periods of crisis and the Indian rupee could be regarded as the dominant currency in South/Southeast Asia. No robust results were obtained with regard to the dominance of currencies in Latin America. Finally, our results also suggest important distinctions between the effect of various instrument maturities on NDF and DF market returns \u00e2\u0080\u0093 with DF returns being more responsive to longer maturities (6-months and 12-months). During tranquil periods NDF returns are more responsive to shorter maturities, but during crisis periods this effect is diminished.",
+            "keywords": [
+                "Regionally differentiated cross-currency effects",
+                "DF and NDF currency markets",
+                "Term structure"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejimfin/v_3a71_3ay_3a2017_3ai_3ac_3ap_3a78-110.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Expectations of Returns and Expected Returns",
+            "abstract": "We analyze time-series of investor expectations of future stock market returns from six data sources between 1963 and 2011. The six measures of expectations are highly positively correlated with each other, as well as with past stock returns and with the level of the stock market. However, investor expectations are strongly negatively correlated with model-based expected returns. We reconcile the evidence by calibrating a simple behavioral model, in which fundamental traders require a premium to accommodate expectations shocks from extrapolative traders, but markets are not efficient.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/18686.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Differences of opinion, information and the timing of trades",
+            "abstract": "This paper focuses on the impact that dispersion of opinions and asymmetric information have on turnover near releases of public information, using the probability of information-based trading (PIN) to proxy for information asymmetry and analysts' forecast dispersion for differences of opinion. For earnings announcements of US firms, I find that a one standard deviation increase in dispersion accelerates trading, reducing the difference between turnover around and before announcements by 8.50%. A similar increase in the PIN delays trading, raising the difference by 8.29%. These results help to explain why a large number of events have high turnover before earnings announcements relative to turnover after their release. Furthermore, the information contained in the time-series difference between trading around and before announcements helps to separate the impact of information asymmetry from the impact of proxies for differences of opinion. I also present a theoretical model in which agents who receive private information of heterogeneous quality trade a stock before and after observing a public signal. This public signal is interpreted differently across agents, leading to differences of opinion. I obtain closed-form solutions for expected aggregate volume and its derivatives with respect to these variables, showing that extending static models of asymmetric information is not enough to match the empirical findings.",
+            "keywords": [
+                "Trading volume",
+                "differences of opinion",
+                "information asymmetry"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgiesewp/d-0747.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Higher order expectations, illiquidity, and short-term trading",
+            "abstract": "We propose a theory that jointly accounts for an asset illiquidity and for the asset price potential over-reliance on public information. We argue that, when trading frequencies differ across traders, asset prices reflect investors' Higher Order Expectations (HOEs) about the two factors that influence the aggregate demand: fundamentals information and liquidity trades. We show that it is precisely when asset prices are driven by investors' HOEs about fundamentals that they over-rely on public information, the market displays high illiquidity, and low volume of informational trading; conversely, when HOEs about fundamentals are subdued, prices under-rely on public information, the market hovers in a high liquidity state, and the volume of informational trading is high. Over-reliance on public information results from investors' under-reaction to their private signals which, in turn, dampens uncertainty reduction over liquidation prices, favoring an increase in price risk and illiquidity. Therefore, a highly illiquid market implies higher expected returns from contrarian strategies. Equivalently, illiquidity arises as a byproduct of the lack of participation of informed investors in their capacity as liquidity suppliers, a feature that appears to capture some aspects of the recent crisis.",
+            "keywords": [
+                "Expected returns",
+                "multiple equilibria",
+                "average expectations",
+                "over-reliance on public information",
+                "beauty contest"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgiesewp/d-0915.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Optimal Time Series Momentum",
+            "abstract": "We develop a continuous-time asset price model to capture the time series momentum documented recently. The underlying stochastic delay differential system facilitates the analysis of effects of different time horizons used by momentum trading. By studying an optimal asset allocation problem, we find that the performance of time series momentum strategy can be significantly improved by combining with market fundamentals and timing opportunity with respect to market trend and volatility. Furthermore, the results also hold for different time horizons, the out-of-sample tests and with short-sale constraints. The outperformance of the optimal strategy is immune to market states, investor sentiment and market volatility.",
+            "keywords": [
+                "momentum, reversal",
+                "portfolio choice",
+                "optimality",
+                "profitability"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/utsrpaper/353.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Monetary Policy Shifts and the Forward Discount Puzzle",
+            "abstract": "This paper argues that considerable switches in monetary policy are able to explain a major part of the forward discount puzzle. We build a theoretical model suggesting that violations of the uncovered interest rate parity are owed to shifts in monetary policy from a destabilizing (when the Taylor principle is violated) to a stabilizing regime (when a central bank follows a Taylor-type rule). Following the switch is an adjustment period\" during which forecasters gradually update their expectations, eventually restoring the parity. It is in this adjustment period, when the forward discount puzzle arises. In the second part of the paper we test the model on the Canadian dollar, German mark, and British pound, all against the US dollar. Results indicate that the forward discount puzzle loses signi cance after allowing for an adjustment period of about 1 - 2 years. Our results are robust to various di erent speci cations, such as the use of di erent maturities or base currencies. Further, it seems unlikely that our results coincide with contemporaneous events.",
+            "keywords": [
+                "expectations errors",
+                "excess returns",
+                "forward discount puzzle",
+                "Taylor rule",
+                "monetary policy"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/col000122/010729.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can policy shifts explain the forward discount puzzle?",
+            "abstract": "Abstract In this paper we argue that major shifts in monetary policy regimes can help explain the forward discount puzzle. We hypothesize that shifts by central banks from destabilizing regimes\u00e2\u0080\u0094when the Taylor principle is violated\u00e2\u0080\u0094to stabilizing regimes\u00e2\u0080\u0094when a central bank follows a Taylor-type rule\u00e2\u0080\u0094can cause violations of uncovered interest rate parity. Following the shift is an adjustment period when the forward discount puzzle clearly appears, as forecasters gradually update their expectations, eventually restoring parity. We test this hypothesis using four major currencies: the Canadian dollar, German mark, and the British pound, against the US dollar. Results indicate that the evidence for the forward discount puzzle becomes significantly weaker after allowing for an adjustment period of as little as 18 months. These results are robust to different specifications, such as the use of different maturities or base currencies, and also hold for the New Zealand dollar and the Swedish krona, two smaller, but independent currencies.",
+            "keywords": [
+                "Forward discount puzzle",
+                "Expectations errors",
+                "Taylor rule",
+                "Monetary policy"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprempeco/v_3a57_3ay_3a2019_3ai_3a6_3ad_3a10.1007_5fs00181-018-1534-4.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predicting monetary policy using federal funds futures prices",
+            "abstract": "In theory, prices of current-month federal funds futures contracts should reflect market expectations of near-term movements in the Federal Reserve's target level for the federal funds rate. However, empirical results show that such measures of market expectations are too noisy to predict day-to-day changes in the funds rate target; partly due to time aggregation problems, partly because they are affected by funds rate movements not directly related to monetary policy considerations. In particular, the futures market shows a large amount of systematic variation across months and trading days, variation that needs to be taken into account when predicting policy moves or extracting policy expectations. For the period from January 1994 to February 1998, the extracted expectations perform fairly well in predicting the target level that will prevail after the next meeting of the Federal Open Market Committee, expecially when adjusting for market regularities.",
+            "keywords": [
+                "Market expectations of monetary policy",
+                "The Federal Reserve",
+                "The Federal Open Market Committee"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhshastef/0307.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is Momentum Due to Data-Snooping?",
+            "abstract": "This paper explores the profitability of portfolio-based momentum strategies. The data consists of all NYSE, AMEX, and NASDAQ stocks on the CRSP database. The analysis considers the period July 1963 to December 2002 and the tests are performed on portfolios formed on industry, size and book-to-market. The departure from earlier studies lies in the way we test for profitability. To avoid the serious problem of data-snooping we apply the procedure provided by White (2000). Overall, we find strong evidence of a momentum effect where an investor takes a long position on the winner portfolio and a short position on the loser portfolio. Hence, we reject the hypothesis of weak market efficiency. Splitting the sample in two parts, 1963:07 to 1981:12 and 1982:01 to 2002:12 we found that the best momentum strategy was profitable during the first period and not during the second. The overall significance is thus driven by events in the earlier part of the sample and it appears that the market has become more efficient.",
+            "keywords": [
+                "Momentum",
+                "Data-snooping",
+                "Bootstrap"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhshastef/0536.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Multiscale Analysis of Foreign Exchange Order Flows and Technical Trading Profitability",
+            "abstract": "This paper investigates the multiscale (frequency-dependent) relationship between technical trading profitability and feedback trading effects in the Canada/U.S. dollar foreign exchange market. The results suggest weak evidence that technical trading activities of financial and non-financial customers drive frequent violations of the FX market microstructure assumption that exchange rate movements are driven by order flow. After controlling for transaction costs, we find that the contribution of financial customers in feedback trading dominates the contribution of non-financial customers at lower frequencies, while the opposite holds at higher frequencies. An additional, novel contribution is that technical indicators constructed from order flows can be profitable.",
+            "keywords": [
+                "Foreign Exchange Markets",
+                "Order Flows",
+                "Technical Trading",
+                "Frequency Domain"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ieswpaper/f201403.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Official Japanese Intervention in the JPY/USD Exchange Rate Market: Is It Effective and Through Which Channel Does It Work?",
+            "abstract": "This paper investigates whether official Japanese intervention in the JPY/USD exchange rate over the January 1999 to March 2004 time period is effective. By integrating the official intervention data with a comprehensive set of newswire reports capturing days on which there is a rumor or speculation of intervention, the paper also attempts to shed some light on through which of the two channels, the signaling channel in a broad sense or the portfolio balance channel, effective Japanese intervention works. The results suggest that Japanese intervention is effective during the first 5 years of the sample and ineffective during the last 3 months of the sample, thereby providing an ex-post rationale for why Japan intervened as well as for why the interventions stopped. Moreover, the results suggest that when Japanese intervention is effective, it works through a portfolio-balance channel. The results do not rule out that effective intervention also works through signaling.",
+            "keywords": [
+                "Exchange Rates",
+                "Foreign Exchange Market Intervention",
+                "Channels of Transmission"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/imeimedps/09-e-12.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Monetary Policy Announcement and Algorithmic News Trading in the Foreign Exchange Market",
+            "abstract": "We analyze the effects of algorithmic news trading (ANT) in the foreign exchange market around the time that the Bank of Japan makes public announcements of its policy decisions. To observe the activity level of ANT, we propose a novel measure based on a web access record to a central bank's webpage. We find that our proposed measure appropriately captures the activity level of ANT. Employing an event study analysis and a VAR analysis, we find that ANT increases market volatility immediately after the monetary policy announcements, and that ANT activity indirectly decreases market liquidity through increasing volatility. In addition, we suggest that ANT trades based on changes of texts on monetary policy announcements.",
+            "keywords": [
+                "Algorithmic trading",
+                "Monetary policy",
+                "High frequency data",
+                "Foreign exchange market",
+                "News trading",
+                "Market microstructure",
+                "Web access record"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/imeimedps/18-e-13.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

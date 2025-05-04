@@ -1,0 +1,162 @@
+{
+    "page_info": {
+        "page_number": 225,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "In Which Sectors Can Historical Prices Be Used for Return Predictability? An Empirical Study on Istanbul Stock Exchange with Automatic Portmanteau Test",
+            "abstract": "The aim of this study, to compare return predictability in other words, the weak form of market efficiency of different sectors in Turkey. For this purpose, analyses were carried out by automatic portmanteau test with a 2-year sub-sample size using the daily data between 19.04.2000-07.02.2020 of 19 primary sector indexes within Borsa Istanbul. As a result of the analyses, it was understood that Transportation, Insurance, Electricity, and Metal Products Machinery sectors have higher return predictability periods and therefore their weak form market efficiency is lower than other sectors. In addition, it was determined that the sectors that have the least predictable periods of return, in other words, that have more weak form efficiency than other sectors, are Food Beverage, Banks, Wholesale and Retail Trade, and Wood Paper Printing.",
+            "keywords": [
+                "Return Predictability",
+                "Automatic Portmanteau Test",
+                "Return",
+                "Efficient Markets Hypothesis",
+                "Stock Market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risbuecrj/0499.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Long-Memory in Volatilities of CDS Spreads: Evidences from the Emerging Markets",
+            "abstract": "In this study, we analyze the long-memory dependency in volatility of CDS spreads of four emerging markets (Turkey, Russia, South Africa, and Brazil) from 2001 to 2014. Preliminary evidence from Detrended Fluctuations Analysis (DFA) suggests the existence of long memory in all markets. We then use the fractionally integrated generalized autoregressive conditional heteroskedasticity (FIGARCH) model to estimate the magnitudes of the long-memory parameter. Following the information of modified ICSS test, the Adaptive FIGARCH (A-FIGARCH) and the Time-Varying FIGARCH (TV-FIGARCH) are also employed to control for the potential effects of structural breaks. The results are generally robust with those obtained from the FIGARCH model. The significant long-memory suggests that the Efficient Market Hypothesis (EMH) may not hold for the CDS spreads of those four countries.",
+            "keywords": [
+                "long-memory",
+                "emerging markets",
+                "CDS spreads",
+                "efficient market hypothesis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2016_3ai_3a1_3ap_3a122-137.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Who Are the Market Beaters: Lucky Investors, Insiders or Who Else?",
+            "abstract": "Conditions of beating the market is always top of the interests of investors throughout the history. In this study we aim to find who beats the market using a special trade and portfolio data from a stock exchange namely Borsa \u00c4\u00b0stanbul. Instead of market data, investor based data used in this paper provides us to make stronger analyses. We initially find that 87% of individual and 92% of institutional investors get returns in a random way. Then the rest of investors are investigated to determine who consistently beats the market and gets abnormal returns. And we mainly find that the market beating gets longer with increasing portfolio size and diversification, while it gets shorter with increasing turnover. Additionally, longer beating length means higher shares of women, old adults, funds and foreigner. Furthermore, we analyze the return performance of investors in our study and show that the picture becomes reversed compared to beating length criteria. Finally, the insiders are compared with other investors to understand whether the market is efficient in the strong form or not. And the findings indicate that the insiders cannot be specifically differentiated from other investors. Therefore, we end up with the evidence that there is strong form efficiency in Borsa \u00c4\u00b0stanbul.",
+            "keywords": [
+                "Market Beating",
+                "Abnormal Returns",
+                "Individual Investors",
+                "Institutional Investors",
+                "Insider Trading",
+                "Market Efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risbuecrj/0315.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Analysis of Forecasting Performance of Investors in Turkey Within Framework of the Random Walk Model (T\u00c3\u00bcrkiye\u00e2\u0080\u0099de Yat\u00c4\u00b1r\u00c4\u00b1mc\u00c4\u00b1lar\u00c4\u00b1n \u00c3\u0096ng\u00c3\u00b6r\u00c3\u00bc Performanslar\u00c4\u00b1n\u00c4\u00b1n Rassal Y\u00c3\u00bcr\u00c3\u00bcy\u00c3\u00bc\u00c5\u009f Modeli \u00c3\u0087er\u00c3\u00a7evesinde Analizi)",
+            "abstract": "The purpose of this study is to test the weak form efficiency within framework of the random walk model by using price movements of BIST-100 Index and to evaluate forecasting performance of investors in Turkish stock market. Whether investors can earn excess returns or not has been decided with determination of whether the stock price movements and expectations of investors follow a random walk or not at the period of 1990:01-2014:06 in Turkey. Firstly for this purpose, the randomness of price movements of BIST-100 Index has been tested by using Ljung-Box and LM analysis. The second assumption of random walk model, randomness of expectations of investor and each of information entering market has been analysed with BDS test. Empirical evidences show that investors in Turkish capital market can forecast by using historical stock price movements, investors can have all information which is likely to affect the stock price in advance, and investors can earn excess returns by taking decisions based on this information.",
+            "keywords": [
+                "Random walk model",
+                "weak-form efficiency",
+                "autocorrelation analysis",
+                "BDS test"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risbuecrj/0188.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The strategy approval decision: A Sharpe ratio indifference curve approach",
+            "abstract": "The problem of capital allocation to a set of strategies could be partially avoided or at least greatly simplified with an appropriate strategy approval decision process. This paper proposes such a procedure. We begin by splitting the capital allocation problem into two sequential stages: strategy approval and portfolio optimization. Then we argue that the goal of the second stage is to beat a na\u00c3\u00afve benchmark, and the goal of the first stage is to identify which strategies improve the performance of such a na\u00c3\u00afve benchmark. We believe that this is a sensible approach, as it does not leave all the work to the optimizer, thus adding robustness to the final outcome.We introduce the concept of the Sharpe ratio indifference curve, which represents the space of pairs (candidate strategy's Sharpe ratio, candidate strategy's correlation to the approved set) for which the Sharpe ratio of the expanded approved set remains constant. We show that selecting strategies (or portfolio managers) solely based on past Sharpe ratio will lead to suboptimal outcomes, particularly when we ignore the impact that these decisions will have on the average correlation of the portfolio. Our strategy approval theorem proves that, under certain circumstances, it is entirely possible for firms to improve their overall Sharpe ratio by hiring portfolio managers with negative expected performance. Finally, we show that these results have important practical business implications with respect to the way investment firms hire, layoff and structure payouts.",
+            "keywords": [
+                "Portfolio theory",
+                "Sharpe ratio",
+                "pairwise correlation",
+                "indifference curve",
+                "diversification",
+                "free call option"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risiosalg/0026.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "COVID-19 related uncertainty, investor sentiment and stock returns in India",
+            "abstract": "Akin to the global markets, the Indian stock market also nosedived in response to the COVID-19 pandemic. However, this drastic fall was not persistent; rather a sharp recovery was witnessed as a result of sweeping investor enthusiasm and wide-ranging speculation. In this paper, we explore the relationship between investor sentiment, stock returns and important macro variables during the COVID-19 period spanning from January, 2020 to May, 2021. We have also conducted event analysis to see the significance of major events during the period. While the Great Lockdown and first fiscal package impacted the stock returns significantly, the first case reported, second fiscal package, vaccination drive and the second wave failed to create a commendable impact. The event analysis also suggests that the Indian stock market responds negatively to an increase in interest rate uncertainty. Our empirical analysis shows evidence of significant effect of investor sentiment on stock returns during all periods, except the period of extreme volatility. Moreover, the stock return is positively related to oil price and negatively related to the exchange rate. We also find mixed evidence of COVID-19 related information on stock market.",
+            "keywords": [
+                "COVID-19 pandemic",
+                "uncertainty",
+                "investor sentiment",
+                "stock returns",
+                "event analysis",
+                "India"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/109549.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Verb\u00c3\u00a1ln\u00c3\u00ad intervence \u00c4\u008cNB: reaguje devizov\u00c3\u00bd kurz na slova bankovn\u00c3\u00ad rady?",
+            "abstract": "This paper focuses on impact of central bank's oral commentaries on asset prices, i.e. verbal interventions. The paper maps basic preconditions and key channel how central bank's words mirror into asset prices. A significant part of the paper concentrates on the Czech Republic where the exchange rate floor and accompanying frequent comments from the CNB's Bank Board are in operation since 2013. The first hypothesis tests whether there is asset price-making information during the Bank Board decision days. In this sense, the factor analysis confirms at least two factors which influence various asset prices. It is assumed that former factor concerns the surprise in monetary policy decision and the latter following press conference. The second hypothesis endeavours to specify the components of verbal interventions: position in the Bank Board, verbal intervention form and visibility of intervention topic. Only comments made by the CNB's governor proved to be significant, leading to higher volatility of the exchange rate.",
+            "keywords": [
+                "monetary policy",
+                "monetary instrument",
+                "intervention",
+                "exchange rates",
+                "central banking",
+                "central bank communication",
+                "asset price"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/prgjnlpol/v_3a2016_3ay_3a2016_3ai_3a4_3aid_3a1078_3ap_3a405-419.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do Investors' Sentiment Dynamics affect Stock Returns? Evidence from the US Economy",
+            "abstract": "This paper contributes to the understanding of the non-linear causal linkage between investors' sentiment dynamics and stock returns for the US economy. Employing the sentiment index developed by Baker and Wurgler (J. Econ. Perspect. 16: 129-151, 2007) and within a non-linear causality framework, we found that sentiment embodies significant predictive power with respect to stock returns.",
+            "keywords": [
+                "Investors' sentiment",
+                "Stock returns",
+                "Non-linear Granger causality."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/51128.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Wavelet Decomposition of the Financial Market",
+            "abstract": "A heterogeneous agents model with the Worst Out Algorithm (WOA) was considered for obtaining more realistic market conditions. The WOA replaces periodically the trading strategies that have the lowest performance level of all strategies presented on the market by the new ones. New strategies that enter on the market have the same stochastic structure as an initial set of strategies. This paper shows, by wavelets applications, strata influences of the trading strategies with the WOA.",
+            "keywords": [
+                "heterogeneous agents model with stochastic memory",
+                "worst out algorithm",
+                "wavelet",
+                "agents' trading strategies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/prgjnlpep/v_3a2007_3ay_3a2007_3ai_3a1_3aid_3a296_3ap_3a38-54.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Measuring patterns of price movements in the Treasury bill futures market",
+            "abstract": "There has been tremendous growth in interest rate futures markets since their beginning in 1975, both in terms of trading volume and the proliferation of new types of contracts. This paper focuses on the Treasury bill futures market and uses a descriptive statistic which was devised by Holbrook Working for the express purpose of analyzing price movements in commodity futures markets. When applied to the Treasury bill futures market, the statistic has been able to discover patterns of price movements that could not be detected by either the more traditional Box-Jenkins techniques or by spectral analysis.",
+            "keywords": [
+                "Futures markets",
+                "Treasury bills",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/48639.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "US Corporate Bond Yield Spread: A default risk debate",
+            "abstract": "According to theoretical models of valuing risky corporate securities, risk of default is primary component in overall yield spread. However, sizable empirical literature considers it otherwise by giving more importance to non-default risk factors. Current study empirically attempts to provide relative solution to this conundrum by presuming that problem lies in the subjective empirical treatment of default risk. By using post-hoc estimator approach of Lubotsky & Wittenberg (2006), we construct an efficient indicator for risk of default, by using sample of 252 US non-financial corporate data (2000-2010). On average, our results validate that almost 48% of change in yield spread is explained by default risk especially in recent financial crisis period (2007-2009). Hence, our results relatively suggest that potential problem lies in the ad-hoc measurement methods used in existing empirical literature",
+            "keywords": [
+                "Default risk",
+                "credit spread",
+                "risk-aversion",
+                "measurement error",
+                "index construction"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/44887.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Order types and natural price change: Model and empirical study of the Chinese market",
+            "abstract": "Order type plays an important role in algorithmic trading and is a key factor of price impact. In this paper, we propose a new framework for studying the discrete price change process, which focuses on the impacts of aggressive orders (market orders and aggressive limit orders) and cancelations. The price change process is driven by states and events of best quotes, and we define the event-based price change as the \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093natural price change\u00c3\u00a2\u00e2\u0082\u00ac (NPC). Under the framework, we propose a heteroscedastic linear econometric model for the NPC to explore the impact of different types of orders on the price dynamics. To verify the usability of our model and explore the driving factors of price dynamics, we conduct a thorough empirical analysis for 786 large-tick stocks traded on the Shenzhen Stock Exchange. Empirical results statistically demonstrate that aggressive orders can introduce stronger impact on the NPC than cancelations. Meanwhile, splitting a big order into several small orders can lead to a larger NPC. Our framework can also be applied for the prediction of price change.",
+            "keywords": [
+                "Market microstructure",
+                "high-frequency data",
+                "bid-ask spread",
+                "natural price change",
+                "order type"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/wsiijfexx/v_3a09_3ay_3a2022_3ai_3a04_3an_3as2424786322500335.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

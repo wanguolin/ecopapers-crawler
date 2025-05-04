@@ -1,0 +1,153 @@
+{
+    "page_info": {
+        "page_number": 227,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Momentum and reversal in financial markets with persistent heterogeneity",
+            "abstract": "Abstract This paper investigates whether short-term momentum and long-term reversal may emerge from the wealth reallocation process taking place in speculative markets. We assume that there are two classes of investors who trade long-lived assets by holding constantly rebalanced portfolios based on their beliefs. Provided beliefs, and thus portfolios, are sufficiently diversified, all investors survive in the long-run and, due to waves of mispricing, the resulting equilibrium returns exhibit long-term reversal. If, moreover, asset dividends are positively correlated, investors\u00e2\u0080\u0099 profitable trades become positively correlated too, thus generating short-term momentum in equilibrium returns. We use the model to replicate the performance of the Winners and Losers portfolios highlighted by the empirical literature and to provide insights on how to improve upon them. Finally, we show that dividend positive autocorrelation is positively related to momentum and negatively related to reversal while diversity of beliefs is positively related to both momentum and reversal.",
+            "keywords": [
+                "Market efficiency",
+                "Heterogeneous beliefs",
+                "Speculation",
+                "Short-term momentum",
+                "Long-term reversal",
+                "Evolutionary finance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kapannfin/v_3a15_3ay_3a2019_3ai_3a4_3ad_3a10.1007_5fs10436-019-00353-0.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does mutual fund ownership reduce stock price clustering? Evidence from active and index funds",
+            "abstract": "Abstract The literature is rich with examples of price clustering in financial markets. This study focuses on the relation between mutual fund ownership (both active and passive) and stock price clustering. To the extent that mutual funds are sophisticated investors, we posit that their trades are associated with lower levels of price clustering. We find support for this hypothesis as total, active, and passive mutual fund ownership are negatively related to the degree of price clustering. Surprisingly, price clustering\u00e2\u0080\u0099s association to passive (e.g. index) mutual fund ownership is an order of magnitude greater than to active ownership.",
+            "keywords": [
+                "Price clustering",
+                "Round prices",
+                "Mutual funds",
+                "Passive ownership",
+                "Active ownership"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a58_3ay_3a2022_3ai_3a2_3ad_3a10.1007_5fs11156-021-01004-0.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "On the inherent instability of international financial markets: Natural nonlinear interactions between stock and foreign exchange markets",
+            "abstract": "We develop a novel financial market model in which the stock markets of two countries are linked via and with the foreign exchange market. To be precise, there are domestic and foreign speculators in each of the two stock markets which rely either on linear technical or linear fundamental trading strategies to determine their orders. Since foreign stock market speculators require foreign currency to conduct their trades, all three markets are connected. Our setup entails a natural nonlinearity which may cause persistent endogenous price dynamics. Moreover, we analytically show that market interactions can destabilize the model's fundamental steady state.",
+            "keywords": [
+                "Stock prices",
+                "exchange rates",
+                "market stability",
+                "technical and fundamental analysis",
+                "nonlinear market interactions",
+                "endogenous dynamics"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwbamber/79.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Reinforcement Learning Equilibrium in Limit Order Markets",
+            "abstract": "This paper introduces an information-based reinforcement learning to exploit information channels to traders\u00e2\u0080\u0099 trading behavior in an equilibrium limit order market. Anticipating that informed traders are more likely to submit market buy (sell) orders when asset is significantly under (over) valued, uninformed traders tend to chase market buy (sell) orders of the informed to buy (sell). To gain from the order chasing of the uninformed, informed traders strategically submit more market buy (sell) and limit sell (buy) orders. This amplifies the order chasing behaviour of the uninformed, generating predictable trading behaviours that can improve information efficiency but reduce market liquidity. Order book information and learning can have opposite effects on order choices and endogenous liquidity provision for the informed and uninformed. Furthermore, more informed trading is beneficial, but fast trading can be harmful for market quality.",
+            "keywords": [
+                "Limit order market",
+                "reinforcement learning",
+                "order chasing",
+                "endogenous liquidity provision",
+                "and price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeedyncon/v_3a144_3ay_3a2022_3ai_3ac_3as0165188922002019.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Wine market efficiency: Is glass half full or half empty?",
+            "abstract": "This study investigates the efficiency of wine market and explores the predictability in wine returns. Daily returns on a portfolio of wines denominated in the original currency of trade for the period exhibit significant positive serial correlation that persists further when wine returns are sampled at weekly and monthly frequencies. Abnormal excess returns on wine are earned by various trading strategies designed to exploit trending behavior in asset prices before trading fees. After accounting for market frictions such as transaction costs, the abnormal profitability from wine trading evaporates. Claims of inefficiency and return predictability in a market sensitive to market frictions can be exaggerated when the latter are ignored.",
+            "keywords": [
+                "Wine asset",
+                "Market efficiency",
+                "Return predictability",
+                "Random walk",
+                "Moving average"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a98_3ay_3a2025_3ai_3ac_3as1059056025000589.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Spillover dynamics of digital assets during economic and political crises",
+            "abstract": "Our study investigates the interconnectedness and spillover effects among cryptocurrencies, Non-Fungible Tokens (NFTs), and Decentralized Finance (DeFi) assets during crises, both endogenous like the Terra Luna and FTX crashes, and exogenous like the Covid-19 pandemic and the Russia-Ukraine Military conflict. Utilizing a Quantile Vector Autoregression (QVAR) methodology, we analyze the relationships among these variables, emphasizing the dynamics between cryptocurrencies, NFTs, and DeFi assets. Our analysis explores the presence of spillover effects leading up to and during these crises. Notably, during the COVID-19 pandemic, Binance Coin (BNB), Ethereum, and Bitcoin acted as net transmitters, whereas DeFi and NFT-related cryptocurrencies served as vulnerable net receivers. Conversely, in the Russia-Ukraine conflict, LINK, FTX, and Theta transitioned from transmitters to net receivers. In the Terra Luna crash, LINK remained a primary net receiver. During the FTX crash, FTX, Binance Coin (BNB), Maker (MKR), LINK, and Synthetix (SNX) consistently operated as major net receivers. These findings offer valuable insights for stakeholders, including investors, portfolio managers, and policymakers, shedding light on the evolving dynamics and interconnectedness of digital assets in crisis settings. Understanding these dynamics is crucial for informed risk management and the development of effective investment strategies.",
+            "keywords": [
+                "Cryptocurrencies",
+                "NFTs",
+                "DeFi",
+                "Endogenous and Exogenous Crises"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a75_3ay_3a2025_3ai_3ac_3as0275531925000261.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Past returns and the perceived Sharpe ratio",
+            "abstract": "We find that human perception contradicts the market efficiency assertions that high expected returns are accompanied by high risk and that past returns are not correlated with future returns. A survey of investors reveals that the last month realized returns are positively correlated with next month perceived returns and that they are negatively correlated with perceived risk. Neither expected return nor perceived risk captures the entire effect. Thus, in the human mind the \u00e2\u0080\u009cperceived Sharpe ratio\u00e2\u0080\u009d is positively correlated with short-term past returns. The effect does not depend on gender, education, income, and portfolio value, but it is more profound among older investors.",
+            "keywords": [
+                "Expected return",
+                "Perceived risk",
+                "Perceived Sharpe ratio",
+                "Market efficiency",
+                "Random walk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejeborg/v_3a123_3ay_3a2016_3ai_3ac_3ap_3a149-167.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The AH premium: A tale of \u00e2\u0080\u009csiamese twin\u00e2\u0080\u009d stocks",
+            "abstract": "A large proportion of Chinese companies are dual-listed in both the mainland (A-share) and Hong Kong (H-share) markets. A-shares usually sell at a premium, known as the AH premium, which is large and volatile. The AH premium resembles a globally well-known premium puzzle in \u00e2\u0080\u009cSiamese twin\u00e2\u0080\u009d stocks. We find that a model of subjective stock price expectations, where agents forecast the future capital gains by extrapolating from the past provides a good explanation. This finding emphasizes the importance of modeling investors with extrapolative stock price expectations.",
+            "keywords": [
+                "AH premium",
+                "\u00e2\u0080\u009cSiamese twin\u00e2\u0080\u009d stocks",
+                "Extrapolative price expectations"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeempfin/v_3a81_3ay_3a2025_3ai_3ac_3as0927539825000210.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Statistical Limit of Arbitrage",
+            "abstract": "We investigate the economic consequences of statistical learning for arbitrage pricing in a high-dimensional setting. Arbitrageurs learn about alphas from historical data. When alphas are weak and rare, estimation errors hinder arbitrageurs\u00e2\u0080\u0094even those employing optimal machine learning techniques\u00e2\u0080\u0094from fully exploiting all true pricing errors. This statistical limit to arbitrage widens the equilibrium bounds of alphas beyond what traditional arbitrage pricing theory predicts, leading to a significant divergence between the feasible Sharpe ratio achievable by arbitrageurs and the unattainable theoretical maximum under perfect knowledge of alphas.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/33070.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Revisiting the relationship between spot and futures prices in the Nord Pool electricity market",
+            "abstract": "This work discusses potential pitfalls of applying linear regression models for explaining the relationship between spot and futures prices in electricity markets, in particular, the bias coming from the simultaneity problem, the effect of correlated measurement errors and the impact of seasonality on the regression results. Studying a 13-year long (1998\u00e2\u0080\u00932010) price series of spot and futures prices at Nord Pool and employing regression models with GARCH residuals, we show that the impact of the water reservoir level on the risk premium is positive, which is to be expected, but contradicts the results of Botterud et al. (2010). We also show that after taking into account the seasonality of the water level, the storage cost theory proposed by Botterud et al. (2010) to explain the behavior of convenience yield has only limited support in the data.",
+            "keywords": [
+                "Electricity market",
+                "Spot and futures prices",
+                "Risk premium",
+                "Convenience yield"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a44_3ay_3a2014_3ai_3ac_3ap_3a178-190.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "European Put-Call Parity and the Early Exercise Premium for American Currency Options",
+            "abstract": "The European put-call parity condition is used to estimate the early exercise premium for American currency options traded on the Philadelphia Stock Exchange. Using a sample of 331 pairs of call and put options with the same exercise price and time to expiration, evidence is provided for early exercise premiums that average 5.03% for put options and 4.60% for call options. The premiums for both call and put options are strongly related to the interest rate differential and time to expiration. These results have implications for the use of European option pricing models in the valuation of American options.",
+            "keywords": [
+                "European put-call parity",
+                "currency options",
+                "early exercise premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/mfjjournl/v_3a13_3ay_3a2009_3ai_3a1-2_3ap_3a39-54.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Brand Capital and Firm Value",
+            "abstract": "We study the role of brand capital -- a primary form of intangible capital -- for firm valuation and risk in the cross section of publicly traded firms. Using a empirical measure of brand capital stock constructed from advertising expenditures accounting data, we show that: (i) firms with low brand capital investment rates have higher average stock returns than firms with high brand capital investment rates, a difference of 5.2% per annum; (ii) more brand capital intensive firms have higher average stock returns than less brand capital intensive firms, a difference of 5.1% per annum; and (iii) investment in both brand capital and physical capital is volatile and procyclical. A neoclassical investment-based model in which brand capital is a factor of production subject to adjustment costs matches the data well. The model also provides a novel explanation for the empirical links between advertising expenditures and stock returns around seasoned equity offerings (SEO) documented in previous studies. (Copyright: Elsevier)",
+            "keywords": [
+                "Asset pricing",
+                "Intangible capital",
+                "Return predictability",
+                "SEOs"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/redissued/12-71.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

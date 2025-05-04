@@ -1,0 +1,152 @@
+{
+    "page_info": {
+        "page_number": 60,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The early news catches the attention: On the relative price impact of similar economic indicators",
+            "abstract": "There is strong evidence that macroeconomic releases influence prices in financial markets. However, why do markets react to some announcements while they ignore others with a similar content? Based on a Bayesian learning model, we show that market impact is mainly determined by information quality and timeliness of a release. To test the model's implications, we analyze the successive introduction of the two largest German business surveys: the well-known IFO index and the recently introduced ZEW economic indicator. In line with the model's prediction, we find a diminishing market impact of the IFO index after the ZEW indicator was introduced.",
+            "keywords": [
+                "Bayesian Learning",
+                "Macroeconomic Announcements",
+                "Information Processing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/0703.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mutual fund flows, expected returns, and the real economy",
+            "abstract": "The paper explores whether the co-movement of market returns and equity fund flows can be explained by a common response to macroeconomic news. I find that variables that predict the real economy as well as the equity premium are related to mutual fund flows. Changes in dividend-price ratio explain mutual fund flows beyond the information contained in returns. Further predictive variables such as default spread, relative T-Bill rate and, in particular consumption-wealth ratio also explain mutual fund flows. Mutual fund flows are, in accordance with the information-response hypothesis, forward-looking and predict real economic activity.",
+            "keywords": [
+                "aggregate mutual fund flows",
+                "equity premium",
+                "return predictability",
+                "asset pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/1104.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market response to investor sentiment",
+            "abstract": "Recent empirical research suggests that measures of investor sentiment have predictive power for future stock returns over the intermediate and long term. Given the widespread publication of sentiment indicators, smart investors should trade on the information conveyed by such indicators and thus trigger an immediate market response to their publication. The present paper is the first to empirically analyze whether an immediate response can be identified from the data. We use survey-based sentiment indicators from two countries (Germany and the US). Consistent with previous research we find there is predictability at intermediate time horizons. For the US, however, the predictability disappears after 1994. Using event study methodology we find that the publication of sentiment indicators affects market returns. The sign of the immediate response is the same as that of the predictability over the intermediate term. This finding is consistent with the idea that sentiment is related to mispricing, but is inconsistent with the idea that the sentiment indicator provides information about future expected returns.",
+            "keywords": [
+                "Investor Sentiment",
+                "Event Study",
+                "Return Predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/1101.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The price impact of CDS trading",
+            "abstract": "In this paper we show that informational and real frictions in CDS markets strongly affect CDS premia. We derive this main finding using a proprietary set of individual CDS transactions cleared by the Depository Trust & Clearing Corporation. We first show that CDS traders adjust the CDS premium in response to the observed order flow. Buy orders lead to an increase of the premium and sell orders to a decrease, suggesting that the order flow carries information. Second, we show that traders adjust the premium more for transactions with higher inventory risk. Third, trading with buy-side investors who presumably have less market power increases this effect. Overall, our results imply that CDS premia contain a significant non-default related component which CDS traders charge to protect themselves against informational and real frictions.",
+            "keywords": [
+                "CDS",
+                "frictions",
+                "asymmetric information",
+                "inventory risk",
+                "market power"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwbubdps/202013.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of iceberg orders in limit order books",
+            "abstract": "We examine the impact of iceberg orders on the price and order flow dynamics in limit order books. Iceberg orders allow traders to simultaneously hide a large portion of their order size and signal their interest in trading to the market. We show that when the market learns about iceberg orders they tend to strongly attract market orders consistent with iceberg orders facilitating the search for latent liquidity. The greater the fraction of an iceberg order that is executed the smaller its price impact consistent with liquidity rather than informed trading. The presence of iceberg orders is associated with increased trading consistent with a positive liquidity externality, but the reduced order book transparency associated with iceberg orders also creates an adverse selection cost for limit orders that may partly offset any gains.",
+            "keywords": [
+                "Hidden Liquidity",
+                "Iceberg Orders",
+                "Limit Order Markets",
+                "Transparency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfrwps/0906.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price discovery in spot and futures markets: A reconsideration",
+            "abstract": "We reconsider the issue of price discovery in spot and futures markets. We use a threshold error correction model to allow for arbitrage operations to have an impact on the return dynamics. We estimate the model using quote midpoints, and we modify the model to account for time-varying transaction costs. We find that the futures market leads in the process of price discovery. The lead of the futures market is more pronounced in the presence of arbitrage signals. Thus, when the deviation between the spot and the futures market is large, the spot market tends to adjust to the futures market.",
+            "keywords": [
+                "Futures Markets",
+                "Threshold Error Correction",
+                "Information Shares",
+                "Common Factor Weights"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/200927.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market response to investor sentiment",
+            "abstract": "This paper reconsiders the effect of investor sentiment on stock prices. Using survey-based sentiment indicators from Germany and the US we confirm previous findings of predictability at intermediate time horizons. The main contribution of our paper is that we also analyze the immediate price reaction to the publication of sentiment indicators. We find that the sign of the immediate price reaction is the same as that of the predictability at intermediate time horizons. This is consistent with sentiment being related to mispricing but is inconsistent with the alternative explanation that sentiment indicators provide information about future expected returns.",
+            "keywords": [
+                "Investor Sentiment",
+                "Event Study",
+                "Return Predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/201102.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The diminishing liquidity premium",
+            "abstract": "Previous evidence suggests that less liquid stocks entail higher average returns. Using NYSE data, we present evidence that both the sensitivity of returns to liquidity and liquidity premia have significantly declined over the past four decades to levels that we cannot statistically distinguish from zero. Furthermore, the profitability of trading strategies based on buying illiquid stocks and selling illiquid stocks has declined over the past four decades, rendering such strategies virtually unprofitable. Our results are robust to several conventional liquidity measures related to volume. When using liquidity measure that is not related to volume, we find just weak evidence of a liquidity premium even in the early periods of our sample. The gradual introduction and proliferation of index funds and exchange traded funds is a possible explanation for these results.",
+            "keywords": [
+                "Liquidity",
+                "Illiquidity",
+                "Liquidity Premium",
+                "Stock Returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/200852.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The trend is not your friend! Why empirical timing success is determined by the underlying's price characteristics and market efficiency is irrelevant",
+            "abstract": "The often reported empirical success of trend-following technical timing strategies remains to be puzzling. In previous academic research, many authors admit some prediction power but struggle to substantiate their findings by referring vaguely to insufficient market effciency or unknown hidden patterns in asset price processes. We claim that empirical timing success is possible even in perfectly efficient markets but does not indicate prediction power. We prove this by systematically tracing back timing success to the statistical characteristics of the underlying asset price time series, which is modeled by standard stochastic processes. Five major impact factors are studied: return autocorrelation, trend, volatility and its clustering as well as the degree of market efficiency. We use trading rules based on different intervals of the simple moving average (SMA) as an example. These strategies are applied to simulated asset price data to allow for systematic parameter variations. Subsequently, we test the same strategies on real market data using non-parametric historical simulations and compare the results. Evaluation is done by an extensive selection of statistical-, return-, risk-, and performance figures calculated from the simulated return distributions.",
+            "keywords": [
+                "bootstrapping",
+                "market efficiency",
+                "market timing",
+                "parameterized simulation",
+                "performance analysis",
+                "return distribution",
+                "technical analysis",
+                "technical trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcpqfwp/29.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Quantifying the efficiency of the Xetra LOB market: Detailed recipe",
+            "abstract": "Motivated by the prominent role of electronic limit order book (LOB) markets in today\u00e2\u0080\u0099s stock market environment, this paper provides the basis for understanding, reconstructing and adopting Hollifield, Miller, Sandas, and Slive\u00e2\u0080\u0099s (2006) (henceforth HMSS) methodology for estimating the gains from trade to the Xetra LOB market at the Frankfurt Stock Exchange (FSE) in order to evaluate its performance in this respect. Therefore this paper looks deeply into HMSS\u00e2\u0080\u0099s base model and provides a structured recipe for the planned implementation with Xetra LOB data. The contribution of this paper lies in the modification of HMSS\u00e2\u0080\u0099s methodology with respect to the particularities of the Xetra trading system that are not yet considered in HMSS\u00e2\u0080\u0099s base model. The necessary modifications, as expressed in terms of empirical caveats, are substantial to derive unbiased market efficiency measures for Xetra in the end.",
+            "keywords": [
+                "Limit Order Book Market",
+                "Gains from Trade",
+                "Xetra"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/200821.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Euro crash risk",
+            "abstract": "We identify crucial events during the European sovereign debt crisis and investigate their impact on the euro currency. In particular, we analyse how specific announcements related to vulnerable Eurozone member states, European Central Bank (ECB) actions, and credit rating downgrades affect the value and the crash risk of the euro. We proxy the value changes of the euro by its abnormal foreign exchange (FX) rate returns with respect to 35 currencies. The crash risk of the euro is proxied by the conditional skewness of the FX rate return distribution with respect to the same currencies. We find that the market reacts positively to news related to countries under the European and International Monetary Fund (IMF) rescue umbrella. We discover that ECB actions on average result in a euro depreciation on the day of the announcement reflecting obvious concerns of market participants, but the effect is partly corrected the day after. Our analysis also shows that sovereign credit rating downgrades tend to lead to a depreciation of the euro and, more importantly, to an increase of the euro crash risk. Interestingly, we find that specific announcements about Greece on average do not substantially affect the euro exchange rate directly, however, it does have an overall significant effect on the euro rash risk, imposing a substantial risk for the stability of the common currency in the Eurozone.",
+            "keywords": [
+                "Sovereign debt crisis",
+                "News announcements",
+                "Euro value",
+                "Euro crash risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwcfswop/524.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does survivorship bias really matter? An empirical investigation into its effects on the mean reversion of share returns on the JSE Securities Exchange (1984-2006)",
+            "abstract": "This paper tests for the impact of survivorship bias by building on the work of Cubbin, Eidne, Firer and Gilbert (2006), and Bailey and Gilbert (2007). The former paper confirmed the existence of mean reversion on the JSE Securities Exchange, because portfolios of shares with high Price to Earnings (P/E) ratios (being those which had tended to outperform recently) underperformed significantly over five years against portfolios of shares with low P/E ratios. The latter paper developed the economic validity of this conclusion by applying liquidity constraints to portfolio formation. This tended to slightly dampen the observed effects, but confirmed the significant presence of mean reversion. In both cases, extensive efforts were made to include all delisted shares in the study to avoid the effects of survivorship bias. This paper updates both studies by extending the period for a further 21 months, and then quantifies the impact of survivorship bias by comparing the results against those of an equivalent study based on a data set of currently listed shares only. The results of our study confirm that the effects of survivorship bias are present and material. While patterns of mean reversion are detected on both data sets, the returns earned on portfolios selected from currently listed shares are significantly higher than the corresponding returns on portfolios selected from all shares. Survivorship bias is therefore confirmed to be a significant issue in such studies, which researchers should be careful to avoid; although it does not necessarily affect the conclusion of the patterns of mean reversion revealed in the earlier studies.",
+            "keywords": [
+                "Survivorship bias",
+                "mean reversion",
+                "P/E ratio"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/szawpaper/wpapers67.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 216,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Price discovery during parallel stocks and options preopening: Information distortion and hints of manipulation",
+            "abstract": "Many exchanges act to prevent manipulative orders from distorting informative price discovery during stock and options\u00e2\u0080\u0099 markets preopening. Most preopening sessions run in parallel: indicative book-based stock prices alongside traded index options, whose underlying asset is the indicative index. Lead-lag patterns between the options-implied and the indicative indexes may point to differences in informational efficiency and/or manipulated prices. With three regulatory events throughout our sample, serving as natural experiments, we explore price discovery properties in both markets. We find significant lead-lag, price reversal, and order cancellation patterns similar to those predicted by theoretical models of manipulation, together with informational inefficiencies.",
+            "keywords": [
+                "Price discovery",
+                "Manipulation",
+                "Preopening",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a59_3ay_3a2022_3ai_3apa_3as1386418122000015.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock market returns, volatility, correlation and liquidity during the COVID-19 crisis: Evidence from the Markov switching approach",
+            "abstract": "This paper investigates the relationship between US stock market returns (S&P500) and three indicators of the market, namely implied volatility, implied correlation and liquidity. It also considers the short range dependence between both total confirmed cases and deaths in twelve countries and market movements. We use the two-regime Markov switching model to find the structural break between stock market returns and key stock market indicators. The findings show close dependence between returns and both implied volatility and implied correlation but not with liquidity. The findings indicate the unique role of Italy in crisis transmission.",
+            "keywords": [
+                "COVID-19",
+                "VIX",
+                "Implied correlation",
+                "Liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a37_3ay_3a2020_3ai_3ac_3as1544612320315890.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The volatility of stock investor returns",
+            "abstract": "The volatility of stock investor returns depends not only on the volatility of the stocks they hold but also on their time-varying capital exposure to these holdings. Using individual stocks, portfolios of stocks, and indexes across U.S. and international stock markets, we provide comprehensive evidence that the volatility of investor returns is consistently higher than the corresponding volatility of stock returns across nearly all specifications. The relative magnitude of the volatility differential ranges from 10% to 75%, increasing with investment horizon. This discrepancy is driven primarily by investors\u00e2\u0080\u0099 propensity to \"flee volatility,\" withdrawing equity capital following periods of high volatility.",
+            "keywords": [
+                "Stock returns",
+                "Volatility",
+                "Investor returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a70_3ay_3a2024_3ai_3ac_3as1386418124000454.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asymmetric effect of style comovement on momentum",
+            "abstract": "This study examines whether the impact of style investing on momentum profits depends on market states. By measuring the style comovement to evaluate the influence of style investing on momentum, our evidence shows that the momentum profits on high style comovement portfolios are higher than on low style comovement portfolios. The momentum strategies on high style comovement portfolios are more profitable when the market is optimistic. Our findings demonstrate that style chasing behavior by investors is reinforced following increased market optimism, thus generating an asymmetric influence of style investing in momentum profits.",
+            "keywords": [
+                "Style investing",
+                "Market states",
+                "Style comovement",
+                "Momentum",
+                "Style chasing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a31_3ay_3a2019_3ai_3ac_3ap_3a146-154.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Testing for mean reversion in Bitcoin returns with Gibbs-sampling-augmented randomization",
+            "abstract": "In the present paper, we attempt to verify whether the Bitcoin log-returns are mean reverted in the presence of heteroskedastic disturbances driven by a mixture distribution. To tackle this problem, we use the autoregression test of mean reversion based on the Gibbs-sampling-augmented randomization methodology. In general, our results indicated that Bitcoin is mean averting for different returns horizons, model specifications and for sub-sample periods, which show the explosive characteristic of the Bitcoin in the period of analysis from 2010 to 2019.",
+            "keywords": [
+                "Autoregression tests",
+                "Mean reversion in Bitcoin market",
+                "Markov-switching models",
+                "Gibbs-sampling-augmented randomization"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a34_3ay_3a2020_3ai_3ac_3as1544612319306415.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price clustering and sentiment in bitcoin",
+            "abstract": "While prior research provides evidence of price clustering in bitcoin, this study seeks to explain the unusual level of bitcoin price clustering using various measures of bitcoin-level and market-wide sentiment. Our results suggest that sentiment has a strong positive association with price clustering. In economic terms, a one standard deviation increase in sentiment \u00e2\u0080\u0093 measured by Google Trends \u00e2\u0080\u0093 explains about 2.5% to 5% of the unusual level of price clustering in Bitcoin. We also find that our results are robust when we use other measures of investor sentiment.",
+            "keywords": [
+                "Bitcoin",
+                "Cryptocurrency",
+                "Price clustering",
+                "Round prices",
+                "Sentiment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a29_3ay_3a2019_3ai_3ac_3ap_3a111-116.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Brexit: Short-term stock price effects and the impact of firm-level internationalization",
+            "abstract": "We perform an event study analysis to determine short-term abnormal stock returns following the Brexit referendum. Moreover, we examine whether firm-level internationalization helps explaining abnormal returns. We find that stocks of firms with higher proportions of domestic sales realized more negative abnormal returns than stocks of firms with more sales abroad, i.e., a higher degree of international diversification. While firm-level internationalization largely explains abnormal returns on the trading day after the referendum, it has no relevant pricing effect in the following days. The quick adjustment of stock prices to reflect firm-level internationalization indicates a high degree of market efficiency.",
+            "keywords": [
+                "Internationalization",
+                "Brexit",
+                "International diversification",
+                "Stock returns",
+                "Stock price effect",
+                "Event study"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a22_3ay_3a2017_3ai_3ac_3ap_3a175-181.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sell in May and Go Away: Evidence from China",
+            "abstract": "Using the Chinese stock market data from 1997 to 2013, this paper examines the \u00e2\u0080\u009cSell in May and Go Away\u00e2\u0080\u009d puzzle first identified by Bouman and Jacobsen (2002). We find strong existence of the Sell in May effect, robust to different regression assumptions, industries, and after controlling for the January or February effect. However, part of the puzzle is subsumed by the seasonal affective disorder effect. We then construct a trading strategy based on this puzzle, and find that it outperforms the buy-and-hold strategy and could resist the market downside risk during large recession periods.",
+            "keywords": [
+                "Sell in May effect",
+                "Chinese stock market",
+                "Seasonal affective disorder",
+                "Downside risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a11_3ay_3a2014_3ai_3a4_3ap_3a362-368.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The value premium, aggregate risk innovations, and average stock returns",
+            "abstract": "We test whether innovations in aggregate risk, interpolated from a vector autoregressive system that contains the Chen et al. (1986) five factors as in Petkova (2006), are common factors in cross-sectional stock returns. We provide direct evidence that innovation in industrial production growth, a classical business-cycle variable that summarizes the state of the economy, is associated with the cross-sectional return predictability of individual stocks. We conclude that the role of innovation in aggregate risk is not random, and furthermore that it provides guidance concerning an important source of nonfinancial market-based risk in asset returns.",
+            "keywords": [
+                "Firm size",
+                "Book-to-market",
+                "Risk innovations",
+                "Industrial production growth",
+                "Investment opportunity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a11_3ay_3a2014_3ai_3a3_3ap_3a303-317.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Long memory and the relation between options and stock prices",
+            "abstract": "This study investigates the long-memory property and the fractionally cointegration between absolute changes in observed stock prices and implied stock prices from option pricing model. We find a stylized fact that absolute price movements in stock and option markets are characterized by long memory and they present a fractionally cointegrated relation. The option prices appear to be valuable for the stock prices based on an appropriate econometric methodology, which captures the persistence of both price series. Our empirical results also support the presence of information effect in call option, but the volume effect is absent for all cases.",
+            "keywords": [
+                "Long memory",
+                "Fractional cointegration",
+                "Information effect",
+                "Volume effect",
+                "NBLS formula"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a12_3ay_3a2015_3ai_3ac_3ap_3a77-91.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Identifying portfolio-based systematic risk factors in equity markets",
+            "abstract": "Four prominent new asset pricing factors have recently been proposed. We test whether these factors fulfill the necessary conditions to qualify as risk factors. We show that the investment and betting-against-beta factors fulfill these conditions. However, the profitability and quality factors do not fulfill these conditions pointing towards non-risk-based explanations.",
+            "keywords": [
+                "Asset pricing model",
+                "Betting-against-beta factor",
+                "Quality factor",
+                "Investment factor",
+                "Profitability factor"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a17_3ay_3a2016_3ai_3ac_3ap_3a88-92.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Nonrandom price movements",
+            "abstract": "Local peaks and valleys are constructed as time points with prices respectively above and below the two adjacent values. We demonstrate, quite generally, that under stylized financial model assumptions, the expected inter peak and inter valley times should be 4 days. The times observed in data are statistically significantly below this value, possibly questioning stylized assumptions. Our investigation thereby lends some support to the presence of mean reversion and the related activities of technical and algorithmic traders seeking to benefit from such a structure.",
+            "keywords": [
+                "Variance gamma",
+                "Geometric Brownian motion",
+                "Momentum",
+                "Mean reversion"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a17_3ay_3a2016_3ai_3ac_3ap_3a103-109.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

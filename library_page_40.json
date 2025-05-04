@@ -1,0 +1,158 @@
+{
+    "page_info": {
+        "page_number": 40,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Aggregate investor sentiment and stock return synchronicity",
+            "abstract": "We show that the returns of individual stocks become more synchronous with the aggregate market during periods of high investor sentiment. We also document that the effect of sentiment on stock return synchronicity is especially pronounced for small, young, volatile, non-dividend-paying and low-priced stocks. This \u00e2\u0080\u0098difference in difference\u00e2\u0080\u0099 suggests that stocks with these characteristics are affected more by sentiment\u00e2\u0080\u0094consistent with previous studies. Our results support the hypothesis that greater constraints on arbitrage and the prevalence of sentiment-driven demand during periods of high sentiment lead to increased comovement among stocks.",
+            "keywords": [
+                "Aggregate investor sentiment",
+                "Stock return synchronicity",
+                "Time-series variation",
+                "Cross-sectional difference"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a108_3ay_3a2019_3ai_3ac_3as0378426619302031.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The R&D anomaly: Risk or mispricing?",
+            "abstract": "We offer new evidence on the risk versus mispricing explanations for the R&D anomaly. Return covariance with a characteristic-based factor captures the cross-sectional return variation on R&D portfolios not explained by asset pricing models. This is consistent with both covariance risk and mispricing. Under the framework of the ICAPM, we find little economic justification that an R&D factor is a proxy for innovations to a state variable. The characteristic subsumes the factor loading in direct tests, providing support to the mispricing hypothesis. Investigating the mispricing explanation further, we reject the assertion that the R&D anomaly arises from the correction of stocks mispriced by investor sentiment. A natural experiment exploiting the pilot program under Regulation SHO shows no evidence that the anomaly persists due to limits to arbitrage in the form of short sale constraints.",
+            "keywords": [
+                "R&D anomaly",
+                "Covariance risk",
+                "ICAPM",
+                "Mispricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a115_3ay_3a2020_3ai_3ac_3as0378426620300820.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Country governance and international equity returns",
+            "abstract": "Monthly returns in countries with strong governance lead monthly returns in weak governance countries. This predictability holds in and out-of-sample at both the group and individual country levels. Moreover, the predictability is not fully explained by other related possible sources of cross-country predictability such as differences in country development, political risk, size, liquidity, short-selling constraints, the predictive ability of U.S. equity returns, or non-synchronous trading. It appears that equity returns in different countries react to value-relevant world information at different speeds based on their levels of country governance.",
+            "keywords": [
+                "Governance",
+                "Return predictability",
+                "Information diffusion"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a122_3ay_3a2021_3ai_3ac_3as037842662030248x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Informational role of social media: Evidence from Twitter sentiment",
+            "abstract": "This paper examines the information content of firm-specific sentiment extracted from Twitter messages. We find that Twitter sentiment predicts stock returns without subsequent reversals. This finding is consistent with the view that tweets provide information not already reflected in stock prices. We investigate possible sources of return predictability with Twitter sentiment. The results show that Twitter sentiment provides new information about analyst recommendations, analyst price targets and quarterly earnings. This information explains about one third of the predictive ability of Twitter sentiment for stock returns. Taken together, our findings shed new light on whether and why social media content has predictive value for stock returns.",
+            "keywords": [
+                "Twitter sentiment",
+                "News sentiment",
+                "Social media",
+                "Return predictability",
+                "Analyst recommendations",
+                "Earnings forecasts",
+                "Target prices"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a121_3ay_3a2020_3ai_3ac_3as0378426620302314.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Firm life cycle, expectation errors and future stock returns",
+            "abstract": "I study the return predictability of firm life cycle, originally documented by Dickinson (2011). I show that a hedge portfolio strategy going long on mature firms and short on introduction firms generates a significant hedge portfolio return of 1.29% per month in return-weighted portfolios and 0.72% in value-weighted portfolios. The returns to firm life cycle are related to investors\u00e2\u0080\u0099 and analysts\u00e2\u0080\u0099 expectation errors, are driven by market-wide investor sentiment, and are more pronounced among stocks with low institutional ownership and high idiosyncratic volatility. Quantile regressions show that introduction firms have considerably greater uncertainty and skewness in future earnings growth outcomes than mature firms, such that analysts are better able to justify optimistically biased forecasts for introduction firms compared to mature firms.",
+            "keywords": [
+                "Firm life cycle",
+                "Stock returns",
+                "Expectation errors",
+                "Limits to arbitrage"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a143_3ay_3a2022_3ai_3ac_3as037842662200187x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum life cycle, revisited",
+            "abstract": "The momentum life cycle (MLC) hypothesis proposed by Lee and Swaminathan (2000) is spurious because it is largely driven by multiplying two widely documented effects on momentum and turnover. After controlling for these two effects, what remains is a negative return pattern for late-stage momentum, mostly driven by the higher returns of low-turnover losers. Although the higher returns of low-turnover losers disappear either under a risk adjustment or with the inclusion of NASDAQ stocks, they remain significant during periods of optimism, thus supporting the underreaction theory of momentum proposed by Hong and Stein (2007), whereby turnover proxies for the divergence of opinion among investors.",
+            "keywords": [
+                "Trading volume",
+                "Price momentum",
+                "Momentum life cycle"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a127_3ay_3a2021_3ai_3ac_3as0378426621000777.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Tuesday Blues and the day-of-the-week effect in stock returns",
+            "abstract": "This study evaluates the impact of investor mood and mood contagion on the cross-section of Australian stock returns. While we document a day-of-the-week effect in Australia, there are noticeable differences to the US (Birru, 2018). Australian stock returns on Tuesday are significantly lower than other weekdays. This \u00e2\u0080\u0098Tuesday Blues\u00e2\u0080\u0099 effect is most prominent amongst speculative stocks which, being more difficult to value, are more likely to be influenced by investor mood. We further report that Australian speculative stock returns are more correlated with factors indicative of same-day domestic mood and lagged US mood. Exploiting the 14-hour difference in time zones, we find that Tuesday returns to Australian speculative stocks are lower following extremely negative Monday mood or high risk aversion in the US. Overall, our results are consistent with mood contagion across international markets, which contributes to the observed daily patterns in stock returns after recognizing differences in time zones.",
+            "keywords": [
+                "Speculation",
+                "Contagion",
+                "Spillover",
+                "Stock returns",
+                "Investor mood",
+                "Anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a133_3ay_3a2021_3ai_3ac_3as0378426621002028.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does FinTech coverage improve the pricing efficiency of capital market? Evidence from China",
+            "abstract": "Analyzing a sample of Chinese firms, we find that when companies receive more coverage from FinTech advisory firms, their stock prices move less in tandem with the overall market. This suggests that FinTech coverage improves how accurately stock prices reflect firm-specific information. Our results hold true across multiple testing methods and alternative ways of measuring stock price synchronicity. Further analysis shows that FinTech coverage reduces stock price synchronicity primarily by addressing information gaps between companies and investors. Additionally, greater FinTech coverage improves stock liquidity and lowers the costs of raising debt or equity financing. When examining the topics covered by FinTech firms, we find that diverse coverage topics are linked to lower stock price synchronicity, with discussions on finance, corporate governance, and negative sentiment playing a particularly effective role. Finally, a textual analysis reveals that FinTech coverage includes significantly more firm-specific information than traditional analyst reports.",
+            "keywords": [
+                "FinTech coverage",
+                "Stock price synchronicity",
+                "Firm-specific information",
+                "Pricing efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a172_3ay_3a2025_3ai_3ac_3as0378426625000172.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Business cycle variation in positive feedback trading: Evidence from the G-7 economies",
+            "abstract": "Using the business cycle indicators and the aggregate stock market data, this paper examines the degree of positive feedback trading in the G-7 economies and the extent to which such behaviour varies across business cycle. The evidence suggests that there is a significant positive feedback trading in the major stock exchanges of G-7 countries and its intensity is linked to the overall macroeconomic conditions. Specifically, our investigation reveals that in expansions there is more active positive feedback trading than in recessions. Overall, our results yield an important insight into the effect of business cycle on investors\u00e2\u0080\u0099 behaviour and market dynamics and bear important implications for the investment professions and market regulators.",
+            "keywords": [
+                "Business cycle",
+                "Feedback trading",
+                "G-7 economies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a35_3ay_3a2015_3ai_3ac_3ap_3a147-159.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The changing landscape of treasury auctions",
+            "abstract": "Contemporary literature attributes the temporary drop in secondary prices before a Treasury auction to primary dealers\u00e2\u0080\u0099 limited risk-bearing capacity and slow-moving capital. We attribute the temporary price pressure to slow-moving capital, but not primary dealer\u00e2\u0080\u0099s limited risk-bearing capacity. We document a decline of more than 45% in the Treasury Inflation-Protected Securities (TIPS) auction amount allocated to primary dealers over the years and uncover empirical evidence inconsistent with dealers being the main contributor to the auction cycle. In contrast, our results suggest strategic trading behavior whereby some direct and indirect bidders deliberately reduce their demand in the days leading to the auction. More specifically, we find that, on average, inflows into inflation-indexed mutual funds before the auction days do not translate into increased demand for the underlying, as opposed to inflows on other days. Our results imply an issuance cost to the US Treasury of over $300 million for issuing TIPS in 2019 alone.",
+            "keywords": [
+                "Treasury auctions",
+                "Event-study analysis",
+                "Primary dealers",
+                "Slow-moving capital",
+                "Mutual funds",
+                "Zero-coupon inflation swaps"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a148_3ay_3a2023_3ai_3ac_3as0378426622002941.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asset market equilibria in cryptocurrency markets: Evidence from a study of privacy and non-privacy coins",
+            "abstract": "This paper explores whether asset market equilibria in cryptocurrency markets do exist. In doing so, it distinguishes between privacy and non-privacy coins. Most recently, privacy coins have attracted increasing attention in the public debate as non-privacy cryptocurrencies, such as Bitcoin, do not satisfy some users\u00e2\u0080\u0099 demands for anonymity. Analyzing ten cryptocurrencies with the highest market capitalization in each submarket in the 2016\u00e2\u0080\u00932018 periods, we find that privacy coins exhibit a distinct market equilibrium. Contributing to the current debate on the market efficiency of cryptocurrency markets, our findings provide evidence of market inefficiency. Moreover, the asset market equilibrium of privacy coins appears to originate from non-privacy coins with highest market capitalizations. We argue that the reason for this finding could be that non-privacy coins may be the first choice for criminals who might prefer cryptocurrencies exhibiting both a high level of anonymity and liquidity.",
+            "keywords": [
+                "Cryptocurrency",
+                "Bitcoin",
+                "Privacy coins",
+                "Non-privacy coins",
+                "Market equilibria"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a74_3ay_3a2021_3ai_3ac_3as1042443121001190.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Momentum profits and conditional time-varying systematic risk",
+            "abstract": "The predictability of security prices and the ability to develop profitable trading strategies is of great interest in the financial world. This paper examines momentum profits over the period January 1980 to December 2010 in the UK stock market, and attempts to explain whether such profits can be attributed to time-varying systematic risk based upon the conditional CAPM. Time-varying betas are estimated from time-varying conditional variances and covariances, where conditional information is incorporated by modelling variances and covariances using ARCH, GARCH and GARCH-M models. For the majority of momentum trading strategies winner portfolios show higher systematic risk than loser portfolios, and in some cases this difference is found to be statistically significant.",
+            "keywords": [
+                "Momentum profits",
+                "Trading strategies",
+                "Time-varying systematic risk",
+                "ARCH/GARCH models",
+                "UK stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a29_3ay_3a2014_3ai_3ac_3ap_3a242-255.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

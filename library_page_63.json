@@ -1,0 +1,153 @@
+{
+    "page_info": {
+        "page_number": 63,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Impact of the domestic and the US macroeconomic news on the Romanian stock market",
+            "abstract": "This paper explores the effects of domestic and US macroeconomic announcement on the Romanian stock market. We found that some domestic macroeconomic announcement linked by the monetary policy had a consistent influence on the stock prices evolution. We also identify that some US macroeconomic news have a significant impact on the Romanian stock exchange, a fact explained by the linkages between the Romanian stock market and the international financial markets.",
+            "keywords": [
+                "Macroeconomic News Announcement",
+                "Romanian Stock Market",
+                "Financial Linkages"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/41623.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Overreaction and underreaction on the BUCHAREST STOCK EXCHANGE",
+            "abstract": "Efficient Market Hypothesis states that financial markets react instantaneous and unbiased to new information. However, in the last decades empirical researches revealed some anomalies in investors reactions to the events that caused shocks on the financial markets. There are two main hypotheses to describe such behaviors. The first one - Overreaction Hypothesis stipulates that investors overreact on the day when a shock occurs and they correct on the next days by opposite actions. The second one - Underreaction Hypothesis considers that investors underreact on the day of a shock and they apply corrections on the next days by opposite actions. These behaviors are influenced by the nature of events that cause shocks and by some characteristics of the financial markets. In this paper we explore the short-term reactions that followed positive and negative shocks from the Romanian capital market, using daily values of the main indexes from the Bucharest Stock Exchange for a period of time between January 2005 and March 2011. Depending on the horizons taken into consideration and on the nature of the shocks we find evidences for the Efficient Market Hypothesis, Overreaction Hypothesis and the Underreaction Hypothesis. We also find that actual global crisis caused significant changes in the investors\u00e2\u0080\u0099 reactions to the shocks.",
+            "keywords": [
+                "Efficient Markets",
+                "Overreaction Hypothesis",
+                "Underreaction Hypothesis",
+                "Romanian Capital Market"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/41555.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Monthly seasonality in the Bucharest stock exchange",
+            "abstract": "This paper investigates the existence of the monthly effects on the Romanian Stock Exchange. We employ the returns of the main indices and the trading volume and the trading values from the main components of the Bucharest Stock Exchange. We find different forms of monthly seasonality explainable by some characteristics of the stocks.",
+            "keywords": [
+                "Seasonality",
+                "Bucharest Stock Exchange",
+                "Efficient Market Hypothesis",
+                "Stock Market Anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/41603.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Changes in the DOW effects in the Romanian foreign exchange market",
+            "abstract": "This paper explores the changes in the daily seasonality of the Romanian foreign market from January 2005 to February 2010. Our investigation employs data from the prices in the Romanian national currency, of the two main currencies used in the financial transactions: euro and US dollar. For the euro we find evidence of a Monday effect between January 2005 and June 2007, no DOW effect between July 2007 and September 2008, a Tuesday effect between October 2008 and April 2009 and a Thursday effect between May 2009 and February 2010. For the US dollar we identify only a Tuesday effect between October 2008 and April 2009. We relate these changes with the consequences of the Romania\u00e2\u0080\u0099s adhesion to the European Union and with the effects of the global crisis.",
+            "keywords": [
+                "Day-of-the-week effect",
+                "Foreign Exchange Rates",
+                "Romanian Financial Market",
+                "Global Crisis",
+                "Seasonality"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/41666.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Holiday effect on the Romanian stock market",
+            "abstract": "This paper examines the holiday effect presence of on the Romanian stock market. We perform regressions with dummy variables and daily values of some from the main indexes of the Bucharest Stock Exchange. The results indicate a post-holiday effect for all the indexes and a pre-holiday effect only for some of them.",
+            "keywords": [
+                "Calendar Anomalies",
+                "Romanian Stock Market",
+                "Holiday Effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/41635.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Analysis of within \u00e2\u0080\u0093 month effects on the Bucharest stock exchange",
+            "abstract": "This paper explores the presence of within \u00e2\u0080\u0093 month effects on the Romanian capital markets. In our analysis we employ the daily values of some important indexes from two main components of the Bucharest Stock Exchange: BET, where there are listed some of the biggest Romanian corporations, and RASDAQ, which includes smaller companies. We find some significant differences between the calendar anomalies from the two markets. We also discover that in the last years within \u00e2\u0080\u0093 month effects experienced some changes that could be linked with the development of the Romanian financial markets, by the adhesion to the European Union and by the global crisis.",
+            "keywords": [
+                "Calendar patterns",
+                "Romanian capital market",
+                "turn of the month effect",
+                "third month effect",
+                "half of the month effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/36562.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Optimal Order Execution Problem within the Framework of a High-Frequency Trading - Sample Model",
+            "abstract": "Optimal execution of large orders is examined within the technical framework of High-Frequency Trading (HFT). A sample model is proposed, which extends an existing strategy through HFT means like time slicing with random splitting of the order volume and time shifting. As this strategy brings some information asymmetry to the trading parties, a general question about its impact on market benefit is raised and proposed for further academic research.",
+            "keywords": [
+                "Optimal order execution",
+                "HFT",
+                "liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/49081.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading Directions and the Pricing of Euro Interbank Deposits in the Long Run",
+            "abstract": "We investigate the relation between aggregate trading imbalances and interest rates in the Euro money market. We use data for OTC contracts as well as information from the major electronic trading platform in Europe to study the presence of cointegration between trading pressures and money market rates. We report strong evidence of a long-term linear relation between trading imbalances and liquidity prices for Euro interbank deposits.",
+            "keywords": [
+                "Euro money market",
+                "order flow",
+                "interest rates"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/rimrimwps/20_5f11.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Anatomy of intraday volatility at the Chilean stock exchange",
+            "abstract": "Abstract This is the first study, to our best knowledge, that investigates the intraday volatility characteristics of the Santiago Stock Exchange. The Chilean Stock market has grown consistently over the last 40 years and is now the second largest equity market in South America behind that of Brazil. Using a recently available dataset for the most actively traded stocks, we examine the patterns of intraday volatility. We show that intraday volatility declines during the day with an accentuation at the end of trading for the stocks we examine. We document the necessity of an opening auction system for the market and justify the benefits of the proactive implementation of a closing call auction system by exchange regulators in February 2019. Showing evidence that periods of efficiency alternate with periods with lack thereof, we provide suggestions as to when different types of traders should participate during the trading session.",
+            "keywords": [
+                "Market microstructure",
+                "Accentuated volatility",
+                "Market efficiency",
+                "Emerging markets",
+                "Chile"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprjecfin/v_3a46_3ay_3a2022_3ai_3a1_3ad_3a10.1007_5fs12197-021-09556-6.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Wavelet Analysis of Price and Volatility Spillovers in Stock Markets: The Case of India and the US",
+            "abstract": "Abstract This study uses wavelet analysis to examine the price and volatility spillovers between the U.S. and Indian stock markets. The empirical results suggest that there is price spillover effect from the U.S. market to its Indian counterpart during the period September 1998 \u00e2\u0080\u0094 August 2003. However, the volatility spillovers, between these two stock markets, do not have any empirical support.",
+            "keywords": [
+                "Spillover effect",
+                "Wavelets",
+                "Scaling",
+                "Decomposition",
+                "Transmission"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprjqecon/v_3a4_3ay_3a2006_3ai_3a2_3ad_3a10.1007_5fbf03546444.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of the new real estate sector on REITs: an event study",
+            "abstract": "Abstract This paper examines the impact of reclassifying equity Real Estate Investment Trust (REITs) in the S&P 500 by transferring them from the Financials sector to a new Global Industry Classification Standard sector named Real Estate in an event-study context. The creation of the new sector had a significant impact on REITs included in the new Real Estate sector. Prior to the event date, REITs experienced significant negative returns. But after the event date, REITs also experienced significant positive returns which dissipated over time. The returns prior to (after) the event date would have resulted in a retail investor incurring losses (gains). While the magnitude of the trading volume increased noticeably prior to the event date, overall trading volume was not discernibly impacted.",
+            "keywords": [
+                "REITs",
+                "Event-study methodology",
+                "Abnormal return",
+                "Trading volume",
+                "S&P additions"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprjecfin/v_3a43_3ay_3a2019_3ai_3a1_3ad_3a10.1007_5fs12197-018-9436-z.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Liquidity, overpricing, and the tactics of informed traders",
+            "abstract": "Abstract In this paper we explore the profit-taking tactics employed by informed traders when there are informational asymmetries across investors. Our laboratory is Tradesports, which until 2015 operated a double auction exchange where participants traded binary options contracts. This venue is a close analog to stock markets and, because each contract\u00e2\u0080\u0099s value is unambiguously revealed, the joint hypothesis problem is mitigated. We demonstrate that when the ratio of noise traders to sophisticated traders is highest, shares are most overpriced. Data show that informed traders heavily target noise traders when liquidity is high, and in conducting profit-taking operations they prefer to short sell via small transactions and round lots. Results suggest that, even in the absence of liquidity constraints and certain costs and risks related to short selling, the relative complexity of short selling can itself lead to overpricing.",
+            "keywords": [
+                "Liquidity",
+                "Informational asymmetry",
+                "Prediction market",
+                "Overpricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprjecfin/v_3a41_3ay_3a2017_3ai_3a4_3ad_3a10.1007_5fs12197-016-9375-5.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

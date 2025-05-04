@@ -1,0 +1,159 @@
+{
+    "page_info": {
+        "page_number": 202,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Long-run and Cyclical Dynamics in the US Stock Market",
+            "abstract": "This paper examines the long-run dynamics and the cyclical structure of the US stock market using fractional integration techniques, specifically a version of the tests of Robinson (1994a) which allows for unit (or fractional) roots both at the zero (long-run) and at the cyclical frequencies. We consider inflation, real risk-free rate, real stock returns, equity premium and price/dividend ratio, annually from 1871 to 1993. When focusing exclusively on the long-run frequency, the estimated order of integration varies considerably, but nonstationarity is found only for the price/dividend ratio. When the cyclical component is also taken into account, most series appear to be stationary and to exhibit long memory. Further, mean reversion occurs. Finally, the fractional (at zero and cyclical) models are shown to forecast more accurately than rival ones based on fractional and integer differentiation exclusively at the zero frequency.",
+            "keywords": [
+                "Stock market",
+                "Fractional cycles",
+                "Long memory",
+                "Gegenbauer processes"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ihsihsesp/155.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predicting monetary policy using federal funds future prices",
+            "abstract": "In theory, prices of current-month federal funds futures contracts should reflect market expectations of near-term movements in the Federal Reserve's target level for the federal funds rate. However, empirical results show that such measures of market expectations are too noisy to predict day-to-day changes in the funds rate target; partly due to time aggregation problems, partly because they are affected by funds rate movements not directly related to monetary policy considerations. In particular, the futures market shows a large amount of systematic variation across months and trading days, variation that needs to be taken into account when predicting policy moves or extracting policy expectations. For the period from January 1994 to February 1998, the extracted expectations perform fairly well in predicting the target level that will prevail after the next meeting of the Federal Open Market Committee, especially when adjusting for market regularities.",
+            "keywords": [
+                "Market expectations of monetary policy",
+                "The Federal Reserve",
+                "The Federal Open Market Committee"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhsrbnkwp/0085.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Puzzle of Index Option Returns",
+            "abstract": "We document that the leverage-adjusted returns on S&P 500 index call and put portfolios are decreasing in their strike-to-price ratio over 1986-2009, contrary to the prediction of the Black-Scholes-Merton model. We test a large number of plausible factor models in order to learn what drives the violations of the Black-Scholes-Merton model. Consistent with the picture that crisis-related factors operate across the equities and index options markets, factors which capture jumps in market volatility, jumps in the market index, and changes in liquidity work reasonably well in explaining the cross-section of index option returns, even when we impose the restriction that the premia are estimated from the universe of equities. Furthermore, the factor that captures jumps in market volatility also reduces the pricing errors of the 25 Fama-French portfolios by more than Size and only a bit less than Value.",
+            "keywords": [
+                "index option returns",
+                "option mispricing",
+                "volatility jumps",
+                "price jumps",
+                "liquidity",
+                "market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/knzdpteco/1117.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Puzzle of Index Option Returns",
+            "abstract": "We construct a panel of S&P 500 index call and put option portfolios, daily adjusted to maintain targeted maturity, moneyness, and unit market beta, and test multi-factor pricing models. The standard linear factor methodology is applicable because the monthly portfolio returns have low skewness and are close to normal. We hypothesize that any one of crisis-related factors incorporating price jumps, volatility jumps, and liquidity (along with the market) explains the cross sectional variation in returns. Our hypothesis is not rejected, even when the factor premia are constrained to equal the corresponding premia in the cross-section of equities. The alphas of short maturity out-of-the-money puts become economically and statistically insignificant.",
+            "keywords": [
+                "index option mispricing",
+                "linear factor pricing",
+                "price jumps",
+                "volatility jumps",
+                "volatility",
+                "liquidity",
+                "delevered returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/knzdpteco/1235.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Continuous-Time Measurement of the Buy-Sell Pressure in a Limit Order Book Market",
+            "abstract": "In this paper, we investigate the buy and sell arrival process in a limit order book market. Using an intensity framework allows to estimate the simultaneous buy and sell intensity and to derive a continuous-time measure for the buy-sell pressure in the market. Based on limit order book data from the Australian Stock Exchange (ASX), we show that the buy-sell pressure is particularly influenced by recent market and limit orders and the current depth in the ask and bid queue. We find evidence for the hypothesis that traders use order book information in order to infer from the price setting behavior of market participants. Furthermore, our results indicate that the buy-sell pressure is clearly predictable and is a significant determinant of trade-to-trade returns and volatility.",
+            "keywords": [
+                "buy and sell arrival process",
+                "order book information",
+                "market depth",
+                "bivariate autoregressive intensity model",
+                "buy-sell excess intensity"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/kudkuiedp/0407.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Are FX communications effective? Evidence from emerging markets",
+            "abstract": "This paper examines the effects of foreign exchange (FX) communications on FX markets in Colombia and Mexico. Our estimations follow the calendar-time portfolio approach using daily data between 2000 and 2019 on exchange rates and known risk factors. We find an asymmetric effect of such communications: while there is strong evidence indicating that communications aimed at weakening the local currency affect the exchange rate level in the intended direction, there is no evidence of impact when examining communications intended to strengthen it. These results are consistent with fear of appreciation and with previous evidence from developed economies.",
+            "keywords": [
+                "FX communication",
+                "Exchange rate",
+                "Calendar time portfolios",
+                "Emerging market economies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeememar/v_3a59_3ay_3a2024_3ai_3ac_3as1566014123000961.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predictability in Financial Markets: What Do Survey Expectations Tell Us?",
+            "abstract": "There is widespread evidence of excess return predictability in financial markets. In this paper we examine whether this predictability is related to expectational errors. To consider this issue, we use data on survey expectations of market participants in the stock market, the foreign exchange market, and the bond and money markets in various countries. We find that the predictability of expectational errors coincides with the predictability of excess returns: when a variable predicts expectational errors in a given market, it typically predicts the excess return as well. Understanding expectational errors appears crucial for explaining excess return predictability.",
+            "keywords": [
+                "Excess returns",
+                "Expectations survey",
+                "Predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/5770.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mo\u00c5\u00benosti identifikace bublin cen aktiv v \u00c4\u008desk\u00c3\u00a9 ekonomice",
+            "abstract": "The article discusses the approaches and options for identification of disequilibrium asset prices movements. It focuses mainly on theoretical and empirical methods for identifying the so-called \"bubbles\" in asset prices. Subsequently, the dissimilarity among foreign exchange, stock and real estate markets in the Czech Republic is discussed, and application of selected methods (ratios, statistical and econometric methods) for identification of bubbles on these markets is shown. Its main advantage is that we analyze the problem not only from the perspective of one market, but on the main segments of financial sector. Paper concludes that the misalignment of asset prices during current financial crisis was not significantly different from their values from the second part of nineties.",
+            "keywords": [
+                "asset prices",
+                "misalignment",
+                "asset bubbles",
+                "equilibrium value"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/prgjnlpol/v_3a2011_3ay_3a2011_3ai_3a2_3aid_3a779_3ap_3a164-183.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Testing financial contagion on heteroskedastic asset returns in time-varying conditional correlation",
+            "abstract": "We suggest that there is a significant relationship between cross-market comovement and time varying volatility. The time-varying component of cross-market dependence is attributed to the intertemporal risk-return adjustment by rational, risk-averse investors who systematically revise their expectation in response to changing volatility. To reflect the time-varying component of cross-market dependence, we propose a time-varying correlation test for contagion. Our results show that out of the countries reporting contagion evidence under the constant correlation test, none of the countries exhibits contagion evidence from the 1997 Asian crisis. We conclude that a high level of cross-market correlation during a crisis reported as contagion evidence under the standard constant correlation test is mostly due to the high level of cross-market co-movement resulting from the intertemporal risk-return adjustment.",
+            "keywords": [
+                "Financial contagion",
+                "Time-varying correlation test",
+                "Dynamic conditional correlation model",
+                "Cross-market co-movement"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a20_3ay_3a2012_3ai_3a2_3ap_3a271-291.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Impact of Central Bank Announcements on Asset Prices in Real Time: Testing the Efficiency of the Euribor Futures Market",
+            "abstract": "This paper examines the effect of European Central Bank communication on the price discovery process in the Euribor futures market using a new tick-by-tick dataset. First, we show that two pieces of news systematically hit financial markets on Governing Council meeting days: the ECB policy rate decision and the explanation of its monetary policy stance. Second, we find that the unexpected component of ECB explanations has a significant and sizeable impact on futures prices. This indicates that the ECB has already acquired some credibility: financial markets seem to believe that it does what it says it will do. Finally, our results suggest that the Euribor futures market is semi-strong form informational efficient.",
+            "keywords": [
+                "market efficiency",
+                "central bank communication",
+                "news shock",
+                "tickby-tick Euribor futures data",
+                "event-study analysis."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cepcepdps/dp0764.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Bitcoin price volatility transmission between spot and futures markets",
+            "abstract": "In this paper, the volatility transmission between the two bitcoin markets, namely, the spot and futures markets is examined. We use the daily series over a sampling period spanning from December 2017 to September 2022. We focus on several events that have spread severe risk throughout cryptomarkets, such as the COVID-19 pandemic of 2020, the governmental announcements and environmental concerns of 2021, and the crypto-winter cases of 2022. We calculate the symmetric and asymmetric volatility impulse responses (VIRFs) using a VEC-BEKK-MGARCH model and the Hafner and Herwartz (2006) framework. The results of the VIRF analysis demonstrate the existence of asymmetric responses between the two markets, with the shock of the COVID-19 pandemic exerting a greater impact on the variance of the futures market than on that of the spot market. Additionally, we employ the connectedness approach of Diebold and Yilmaz (2012, 2014) as modified by Gabauer (2020) and apply a DCC-GARCH model to examine the volatility spillovers across the two markets. Our results suggest that the bitcoin spot market is the dominant transmitter of volatility shocks to the futures market.",
+            "keywords": [
+                "Asymmetric effects",
+                "Volatility impulse responses",
+                "Cryptocurrency",
+                "COVID-19",
+                "Russian-Ukrainian war"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a94_3ay_3a2024_3ai_3ac_3as1057521924001832.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Time-varying Granger causality tests for applications in global crude oil markets",
+            "abstract": "This paper proposes time-varying Granger causality tests based on the tests developed by Hong (2001) and two dynamic correlation estimators (i.e., rolling correlation and dynamic conditional correlation multivariate GARCH), here called the rolling Hong and DCC-MGARCH Hong tests, respectively. The proposed tests are used to examine time-varying information spillover among global crude oil markets. The results provide empirical evidence of time-varying information spillover. In particular, the instantaneous causal effects of Dubai and Tapis crudes on Brent and WTI become stronger when a major event or events occur in major oil-producing countries. Such events include the Iraq War in March 2003, OPEC's announcement of a record production cut in December 2008, and the Libyan civil war in early 2011. And consistent with previous studies, WTI and Brent play dominant roles in global crude markets. Impulse response analysis shows that market information has a positive influence on the spillover effect in global crude oil markets. Moreover, the DCC-MGARCH Hong test consistently leads the rolling Hong test, which indicates that the former performs better.",
+            "keywords": [
+                "Time-varying Granger causality",
+                "Information spillover",
+                "Rolling correlation",
+                "DCC-MGARCH",
+                "Crude oil market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeneeco/v_3a42_3ay_3a2014_3ai_3ac_3ap_3a289-298.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

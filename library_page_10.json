@@ -1,0 +1,150 @@
+{
+    "page_info": {
+        "page_number": 10,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "THE WEAK FORM OF THE EFFICIENT MARKET IN THE SPANISH STOCK MARKET: A STUDY BASED ON USE OF ACTIVE STRATEGIES MANAGEMENT HIGH FREQUENCY DATA, LA HIPOTESIS DEBIL DE EFICIENCIA EN EL MERCADO BURSATIL ESPANOL: USO DE ESTRATEGIAS ACTIVAS DE INVERSION CON DATOS DE ALTA FRECUENCIA",
+            "abstract": "The aim of this paper is to evaluate the impact of temporary frequency data used for the calculation of moving averages on the implementation of active strategies. We analyze if the use of different frequency moving averages (1 and 15 minutes) have a significant impact on the yields earned with the investment technique. We analyze differences between yields of a passive strategy and yields obtained through a moving averages strategy. Finally, we compare the risk of an active strategy with that of a passive strategy.",
+            "keywords": [
+                "high frequency data",
+                "moving averages",
+                "efficient market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ibfriafin/v_3a5_3ay_3a2012_3ai_3a2_3ap_3a1-14.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A PIN per day shows what news convey: the intraday probability of informed trading",
+            "abstract": "Abstract This paper develops a new intraday estimation procedure for the sequential microstructure trading model initially proposed by Easley et al. (Rev Financ Stud 10:805\u00e2\u0080\u0093835, 1997a). Using a full year of intraday trading data for the top 100 German stocks, we demonstrate how the new estimation procedure eliminates or significantly reduces the shortcomings of the original approach in recent, high-frequency trading environments. We slice a trading day in buckets of several minutes\u00e2\u0080\u0099 length to obtain one estimate of the composite variable probability of informed trading (PIN) per day. This approach makes PIN applicable in short horizon event studies. Convergence rates are above 95 % even for the most liquid stocks and the model\u00e2\u0080\u0099s underlying assumptions of independence for the arrival of traders and information events are fulfilled to a much higher degree than in the original approach. An empirical application in an event study type setting demonstrates how official announcements stipulated in German insider trading legislation significantly reduce information asymmetry upon public disclosure.",
+            "keywords": [
+                "Capital markets",
+                "Probability of informed trading",
+                "Information asymmetry",
+                "High-frequency trading",
+                "Insider trading regulation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a47_3ay_3a2016_3ai_3a4_3ad_3a10.1007_5fs11156-015-0535-z.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock price reaction to profit warnings: the role of time-varying betas",
+            "abstract": "Abstract This study investigates the role of time-varying betas, event-induced variance and conditional heteroskedasticity in the estimation of abnormal returns around important news announcements. Our analysis is based on the stock price reaction to profit warnings issued by a sample of firms listed on the Hong Kong Stock Exchange. The standard event study methodology indicates the presence of price reversal patterns following both positive and negative warnings. However, incorporating time-varying betas, event-induced variance and conditional heteroskedasticity in the modelling process results in post-negative-warning price patterns that are consistent with the predictions of the efficient market hypothesis. These adjustments also cause the statistical significance of some post-positive-warning cumulative abnormal returns to disappear and their magnitude to drop to an extent that minor transaction costs would eliminate the profitability of the contrarian strategy.",
+            "keywords": [
+                "Profit warnings",
+                "Market efficiency",
+                "Overreaction",
+                "Time-varying betas",
+                "Event-induced variance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a50_3ay_3a2018_3ai_3a1_3ad_3a10.1007_5fs11156-017-0623-3.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Lottery-type stocks and corporate strategies at the turn of the month",
+            "abstract": "Abstract We show that retail investors\u00e2\u0080\u0099 cyclical demand for lottery stocks, which tends to peak at the turn-of-the-month (ToM), has implications for firms\u00e2\u0080\u0099 financial activities. Consistent with the notion that the peak in demand is driven by a propensity to gamble that is associated with inattention, we find underreaction to earnings news issued at the ToM by lottery-type firms located in areas with many gambling investors. Lottery-type firms are more likely to issue bad earnings news at ToM, thus benefiting from a less negative price reaction. Similarly, seasoned equity offerings (SEOs) by lottery-type firms are often strategically timed at the ToM, conceivably to take advantage of local retail investors\u00e2\u0080\u0099 underreaction and thereby temper the typically negative immediate stock price reaction to the issuance news. Further suggestive of strategic exploitation of local investors peak in demand at the ToM period, lottery-type firms\u00e2\u0080\u0099 SEOs at the ToM are also more likely to be offered via an accelerated method that saves the direct marketing costs associated with other offer methods.",
+            "keywords": [
+                "Lottery-type stocks",
+                "Turn-of-the-month effect",
+                "Earnings announcement",
+                "Seasoned equity offerings"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a56_3ay_3a2021_3ai_3a3_3ad_3a10.1007_5fs11156-020-00917-6.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Public news announcements, short-sale restriction and informational efficiency",
+            "abstract": "Abstract In this paper, we address the question that with differences in opinion in reality, how quickly stocks incorporate news shocks when they are subject to different levels of short-sale constraints. Specifically, we examine the impact of short-sale restriction on stock price efficiency when firms make public earnings announcements. Using data from the Hong Kong stock market, where some stocks are eligible for and others are prohibited from short selling, we find significantly lower post-announcement returns with high economic magnitude for short-sale prohibited stocks with both positive and negative news shocks. The reduction in informational efficiency due to short-sale restriction persists several months after the earnings announcement. The informational inefficiency due to short-sale restriction is particularly severe for firms with negative announcement period shocks and subject to greater differences in opinion.",
+            "keywords": [
+                "Public news",
+                "Short-sale constraint",
+                "Differences in opinion",
+                "Informational efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a52_3ay_3a2019_3ai_3a1_3ad_3a10.1007_5fs11156-018-0707-8.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Insider trading around auto recalls: Does investor attention matter?",
+            "abstract": "Abstract Using a comprehensive sample of customer complaints filed with the National Highway Traffic Safety Administration, we examine the differences in the timing of insiders\u00e2\u0080\u0099 and investors\u00e2\u0080\u0099 use of outside generated public information. We first find that levels of customer complaints predict future auto recalls and their financial consequences, suggesting that these publicly available customer complaints contain value-relevant information. We then find that customer complaints are not contemporaneously associated with stock returns but predict large negative abnormal stock returns during the period following the recall announcement. Thus, we find that the market generally fails to impound the information contained in customer complaints in a timely manner. We then examine whether mutual funds, as sophisticated investors, appear to use the complaint data and find that, consistent with the overall market, in the aggregate they do not appear to use the complaint data to inform their trades until after recall announcements. However, mutual funds that focus more of their trades in the auto industry appear to pay more attention to the complaint data and trade consistent with the data before recall announcements. We then find that the top five executives of the car manufacturers in our sample are significant sellers of personal shares prior to the announcement of auto recalls, particularly when customer complaints are high. Our findings suggest that insiders\u00e2\u0080\u0099 informational advantage is at least in part due to general investor limited attention to publicly available information.",
+            "keywords": [
+                "Insider trading",
+                "Product recalls",
+                "Limited attention",
+                "Customer complaints"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a55_3ay_3a2020_3ai_3a3_3ad_3a10.1007_5fs11156-019-00866-9.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A new PIN model with application of the change-point detection method",
+            "abstract": "Abstract The existing PIN models impose a restriction on the number of possible intensity pairs. However, our investigation shows that the number of empirical intensity pairs is significantly more than the one these models assume, and this number changes daily. Therefore, we propose a new model which, by using the change-point detection technique, can adjust this number according to the data. The model also considers autocorrelation, which is lacking in the existing PIN models. In addition, we show that the proposed model can examine how public information transfers to individual stock price and quantify transfer delay.",
+            "keywords": [
+                "Probability of informed trading (PIN)",
+                "Change-point detection technique",
+                "Information transfer delay"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a61_3ay_3a2023_3ai_3a4_3ad_3a10.1007_5fs11156-023-01194-9.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading concentration and industry-specific information: an analysis of auto complaints",
+            "abstract": "Abstract We investigate whether sophisticated investors\u00e2\u0080\u0099 trading concentration in the auto industry is associated with their use of auto complaint data. We find that the extent to which mutual funds concentrate their trading in the auto industry is positively associated with their incorporation of the complaint information into their trading decisions both before and after auto recall announcements. We provide evidence that trading concentration by mutual funds is more consistent with the information advantage explanation rather than behavioral explanations for concentration such as overconfidence or familiarity. However, we find that pension funds, regardless of their level of trading concentration, do not use the customer complaint information to inform their trading decisions. Our findings suggest that pension funds concentrate trading for reasons other than short-term information advantage, suggesting that the underlying reason for trading concentration can differ by the type of institutional investor.",
+            "keywords": [
+                "Industry trading concentration",
+                "Institutional investors",
+                "Customer complaints",
+                "Product recall",
+                "Auto industry",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a59_3ay_3a2022_3ai_3a3_3ad_3a10.1007_5fs11156-022-01063-x.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The relation between earnings and price momentum: Does it vary across regimes?",
+            "abstract": "Abstract This paper investigates the time-varying relationship between earnings momentum and price momentum. Using a Markov-switching framework, allowing for variation between high volatility and low volatility states, we find that price momentum is significantly more influenced by earnings momentum in the high volatility state. Further for price momentum we find that loser firms display a higher degree of differential response to earnings momentum across the low and high volatility states than winner firms. Limited financing and investor sensitivity to future investment opportunities might explain these two results. Additional analysis indicates that loser firms tend to be more financially constrained. The results are robust using alternative instrument variables.",
+            "keywords": [
+                "Earnings momentum",
+                "Price momentum",
+                "Markov regime-switching",
+                "Financial constraints"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/kaprqfnac/v_3a58_3ay_3a2022_3ai_3a3_3ad_3a10.1007_5fs11156-021-01021-z.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "CASH DIVIDEND CHANGE ANNOUNCEMENT EFFECT ON SHARE PRICE RETURNS: EVIDENCE FROM NAIROBI SECURITIES EXCHANGE",
+            "abstract": "Whether to pay dividends or not is a critical decision that every company must make. Conversely, whether to invest in a divided paying company is decision investors must consider. However, the relationship between dividend and share returns is not clear and how shareholders react to dividend increases or decreases is still a puzzle. This paper seeks to identify if cash dividend change announcements have any effect on share returns. It also examines whether stock price returns react the same to an increase and a decrease in dividend announced. Using daily closing prices from 2005-2012, the paper employs a 40-day event methodology to examine the reaction of share price returns to dividend change announcements before, during and after the event. Results show, dividend announcements have a significant effect on share price returns. Dividend decreases resulted in negative returns while dividend increases resulted in positive returns. Dividend decreases cause a larger decline in returns than an increase leads an increase in returns. Based on this evidence, dividend announcements have information content and hence dividend-paying companies listed in Nairobi Securities Exchange (NSE) should consider this before announcing a change in dividend",
+            "keywords": [
+                "Dividend Announcements",
+                "Share Prices",
+                "Abnormal Returns",
+                "Information Content"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ibfijbfre/v_3a10_3ay_3a2016_3ai_3a3_3ap_3a39-47.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "MACROECONOMIC ACTIVITY AND THE MALAYSIAN STOCK MARKET: EMPIRICAL EVIDENCE OF DYNAMIC RELATIONS",
+            "abstract": "This study uses time-series analysis to investigate the long-run relationships and short-run dynamic interactions between the stock market and various macroeconomic variables in Malaysia over the period 1980M1 to 2006M12. The study applies the multivariate cointegration methodology to establish the possible causal relations between these variables. The cointegration test and the vector error correction model demonstrates the evidence of positive long-run relationships between real stock returns and measures of aggregate economic activity including industrial production, consumer price index, money supply and real exchange rate. The long-term elasticity coefficients of the macroeconomic variables on stock returns display relationships that are theoretically grounded. Further analysis using variance decompositions lends evidence of the dominant influence of certain macroeconomic variables namely; consumer price index, money supply and real exchange rate in forecasting stock price variance.",
+            "keywords": [
+                "Cointegration",
+                "VECM",
+                "Stock Market",
+                "Macroeconomic Variables",
+                "Variance Decomposition"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ibfijbfre/v_3a4_3ay_3a2010_3ai_3a2_3ap_3a59-69.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "EFFECTS OF FEDERAL FUNDS TARGET RATE CHANGES ON STOCK PRICES",
+            "abstract": "It is well-known that financial markets respond quickly to the announcements of changes in the Federal Funds target rate. This paper examines the stock price reaction of individual stocks listed under the Dow Jones Industrial Average () to Federal Funds target rate change announcements using daily stock returns over the period 1996-2007. We measure such reactions using an event-study methodology to analyze the impact of changes in the Federal Funds target rate on individual stock returns using several event windows. We group the 30 individual stocks into 8 sectors and analyze the reaction of each sector to changes in the Federal Funds target rate. Results indicate that, on average, the impact of a Federal Funds target rate decrease on stocks is positive while the reaction of a Federal Funds target rate increase is negative.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/article/ibfijbfre/v_3a2_3ay_3a2008_3ai_3a1_3ap_3a13-29.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

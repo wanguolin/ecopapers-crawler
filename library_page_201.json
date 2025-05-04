@@ -1,0 +1,162 @@
+{
+    "page_info": {
+        "page_number": 201,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The impact of macroeconomic news on quote adjustments, noise and informational volatility",
+            "abstract": "We study the impact of the arrival of macroeconomic news on the informational and noise-driven components in high-frequency quote processes and their conditional variances. Bid and ask returns are decomposed into a common (\u00e2\u0080\u009defficient return\u00e2\u0080\u009d) factor and two market-side-specific components capturing market microstructure effects. The corresponding variance components reflect information-driven and noise-induced volatilities. We find that all volatility components reveal distinct dynamics and are positively influenced by news. The proportion of noise-induced variances is highest before announcements and significantly declines thereafter. Moreover, news-affected responses in all volatility components are influenced by order flow imbalances.",
+            "keywords": [
+                "efficient return",
+                "macroeconomic announcements",
+                "microstructure noise",
+                "informational volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ecawpaper/2013_2f230855.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price and Liquidity Spillovers during Fire Sale Episodes",
+            "abstract": "We study price and liquidity spillovers in U.S. stock markets around mutual fund fire sales. We find that the well-documented impact-reversal pattern for the returns of fire sale stocks (e.g., Coval and Stafford, 2007) spills over onto the stock returns of economic peers, with a magnitude that is around one fifth of the original effect. These spillovers extend to liquidity and are not explained by common funding shocks or the hedging activity of liquidity providers. We conclude that they represent information spillovers due to learning from prices, thus identifying cross-asset learning as an important driver for the commonality in returns and liquidity.",
+            "keywords": [
+                "Learning",
+                "Spillovers",
+                "Liquidity",
+                "Comovement",
+                "Rational Expectations"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgheccah/1214.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Examining the asymmetric information flow between pairs of gold, silver, and oil: a transfer entropy approach",
+            "abstract": "Abstract The present study examines the asymmetric information flow between bivariate pairs of gold, silver, and oil daily returns for the period: 1 September 2000 to 5 May 2022 with a special emphasis on crisis periods. We use Shannon and R\u00c3\u00a9nyi entropy transfer techniques instead of the commonly used Granger causality approach to get robust estimates while allowing for nonlinear, non-parametric, and asymmetric relationships in bivariate returns series. The study\u00e2\u0080\u0099s findings support a unidirectional information flow from silver to gold, but not the other way around. Similarly, over the whole sample, a unidirectional information flow from oil to gold is observed but during the financial crisis of 2008\u00e2\u0080\u009309, the flow of information is reversed from gold to oil. Furthermore, during COVID, there is no statistically significant information transfer between \u00e2\u0080\u009cgold and oil.\u00e2\u0080\u009d Throughout the study period, a bidirectional information flow between \u00e2\u0080\u009csilver and oil\u00e2\u0080\u009d is observed. During the financial crisis, however, there is no statistically significant information flow between \u00e2\u0080\u009csilver and oil.\u00e2\u0080\u009d As a result, portfolios based on \u00e2\u0080\u009cgold and oil\u00e2\u0080\u009d or \u00e2\u0080\u009csilver and oil\u00e2\u0080\u009d would be risky. Policymakers and investors should recognize dynamic interrelationships across market conditions and leverage the value of time-sensitive information flow for risk assessment and portfolios.",
+            "keywords": [
+                "Transfer entropy",
+                "R\u00c3\u00a9nyi",
+                "Shannon",
+                "Crisis",
+                "Gold",
+                "Silver",
+                "Oil"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprsnbeco/v_3a3_3ay_3a2023_3ai_3a10_3ad_3a10.1007_5fs43546-023-00572-8.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "How do momentum strategies \u00e2\u0080\u0098score\u00e2\u0080\u0099 against individual investors in Taiwan, Hong Kong and Korea?",
+            "abstract": "We compare the momentum strategies to \u00e2\u0080\u009cnaive\u00e2\u0080\u009d uninformed strategies in Taiwan, Hong Kong, and Korea. The high participation of individual investors in these economies makes it an ideal setting to use the score function proposed by Banerjee and Hung (BH, 2011). As in BH we find that the average scores of the momentum profits in these markets are close to zero. In contrast to BH's finding that in the U.S. market the winner stocks get significantly positive scores, we find that in all the three markets the scores of the winner portfolio are statistically insignificant.",
+            "keywords": [
+                "Emerging stock markets",
+                "Momentum",
+                "Naive strategies",
+                "Return percentiles",
+                "Price information",
+                "Score function"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeememar/v_3a21_3ay_3a2014_3ai_3ac_3ap_3a67-81.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Shocks and volatility transmission between oil price and Nigeria\u00e2\u0080\u0099s exchange rate",
+            "abstract": "Abstract The study examined shock and volatility transmission between oil price and exchange rate markets using daily data covering the period from 23rd October 2009 to 30th November 2020. The contributions of the paper include (i) implementation of VAR-AGARCH model to capture spillover effect of shock and volatility; (ii) examining the nature of shock impact in oil price and exchange rate market; (iii) adopting of two measured of oil price (WTI and Brent); (iv) employing two measures of the exchange rate (USD/Naira and effective/Naira). The study revealed that past own shocks and volatilities significantly contribute to current volatilities in exchange rate and oil price markets. Also, there is bidirectional shock and volatility spillover between the exchange rate (USD/Naira and effective/Naira) and WTI oil price markets. There were bidirectional shock and volatility spillover between USD/Naira and Brent oil price and unidirectional shock and volatility from Brent oil price to effective exchange rate market. We found asymmetric shocks impacting exchange rates and WTI oil price while symmetric shock was observed in Brent oil price. Including innovation in oil price is essential in exchange rate policy formulation and modelling exchange rate shock and volatility.",
+            "keywords": [
+                "Oil price",
+                "Exchange rate",
+                "Shock",
+                "Volatility transmission",
+                "Nigeria economy"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprsnbeco/v_3a2_3ay_3a2022_3ai_3a6_3ad_3a10.1007_5fs43546-022-00228-z.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Implied volatility indices: A review and extension in the Turkish case",
+            "abstract": "We re-visit the model-free methodology of the new VIX, and review how its counterparts are estimated empirically across the world. Then, we modify its parameter selection procedure for it to be compatible with the microstructure characteristics of emerging derivatives markets. Applying this approach on Turkish market data, we introduce VBI; the implied volatility index of Borsa Istanbul. Accordingly, (i) VBI is a strong predictor of the future realized volatility, (ii) it is significantly correlated with Turkey's own financial indicators, but not with many global financial indicators, (iii) there is an implied volatility spillover from US equity market to Borsa Istanbul, but not the other way around.",
+            "keywords": [
+                "VIX",
+                "Implied volatility",
+                "Options market",
+                "Emerging markets",
+                "Market microstructure"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a60_3ay_3a2018_3ai_3ac_3ap_3a151-161.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment and the pre-FOMC announcement drift",
+            "abstract": "We find that the stock market increases significantly over the pre-FOMC announcement window only during periods of high investor sentiment and low economic policy uncertainty. Buy-initiated trades associated with high sentiment are positively related to pre-FOMC returns. These findings are consistent with a behavioural interpretation of the pre-FOMC announcement drift.",
+            "keywords": [
+                "Investor sentiment",
+                "Pre-FOMC drift",
+                "Order imbalance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a38_3ay_3a2021_3ai_3ac_3as1544612319311262.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information content of order imbalance in the index options market",
+            "abstract": "We use proprietary transaction level data of Borsa Istanbul to compute the order imbalance of index options in order to investigate the linkages between option trades and spot index returns. Our findings show that weeks with higher call (put) order imbalance are associated with higher (lower) contemporaneous spot index returns. In addition, higher call order imbalance significantly predicts negative next-week index returns. The spot index return predictability by call options is absorbed neither by the stock order imbalance nor the index futures imbalance. Indeed, this predictability is consistent with the view that the hedging demand of counterparties in the option market that leads to the transfer of order imbalance from option market to stock market is the driver of predictability. Results are robust after controlling for various factors.",
+            "keywords": [
+                "Derivatives",
+                "Index options",
+                "Order imbalance",
+                "Informed trading",
+                "Delta hedging",
+                "Borsa Istanbul"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a78_3ay_3a2022_3ai_3ac_3ap_3a418-432.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Corporate bond prices and idiosyncratic risk: Evidence from Australia",
+            "abstract": "In this paper we investigate the bond price effect upon the information arrival of firm-specific idiosyncratic risk. We consider idiosyncratic dispersion and idiosyncratic volatility that capture, respectively, the direction of information and the magnitude of idiosyncratic risk. We find that idiosyncratic volatility does not affect bond prices, while the direction of idiosyncratic risk which reflects the favorable or unfavorable information exhibits impacts on bond prices. Idiosyncratic dispersion in the stock return of a firm in the preceding week, in general, is positively associated with bond price changes in the current week. This effect is most pronounced for firms exhibiting characteristics associated with lower default risk.",
+            "keywords": [
+                "Idiosyncratic risk",
+                "Idiosyncratic dispersion",
+                "Idiosyncratic volatility",
+                "Corporate bond price",
+                "Australian bond markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a33_3ay_3a2014_3ai_3ac_3ap_3a99-114.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Fed and the stock market: A tale of sentiment states",
+            "abstract": "We analyze the period before the zero lower bound and show that the state of investor sentiment strongly affects the transmission of monetary policy to the stock market. The impact of Federal funds rate (FFR) surprises is mostly potent when sentiment-driven overvaluation is followed by a correction, whereby the stock market increases by 0.8% in response to an unexpected FFR cut of 10 basis points. Our findings suggest that monetary easing surprises during sentiment-waning phases boost the stock market by alleviating investors\u00e2\u0080\u0099 fear. The ability of sentiment to drive the observed state dependence is hard to reconcile with rational pricing.",
+            "keywords": [
+                "Investor Sentiment",
+                "Monetary Policy Surprises",
+                "Event Study"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejimfin/v_3a128_3ay_3a2022_3ai_3ac_3as0261560622001103.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A tale of two risks in the EMU sovereign debt markets",
+            "abstract": "We introduce time-varying systematic yield risk (SYR) and systematic liquidity risk (SLR) measures for sovereign bond markets of the major European Monetary Union (EMU) country members. Using daily sovereign bond data, our analysis shows that trend components of both types of risk are strongly positively correlated. Vector auto-regression and generalized impulse response analysis reveal that shocks to the SLR has significant impact on SYR lasting up to 5 days, whereas shocks to the SYR has no significant impact on SLR. Since mid-2015, both risks are gradually increasing and as of 2018, they are at their highest levels over the last five years.",
+            "keywords": [
+                "European Monetary Union",
+                "Sovereign bonds",
+                "Systematic risk",
+                "Liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a172_3ay_3a2018_3ai_3ac_3ap_3a102-106.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Day-of-the-Week Effect Revisited: An Alternative Testing Approach",
+            "abstract": "This paper questions traditional approaches for testing the day-of-the-week effect on stock returns. We propose an alternative approach based on the closure test principle introduced by Marcus, Peritz and Gabriel (1976), which has become very popular in Biometrics and Medical Statistics. We test all pairwise comparisons of daily expected stock returns, while the probability of committing any type I error is always kept smaller than or equal to some prespecified level a for each combination of true null hypotheses. We confirm day-of-theweek effects for the S&P 500, the FTSE 30 and the DAX 30 found in earlier studies, but find no evidence for the 1990's.",
+            "keywords": [
+                "Day-of-the-week effect",
+                "Multiple hypotheses testing",
+                "Multiple comparisons",
+                "Closed test procedures",
+                "Multiple level a test"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ihsihsesp/127.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

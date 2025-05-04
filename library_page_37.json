@@ -1,0 +1,159 @@
+{
+    "page_info": {
+        "page_number": 37,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "IPOs in the U.S. from 2005 to 2015: Using the Spline Regression Technique to Estimate Aggregate Issuance and Performance",
+            "abstract": "The objective of this paper was to explore the relationship between IPO returns and performance on the U.S. Equity Exchanges from 2005 to 2015. To conduct this analysis, we used two independently drawn samples, a primary sample, which ran from 2005 to 2015 and, an out of sample comparison, which ran from 1996 to 2008. While conducting our analyses we incorporated a new heat variable and compared its ability to describe aggregate issuance and performance against a standard heat variable, we illustrated how events can affect IPO issuance and performance and incorporated those events into a model of performance and volume, and to incorporate these events into our models we integrated the spline regression technique into our model, which improved the fit of our model substantially over methods that could be seen as alternative modeling techniques. We believe that our use of events in the modeling process provides a more accurate representation of the underlying dynamics of the processes that are causing changes in IPO performance and issuance and that our application of the spline regression technique to model IPO performance and issuance provides researchers with an important tool that could help them to better estimate, model, and understand the true determinates of IPO performance and issuance.",
+            "keywords": [
+                "initial public offerings",
+                "spline regression",
+                "cycles"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/faufauart/v_3a68_3ay_3a2018_3ai_3a2_3ap_3a165-199.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mean-Variance Portfolio Optimization of Energy Stocks Supported with Second Order Stochastic Dominance Efficiency",
+            "abstract": "Second order stochastic dominance pairwise efficiency could be considered as a milestone among the improvements, which eliminates the shortcomings of mean-variance theory. This paper applies mean-variance optimization on the global fossil fuels stocks, as a leading representative of energy sector, with the help of the pre-elimination of second order stochastic dominance pairwise inefficient stocks. The performance of the application is additionally measured with an out-of-sample back-testing analysis, which indicates a contribution to the existing literature; second order stochastic dominance pre-elimination method increases the success of some of the selected mean-variance optimized portfolios on the efficient frontier which stand out with a better back-testing performance.",
+            "keywords": [
+                "different return-risk levels",
+                "fossil fuels energy stocks",
+                "mean-variance portfolio optimization",
+                "pairwise efficiency",
+                "second order stochastic dominance"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/faufauart/v_3a69_3ay_3a2019_3ai_3a4_3ap_3a366-383.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Forecast Bias and Analyst Independence",
+            "abstract": "This paper examines the accuracy of equity analysts who provide earnings forecasts for European companies. We find strong evidence of institutional bias in analysts\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 forecasts, specifically, when analysts move between sell-side employers and independent employers, they issue more accurate forecasts while they are employed by independent firms. Moreover, these differences persist when we hold constant the set of firms these mobile analysts research. We find statistically significant differences in the forecast accuracy of sell-side and independent analysts. The optimistic bias of sell-side analysts appears to be related to underwriting activity. Analysts employed by lead underwriters produce less accurate forecasts for newly public companies than do either buy-side or independent analysts. The optimistic bias persists for a five-year period following an IPO.",
+            "keywords": [
+                "Analysts",
+                "Forecasts",
+                "Bias",
+                "Sell-side",
+                "Buy-side",
+                "Independent"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ersijebaa/v_3ai_3ay_3a2013_3ai_3a2_3ap_3a3-32.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impact of Macroeconomic Surprises from Mexico and the United States on the Mexican Stock Market",
+            "abstract": "This paper studies the relationship between the arrival of news on macroeconomic performance and the Mexican stock market. We examine the reaction of daily excess returns of the stock price index, \u00e2\u0080\u009c\u00c3\u00adndice de precios y cotizaciones\u00e2\u0080\u009d (IPC), as well as of seven portfolios from the Mexican stock market, \u00e2\u0080\u009cBolsa Mexicana de Valores\u00e2\u0080\u009d (BMV), to announcements on macroeconomic variables of Mexico and the US. We use GARCH models and focus on the unexpected or surprising component of the news about macroeconomic performance. The study covers the period 2003-2008. We find that the dynamics of daily returns in the Mexican stock market is linked to the arrival of new information (surprises) on macroeconomic fundamentals of both Mexico and the United States.",
+            "keywords": [
+                "GARCH models",
+                "systemic risk",
+                "information",
+                "macroeconomic surprises",
+                "Mexican stock market."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/emcecomex/v_3a21_3ay_3a2012_3ai_3a1_3ap_3a35-67.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "El efecto momentum en la Bolsa Mexicana de Valores",
+            "abstract": "This paper tests the momentum effect in the Mexican Stock Exchange. We document a strong momentum effect for this stock market during the period 1993-2006. In addition, we also find that neither risk factors nor transaction costs can explain the returns of the momentum strategies in this market. Finally, our results reveal that momentum returns are linked to some variables that proxy slow information diffusion or overconfidence. These results support some behavioural finance models.// En el presente art\u00c3\u00adculo se realiza un an\u00c3\u00a1lisis del efecto momentum en la Bolsa Mexicana de Valores. Inicialmente se presenta pruebas acerca de la existencia del citado efecto durante el periodo 1993-2006 y se muestra que las rentabilidades obtenidas por las diferentes estrategias no parecen ser justificadas por factores de riesgo ni por los costos de transacci\u00c3\u00b3n. En una segunda parte del art\u00c3\u00adculo se encuentra cierta relaci\u00c3\u00b3n entre el efecto momentum en el mercado mexicano y variables que aproximan cuestiones tales como la difusi\u00c3\u00b3n de informaci\u00c3\u00b3n en los t\u00c3\u00adtulos o la dificultad de valoraci\u00c3\u00b3n de los mismos, que proporciona apoyo a alguna de las teor\u00c3\u00adas de finanzas de comportamiento.",
+            "keywords": [
+                "Momentum",
+                "risk",
+                "behavioral finance",
+                "riesgo",
+                "finanzas de comportamiento"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eltjournl/v_3a76_3ay_3a2009_3ai_3a302_3ap_3a433-463.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "How Elon Musk's Twitter activity moves cryptocurrency markets",
+            "abstract": "Elon Musk, one of the richest individuals in the world, is considered a technological visionary and has a social network of over 110 million followers on social media platform Twitter. He regularly uses his social media presence to communicate on various topics, one of which is cryptocurrency, such as Bitcoin or Dogecoin. Using an event study approach, we analyze to what extent Musk's Twitter activity affects short-term cryptocurrency returns and volume. In other words, we investigate whether cryptocurrency markets exhibit a \u00e2\u0080\u009cMusk Effect\u00e2\u0080\u009d. Based on a sample of 47 cryptocurrency-related Twitter events, we identify significant positive abnormal returns and trading volume following such events. However, we discover that on average, price effects are only significant for Dogecoin-related Tweets but not for Bitcoin. This is because regarding the latter, the significant price effects of positive and negative news cancel each other out. Considered in isolation, non-negative tweets from Musk lead to significantly positive abnormal Bitcoin returns. Individual tweets do raise the price of Bitcoin by 16.9 % or reduce it by almost 11.8 %. Our study shows the significant impact that the social media activity of influential individuals can have on cryptocurrencies. This suggests a conflict between morals, risks of market manipulation and investor protection.",
+            "keywords": [
+                "Twitter",
+                "Bitcoin",
+                "Dogecoin",
+                "Event study",
+                "Social media"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeetefoso/v_3a186_3ay_3a2023_3ai_3apa_3as0040162522006333.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Uncertainty about What's in the Price",
+            "abstract": "A critical question facing speculators contemplating to trade on private information is whether their signal has already been priced in by the market. In our model, speculators assess the novelty of their information based on recent price movements, and market makers are aware that speculators might be trading on stale news. An asymmetric response to past price movements ensues: after price increases, buy volume\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009dbecause it may result from stale news trading\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009dhas a lower price impact than sell volume (and vice versa after price decreases). Consequently, return skewness is negatively related to lagged returns. We find strong support for these and other predictions using a comprehensive sample of US stocks.",
+            "keywords": [
+                "Strategic",
+                "trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cprceprdp/19273.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Overnight earnings announcements and preopening price discovery",
+            "abstract": "This study examines the market responses to announcements of stocks with different trading activities that disclose earnings during and outside normal trading hours. For less actively traded stocks, when bad news is reported after the market closes, potential informed trading exists, along with heightened return reversals and market inefficiency before the release. These informed trading activities are partially responsible for the post-announcement preopening price adjustments. Although the after-release preopening period for inactive stocks does not significantly facilitate price discovery as much as for active stocks, it provides an environment to resolve order imbalances after overnight information.",
+            "keywords": [
+                "Earnings announcement",
+                "Overnight information",
+                "Informed trading",
+                "Preopening price discovery"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejapwor/v_3a70_3ay_3a2024_3ai_3ac_3as0922142524000124.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Simple measures of market efficiency: A study in foreign exchange markets",
+            "abstract": "Previous studies on the stock market consider the degree of market efficiency to be an inverse of the predictive power of order flow. Following this notion, I propose simple market efficiency measures in foreign exchange (FX) markets. The first measure considers the market to be inefficient when positive (negative) order flows predict the appreciation (depreciation) of a base currency. The second measure considers whether predictions using order flow result in tangible gains. These measures are related to liquidity levels and information factors in FX markets, unlike the measures in previous studies.",
+            "keywords": [
+                "Liquidity",
+                "Information asymmetry",
+                "Market efficiency",
+                "Order flows",
+                "Stealth trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejapwor/v_3a41_3ay_3a2017_3ai_3ac_3ap_3a1-16.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Inter-Variety Equilibrium of Chinese Treasury Futures",
+            "abstract": "Treasury futures, important tools in interest risk management, need to maintain price equilibrium between different varieties. In this paper, we conduct research on ten-, five-, and two-year Treasury futures in China\u00e2\u0080\u0099s futures market. The auto-regression model is used to fit and predict the spot yield, the CTD (cheapest to deliver) price is used in valuing Treasury futures, and the transaction cost and market friction are considered in building the arbitrage-free spread interval. By comparing the amount of deviation and the equilibrium reversion speed, we analyse the inter-variety price equilibrium between Treasury futures. We find that there are many arbitrage opportunities among the three varieties, and the market is not fully efficient. Through further analysis of the pairwise spread relationship of the futures, we conclude that longer operation of the Treasury futures market will lead to higher market efficiency, shorter duration of arbitrage opportunities, and a faster return to equilibrium. The existing literature mainly focuses on the equilibrium relationship between two Treasury futures in statistical terms, but this paper examines the equilibrium relationship between all existing varieties of Treasury futures in China\u00e2\u0080\u0099s market based on pricing, which expands the subject and methods of research on inter-variety equilibrium in Treasury futures.",
+            "keywords": [
+                "Arbitrage-free Equilibrium",
+                "Arbitrage-free Interval",
+                "Inter-variety Arbitrage",
+                "Deviation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/dahaeqccm/v55_5fy2022_5fi2_5fq2_5fp261-289.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Post earnings announcement drift, liquidity and zero leverage firms: Evidence from the UK stock market",
+            "abstract": "We investigate the empirical relationship between liquidity costs and Post Earnings Announcement Drift, using a sample of 93 zero-leverage firms listed on the FTSE 350 index over the time period 2000\u00e2\u0080\u00932015. We discover that illiquidity levels are significantly enhanced around both the earnings and post announcement period, in both the short and long run. Once we decompose the bid-ask spread components during the earnings announcements, we observe that the adverse selection costs are significantly increased, whereas the inventory holding and order processing costs remain unchanged. We conclude that Post Earnings Announcement Drift is related with information asymmetry for zero-leverage firms.",
+            "keywords": [
+                "Post Earnings Announcement Drift",
+                "Zero-leverage firms",
+                "Liquidity",
+                "Amihud Ratio",
+                "Spread Decomposition"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbrese/v_3a116_3ay_3a2020_3ai_3ac_3ap_3a13-26.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information asymmetry and the wealth appropriation effect in the bond market: Evidence from late disclosures",
+            "abstract": "We examine the effect of an exogenous increase in information asymmetry (as proxied by late filings of firms' Form 10-K) on bond prices. We find that bondholders react negatively to a late filing announcement but this negative reaction is conditional on whether late filing firms appropriate wealth from bondholders through shareholder distribution. Moreover, we find that the impact of financial distress and covenants on bond values is mainly driven by the wealth appropriation from bondholders. The results are robust to difference-in-difference analysis using treatment (i.e., late filing) and control (i.e., non-late-filing) samples based on propensity score matching. The results provide evidence that shareholder distribution as a specific form of wealth appropriation from bondholders to shareholders has a significant effect on bond values when financial information is not timely provided to capital markets.",
+            "keywords": [
+                "Information asymmetry",
+                "Late disclosures",
+                "Bond market",
+                "Debt market",
+                "Wealth appropriation",
+                "Bond covenants"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbrese/v_3a95_3ay_3a2019_3ai_3ac_3ap_3a49-61.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

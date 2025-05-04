@@ -1,0 +1,164 @@
+{
+    "page_info": {
+        "page_number": 43,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Weak Form Efficiency of the Nigerian Stock Market: An Empirical Analysis (1984 2009)",
+            "abstract": "This paper examines the weak-form efficient markets hypothesis for the Nigerian stock market by testing for random walks in the monthly index returns over the period 1984-2009. The results of the non-parametric runs test show that index returns on the Nigerian Stock Exchange (NSE) display a predictable component, thus suggesting that traders can earn superior returns by employing trading rules. The statistically significant deviations from randomness are also suggestive of suboptimal allocation of investment capital within the economy. The findings, in general, contradict the weak-form of the efficient markets hypothesis. Finally, a range of policy strategies for improving the allocative capacity and quality of the information environment of the NSE are discussed.",
+            "keywords": [
+                "Random walk hypothesis",
+                "Market efficiency",
+                "Runs test",
+                "Stock returns",
+                "Nigeria"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2012-03-11.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Oil and Cars: The Impact of Crude Oil Prices on the Stock Returns of Automotive Companies",
+            "abstract": "In this paper we are testing whether the impact of oil prices is different on the overall market and automotive companies. In addition we investigate, if this relationship is nonlinear. For this we use stock return data of US, German and Japanese car companies, and returns of share indices from the same countries as control variables, and Brent crude oil price changes. We first estimate the impact of crude oil on the indices, then clean the indices from these influences, and afterwards estimate the impact on the stocks. For this we are using OLS and EGARCH (1,1). We conclude that in general the car companies stocks do not react more adversely as the overall market to crude oil price increases, while Japanese companies do not show any excess sensitivity at all. German companies tend to be sensitive, and US and German companies are together more sensitive in the more recent time periods.",
+            "keywords": [
+                "Crude oil",
+                "Automotive",
+                "Car producers",
+                "Stock returns",
+                "Regression",
+                "Nonlinear"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2012-02-7.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading Volume Levels and Stock Returns: Empirical Behavioral Analysis",
+            "abstract": "The objective of this paper is to provide an empirical behavioral analysis of the relationship between the trading volume and the future evolution of stock returns. This subject has been examined empirically on the European financial market during 2000-2010. Our empiric findings suggest monotonous relationships between the trading volumes and the schemas of price evolution in terms of the continuity/reversal of prices that vary amongst the trading volume levels as well as amongst the winning and losing shares. Excess volume is thus more dependent on momentum profits for loser portfolios and on contrarian profits for winner portfolios.",
+            "keywords": [
+                "Trading Volume Levels",
+                "Momentum Profits",
+                "Contrarian Profits",
+                "Behavioral Analysis and Loser/Winner Portfolios"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2017-03-84.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Stock Market Reaction to Securities Class Action Filings",
+            "abstract": "The purpose of this paper is to investigate stock price reaction to securities class action filings. A standard event study methodology, employing the market model, is applied to determine the abnormal returns both on and surrounding the lawsuit filing day. We utilize the Stanford Securities Class Action Clearinghouse Database (SCAC)[1] to collect the initial sample, which contains data on all securities class action. Insofar as we have eliminated any event that could contaminate the event to capture only the effects linked to the announcement, our sample is then restricted to three events corresponding to three different companies.The results show the absence of a significant reaction for the ten days preceding the lawsuit filings as well as for the ten days following the lawsuit filings. This paper uses stock market reaction to gauge the merit of Securities class action (SCAs) and the results shows that the market has a modest ability to discern meritorious filings from frivolous filings.",
+            "keywords": [
+                "Lawsuits",
+                "Filling",
+                "Event study",
+                "Securities Class Action",
+                "Frivolous lawsuit"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2022-06-14.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Speed of Convergence to Market Efficiency: Example of Top loser Stocks",
+            "abstract": "This study investigates the convergence process toward efficiency of daily top losers. We find that significance of order imbalance coefficients decreases with increasing time interval, indicating evidences on convergence to market efficiency. A time-varying GARCH model is employed to examine the relation between order imbalance and volatility. The significance of order imbalance coefficients shows a decay pattern, which also supports convergence to market efficiency. We develop an imbalance-based trading strategy and can not make profits from these daily top losers under bid/ask price. A nested causality approach, which examines dynamic return-order imbalance relation during price formation process, confirms the results.",
+            "keywords": [
+                "Market efficiency",
+                "order imbalance",
+                "top losers",
+                "volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ecojourn1/2013-03-4.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do individual investors learn from their trading experience",
+            "abstract": "This paper investigates whether individual investors adjust their stock trading according to their stock selection abilities, which can be inferred from their trading history. Fixed-effect panel regressions provide strong evidence that the ability to forecast future stock returns significantly affects investors\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 trading activity: investors purchase more actively if they are more likely to have stock selection ability. Furthermore, trading experience \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c measured by the number of purchases, the number of different stocks purchased, and the variance of purchase dollar amounts \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c significantly helps improve investors\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 portfolio performance. In addition, we find that learning behavior varies across investors, which corroborates the heterogeneity of individual investors",
+            "keywords": [
+                "individual investors",
+                "learning",
+                "rationality",
+                "trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ecmnasm04/532.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The heterogeneous volume-volatility relations in the exchange-traded fund market: Evidence from China",
+            "abstract": "We decompose the trading volume of exchange-traded funds (ETFs) into specific components according to different triggers of trades: (i) private information, (ii) disagreement among investors due to their different opinions on public information or having different information, and (iii) investor impatience. Then we examine the particular impact of each type of ETF trade on the market volatility of the tracked index. Focusing on the three ETFs tracking the CSI 300, we show that ETF trades stemming from investor disagreement are a key determinant of CSI 300 volatility, dominating other factors considered. Liquidity ETF trades can partially explain CSI 300 volatility. However, little evidence supports a significant correlation between privately informed trades of ETFs and CSI 300 volatility.",
+            "keywords": [
+                "Disagreement among investors",
+                "Exchange-traded funds",
+                "Liquidity trades",
+                "Market volatility",
+                "Private information",
+                "Trading volume"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a85_3ay_3a2020_3ai_3ac_3ap_3a400-408.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The effect of risk-taking behavior on profitability: Evidence from futures market",
+            "abstract": "We explore how futures traders make a tradeoff between risk and return by examining their risk-taking in the action. By applying a novel measure to their trade-by-trade transactions to capture their tendency in risk-taking, we find a general tendency to reduce risk-taking by cutting positions when facing losses or gains, and the tendency is stronger in the case of losses. However, great variations exist among traders in the risk-taking tendency and the results for trading are opposite for profitable and unprofitable traders. For the unprofitable, more risk-taking by trading more actively leads to greater losses. This is concrete evidence for the prevailing belief in the literature that trading too much, arguably due to overconfidence, is hazardous to investor's wealth. Contrary to that belief, however, we find fresh evidence that more active trading by the profitable traders leads to greater profits, suggesting their trades are likely based on ability and skills.",
+            "keywords": [
+                "Risk-taking",
+                "Profitability",
+                "Individual trader",
+                "Reversals of loss",
+                "Overconfidence"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a86_3ay_3a2020_3ai_3ac_3ap_3a19-38.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Determining the information share of liquidity and order flows in extreme price movements",
+            "abstract": "Liquidity and order flows have been found to be major causes of extreme price movements (EPMs) in previous studies. However, few studies have clarified whether the impacts of these factors to EPMs are transient or permanent. In this paper, we represent the fluctuation of liquidity as a time series of price. The measurement of permanent price impact is converted to the price discovery problem solved by a quantile vector error correction model. Empirical results using the high frequency data in the Chinese stock market indicate that both liquidity and order flows contribute to the permanent component of the EPMs. However, liquidity is the dominating factor, which accounts for more than 60\u00e2\u0080\u009380% of the information share in EPMs scenarios.",
+            "keywords": [
+                "Extreme price movements",
+                "Price discovery",
+                "Information share",
+                "Liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a93_3ay_3a2020_3ai_3ac_3ap_3a559-575.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Returns and volume: Frequency connectedness in cryptocurrency markets",
+            "abstract": "The present paper investigates the causal link between returns and volume in cryptocurrency markets. Relative to earlier empirical studies on the topic, it employs a flexible methodological approach that allows the intensity and the pattern of the link to vary with the traders\u00e2\u0080\u0099 planning horizon (shorter vs longer runs) and the nature of the preceding price shocks (positive vs negative). Causality is bi-directional implying that: (a) volume-based technical analysis can lead to higher profits and (b) trend-following is likely to be a common investment strategy among rational uninformed traders. There is, therefore, scope for establishing appropriate disclosure systems to deal with information asymmetry and the risk associated with it. In the longer-run, spillovers from returns to volume are stronger than those in the opposite direction. The same, generally, applies to spillovers from positive relative to negative returns. Consequently, returns (especially the positive ones) are more likely to induce fundamental changes in traders\u00e2\u0080\u0099 expectations compared to volume.",
+            "keywords": [
+                "Cryptocurrencies",
+                "Volume",
+                "Returns",
+                "Frequency",
+                "Causation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a95_3ay_3a2021_3ai_3ac_3ap_3a13-20.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Media effects matter: Macroeconomic announcements in the gold futures market",
+            "abstract": "Despite increasing research on firm-specific news, it is unclear how the media affects the assimilation of macroeconomic news by futures markets. To fill this gap, we employ scheduled and non-scheduled macroeconomic announcements, as well as 60,030 instances of macroeconomic news reporting in China, to investigate the media\u00e2\u0080\u0099s role in transmitting macroeconomic news to the gold futures market. We find that macroeconomic announcements, while necessary, may not be sufficient to drive the gold futures market. Meanwhile, the media\u00e2\u0080\u0094as a vital intermediary\u00e2\u0080\u0094is essential for news absorption; the effect is stronger for national and political media. Further, the gold futures market asymmetrically reacts to good and bad news; only reporting on good news can invoke significant market responses. Our findings demonstrate the importance of the information environment cultivated by powerful media in improving the efficiency of financial markets, and help to explain why bad news moves slowly from a media perspective.",
+            "keywords": [
+                "Macroeconomic news",
+                "Media",
+                "Gold futures market",
+                "Good news",
+                "Conditional volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a96_3ay_3a2021_3ai_3ac_3ap_3a1-12.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Firm-specific investor sentiment for the Chinese stock market",
+            "abstract": "Investor sentiment plays a signi\u00ef\u00ac\u0081cant role in asset prices, and sieves out safer and speculative stocks, and captures institutional and retail investors\u00e2\u0080\u0099 demand shocks. Previous studies focus on the e\u00ef\u00ac\u0080ects of investor sentiment in the developed stock markets using various sentiment metrics. We propose overnight and over-weekend returns as \u00ef\u00ac\u0081rm-speci\u00ef\u00ac\u0081c investor sentiment (FSIS) to re\u00ef\u00ac\u0082ect retail investors\u00e2\u0080\u0099 beliefs about the developing Chinese stock market, and show that FSIS has short-term persistence, a negative relation with intraday returns and price impact, a U-shaped relation with trading activity, an inverse U-shaped relation with long-run performance and a positive impact on cross-sectional returns. FSIS captures the characteristics of the Chinese stock market with short-selling constraints, and market-level information of FSIS explains risk premiums from sentiment-driven mispricing. Our results also re\u00ef\u00ac\u0082ect the stronger-self remediability after the 2015 crash of the Chinese stock market.",
+            "keywords": [
+                "Firm-speci\u00ef\u00ac\u0081c investor sentiment",
+                "Overnight returns",
+                "Intraday return",
+                "Liquidity",
+                "Stock long-run performance",
+                "Cross-sectional stock returns",
+                "Sentiment-driven mispricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a97_3ay_3a2021_3ai_3ac_3ap_3a231-246.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

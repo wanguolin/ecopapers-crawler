@@ -1,0 +1,155 @@
+{
+    "page_info": {
+        "page_number": 132,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Lottery demand and the asset growth anomaly",
+            "abstract": "The negative relation between asset growth (AG) and future stock returns is particularly featured by the overvaluation of high AG stocks. We propose that such overvaluation is attributed to investors\u00e2\u0080\u0099 lottery demand toward stocks with high maximum daily returns (MAX), resulting in higher AG premium among high MAX stocks. Our empirical results confirm this prediction. Further evidence indicates that the impact of lottery preference on the AG anomaly is robust to several alternative explanations, including overinvestment, limits-to-arbitrage, and the q-theory. Our study provides a new insight into the understanding of the AG anomaly.",
+            "keywords": [
+                "Asset growth",
+                "Lottery preferences",
+                "Lottery-like payoffs",
+                "Extreme returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a48_3ay_3a2022_3ai_3ac_3as1544612322002367.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "When Tether says \u00e2\u0080\u009cJUMP!\u00e2\u0080\u009d Bitcoin asks \u00e2\u0080\u009cHow low?\u00e2\u0080\u009d",
+            "abstract": "While stablecoins such as Tether closely track the peg, there is some evidence for recurring spikes in stablecoins\u00e2\u0080\u0099 intraday volatilities rendering stablecoin volatilities unstable (Grobys et al., 2021). Using the Barndorff-Nielsen and Shephard (2006a) methodology, the purpose of our study is to examine whether jumps in Tether have an impact on (subsequent) Bitcoin returns. We retrieve hourly data for Bitcoin and Tether from Bitfinex covering the November 2018 to June 2021 period and encode the binary choice (1 \u00e2\u0080\u0093 \u00e2\u0080\u0098jump\u00e2\u0080\u0099 and 0 \u00e2\u0080\u0093 \u00e2\u0080\u0098no jump\u00e2\u0080\u0099) using bi-power variation based on asymptotic distribution theory at 5% significance level for each trading day. Our results show that the joint effect of positive jumps in Tether in association with an 1% increase in Tether returns on the prior day significantly predict negative prices changes in Bitcoin ranging from -3.65% to -8.49% in daily terms. Our results remain robust even after controlling for various other variables.",
+            "keywords": [
+                "Bitcoin",
+                "Brownian semimartingales",
+                "Bipower variations",
+                "Cryptocurrency",
+                "Granger-causality test",
+                "Jumps",
+                "Stable coin",
+                "Tether"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a47_3ay_3a2022_3ai_3apa_3as1544612321005778.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Analyzing the efficient market hypothesis with asymmetric persistence in cryptocurrencies: Insights from the Fourier non-linear quantile unit root approach",
+            "abstract": "We test the efficient market hypothesis (EMH) in Bitcoin (BTC) and Ethereum (ETH) using the further Fourier nonlinear quantile (FNQKS) unit root test by Bahmani-Oskooee et al. (2020). While conventional tests support EMH in the cryptocurrency market, the FNQKS unit root test does not support EMH. Considering non-linearity, Fourier breaks, and non-normal distribution in BTC and ETH exhibit asymmetric persistence. This allows investors to make adjustments to their portfolios in response to both negative and positive shocks.",
+            "keywords": [
+                "Cryptocurrency",
+                "EMH",
+                "Smooth breaks",
+                "Non-linearity",
+                "Quantile unit root"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a58_3ay_3a2023_3ai_3apc_3as1544612323009005.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Recalibration of priorities: Investor preference and Russia-Ukraine conflict",
+            "abstract": "This study examines the role of the Russia-Ukraine conflict in influencing the investor preference for energy, aerospace & defense, and ESG (i.e., environmental, social, and governance) investments, using Diebold and Yilmaz's (2012) return spillover effects from April 2019 to May 2022. Our findings report that energy and the aerospace & defense sectors become the net receivers of return spillover effects from ESG investments after February 2022, suggesting that the Russian invasion of Ukraine led to a recalibration of investor priorities. Investor preference for energy and the aerospace & defense sectors has increased in the wake of their growing sustainability role.",
+            "keywords": [
+                "Aerospace & defense",
+                "Energy",
+                "ESG"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a50_3ay_3a2022_3ai_3ac_3as1544612322004779.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The price of firm-level information uncertainty",
+            "abstract": "Firm-level uncertainty is difficult to measure in nature. We construct a new measure of firm-level information uncertainty based on uncertainty premium implied by earnings announcement returns. This new measure fundamentally differs from other firm-level uncertainty measures. We find that high-uncertainty firms outperform low-uncertainty firms by 9.59 % per annum on a risk-adjusted basis. Furthermore, this return predictability persists for up to five quarters. Our uncertainty measure and its return predictability are primarily driven by the idiosyncratic component. Overall, our results support the existence of an uncertainty premium and cast doubt on the hedgeability of uncertainty.",
+            "keywords": [
+                "Uncertainty",
+                "Stock Return Predictability",
+                "Earnings Announcements",
+                "Hedging"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a67_3ay_3a2024_3ai_3apa_3as1544612324008122.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Salience theory and enhancing momentum profits",
+            "abstract": "Salience theory predicts that stocks with salient upsides are overvalued and earn lower subsequent returns, whereas those with salient downsides are undervalued and generate higher future returns. This study investigates an enhanced momentum strategy excluding stocks with extremely salient payoffs which attenuate the profitability of the momentum strategy. We find that this approach generates a significantly higher return and Sharpe ratio than the traditional momentum strategy. We further find that the performance improvement is more prominent for loser portfolios than for winner portfolios.",
+            "keywords": [
+                "Momentum strategy",
+                "Salience theory"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a50_3ay_3a2022_3ai_3ac_3as1544612322004627.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price discovery of climate risk and green bonds: A dynamic information leadership share approach",
+            "abstract": "This study investigates the price discovery of a novel stock market climate risk indicator, measured by the Morgan Stanley Capital International Climate Change Index (MSCI CCI) and global green bond indices. A time-varying information leadership share (ILS) measure assesses dynamic price discovery performance of the MSCI CCI and green bonds. We find that the MSCI CCI index dominates in the price discovery process in terms of time-varying ILS, despite the static result indicating the opposite. Further, the outbreak of the COVID-19 pandemic had restrictively positive effects on price discovery as the crisis progressed.",
+            "keywords": [
+                "Price discovery",
+                "Green bonds",
+                "Climate risk",
+                "Information leadership share",
+                "VEC-DCC-GARCH model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a69_3ay_3a2024_3ai_3apb_3as1544612324011279.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Anatomy of a meltdown: The risk neutral density for the S&P 500 in the fall of 2008",
+            "abstract": "We examine the risk neutral probability density (RND) for the S&P 500 extracted from real-time bid and ask quotes for index options, under extreme market stress during the fall of 2008. The RND provides exceptional detail about investors' expectations as intraday volatility increased to a level five times higher than it had been two years earlier. Arbitrage keeps the mean of the RND closely tied to the market index, but its autocorrelation is very different. We also find a strong pattern in the RND's response to stock index movements: The middle portion amplifies the index change by more than 50% in some cases. This overshooting increased during the crisis and, surprisingly, was stronger in up moves than down moves.",
+            "keywords": [
+                "Risk neutral density",
+                "Implied probabilities",
+                "Stock index options",
+                "2008 financial crisis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a15_3ay_3a2012_3ai_3a2_3ap_3a151-180.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Institutional trading and satellite data",
+            "abstract": "This study investigates the impact of satellite data availability on the market timing abilities of institutional investors. By analyzing the introduction of satellite coverage for major retailers, this study finds that access to satellite data significantly enhances the return predictability of daily institutional trading. This improvement is more pronounced for stocks with severe information asymmetry and is driven by non-hedge funds. These results suggest that institutions, especially non-hedge funds, actively adjust their trading positions on a daily basis in response to satellite data.",
+            "keywords": [
+                "Institutional trading",
+                "Satellite data",
+                "Hedge funds"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a71_3ay_3a2025_3ai_3ac_3as1544612324013709.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short-term residual reversal",
+            "abstract": "Conventional short-term reversal strategies exhibit dynamic exposures to the Fama and French (1993) factors. We develop a novel reversal strategy based on residual stock returns that does not exhibit these exposures and consequently earns risk-adjusted returns that are twice as large as those of a conventional reversal strategy. Residual reversal strategies generate statistically and economically significant profits net of trading costs, even when we restrict our sample to large-cap stocks over the post-1990 period. Our results are inconsistent with the notion that reversal effects are the result of trading frictions or non-synchronous trading of stocks and pose a serious challenge to rational asset pricing models.",
+            "keywords": [
+                "Short-term reversal",
+                "Dynamic risks",
+                "Residual returns",
+                "Trading costs",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a16_3ay_3a2013_3ai_3a3_3ap_3a477-504.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Limited cognition and clustered asset prices: Evidence from betting markets",
+            "abstract": "Asset prices tend to cluster at round numbers. We examine betting exchange data on U.K. horse races to establish whether limited cognition is partially responsible for this clustering. The key tool in this study is the stark increase in cognitive load faced by traders during races compared to prior to races. Using an approach that is part regression discontinuity and part difference-in-differences, we find that traders exhibit a substantially higher propensity to quote round numbers, rather than the nearest non-round numbers, during races. This result is robust to a series of placebo tests.",
+            "keywords": [
+                "Limited cognition",
+                "Price clustering",
+                "Regression discontinuity",
+                "Difference-in-differences"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a29_3ay_3a2016_3ai_3ac_3ap_3a27-46.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "What\u00d7\u00b3s a name worth? The impact of a likeable stock ticker symbol on firm value",
+            "abstract": "We investigate the impact of the likeability and pronounceability of stock ticker symbols on firm value. Using a unique, comprehensive dataset with hand-collected ratings of ticker symbols, we find that higher likeability of ticker symbols leads to higher Tobin\u00d7\u00b3s Q. The pronounceability of ticker symbols has a similar but weaker effect. Further evidence suggests that the effect is possibly due to the impact of ticker symbols on stock liquidity or mispricing or both.",
+            "keywords": [
+                "Ticker symbols",
+                "Tobin\u00d7\u00b3s Q",
+                "Mispricing",
+                "Liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinmar/v_3a31_3ay_3a2016_3ai_3ac_3ap_3a63-80.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

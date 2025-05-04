@@ -1,0 +1,148 @@
+{
+    "page_info": {
+        "page_number": 251,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "On the (in)efficiency of cryptocurrencies: Have they taken daily or weekly random walks?",
+            "abstract": "The legitimacy of virtual currencies as an alternative form of monetary exchange has been the centre of an ongoing heated debated since the catastrophic global financial meltdown of 2007-2008. We contribute to the relative fresh body of empirical research on the informational market efficiency of cryptomarkets by investigating the weak-form efficiency of the top-five cryptocurrencies. In differing from previous studies, we implement random walk testing procedures which are robust to asymmetries and unobserved smooth structural breaks. Moreover, our study employs two frequencies of cryptocurrency returns, one corresponding to daily returns and the other to weekly returns. Our findings validate the random walk hypothesis for daily series hence validating the weak-form efficiency for daily returns. On the other hand, weekly returns are observed to be stationary processes which is evidence against weak-form efficiency for weekly returns. Overall, our study has important implications for market participants within cryptocurrency markets.",
+            "keywords": [
+                "Efficient Market Hypothesis (EMH)",
+                "Cryptocurrencies",
+                "Random Walk Model (RWM)",
+                "Flexible Fourier Form (FFF) unit root tests",
+                "Smooth structural breaks."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/94712.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Central bank information and pure monetary policy surprises in Switzerland",
+            "abstract": "This paper presents a novel high-frequency motive classification strategy - the Trading Markov Sign Restriction (TMSR) - to map pure monetary policy and central bank information motives onto monetary surprises. It considers high-frequency dynamics on the interest rate futures and the stock market and examines systematic phases of expectation adjustment behaviour within 30-minute windows around policy announcements. I show that three systematic phases of expectation adjustment intensities can be observed for monetary policy announcements from the Swiss National Bank (SNB). Based on these identified phases, trends in trading directions on the interest rate futures and stock market are then weighted by a measure of expectation adjustment intensity to classify pure monetary policy and central bank information motives per policy announcement. Studying the effects of pure monetary policy and central bank information surprises reveals that both types of surprises affect financial assets; however, for the Swiss case, these effects differ from each other only for the exchange rates and stock market responses.",
+            "keywords": [
+                "Monetary policy",
+                "Central bank information",
+                "High-frequency identification",
+                "Motive classification"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/snbsnbwpa/2025-01.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Estimating the Price Impact of Market Orders on the Bucharest Stock Exchange",
+            "abstract": "In this paper, we study the price response when high dimension buy or sell market orders for equities with different levels of liquidity are introduced into a limit order book system. Using high frequency data from five blue-chips listed on the Bucharest Stock Exchange, we capture the interactions between these types of orders and prices by the estimated impulse response functions in a VECM framework. The results reveal that the impact is high and persistent in time for the less liquid equities and is smaller when dealing with liquid ones. Thus, the corresponding prices of less liquid stocks can be easily manipulated by a trader willing to buy or sell significant volumes. This is a very common imbalance in the capital markets of the emerging countries and should be adjusted very quickly by the regulators.",
+            "keywords": [
+                "market impact",
+                "market orders",
+                "limit orders",
+                "cointegration"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/rjrromjef/v_3a_3ay_3a2018_3ai_3a4_3ap_3a120-133.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Detecci\u00c3\u00b3n de ca\u00c3\u00addas en mercados financieros mediante an\u00c3\u00a1lisis multifractal (exponentes locales y puntuales de H\u00c3\u00b6lder): \u00c3\u008dndice accionario IPC y tipo de cambio USD/MXN",
+            "abstract": "The multifractal model has demonstrated properly how to measure the complexity within economic systems when describing a time series with a spectrum; this tool offers the possibility to study local regularity for prior and after market crash detections. The main goal of this work is to show through evolution of H\u00c3\u00b6lder\u00e2\u0080\u0099s exponents and irregular points, how it is possible to study intrinsic market dynamics. For these purposes, H\u00c3\u00b6lder exponents were determined over time series of the Mexico IPC stock index and fx USD/MXN during: 1994-2013 and 1992-2013, respectively.",
+            "keywords": [
+                "H\u00c3\u00b6lder exponents",
+                "multifractal analysis",
+                "irregularity"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/47699.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The words have power: the impact of news on exchange rates",
+            "abstract": "Using the big data of news texts and a novel, news extended exchange rate model, we investigate the impact of media news on major exchange rates. To present the impact of the U.S. Dollar related news on EUR/USD and GBP/USD, we first use a machine learning model and detect which news topics relate to U.S. Dollar. Next, we calculate the attention to the U.S. Dollar related news topics over time. Eventually, we visualize how Exchange rates react to shocks in the attention to the U.S. Dollar related news topics. The impulse response functions of U.S. Dollar bilateral rates show that exchange rates respond to the U.S. Dollar related news and to the economic uncertainty news shocks with statistical significance in several periods after the shock. Forecast error decomposition documents that 25-27% of exchange rate variation in the long run comes from the news. The results reveal, that news add valuable information to macroeconomic fundamentals for identifying exchange rates, and exchange rates are better identified when both, macroeconomic and news information are used together. These findings are important for exchange rate modeling.",
+            "keywords": [
+                "Foreign Exchange",
+                "News",
+                "Taylor rules",
+                "Text mining",
+                "LDA",
+                "Natural Language Processing (NLP)"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/prgjnlwps/v_3a5_3ay_3a2023_3aid_3a5.006.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "John Bull Can't Stand 2 Percent: QE's Depressing Implications for Investment",
+            "abstract": "Much of the existing literature misunderstands \u00e2\u0080\u009creach for yield\u00e2\u0080\u009d behavior as an increase in risk-taking in response to low interest rates. By focusing on common stocks \u00e2\u0080\u0093 where dividend yields are inversely related to systematic risk \u00e2\u0080\u0093 I demonstrate that \u00e2\u0080\u009creach for yield\u00e2\u0080\u009d instead reflects an increase in the marginal utility of current income in response to low interest rates. The monthly returns of a long-short portfolio that buys the highest-yielding 10% of stocks and sells the lowest-yielding decile increase by 1.4% for every 1% decline in two-year interest rates. These effects are three times as large when the decline in interest rates is attributable to a fall in the term premium, which suggests unconventional monetary policies may generate especially large increases in the marginal utility of current income. By increasing the market value of current income relative to future returns, unconventional policy may lead corporate managers to boost shareholder distributions at the expense of capital accumulation.",
+            "keywords": [
+                "Reaching-for-yield",
+                "Dividends",
+                "Production-based asset pricing",
+                "QE"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/risjofitr/1584.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Ability to ''Outperform the Market'': Logical Foundations based on the Theory of Rational Beliefs",
+            "abstract": "Is it theoretically legitimate for an investor to attempt to outperform the market index? Or is the investor simply deluding himself? The purpose of this paper is to apply the new Theory of Rational Beliefs (RB) to demonstrate the following result: Even when all agents have symmetric information, there exist three canonical strategies in an RB environment that make it theoretically legitimate to try to outperform the market. More specifically, while the three strategies that we will identify are not directly implied by RB theory which is a positive theory, the strategies are logically compatible with RB theory when interpreted in a normative manner from the standpoint of an individual agent attempting to exploit the existence of structural change in the environment. This is what we mean by the claim that the proposed strategies are \u00c2\u00abtheoretically legitimate\u00c2\u00bb. Moreover, we propose that these three strategies are canonical in the sense that all theoretically legitimate strategies for outperforming the market (including all successful hedge fund strategies that we know of) are combinations of these three basic strategies.",
+            "keywords": [
+                "Portfolio Choice",
+                "Rational Beliefs",
+                "Diversity of Beliefs",
+                "Asset Pricing",
+                "Market Efficiency",
+                "Bounded Rationality"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/vepjournl/y_3a2007_3av_3a115_3ai_3a3_3ap_3a365-402.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Trading, Profits, and Volatility in a Dynamic Information Network Model",
+            "abstract": "We introduce a dynamic noisy rational expectations model in which information diffuses through a general network of agents. In equilibrium, agents who are more closely connected have more similar period-by-period trades, and an agent\u00e2\u0080\u0099s profitability is determined by a centrality measure that is related to Katz centrality. Volatility after an information shock is more persistent in less central networks, and volatility and trading volume are also influenced by the network\u00e2\u0080\u0099s asymmetry and irregularity. Using account-level data of all portfolio holdings and trades on the Helsinki Stock Exchange between 1997 and 2003, we find support for the aggregate predictions, altogether suggesting that the market\u00e2\u0080\u0099s network structure is important for these dynamics.",
+            "keywords": [
+                "Information networks",
+                "Trading networks",
+                "Heterogeneous investors",
+                "Portfolio choice",
+                "Asset pricing"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ouprestud/v_3a86_3ay_3a2019_3ai_3a5_3ap_3a2248-2283..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Determinants of Stock and Bond Return Comovements",
+            "abstract": "We study the economic sources of stock-bond return comovements and its time variation using a dynamic factor model. We identify the economic factors employing a semi-structural regime-switching model for state variables such as interest rates, inflation, the output gap, and cash flow growth. We also view risk aversion, uncertainty about inflation and output, and liquidity proxies as additional potential factors. We find that macro-economic fundamentals contribute little to explaining stock and bond return correlations, but that other factors, especially liquidity proxies, play a more important role. The macro factors are still important in fitting bond return volatility; whereas the \"variance premium\" is critical in explaining stock return volatility. However, the factor model primarily fails in fitting covariances.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/15260.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Flights to Safety",
+            "abstract": "We identify flight-to-safety (FTS) days for 23 countries using only stock and bond returns and a model averaging approach. FTS days comprise less than 2% of the sample, and are associated with a 2.7% average bond-equity return differential and significant flows out of equity funds and into government bond and money market funds. FTS represents flights to both quality and liquidity in international equity markets, but mainly a flight-to-quality in the US corporate bond market. Emerging markets, endowment funds, and hedge funds all perform poorly during FTS, while hedge funds appear to vary their systematic exposures prior to a FTS.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/19095.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The effects of the Federal Reserve Chair\u00e2\u0080\u0099s testimony on interest rates and stock prices",
+            "abstract": "We study how congressional testimony about monetary policy by the Chair of the Board of Governors of the Federal Reserve System affects interest rates and stock prices. First, we study testimony associated with the Federal Reserve\u00e2\u0080\u0099s Monetary Policy Reports (MPRs) to Congress. Testimony for a particular MPR is usually given on two days, one day for each chamber of Congress. We separately study the first day and second day of MPR testimony. We also study testimonies not associated with MPRs but that are still related to monetary policy. We find that first-day MPR testimonies cause the largest movements in interest rates and generate negative co-movement between interest rates and stock prices. Testimonies not associated with MPRs have similar but weaker effects. Second-day MPR testimonies cause the smallest movements in interest rates and generate no co-movement between interest rates and stock prices.",
+            "keywords": [
+                "Eurodollar future",
+                "Event study",
+                "Forward guidance",
+                "S&P 500",
+                "Treasury note"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecolet/v_3a235_3ay_3a2024_3ai_3ac_3as0165176524000211.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Revisiting the long memory dynamics of implied-realized volatility relation: A new evidence from wavelet band spectrum regression",
+            "abstract": "This paper revisits the fractional co-integrating relationship between ex-ante implied volatility and ex-post realized volatility. Previous studies on stock index options have found biases and inefficiencies in implied volatility as a forecast of future volatility. It is argued that the concept of corridor implied volatility (CIV) should be used instead of the popular model-free option-implied volatility (MFIV) when assessing the relation as the latter may introduce bias to the estimation. In addition, a new tool for the estimation of fractional co-integrating relation between implied and realized volatility based on wavelets, a wavelet band least squares (WBLS) uncovers that corridor implied volatility is an unbiased forecast of future volatility in the long run. The main advantage of WBLS in comparison to other methods is that it allows us to work conveniently with potentially non-stationary volatility due to the properties of wavelets and allows us to study the relation at different investment horizons. In the estimation, we use the S&P 500 and DAX monthly and biweekly option prices covering the recent financial crisis, and we conclude that the dependence comes solely from the lower frequencies of the spectra representing long horizons. The findings enable improvement of future volatility forecasts by discarding the bias coming from the short horizons.",
+            "keywords": [
+                "wavelet band spectrum regression",
+                "corridor implied volatility",
+                "realized volatility",
+                "fractional cointegration"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwfmpwps/43.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "page_info": {
+        "page_number": 20,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Liquidity Estimates and Selection Bias",
+            "abstract": "Since traders often employ price-dependent strategies and cancel expensive orders, conventional estimates tend to overestimate available liquidity. This paper studies trading costs using the sample of portfolio transition trades. The known exogeneity of these trades eliminates the selection bias problem. We estimate a piece-wise linear price impact functions with the intercept corresponding to fixed spread costs and the slope corresponding to variable price impact costs. Buy orders are more expensive than sell orders due to specific institutional features of portfolio transitions. For high-volume stocks, small trades are executed at a discount relative to a piece-wise linear specification. Since the size of this discount is comparable to bid-ask spread, we attribute documented non-linearity to ability of portfolio transition managers sometimes to earn bid-ask spread instead of paying it by providing liquidity to other market participants.",
+            "keywords": [
+                "market impact",
+                "spread",
+                "trading costs",
+                "selection bias"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cfrcefirw/w0225.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Intra-Industry Transfer of Information Inferred From Trading Volume",
+            "abstract": "This study examines the responsiveness of trading volume to a firm\u00e2\u0080\u0099s earnings announcements We find that the volume and earnings surprise information generated at the first earnings announcement within an industry help to explain the stock returns of the non-announcing firm. Specifically, it explains their equity performance at the time of the first industry announcement and then again after their own earnings announcement. These results provide novel insights into how earnings announcements contain both firm specific as well as industry information that is value relevant for investors.",
+            "keywords": [
+                "intra-industry",
+                "earnings announcement",
+                "earnings surprise",
+                "trading activity"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cerpapers/wp663.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Efficiency of Financial Markets in Transition: The Case of Macroeconomic Releases",
+            "abstract": "This paper contributes to the discussion on the efficiency of newly emerged financial markets in transition economies. We use data on one of the most developed financial markets in transition, the Czech Republic, to investigate financial market efficiency by examining the reaction to macroeconomic releases. Direct measure of market expectations, that is, survey data, is used to form a proxy for market expectations. The reactions of interest rates, bond yields, exchange rates, and the stock market index are explored. We found that, despite the fact that the survey data appear to reasonably approximate rational expectations, the Czech market lacks basic efficiency properties. It reacts to the expected part of the news announcement, and the adjustment is stretched over a period of several days. In the case of CPI, we found evidence suggesting that the efficiency of the market improves over time.",
+            "keywords": [
+                "market efficiency",
+                "emerging markets",
+                "market response",
+                "macroeconomic release"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/cerpapers/wp156.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The price impact of rating announcements: which announcements matter?",
+            "abstract": "Credit rating agencies make multiple announcements, some of which are intended to reflect the latest information available about a firm and others of which are intended to provide a stable signal of credit quality. Using data on CDS spreads, we examine which of these different types of rating announcements contains pricingrelevant information. We find that all types, including changes in outlook, have a significant impact on CDS spreads. Even rating announcements preceded by similar announcements have an impact. The price impact is greatest for firms with split ratings, smallcap firms and firms rated near the threshold of investment grade.",
+            "keywords": [
+                "credit default swaps",
+                "credit ratings",
+                "event study",
+                "market reaction"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bisbiswps/207.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is R-Squared a Measure of Market Inefficiency?",
+            "abstract": "This paper provides a critical evaluation of a widely made argument that stock prices in markets with lower return R2 are more efficient. We show that in a standard rational expectations model, return R2 is independent of the amount of information incorporated into stock prices. Furthermore, an alternative model in which stock price fluctuations are driven by investor sentiment leads to an opposite prediction that lower return R2 is associated with stronger medium-term price momentum and long-term price reversal, two commonly believed signs of market inefficiency. By examining stock returns both in the U.S. and internationally, we found empirical evidence consistent with this contrasting prediction. Overall, our analysis casts doubt on the argument that low return R2 is a measure of market efficiency.",
+            "keywords": [
+                "Stocks",
+                "R2",
+                "Stock Prices",
+                "Market Efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/prieconom/2013-8.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Performance Persistence",
+            "abstract": "We explore performance persistence in mutual funds using absolute and relative benchmarks. Our sample, largely free of survivorship bias, indicates that relative risk-adjusted performance of mutual funds persists, however persistence is mostly due to funds that lag the S&P 500. A profit analysis indicates that poor performance increases the probability of disappearance. A year-by-year decomposition of the persistence effect demonstrates that the relative performance pattern depends upon the time period observed, and it is correlated across managers. Consequently, it is due to a common strategy that is not captured by standard stylistic categories, or risk adjustment procedures.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/ysmsomwrk/ysm451.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Analysis of the Lead-Lag Relationship on South Africa capital market",
+            "abstract": "Despite the efficient market hypothesis (EHM), lead-lag relationships can be observed mainly between financial derivatives and underlying asset prices, prices of large and small companies, etc. In our paper, we examined the lead- lag relationship between prices of open ended funds and an all-share index as a representative of the capital market. Along with more traditional methods of using cross correlations, partial correlation and Toda-Yamamoto causality tests, we also analysed the speed of adjustment of assets to their intrinsic values and identified the most prevalent lag using rolling time windows. The analysis was performed using data from the South Africa capital market.",
+            "keywords": [
+                "lead-lag relationship",
+                "open ended fund",
+                "all-share index",
+                "causality",
+                "efficient market hypothesis"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/57309.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price Discovery for Options",
+            "abstract": "We consider a market where traders have asymmetric information regarding the distribution of asset return and study price discovery of derivatives. The informed trader has private information regarding arbitrary higher moments of asset return, such as volatility or skewness, and exploits her private information by trading a complete menu of options. The equilibrium trading strategies of the informed agent in our model reflect those used by traders in the market when trying to exploit higher order moment information, such as the volatility straddle.",
+            "keywords": [
+                "Options",
+                "Price Discovery",
+                "Volatility Straddle"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp2066.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An adjusted Lintner-model for the Netherlands",
+            "abstract": "The informative value given by the announcement of distribution of dividend has already been investigated. One of the leading studies on this matter is Lintner (1956). Lintner found a relation between mutation in dividend, profits in the current financial year and the dividend in the last financial year. This dividend-model is known as the Lintner-model. When the mutation in the dividend differs from what was to be expected by this dividend-model, Lintner finds this to have informative value regarding the amount of profit in the future. In 197 1 I/B/E/S International started a financial data-file, The Institutional Brokers Estimate System (I/B/E/S). This data-file contains the expectations of the analysts regarding profit. Since 1989 I/B/E/S is collecting this data also for Dutch firms. In this article an extra variable is added to the Lintner-model, namely the expectations collected by I/B/E/S mentioned above. The purpose of this article is to find out if there is still informative value regarding the amount of profit in the future when the mutation in the dividend differs from what was to be expected by this adjusted Lintner-model.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/vuawpaper/1999-20.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do Prices Reveal the Presence of Informed Trading?",
+            "abstract": "Using a comprehensive sample of trades from Schedule 13D filings by activist investors, we study how measures of adverse selection respond to informed trading. We find that on days when activists accumulate shares, measures of adverse selection and of stock illiquidity are lower, even though prices are positively impacted. Two channels help explain this phenomenon: (a) activists select times of higher liquidity when they trade, and (b) activists use limit orders. We conclude that when informed traders can select when and how to trade, standard measures of adverse selection may fail to capture the presence of informed trading.",
+            "keywords": [
+                "informed trading",
+                "liquidity",
+                "transaction costs",
+                "selection bias",
+                "activist shareholders"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp1369.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Real-Time Climate Controversy Detection",
+            "abstract": "This study presents ClimateControversyBERT, a novel open-source language model for real-time detection and classification of corporate climate controversies (i.e., brown projects, misinformation, ambiguous actions) from financial news. Validated using RepRisk and Refinitiv metrics, the model effectively identifies inconsistencies between corporate climate commitments and actions as they emerge. We document significant negative market reactions to these controversies: firms experience an immediate average stock price drop of 0.68%, with further declines over subsequent weeks. The impact is intensified by high media visibility and is notably stronger for firms with existing emission reduction commitments, underscoring the market's penalty for perceived environmental failures.",
+            "keywords": [
+                "Climate controversy",
+                "corporate greenwashing",
+                "natural language processing"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp2545.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Serial and cross-correlation in the Spanish Stock Market returns",
+            "abstract": "In this paper, we test if stock index prices follow random walks in the Spanish Stock Market by means of variance ratios. We find strong evidence of positive autocorrelation for both IGBM and IBEX35 daily returns until 1977, but not after that date. Although weekly and monthly index positive autocorrelations are not significant during the years 1972-2002, there is significant positive monthly cross-correlation between portfolios based on size. In particular, large stock portfolios seem to lead to the small stock ones.",
+            "keywords": [
+                "Market efficiency",
+                "random walk",
+                "variance ratio",
+                "cross-correlation"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/unaunccee/wp0203.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

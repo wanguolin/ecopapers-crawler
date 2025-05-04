@@ -1,0 +1,155 @@
+{
+    "page_info": {
+        "page_number": 195,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Czech Money Market: Emerging Links Among Interest Rates",
+            "abstract": "The goal of this paper is to assess the money market in the Czech Republic from 1993 to 1997. The specific interest is in interactions between short and long interest rates, and between exchange and interest rates. During the financial crisis of 1997 the prevailing links among monetary variables tended to gain strength. The mutual links among interest rates provide clear proof that during the crisis the money market had became more efficient than at any time before. This was possible partially because of emerged arbitrage opportunities. The linkages show that turbulence and uncertainty enabled interest rates to again become the price of money as well as to influence the exchange rate. The exchange rate was found to influence only short-term interest rates.",
+            "keywords": [
+                "market efficiency",
+                "VAR",
+                "interest rates",
+                "exchange rates",
+                "causality"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/wdipapers/1997-95.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Centralized vs decentralized markets: The role of connectivity",
+            "abstract": "We consider a setting in which privately informed agents are located in a network and trade a risky asset with other agents with whom they are directly connected. We compare the performance, both theoretically and experimentally, of a complete network (centralized market) to incomplete networks with differing levels of connectivity (decentralized markets). We show that decentralized markets can deliver higher informational efficiency, with prices closer to fundamentals, as well as higher welfare for mean-variance investors.",
+            "keywords": [
+                "Networks",
+                "heuristic learning",
+                "informational efficiency",
+                "experimental asset markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/upfupfgen/1877.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price Discovery and Foreign Participation in Korea's Government Bond Cash and Futures Markets",
+            "abstract": "This paper examines the impact of foreign participation in Korean Treasury Bond (KTB) futures and its role in price discovery, using daily transactions data from the over-the-counter market and from the Korea Exchange for the futures. Our analysis suggests that foreign trading in the KTB futures market leads the price discovery process for the underlying bonds. Empirical results show that foreigners' daily net long positions in the futures market exert significant influence in KTB and KTB futures prices. We also find that it is the unexpected component of foreign investors' net long futures positions that explains a significant share of the pricing effects, suggesting that how foreign trading responds to news carries additional information content.",
+            "keywords": [
+                "price discovery",
+                "emerging market",
+                "government bond",
+                "foreign participation"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bokwpaper/1508.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short Selling, the supply side: are lenders price makers?",
+            "abstract": "It is widely accepted in the literature that high lending fees predict negative returns because high fees capture the negative information that short sellers, on the demand side, detain. Traditionally, the supply side is seen as passive, with stock lenders acting as price takers. Recent studies, however, show that lenders are no longer passive. This study analyzes the Brazilian stock loan market, disentangling the shorting demand and supply curve shifts to understand the driving mechanism linking the supply side and stock returns. We also link the shorting supply curve with news announcements and verify how lenders react to new information in the market. Our results indicate that lenders decrease the loan supply when they predict negative future returns and use new information to change supply conditions, indicating that lenders are not price takers.",
+            "keywords": [
+                "short selling",
+                "loan fee",
+                "lenders",
+                "public information"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/spawpaper/2019wpecon53.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Impacts of Macroeconomic News Announcements on Intraday Implied Volatility",
+            "abstract": "This study examines the response of intraday options-implied volatilities to scheduled announcements of major macroeconomic indicators. By analyzing the KOSPI 200 options intraday data, we find that the abnormal implied volatility significantly increases around announcements of macroeconomic news and that the extent of the response is influenced by a variety of factors, including the type of macroeconomic indicators released, option type and economic conditions. Specifically, the increase in implied volatility around these announcements is more pronounced for puts than for calls. These effects are also more pronounced in the crisis and post-crisis periods than in the pre-crisis period. Monetary policy announcements have a more substantial impact on implied volatility than other announcements, even after controlling for news surprise components. Finally, the impact appears to be greater for policy rate hikes than for policy rate cuts.",
+            "keywords": [
+                "Event study",
+                "Intraday volatility",
+                "KOSPI 200 options",
+                "Macroeconomic news announcement"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/bokwpaper/1902.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Higher Order Expectations, Illiquidity, and Short-term Trading",
+            "abstract": "We propose a theory that jointly accounts for an asset illiquidity and for the asset price potential over-reliance on public information. We argue that, when trading frequencies differ across traders, asset prices reflect investors' Higher Order Expectations (HOEs) about the two factors that influence the aggregate demand: fundamentals information and liquidity trades. We show that it is precisely when asset prices are driven by investors' HOEs about fundamentals that they over-rely on public information, the market displays high illiquidity, and low volume of informational trading; conversely, when HOEs about fundamentals are subdued, prices under-rely on public information, the market hovers in a high liquidity state, and the volume of informational trading is high. Over-reliance on public information results from investors' under-reaction to their private signals which, in turn, dampens uncertainty reduction over liquidation prices, favoring an increase in price risk and illiquidity. Therefore, a highly illiquid market implies higher expected returns from contrarian strategies. Equivalently, illiquidity arises as a byproduct of the lack of participation of informed investors in their capacity of liquidity suppliers, a feature that appears to capture some aspects of the recent crisis.",
+            "keywords": [
+                "Expected returns",
+                "multiple equilibria",
+                "average expectations",
+                "over-reliance on public information",
+                "Beauty Contest."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/sefcsefwp/276.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Cojumping: Evidence from the US Treasury Bond and Future Markets (Discussion Paper 2010-06)",
+            "abstract": "The basis between spot and future prices will be affected by jump behavior in each asset price, challenging intraday hedging strategies. Using a formal cojumping test this paper considers the cojumping behavior of spot and futures prices in high frequency US Treasury data. Cojumping occurs most frequently at shorter maturities and higher sampling frequencies. We find that the presence of an anticipated macroeconomic news announcement, and particularly non-farm payrolls, increases the probability of observing cojumps. However, a negative surprise in non-farm payrolls, also increases the probability of the cojumping tests being unable to determine whether jumps in spots and futures occur contemporaneously, or alternatively that one market follows the other. On these occasions the market does not clearly signal its short term pricing behavior.",
+            "keywords": [
+                "US Treasury markets",
+                "high frequency data",
+                "cojump test"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/taswpaper/10450.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The role of intra-day volatility pattern in jump detection: empirical evidence on how financial markets respond to macroeconomic news announcements",
+            "abstract": "This paper examines the effect of adjusting for the intra-day volatility pattern on jump detection. Using tests that identify the intra-day timing of jumps, we show that before the adjustment, jumps in the financial market have high probability of occurring concurrently with pre-scheduled economy-wide news announcements. We demonstrate that adjustment for the U-shaped volatility pattern prior to jump detection effectively removes most of the association between jumps and macroeconomic news announcements. We find empirical evidence that only news that comes with large surprise can cause jumps in the market index after the volatility adjustment, while the effect of other types of news is largely absorbed through the continuous volatility channel. The FOMC meeting announcement is shown to have the highest association with jumps in the market both before and after the adjustment.",
+            "keywords": [
+                "volatility pattern",
+                "intra-day jumps",
+                "news announcements",
+                "high frequency data"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/taswpaper/22662.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Divergence of opinion and long-run performance of private placements: evidence from the auction market",
+            "abstract": "In this paper, we propose and construct a direct measure of investors' divergence of opinion based on auction bids data of the private placements in China. We find that the firms with higher bids dispersion generate lower long-run stock returns after the issuance of private placements. This effect is economically significant and robust when controlling for market discount, earnings management, analysts forecast dispersion, and self-selection bias. Moreover, this negative relation is stronger for stocks with more stringent short-sale constraints. Our findings therefore provide strong evidence in support of the Miller (1977)'s divergence of opinion hypothesis.",
+            "keywords": [
+                "private placement",
+                "divergence of opinion",
+                "long-run stock returns",
+                "short-sale constraint",
+                "auction"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/taswpaper/23637.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can Investors Profit from Security Analyst Recommendations?",
+            "abstract": "This paper revisits the question of whether investors can benefit from consensus recom- mendations of stock market analysts in US equity markets. To examine the profitability net of transactions cost, we calculate transactions cost based on effective tick spread. We find that transactions cost becomes noticeably lower from 2001 and the strategy of purchasing 'strong buy' stocks and shorting 'strong sell' stocks yields the abnormal returns of 4.7-5.8% per year during the period of 2001-2016, even after accounting for transactions cost. We also find that 'strong buy (sell)' stocks are growth (value) firms and short-term winners (losers). We discuss our empirical results in the context of market efficiency.",
+            "keywords": [
+                "consensus recommendations",
+                "transactions cost",
+                "asset pricing",
+                "market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/yonwpaper/2018rwp-131.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "High-frequency jump analysis of the bitcoin market",
+            "abstract": "We use the database leak of Mt. Gox exchange to analyze the dynamics of the price of bitcoin from June 2011 to November 2013. This gives us a rare opportunity to study an emerging retail-focused, highly speculative and unregulated market with trader identifiers at a tick transaction level. Jumps are frequent events and they cluster in time. The order flow imbalance and the preponderance of aggressive traders, as well as a widening of the bid-ask spread predict them. Jumps have short-term positive impact on market activity and illiquidity and see a persistent change in the price.",
+            "keywords": [
+                "Jump",
+                "Liquidity",
+                "High-frequency data",
+                "Bitcoin"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/gnvwpgsem/unige_3a93900.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The microstructure of a U.S. Treasury ECN: the BrokerTec platform",
+            "abstract": "We assess the microstructure of the U.S. Treasury securities market following its migration to electronic trading. We model price discovery using a vector autoregression model of price and order flow. We show that both trades and limit orders affect price dynamics, suggesting that traders also choose limit orders to exploit their information. Moreover, while limit orders have smaller price impact, their greater variation contributes more to the variance of price updates. Lastly, we find increased price impact of trades and especially limit orders following major announcements (such as FOMC rate decisions and macroeconomic data releases), suggesting that the private information derived from public information is disproportionally exploited through limit orders.",
+            "keywords": [
+                "information",
+                "bid-ask spreads",
+                "microstructure",
+                "Treasury market",
+                "price impact"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/fipfednsr/381.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

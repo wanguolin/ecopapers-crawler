@@ -1,0 +1,148 @@
+{
+    "page_info": {
+        "page_number": 101,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Mechanically Extracted Company Signals and their Impact on Stock and Credit Markets",
+            "abstract": "I analyze company news from Reuters with the 'General Inquirer' and relate measures of positive sentiment, negative sentiment and disagreement to abnormal stock returns, stock and option trading volume, the volatility spread and the CDS spread. I test hypotheses derived from market microstructure models. Consistent with these models, sentiment and disagreement are strongly related to trading volume. Moreover, sentiment and disagreement might be used to predict stock returns, trading volume and volatility. Trading strategies based on positive and negative sentiment are profitable if the transaction costs are moderate, indicating that stock markets are not fully efficient.",
+            "keywords": [
+                "Content Analysis",
+                "Company News",
+                "Market Microstructure"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/knzdpteco/1118.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market efficiency of commodity futures in India",
+            "abstract": "This paper aims to examine the market efficiency of the commodity futures market in India, which has been growing phenomenally for the last few years. We estimate the long-run equilibrium relationship between the multi-commodity futures and spot prices and then test for market efficiency in a weak form sense by applying both the DOLS and the FMOLS methods. The entire sample period is from 2 January 2006 to 31 March 2011. The results indicate that a cointegrating relationship is found between these indices and that the commodity futures market seems to be efficient only during the more recent sub-sample period since July 2009.",
+            "keywords": [
+                "India",
+                "Financial market",
+                "Primary commodities",
+                "Prices",
+                "Futures markets",
+                "Commodity futures",
+                "Efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/jetdpaper/dpaper370.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Portfolio diversification dynamics of individual investors: a new measure of investor sentiment",
+            "abstract": "We build a new measure of investor sentiment only based on changes in diversi?cation levels of individual investors? portfolios. The dynamics of the number of different stocks in portfolios is modelized as a Markov chain. We measure investor sentiment as the area above the cumulative distribution of the steady-state equilibrium of diversi?cation levels. We apply this model to a large sample of more than 80000 individual investors over the period 1999-2006. We ?rst show that our index is signi?cantly correlated to the French consumer sentiment index, to the Baker and Wurgler sentiment indices and to the buy-sell imbalance index, despite the fact we use neither prices or returns on stocks nor transaction volumes or even the identi?cation of stocks bought or sold by the investors. Following the two-step methodology of Baker and Wurgler (2006), we show that our measure outperforms the others in predicting returns of a long-short portfolio based on size.",
+            "keywords": [
+                "Investor sentiment",
+                "retail investors",
+                "markov chains"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/larwpaper/2012-01.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock Market Efficiency Withstands Another Challenge: Solving the \"Sell in May/Buy after Halloween\" Puzzle",
+            "abstract": "Examining the years 1970 to 1998, Bouman and Jacobsen (2002) document unusually high monthly returns during the November-April periods for both United States (U.S.) and foreign stock markets and label this phenomenon the Halloween effect. Their research suggests that the Halloween effect represents an exploitable anomaly and has negative implications for claims of stock market efficiency. Re-examining Bouman and Jacobsen\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s empirical results for the U.S. reveals that their results are driven by two outliers, the \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093Crash\u00c3\u00a2\u00e2\u0082\u00ac of October 1987 and the collapse of the hedge fund Long-Term Capital Management in August 1998. After inserting a dummy variable to account for the impact of the two identified outliers, the Halloween effect becomes statistically insignificant. This anomaly is not economically exploitable for U.S. equity markets. We extend the research to the S&P 500 futures contract and find no evidence of an exploitable Halloween effect over the period April 1982-April 2003.",
+            "keywords": [
+                "efficient markets",
+                "trading rules",
+                "outliers",
+                "anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ejwjournl/v_3a1_3ay_3a2004_3ai_3a1_3ap_3a29-46.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Anomalous Price Behavior Following Earnings Surprises: Does Representativeness Cause Overreaction?",
+            "abstract": "Behavioral Finance aims to explain empirical anomalies by introducing investor psychology as a determinant of asset pricing. This study provides strong evidence that anomalous stock price behavior following earnings announcements is due to a representativeness bias. It investigates current and past earnings surprises and subsequent market reaction for listed US companies over the period 1983-1999. The results suggest that investors overreact to past earnings surprises. As, on average, extreme past surprises are not confirmed by actual earnings figures, they are followed by stock market reactions of the opposite sign. Moreover, the longer the similar earnings surprise series, the higher the subsequent reversal.",
+            "keywords": [
+                "Behavioral finance",
+                "overreaction",
+                "representativeness bias",
+                "earnings announcements"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/grfmtpwps/mk002.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Forward Discount Puzzle: Identi cation of Economic Assumptions",
+            "abstract": "The forward discount puzzle refers to the robust empirical finding that foreign excess returns are predictable. We investigate if expectations errors are the main cause of this predictability using the serial dependence pattern of excess returns implied by economic models as identification device. This approach also allows us to explain why strong predictability of excess returns only occurs during 1980s. Using USD bilateral spot and forward rates from 1975-2009, we show that both the statistically significant positive serial dependence of excess returns in the entire sample and the very weak (mostly insignificant) positive serial dependence in the subsample excluding observations in 1980-87 are consistent with the predictions of the expectations errors explanation. We provide several pieces of new empirical evidence which support the link between the strong predictability in the 1980s and changes in forecasting techniques by foreign exchange market agents.",
+            "keywords": [
+                "expectations errors",
+                "rational expectations risk premium",
+                "excess returns",
+                "serial dependence",
+                "1980-87."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/sgowpaper/1112.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The effects of firm-specific variables and consensus forecasts data on the pricing of large Swedish firms\u00e2\u0080\u0099 stocks",
+            "abstract": "In this essay we model the returns for 14 large Swedish firms' stocks with a conditional multifactor model with time-varying beta terms. The data are monthly and the sample period is June 1992 to August 1997. The beta terms are modelled as linear functions of predetermined firm attributes, which are taken either from published accounting data or from consensus forecast data. The main findings are that the stock exchange is not efficient with respect to the consensus information and the lagged yield spread. We also find that the lagged firm attributes are mainly associated with risk exposures. Using encompassing tests, the models based on consensus forecast data can for six firms unilaterally encompass the models based on accounting data. The reverse result holds for five firms. For most firms, the \"best\" models are not rejected in out-of-sample forecast tests for the period September 1997 to December 1997.",
+            "keywords": [
+                "Asset pricing",
+                "Consensus forecast",
+                "Market efficiency",
+                "Predictable stock returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhsgunwpe/0015.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor sentiment in the US-dollar: longer-term, nonlinear orientation on PPP",
+            "abstract": "How is it possible that exchange rates move in the long run towards fundamentals, while professionals form consistently irrational exchange rate expectations? We look at this puzzle from a different perspective by analyzing investor sentiment in the US-dollar market. First, long-horizon regressions show that investor sentiment is connected with exchange rate returns at longer horizons, i.e. more than two years. Second, sentiment is cointegrated with fundamentals, whereas third, this relation becomes stronger, the larger exchange rate's misalignment from long-run PPP. In sum, investor sentiment's behavior in the US-dollar market closely matches with established facts of empirical exchange rate research.",
+            "keywords": [
+                "Exchange rates",
+                "investor sentiment",
+                "long-horizon regression",
+                "threshold VECM"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/handpaper/dp-376.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Informed Trading, Short Sales Constraints, and Futures' Pricing",
+            "abstract": "The purpose of this paper is to provide an explanation for relative pricing of futures contracts with respect to underlying stocks based on short sales constraints and informational lags between the two markets. In this model stocks and futures are perfect substitutes, except that short sales are only allowed in futures markets. The futures price is more informative than the stock price, because the existence of short sales constraints in the stock market prohibits trading in some states of the world. If an informed trader with no initial endowment in stocks gets a negative signal about the common future value of stocks and futures, she is only able to sell futures. In addition uninformed traders also face similar short sales constraint in the stock market. As a result of the short sales constraint, the stock price is less informative than the futures price even if the informed trader has received positive information. Stocks can be under- and overpriced compared to futures, provided that market makers in stocks and futures only observe with a lag the order flow in the other market. Our theory implies that 1.) the basis is positively associated with the contemporaneous futures returns, 2.) the basis is negatively associated with the contemporaneous stock return, 3.) futures returns lead stock returns, 4.) stock returns also lead futures returns, but to a lesser extent and 5.) the trading volume in the stock market is positively associated with the contemporaneous stock return. The model is tested using daily data from the Finnish index futures markets. Finland provides a good environment for testing our theory, since short sales were not allowed during the time that we have data (May 27, 1988 - May 31, 1994). We find strong empirical support for our implications.",
+            "keywords": [
+                "futures pricing",
+                "lead-lag",
+                "short sales",
+                "informed trading",
+                "trading volume"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hhshastef/0366.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Lottery-related anomalies: the role of reference-dependent preferences",
+            "abstract": "Previous empirical studies find that lottery-like stocks significantly underperform their nonlottery-like counterparts. Using five different measures of the lottery features in the literature, we document that the anomalies associated with these measures are statedependent: the evidence supporting these anomalies is strong and robust among stocks where investors have lost money, while among stocks where investors have gained profits, the evidence is either weak or even reversed. Several potential explanations for such empirical findings are examined and we document support for the explanation based on reference-dependent preferences. Our results provide a united framework to understand the lottery-related anomalies in the literature.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/fipfeddgw/259.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "An Analytical Framework for the Hong Kong Dollar Exchange Rate Dynamics under Strong Capital Inflows",
+            "abstract": "Between the fourth quarter of 2008 and the end of 2009, the strong-side Convertibility Undertaking was triggered repeatedly with remarkable capital inflows into the Hong Kong dollar. In view of this development, this paper proposes an analytical framework to understand the relationship between a two-sided target zone regime and equity market. The framework features non-trivial portfolio choices among risk-free bonds and risky assets offered in the domestic and foreign economies, where the exchange rate between the two economies is managed through a two-sided target zone regime. Our simulation results show that the equity-return differential between the two economies serves as a counter-balance factor of the risk-free interest-rate differential in determining the movements of the exchange rate.",
+            "keywords": [
+                "Hong Kong dollar",
+                "target zone",
+                "uncovered interest rate parity",
+                "capital inflows"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/hkgwpaper/1005.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Extracting Risk-Neutral Probability Distributions from Option Prices Using Trading Volume as a Filter",
+            "abstract": "This paper introduces a new technique to infer the risk-neutral probability distribution of an asset from the prices of options on this asset. The technique is based on using the trading volume of each option as a proxy of the informativeness of the option. Not requiring the implied probability distribution to recover exactly the market prices of the options allows us to weight each option by a function of its trading volume. As a result, we obtain implied probability distributions that are both smoother and should be more reflective of fundamentals.",
+            "keywords": [
+                "Implied risk-neutral probability distribution",
+                "Implied-tree method"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ihsihsesp/104.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

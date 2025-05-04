@@ -1,0 +1,161 @@
+{
+    "page_info": {
+        "page_number": 117,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Lottery preferences and retail short selling",
+            "abstract": "Unlike developed countries, the prominent participants in the Taiwanese stock market are individual investors. This study found that retail short-sellers in Taiwan can predict stock prices and perform better with stocks held primarily by retail investors with a preference for lottery-like payoffs. Moreover, short-sellers make lower profits with stocks with lottery features in the absence of the uptick rule. The findings are robust when considering the effect of institutional short selling, alternative lottery-like measures such as retail trading activity, arbitrage risk, and distinct macroeconomic conditions. Overall, the results suggest that retail investors are not necessarily noise traders. Based on divergence-of-opinion theory (Miller, 1977), heterogeneous retail investors make trades due to their differences in sentiments. Meanwhile, retail short-sellers include professionals in profitmaking through short-selling by gauging the gambling propensity of general retail investors. Consequently, removing short-selling restrictions can increase the spillover effect of short-sellers' trading signals and help other retail investors move and adjust their investments in lottery-like stocks.",
+            "keywords": [
+                "Retail short-selling",
+                "Lottery-like stocks",
+                "Retail ownership",
+                "Short sale restrictions"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeepacfin/v_3a68_3ay_3a2021_3ai_3ac_3as0927538x21001189.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Further evidence on the returns to technical trading rules: Insights from fourteen currencies",
+            "abstract": "This work studies the returns to technical trading rules utilising a sample of 14 currency pairs by applying five trading rules: Filter rules, Trading Range Breakout, Moving Average, and Bollinger bands over varying market conditions. The mixed results indicate that technical analysis based on the applied trading rules is appropriate for the trading strategies examined. The one per cent filter, 150-day MA rule and the Bollinger bands trading rule surpassed the other applied techniques in general performance. What is also clear is that these trading rules are rewarding over varying market conditions. Results from various subperiods, representing normal and stressful market conditions, generally confirm our main findings and show the added value of the trading range breakout rule, which delivers performance in strongly trending markets. Evidence from bootstrap analysis demonstrates the predictive ability of the Moving Average and Bollinger band trading rules.",
+            "keywords": [
+                "Exchange rates",
+                "Trading strategies",
+                "Technical analysis",
+                "Trading rules",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeemulfin/v_3a69_3ay_3a2023_3ai_3ac_3as1042444x23000270.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Selling options to beat the market: Further empirical evidence",
+            "abstract": "Brownian-motion-linked pricing models predict the existence of derivatives whose value at risk in short positions is lower than their price. The derivative sale plus the price investment in riskless assets becomes self-financing with negative risk. Repeating over and over this strategy, the price remains zero, but the risk tends to minus infinity. This paper reports results of empirical studies about the performance of this strategy. The American SP-500 and the German DAX-30 are involved. In both cases the index is beaten by simple buy and hold strategies containing riskless assets and short options. This finding may be interesting to practitioners and theoretically relevant. Firstly, the market can be beaten in an orthodox way, since results of Financial Economics inspire the methodology. Secondly, the risk never tends to minus infinity in practice. Perhaps the theoretical behavior in tails of Brownian-motion-linked models should be revisited.",
+            "keywords": [
+                "Downside risk measure",
+                "Derivative market",
+                "Buy and hold golden strategy",
+                "Outperforming benchmarks",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a67_3ay_3a2024_3ai_3apb_3as0275531923002453.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "High-speed rail and stock return comovement in China",
+            "abstract": "This study explores the impact of China\u00e2\u0080\u0099s high-speed rail network on reducing local bias and fostering capital market integration. Our research reveals that implementing high-speed rail in a city decreases the return comovement of its local stocks but increases its return comovement with the national stock market. Our results are robust and consistent across various model specifications. After examining the underlying economic mechanism, we find that the impact of high-speed rail on stock return comovement is stronger for small firms, non-state-owned enterprises (non-SOEs), firms with poor corporate governance, and firms\u00e2\u0080\u0099 headquarters in more segmented and less-developed regions. This effect did not change after controlling for other information-dissemination channels and regional economic development. Overall, geographical proximity contributes to information transfer and market efficiency.",
+            "keywords": [
+                "High-speed rail",
+                "Return comovement",
+                "Information transfer",
+                "Local bias"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a67_3ay_3a2024_3ai_3apa_3as0275531923002337.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Is soft information substitutive or complementary to hard news for investor attention? Evidence from corporate advertising in Japan",
+            "abstract": "Corporate advertising is a type of soft information that may not directly target the financial markets but may attract investors\u00e2\u0080\u0099 attention. In this study, we consider television advertisements (TV ads) as soft information, whereas corporate news via disclosure and mass media as hard news. We explore the interactive effect of TV ads (soft information) with corporate news (hard news) on stock market outcomes. Based on daily market data with the multi-dimensional information sources, we find that TV ads significantly increase trading volume and returns, conditional on less corporate news being released. Our evidence supports the information substitution hypothesis that TV ads compete with corporate news owing to investors\u00e2\u0080\u0099 limited attention, while rejecting the complementary relationship between soft and hard information.",
+            "keywords": [
+                "Soft information",
+                "Hard news",
+                "Advertising",
+                "Stock market",
+                "Investor attention"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a66_3ay_3a2023_3ai_3ac_3as0275531923001939.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "FinTech and fan tokens: Understanding the risks spillover of digital asset investment",
+            "abstract": "Digital asset investment represents a new class of assets to invest in. In recent months, fan tokens have been among the most popular digital assets among football clubs and investor fans. Therefore, understanding the dynamics and spillover effects between these new and traditional assets is essential for risk management. In this study, we use daily data covering November 2020 and December 2022 to examine the mean and volatility risks spillover between the stock market and the fan token ones. Using the VAR-BEEK-AGARCH model and wavelet frequency analysis, we are able to identify the sender and receiver characteristics of the risks between the two assets. Our results show that volatility spillovers are more persistent in the long run, suggesting a strong interdependence between the stock market and fan tokens. Our empirical findings can be helpful for portfolio managers and investors.",
+            "keywords": [
+                "FinTech",
+                "Fan token",
+                "Emerging technologies",
+                "Football clubs",
+                "Risk spillover",
+                "Digital asset investment"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a68_3ay_3a2024_3ai_3ac_3as0275531923003161.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The \u00e2\u0080\u009cDonald\u00e2\u0080\u009d and the market: Is there a cointegration?",
+            "abstract": "This paper analyses the relationship between post-election main sentiment on Donald Trump and financial markets. The sample period, spans from 8 November (the election Day) and 28 February. Our study intends to verify if there exist a co-implication between Trump\u00e2\u0080\u0099s Favorable (TF), namely the percentage of favorable opinions on Trump, and some financial variables (i.e. stock and Treasury returns, currency and commodities). The results of cointegration analysis show that Trump\u00e2\u0080\u0099s Favorable has explanatory power for stock market returns, 10 long term Treasury bond and decrease of gold. Furthermore, we found no evidence of the opposite relation.",
+            "keywords": [
+                "Trump\u00e2\u0080\u0099s FavorableTrump\u00e2\u0080\u0099s favorable",
+                "Financial cointegration",
+                "Poll sentiment",
+                "Markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a45_3ay_3a2018_3ai_3ac_3ap_3a30-37.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predicting firm stock returns with customer stock returns: Moderating effects of customer characteristics",
+            "abstract": "Based on the multiple regression model, this study examines the potential predictive effect of customer stock returns to firm stock returns and the moderating effect of diverse customer characteristics on the predictability. By using a sample of Chinese A-share manufacturing firms listed on the Shanghai stock exchange and Shenzhen stock exchange between 2009 and 2017, we find that customer stock returns positively predict firm stock returns in the subsequent month. Additional examinations reveal that the positive predictive effect of customer stock returns on firm stock returns is more intense for firm with high proportion of state-owned customers, customer stability, customer bargaining power and customer concentration than for those with low indicators. Overall, this study contributes to the growing literature on supply chain and predictability of stock returns by shedding light on the forecasting effect of customer stock returns on firm stock returns and the predictive heterogeneity owing to customer characteristics.",
+            "keywords": [
+                "Stock returns",
+                "Return predictability",
+                "Customer characteristics",
+                "Economic dependence",
+                "Bullwhip effect"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a54_3ay_3a2020_3ai_3ac_3as0275531920302129.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Internet search intensity, liquidity and returns in emerging markets",
+            "abstract": "Using a sample of listed companies in the Vietnam stock market from 2013 to 2018, this paper investigates the linkage between Internet search intenseness and stock returns and trading volume. The empirical results confirm the \u00e2\u0080\u009cprice pressure hypothesis\u00e2\u0080\u009d that search intensity is positively associated with subsequent stock returns and trading volume. It also finds that the positive effects on stock returns are not temporary but remain for the long term although some reversals occur. The results show that the effects of search intensity on stock returns are higher for large stocks than for small stocks. The findings also reveal that stocks that attract more attention from the public are exposed to higher market risk. These findings have not been documented in the literature so they enrich the information on the relationship between Internet search intenseness and stock market returns, especially for emerging markets where Internet user numbers are sharply increasing.",
+            "keywords": [
+                "Search intensity",
+                "Returns",
+                "Liquidity",
+                "Emerging markets",
+                "Vietnam"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a52_3ay_3a2020_3ai_3ac_3as0275531919306130.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Pair-trading profitability and short-selling restriction: Evidence from the Taiwan stock market",
+            "abstract": "This paper examines the profitability of a pair-trading strategy in the Taiwan stock market while considering alternative frequency-distance filters, thresholds for opening a pair trade relationship, reinvestment mechanisms, different lengths of trading period, industry boundary, and the short-selling restriction. In contrast with the recent literature showing that pair-trading strategy returns are insignificant and negative in the Taiwan stock market, we find that the profitabilities of pair trades developed by positions in the Taiwan 50 Index during 1990/1\u00e2\u0080\u00932016/3 present significant annualized mean returns of 1.84%\u00e2\u0080\u00933.04%. Moreover, thresholds with different stringent degrees, industry boundary, and alternative reinvestment mechanisms are unable to help pick out more profitable pair-trading portfolios. The distance filter and shorter trading-day setting are more reliable for pair trading. Finally, the deregulation on short selling results in more pair-trading activities, which obviously diminish the profitability of a pair-trading strategy.",
+            "keywords": [
+                "Pair trading",
+                "FTSE TWSE Taiwan 50 index",
+                "Distance filter",
+                "Frequency filter",
+                "Short-selling restriction"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a55_3ay_3a2018_3ai_3ac_3ap_3a173-184.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "MA trading rules, herding behaviors, and stock market overreaction",
+            "abstract": "We determine whether investors profit from employing moving average trading rules that consider either \u00e2\u0080\u009cwide\u00e2\u0080\u009d or \u00e2\u0080\u009cin-depth\u00e2\u0080\u009d concerns. Our remarkable findings are as follows: First, investors benefit from purchasing the constituent stocks of SSE50 as dead crosses emerge. These stocks may be the result of the herding behaviors of individual investors who account for over 80% of investors in China's stock markets. Second, negative weekly returns increase in trading the constituent stocks of DJ30 and FTSE100 because returns increase considerably on golden-cross days as a result of stock price overreaction. These results remain robust by concerning investors' risk aversion, and even high risk aversion as investors suffer losses. In addition, our findings imply that stock market overreaction and herding behaviors are incorporated into technical analysis.",
+            "keywords": [
+                "Moving average",
+                "Herding behavior",
+                "Overreaction"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a39_3ay_3a2015_3ai_3ac_3ap_3a253-265.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Do gold mining stocks behave like gold or equities? Evidence from the UK and the US",
+            "abstract": "In this paper, we explore if gold mining stocks behave like gold or equities in the United Kingdom and the United States. We do this by testing the dynamic interaction of gold mining stock with gold and equities, both over time and across different time horizons. It is shown that gold mining stocks are positively but not perfectly correlated with the gold at some time horizons and time periods; however, they are either loosely or not correlated with equities over different time horizons. Broadly, it appears that gold mining stocks behave more like gold. The results drawn have important implications for the hedge, diversifier, and safe haven properties of gold and gold mining stocks for multi-horizon portfolio managers.",
+            "keywords": [
+                "Gold mining stock",
+                "Hedge",
+                "Safe haven",
+                "Gold",
+                "Equities",
+                "Time horizons"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeereveco/v_3a59_3ay_3a2019_3ai_3ac_3ap_3a369-384.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

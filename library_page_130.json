@@ -1,0 +1,150 @@
+{
+    "page_info": {
+        "page_number": 130,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Momentum: Further Evidence from Australia",
+            "abstract": "Much research has been on momentum strategies. This paper makes further contribution by examining momentum in Australia in a 100-year period that had not being examined before: 1883\u00e2\u0080\u00931984. The findings are that momentum is profitable in Australia from 1883 to 1984. In direct contrast with negative momentum returns in the United States, momentum strategy in Australia is significantly positive in January.",
+            "keywords": [
+                "Momentum",
+                "Profitability",
+                "January"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a18_3ay_3a2016_3ai_3ac_3ap_3a234-236.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short-sale constraints and stock price informativeness",
+            "abstract": "Morck, Yeung, and Yu (2000), in their pioneering study of international differences in stock price synchronicity, emphasize the effect of market development on investors' ability to incorporate firm-specific information into prices. We use a unique institutional feature in the Hong Kong market to investigate one of the important tools investors use to do this and hence reduce stock price synchronicity: short selling. Examining the cross-sectional and time-series variation in short-sale constraints in the Hong Kong market, we find that after the removal of short-sale constraints, stock prices become more informative and move less in tandem with the market.",
+            "keywords": [
+                "Comovement",
+                "Short selling",
+                "Stock price informativeness"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeglofin/v_3a40_3ay_3a2019_3ai_3ac_3ap_3a28-34.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does stealth trading coexist with high levels of insider trading? Evidence from Kuwait",
+            "abstract": "Stealth trading has been found to exist in the US, where informed investors submit medium-sized trades to reduce price impacts and camouflage their information. This paper reexamines this finding by placing the analysis in a different setting in which insider trading and private information sharing is very common during two different time periods \u00e2\u0080\u0094 bull and bear markets. Using data on 34 stocks listed on the Kuwait Stock Exchange, I find that stealth trading exists in these two time periods. However, during bullish periods, stealth trading occurs through small-sized trades, while in bear markets, it occurs through medium-sized trades.",
+            "keywords": [
+                "Stealth trading",
+                "Microstructure",
+                "Insider trading",
+                "Emerging market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeglofin/v_3a27_3ay_3a2015_3ai_3ac_3ap_3a112-118.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The impact of news on the volatility of ESG firms",
+            "abstract": "This study provides one of the first empirical investigations of asymmetric volatility for environmental, social, and governance (ESG) investing. Using the Morgan Stanley Capital International (MSCI) indices as proxies for ESG test assets, this study investigates volatility risk for the highest ESG-rated firms through an empirical analysis in assessing how good news and bad news impact the risk of ESG firms. The analysis provides empirical evidence in support of the hypothesis that the impact of news on the volatility of ESG firms is larger for bad news, compared to good news. Employing an EGARCH framework, the analysis also finds that, in response to bad news, the observed volatility increases for small size ESG firms is lower compared to large and mid-cap ESG firms. The findings provide evidence of a slow response by small size firms to news in an ESG context. In modeling the conditional volatility of the ESG test assets, the analysis also provides evidence of higher persistence in the conditional volatility dynamics for small size ESG firms.",
+            "keywords": [
+                "Environmental-social-governance (ESG) investments",
+                "News impact",
+                "EGARCH",
+                "Socially responsible investing",
+                "ESG volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeglofin/v_3a51_3ay_3a2022_3ai_3ac_3as1044028320302702.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "What lies behind the asset growth effect?",
+            "abstract": "This study finds that changes in total factor productivity (TFP) serve as one of the drivers behind the asset growth effect. Firms increase (decrease) assets when there is an increase (decrease) in TFP. And increases (decreases) in TFP also cause corresponding increases (decreases) in earnings and returns. Subsequently, changes in TFP reverse, which also reverse earnings and returns, leading to the observed asset growth effect. Our results are robust to sorting using the Fama-French five-factor model and momentum factor, and its asset pricing implications, using low-high spread asset growth portfolios with correspondingly low-high spread TFP changes.",
+            "keywords": [
+                "Asset growth",
+                "Stock returns and earnings",
+                "Changes in total factor productivity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeglofin/v_3a48_3ay_3a2021_3ai_3ac_3as1044028320300168.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Under the microscope: Trade initiation activities around earnings and takeover announcements in a market with continuous disclosure",
+            "abstract": "We examine the impact of the release time of earnings and takeover announcements on trade initiation motives on the ASX \u00e2\u0080\u0094 a market with continuous disclosure. This investigation uses intraday high-frequency data of the constituent stocks of the S&P/ASX50 index and measures market sidedness around the announcements to infer trade initiation motives. We find that during a continuous trading session: (i) in a two-sided market, investors initiate both buy and sell trades just before announcements are released during trading sessions, and (ii) in a one-sided market, investors execute either buy or sell trades just after the announcements. Our results suggest that differential information is the likely motive for trade initiation just before the release of announcements. Finally, our results suggest that announcements released during continuous trading sessions are more effective in controlling information leakage.",
+            "keywords": [
+                "Continuous disclosure",
+                "Differential information",
+                "Information asymmetry",
+                "Trade initiation"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeglofin/v_3a63_3ay_3a2024_3ai_3ac_3as1044028324001261.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Impact of the collapse of silicon valley bank on the banking sector: An analysis based on nonlinear high-frequency networks",
+            "abstract": "We analyse the impact of the collapse of Silicon Valley Bank (SVB) on the causal structure using a sequence of high-frequency transfer entropy networks. Calculations show that the event significantly affected the causal structure of the banking sector and that companies with high market capitalisation had stronger influence after the event. Finally, path-based indicators suggest that SVB had significant influence before the crisis.",
+            "keywords": [
+                "Information flow",
+                "US market",
+                "Banking crisis",
+                "Transfer entropy"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a62_3ay_3a2024_3ai_3apb_3as1544612324002174.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Quantile return connectedness of theme factors and portfolio implications: Evidence from the US and China",
+            "abstract": "Understanding factor interplay is crucial for effective portfolio management and risk mitigation. This study delves into quantile return connectedness among theme factors in the US and Chinese markets through static and dynamic analyses. In our static analysis, we examine the raw, conditional, and aggregate connectedness across various conditional return quantiles. A bootstrap residual process is conducted to identify statistically significant results. Our findings reveal marked disparities in significant transmitters and receivers across different conditional quantiles. Furthermore, there are notable contrasts in significant results between raw and conditional connectedness measures. For different connectedness measures, we observe a U-shaped relationship between total connectedness and conditional quantiles, underscoring the varying degrees of interplay among theme factors under different market conditions. In the dynamic analysis, we evaluate the performance of the minimum connectedness portfolio (MCoP), built utilizing time-varying connectedness information. The MCoP, built using left-tail connectedness information, demonstrates superior performance compared to its peers \u00e2\u0080\u0094 the minimum conditional correlation portfolio and the minimum variance portfolio \u00e2\u0080\u0094 in terms of the Sortino ratio and cumulative returns. Our study holds substantial implications for asset allocation, risk management strategies, and policy formulation. It provides valuable insights for constructing robust portfolios and enhancing overall market stability.",
+            "keywords": [
+                "Quantile return connectedness",
+                "Theme factors",
+                "Portfolio management"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeglofin/v_3a64_3ay_3a2025_3ai_3ac_3as1044028325000067.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Reversal of Monday returns: It is the afternoon that matters",
+            "abstract": "This study dissects the well-known Monday return reversal by separating the Monday into a morning and afternoon period. So far, the literature on the Monday return reversal is limited to the analysis of daily, primarily market returns. Using a large cross-section of U.S. intraday stock return data from 2007 to 2022, we find that only Monday afternoon but not morning returns reverse over the rest of the week. The effect is stronger for larger firms and not explained by common risk factors or earnings announcements. It is mostly prevalent for those stocks for which investor disagreement is high on Monday.",
+            "keywords": [
+                "Asset Pricing",
+                "Investors disagreement",
+                "Return reversal",
+                "Return prediction"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a65_3ay_3a2024_3ai_3ac_3as1544612324005555.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Multi-market trading, price delay, and return predictability",
+            "abstract": "Based on a setting of multi-market trading that involves American Depositary Receipts (ADRs) and underlying equities, we develop measures of price delay to capture the return predictability for both ADRs and the underlying equity markets. We show that ADRs with the severest price delay in responding to underlying equities command a remarkably high premium. The price delay of underlying equity in responding to corresponding ADR returns also positively predicts future returns of the equity. We further document evidence that limits to arbitrage explain the price delay premia in both markets.",
+            "keywords": [
+                "Price delay",
+                "ADRs",
+                "Underlying equity",
+                "Return predictability",
+                "Arbitrage risk"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a40_3ay_3a2021_3ai_3ac_3as1544612320300295.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market volatility and the trend factor",
+            "abstract": "This paper investigates how stock market volatility predicts trend factor profits. We find that the trend factor performs significantly better following high market volatility periods. From 1931 to 2022, the average monthly risk adjusted return following high volatility periods is 2.47 %, significantly higher than that following low volatility periods. We hypothesize that fundamental signals are more likely to be imprecise when the stock market is more volatile, leading investors to rely more heavily on trend signals. Consequently, the trend factor could deliver higher profits. Collectively, our paper suggests that market volatility is an important time-series determinant of trend factor performance.",
+            "keywords": [
+                "Market volatility",
+                "Trend factor",
+                "Time-series variation",
+                "Information uncertainty"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a65_3ay_3a2024_3ai_3ac_3as1544612324006251.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Higher co-moments and adjusted Sharpe ratios for cryptocurrencies",
+            "abstract": "We report the results of regressing the Sharpe ratios of 72 cryptocurrencies on first, second and third co-moments of their returns. Our general aim is to examine the risk-return trade-off characteristics of cryptocurrencies. In other words, to determine whether the returns of cryptocurrencies justify their huge volatility especially with regard to the higher moment components of their systemic risk? We find that adjusted Sharpe ratios of the cryptocurrencies and traditional indexes do not differ significantly in this respect.",
+            "keywords": [
+                "Cryptocurrency",
+                "Coskewness",
+                "Cokurtosis",
+                "Adjusted sharpe ratio"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a39_3ay_3a2021_3ai_3ac_3as1544612319313807.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

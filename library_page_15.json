@@ -1,0 +1,134 @@
+{
+    "page_info": {
+        "page_number": 15,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The diminished effect of index rebalances",
+            "abstract": "Abstract The author revisits the strategy of trading S&P 500 index re-compositions under the pre- and post-crisis financial environments, proving that the return structure has significantly changed. The results show for the first time that there are currently no tradable abnormal returns between announcement and event dates in the post-crisis sample period, indicating smoother rebalancing mechanisms by bank\u00e2\u0080\u0099s client facing desks and better services for passive end-investors. The newly added firms inflate the S&P 500 index by less than ten basis points per year. The results could be attributed to improved execution algorithms used by the banks and potentially to the new regulatory reforms in the sector, which prevents financial institutions from taking large trading positions with their balance sheets.",
+            "keywords": [
+                "Index rebalancing",
+                "Passive investment",
+                "S&P 500",
+                "Additions",
+                "Index funds"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/palassmgt/v_3a19_3ay_3a2018_3ai_3a4_3ad_3a10.1057_5fs41260-018-0077-8.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Can the Market Add and Subtract? Mispricing in Tech Stock Carve-Outs",
+            "abstract": "Recent equity carve-outs in US technology stocks appear to violate a basic premise of financial theory: identical assets have identical prices. In our 1998-2000 sample, holders of a share of company A are expected to receive x shares of company B, but the price of A is less than x times the price of B. A prominent example involves 3Com and Palm. Arbitrage does not eliminate these blatant mispricing due to short sale constraints, so that B is overpriced but expensive or impossible to sell short. Evidence from options prices shows that shorting costs are extremely high, eliminating exploitable arbitrage opportunities.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/8302.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Comovement Revisited",
+            "abstract": "Recent evidence of excessive comovement among stocks following index additions (Barberis, Shleifer, and Wurgler, 2005) and stock splits (Green and Hwang, 2009) challenges traditional finance theory. Based on a simple model, we show that the bivariate regressions relied upon in the literature often provide little or no information about the economic magnitude of the phenomenon of interest, and the coefficients in these regressions are very sensitive to time-variation in the characteristics of the return processes that are unrelated to excess comovement. Instead, univariate regressions of the stock return on the returns of the group it is leaving (e.g., non-S&P stocks) and the group it is joining (e.g., S&P stocks) reveal the relevant information. When we reexamine the empirical evidence using control samples matched on past returns and compute Dimson betas, almost all evidence of excess comovement disappears. The results in the literature are consistent with changes in the fundamental factor loadings of the stocks. One key element to understanding these striking results is that, in both the examples we study, the stocks exhibit strong returns prior to the event in question. We document the heretofore unknown empirical regularity that winner stocks exhibit increases in betas. Thus, much of the apparent excess comovement is just a manifestation of momentum.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/21281.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "WEAK EFFICIENCY AND LINEAR REGRESSION OF CENTRAL AND EASTERN EUROPEAN MARKETS",
+            "abstract": "The deepening of financial integration in the EU has accelerated in the last decade. The expansion of trade relations, intensification of investment flows and capital market development evidence strengthening of financial integration processes. Particularly, the large number of foreign companies listed on domestic equity market enhances financial integration. In this regard, the enlargement of stock markets of Central and Eastern European countries and efficient capital allocation define further integration prospects. The stock market efficiency depends mainly on adequate pricing of capital and risk. The rational investment expectations and information efficiency positively impact trading strategies and eliminates the presence of undervalued and overvalued assets. This leads to the high competitiveness of stock market and decreases the likelihood of abnormal profits. Studies of stock market efficiency of CEE countries and the correlations of CEE capital markets with Western European markets have a significant importance owing to the ongoing financial integration and impact of financial crisis. I run two tests to check the capital market efficiency of CEE countries taking into account the perspectives of CEE countries to enter the euro area. The aim of this quantitative empirical research is twofold: first, it investigates the weak form of market efficiency for the period from 2nd of September 2005 to 31st of August 2011 by using the Augmented Dickey-Fuller and Kwiatkowski-Phillips-Schmidt-Shin unit root procedures. Second, it checks the existence of linear correlation between CEE countries and Western European markets. The results assume that the stock markets of some CEE countries follow a unit root. The linear regression model evidences different correlation patterns between CEE and EU old capital markets. Those findings can be used for deeper investigation of market efficiency by highlighting convergence processes of CEE countries with EU old member states. Also effective capital allocation channels, institutional foundations of markets and strengthening of corporate governance should be highlighted. Finally, the outcomes of my paper will be useful for researchers in the field of finance.",
+            "keywords": [
+                "stock markets",
+                "unit root",
+                "random walk",
+                "market efficiency",
+                "stock returns"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/orajournl/v_3a1_3ay_3a2013_3ai_3a1_3ap_3a28-36.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The day of the week effects in Indonesia, Singapore, and Malaysia stock market",
+            "abstract": "Efficient market stated that stock\u00e2\u0080\u0099s return is indifferent in each trading day. But, the day of the week effects phenomenon made a different return in each single day in a week. This is an abnormal return which can affect investor in deciding investment strategy, portfolio selection, and profit management. We are researching the day of the week effects in Indonesia, Singapore, and Malaysia stock markets in order to get the information whether this anomaly is exist or not at the three countries. We use AR-EGARCH econometric models to answer our objective. The result shows that there is positive abnormal return on Friday in Indonesia and Malaysia. However, there is no Friday positive abnormal return in Singapore. Besides, our study also concludes that there is no Monday negative abnormal return in all of three countries.",
+            "keywords": [
+                "The day of the week effects",
+                "anomaly",
+                "abnormal return",
+                "AR-EGARCH"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/16873.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Revisiting the Performance of MACD and RSI Oscillators",
+            "abstract": "Chong and Ng (2008) find that the Moving Average Convergence-Divergence (MACD) and Relative Strength Index (RSI) rules can generate excess return in the London stock exchange. This paper revisits the performance of the two trading rules in the stock markets of five other OECD countries. It is found that the MACD(12,26,0) and RSI(21,50) rules consistently generate significant abnormal returns in the Milan Comit General and the S&P/TSX Composite Index. In addition, the RSI(14,30/70) rule is also profitable in the Dow Jones Industrials index. The results shed some light on investors\u00e2\u0080\u0099 believe in these two technical indicators in different developed markets.",
+            "keywords": [
+                "Relative Strength Index",
+                "Trading Rules",
+                "Moving Average Convergence-Divergence."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/54149.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock price reaction to earnings announcement: the case of an emerging market",
+            "abstract": "In an efficient stock market stock prices instantaneously and accurately adjust to new information. This paper conducts an event study analysis on an emerging market namely the Karachi Stock Exchange (KSE) by investigating the stock price reaction to public announcement of quarterly after tax profit by listed firms. By employing 5 year data on stock prices from January 2004 to August 2008 for 114 non financial firms we found that there is no abnormal return post earnings announcement. Moreover the study provides evidence that there is a bigger element of surprise in bad news than in good news as the market reaction to bad news is stronger.",
+            "keywords": [
+                "Event Study",
+                "Earnings Announcement",
+                "Emerging Markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/30865.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Football Championships and Jersey Sponsors' Stock Prices: An Empirical Investigation",
+            "abstract": "Corporate sports sponsorship is an important part of many companies' corporate communication strategy. We take the example of major football tournaments to show that sponsorship indeed affects the sponsor's (stock) market value. We find a statistically significant impact of football results (at an individual game level) of the seven most important football nations at European and World Championships on the stock prices of jersey sponsors. In general, the more important a match and the less expected its result, the higher its impact. In addition, we find a form of \"mere exposure\"-effect which contradicts the efficient markets hypothesis.",
+            "keywords": [
+                "Sports sponsorship",
+                "Advertising",
+                "Stock market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/innwpaper/2010-07.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "January reversal in the US weekend effect",
+            "abstract": "Average returns for small firm size portfolios tend to decrease during the week in January, with Monday returns highest and Friday lowest. More striking are the results after controlling for Mondays and Fridays in the first and the last 3 weeks of January. Monday returns in this first week are significantly positive and inversely related to size. Monday returns are also significantly positive for the small firm size portfolio in the last 3 weeks of January. But returns on Friday are insignificantly different from zero after controlling for Fridays in the first week and the last three weeks of January. The first Monday in January is particularly critical to the reversal of the end-of-the-week effect at the turn-of-the-year, with abnormal demand for stocks following the first weekend of a new calendar year possibly responsible for this anomaly within an anomaly.",
+            "keywords": [
+                "Weekend effect",
+                "January effect",
+                "Anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/unowpaper/2003-05.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short Sale Constraints and Stock Returns",
+            "abstract": "Stocks can be overpriced when short sale constraints bind. We study the costs of short selling equities, 1926-1933, using the publicly observable market for borrowing stock. Some stocks are sometimes expensive to short, and it appears that stocks enter the borrowing market when shorting demand is high. We find that stocks that are expensive to short or which enter the borrowing market have high valuations and low subsequent returns, consistent with the overpricing hypothesis. Size-adjusted returns are one to two percent lower per month for new entrants, and despite high costs it is profitable to short them.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/nbrnberwo/8494.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "News and Idiosyncratic Volatility: The Public Information Processing Hypothesis*",
+            "abstract": "Motivated by the recent availability of extensive electronic news databases and advent of new empirical methods, there has been renewed interest in investigating the impact of financial news on market outcomes for individual stocks. We develop the information processing hypothesis of return volatility to investigate the relation between firm-specific news and volatility. We propose a novel dynamic econometric specification and test it using time series regressions employing a machine learning model selection procedure. Our empirical results are based on a comprehensive dataset comprised of more than 3 million news items for a sample of 28 large U.S. companies. Our proposed econometric specification for firm-specific return volatility is a simple mixture model with two components: public information and private processing of public information. The public information processing component is defined by the contemporaneous relation with public information and volatility, while the private processing of public information component is specified as a general autoregressive process corresponding to the sequential price discovery mechanism of investors as additional information, previously not publicly available, is generated and incorporated into prices. Our results show that changes in return volatility are related to public information arrival and that including indicators of public information arrival explains on average 26% (9\u00e2\u0080\u009365%) of changes in firm-specific return volatility.",
+            "keywords": [
+                "firm-specific news",
+                "realized volatility",
+                "public information arrival",
+                "information processing hypothesis of return volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/oupjfinec/v_3a19_3ay_3a2021_3ai_3a1_3ap_3a1-38..htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short-term overreaction to specific events: Evidence from an emerging market",
+            "abstract": "This paper investigates the short-term overreaction to specific events and whether stock prices are predictable in the Egyptian stock exchange (EGX). We find evidence of the short-term overreaction in the EGX. Losers (\u00e2\u0080\u009cbad news\u00e2\u0080\u009d portfolios) significantly outperform winners (\u00e2\u0080\u009cgood news\u00e2\u0080\u009d portfolios) and investors can earn abnormal return by selling the winners and buying losers. Terrorist attacks have negative and significant abnormal returns for three days post event followed by price reversals on day four post event. Whereas, the tensions in the Middle East region have a negative and significant abnormal returns on event day followed by price reversals on day one post event. Moreover, the formation of a new government has no effect on the average abnormal returns post event in the EGX. The results also show that small firms tend to have greater price reversals compared to large firms. Overall, our results provide evidence of the leakage of information in the EGX.",
+            "keywords": [
+                "Overreaction hypothesis",
+                "Price reversal",
+                "Emerging markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeriibaf/v_3a35_3ay_3a2015_3ai_3ac_3ap_3a153-165.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

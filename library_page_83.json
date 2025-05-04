@@ -1,0 +1,148 @@
+{
+    "page_info": {
+        "page_number": 83,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The disappearing pre-FOMC announcement drift",
+            "abstract": "Lucca and Moench (2015) document large average excess returns in U.S. equities before scheduled Federal Open Market Committee (FOMC) meetings from September 1994 to March 2011, leading to a puzzle not explained by standard asset pricing theory. We extend the sample to December 2019. We find that after first appearing before FOMC announcements accompanied by the Fed Chair press conferences, the pre-FOMC drift essentially disappeared after 2015 in both announcements accompanied by press conferences and announcements not accompanied by press conferences. We discuss a possible explanation for this change: reduced uncertainty.",
+            "keywords": [
+                "FOMC",
+                "Announcements",
+                "Drift",
+                "Press conferences"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinlet/v_3a40_3ay_3a2021_3ai_3ac_3as1544612320315956.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Selectivity and timing performance of UK investment trusts",
+            "abstract": "This study examines the selectivity and timing performance of 218 UK investment trusts over the period July 1981 to June 2009. We estimate the Treynor and Mazuy (1966) and Henriksson and Merton (1981) models augmented with the size, value, and momentum factors, either under the OLS method adjusted with the Newey\u00e2\u0080\u0093West procedure or under the GARCH(1,1)-in-mean method following the specification of Glosten et al. (1993; hereafter GJR-GARCH-M). We find that the OLS method provides little evidence in favour of the selectivity and timing ability, consistent with previous studies. Interestingly, the GJR-GARCH-M method reverses this result, showing some relatively strong evidence on favourable selectivity ability, particularly for international funds, as well as favourable timing ability, particularly for domestic funds. We conclude that the GJR-GARCH-M method performs better in evaluating fund performance compared with the OLS method and the non-parametric approach, as it essentially accounts for the time-varying characteristics of factor loadings and hence obtains more reliable results, in particular, when the high frequency data, such as the daily returns, are used in the analysis. Our results are robust to various in-sample and out-of-sample tests and have valuable implications for practitioners in making their asset allocation decisions across different fund styles.",
+            "keywords": [
+                "Investment trusts",
+                "Selectivity and timing",
+                "GJR-GARCH-M",
+                "Conditional asymmetry",
+                "High frequency data"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a22_3ay_3a2012_3ai_3a5_3ap_3a1149-1175.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Volatility transmission between energy-related asset classes",
+            "abstract": "Energy companies, alternative or traditional, have been in the center of both financial and political debates during the last few years all around the world. Extensive crises related to fossil fuel resources have triggered the creation of brand new sources while the further development of already-in-use alternative sources is highly encouraged. Energy portfolios are important tools in most investor strategies and the way to incorporate new alternative energy companies in those portfolios has been a large part of the debate. Regardless of the strategy, be it in derivatives or traditional stock portfolios, risk anticipation and management are keys to a successful implementation. The purpose of this study, aside from filling a gap in literature, is to aid investors in risk anticipation and asset allocation through shedding some light on risk transmission effects between energy sub-sector company portfolios and energy commodities. Sub-sectors tested in this study include petroleum, coal, natural gas, solar, nuclear, wind, and biofuel companies. We find that risk spills over from energy companies to some commodities, and not vice versa. The most influential sub-sector is found to be petroleum companies.",
+            "keywords": [
+                "Stock volatility",
+                "Oil prices",
+                "Alternative energy companies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeglofin/v_3a25_3ay_3a2014_3ai_3a3_3ap_3a246-259.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Catalysts for price discovery in the European Union Emissions Trading System",
+            "abstract": "We provide the first evidence on catalysts for price discovery in the European Union Emissions Trading System. Specifically, by employing high frequency data across a wide range of fungible securities, we find that trading costs are a more important determinant of price discovery than either the implicit provision of leverage in securities such as futures and options or the existence of market segmentation. Moreover, securities with low trading costs display greater price discovery than those with high trading costs.",
+            "keywords": [
+                "Price discovery",
+                "Trading costs",
+                "Emissions trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a42_3ay_3a2014_3ai_3ac_3ap_3a112-122.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The effect of security and market order flow shocks on co-movement",
+            "abstract": "In this paper, we apply the smooth transition conditional correlation model to examine the impact that shocks to order flow imbalance have on stock market co-movement. We show that positive and negative shocks to security order flow reduce co-movement. Market order flow shocks have only a small impact on post shock correlations. Our results suggest that investors can increase diversification opportunities when forming dynamic portfolio strategies if they take account of security order flow information. We show that pre-shock firm characteristics allow investors to identify those stocks with the greatest diversification benefits.",
+            "keywords": [
+                "Order flow shock",
+                "Co-movement",
+                "Smooth transition model"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeintfin/v_3a39_3ay_3a2015_3ai_3ac_3ap_3a136-155.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Tail dependence structures between economic policy uncertainty and foreign exchange markets: Nonparametric quantiles methods",
+            "abstract": "This study examines the extreme dependence and nonlinear causality between economic policy uncertainty (EPU) and major real foreign exchange markets (FER) in Australia, Canada, China, the E.U., Japan, Mexico, the U.K., and the U.S. For a deepen analysis, we also explore the financial uncertainty (FU)-FER nexus. To do this, we used both the Quantile-on-Quantile (QQ) approach and the nonparametric causality-in-quantiles tests. Using the QQ method, the results show negative average and extreme dependence between EPU and FERs. Moreover, the structure of dependence between the considered variables is found to be asymmetric across the quantiles. By applying the nonparametric causality-in-quantile tests, we found a weak evidence of causality-in-mean (at middle quantiles) and a strong evidence of causality-in-variance (for almost all quantiles) from both local and U.S. financial and EPU to FERs. Finally, the linkages between EPU and FERs intensified during our analysis of the 2008\u00e2\u0080\u00932009 global financial crisis (GFC). These results have important implications for currency traders and monetary policy.",
+            "keywords": [
+                "Economic policy uncertainty",
+                "Exchange rates",
+                "Nonparametric quantiles"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeinteco/v_3a161_3ay_3a2020_3ai_3ac_3ap_3a66-82.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The relationship between the frequency of news release and the information asymmetry: The role of uninformed trading",
+            "abstract": "This paper shows that the degree of information asymmetry is lower for firms with more frequent news releases. The relation holds for various measures of information asymmetry such as the probability of information-based trading (PIN), permanent price impact, and adverse selection component of bid-ask spread, even after adjusting for endogeneity between news release and information asymmetry. By decomposing the PIN into intensities of uninformed and informed trades, similarly to Brown and Hillegeist (2007), we find that intensity of uninformed trading increases much more than that of informed trading for firms with more frequent news releases. As a result, information asymmetry, as is measured by PIN, decreases for such firms due to the large increase in the intensity of uninformed trading. Our findings highlight not only the importance of news releases in leveling the playing field of investors but also the role of uninformed investors in reducing trading cost due to information asymmetry.",
+            "keywords": [
+                "News release",
+                "Information asymmetry",
+                "PIN",
+                "Uninformed trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a37_3ay_3a2013_3ai_3a11_3ap_3a4134-4143.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock returns after major price shocks: The impact of information",
+            "abstract": "This paper focuses on stocks that experience major price changes. Using analyst reports as a proxy, I find that price events accompanied by information are followed by drift, while no-information ones result in reversals. One interpretation of these results is that investors underreact to news about fundamentals and overreact to other shocks that move stock prices. Consistent with this hypothesis, information-based price changes are more strongly correlated with future earnings surprises than no-information ones. Furthermore, drift exists only when the direction of the price move and of the change in analyst recommendations have the same sign. Finally, the ratio of no-information to information-based price shocks is strongly correlated with aggregate implied volatility and also forecasts momentum returns.",
+            "keywords": [
+                "Predictability of stock returns",
+                "Information",
+                "Analyst reports",
+                "Momentum reversals"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a106_3ay_3a2012_3ai_3a3_3ap_3a635-659.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Longs, shorts, and the cross-section of stock returns",
+            "abstract": "We study the relation between severe investor disagreement and stock returns based on the observed short-interest and long positions of hedge funds. We show strong disagreements are prevalent among active, sophisticated investors. From 1997 to 2014, 30% of highly shorted stocks have high hedge fund ownership, but these stocks do not earn abnormal returns. Evidence shows that large simultaneous holdings of short sellers and hedge fund managers likely arise from their information-acquisition activities. Although active long or short positions on average predict subsequent stock returns, neither long investors nor short sellers consistently prevail when the two sides disagree.",
+            "keywords": [
+                "Short selling",
+                "Hedge funds",
+                "Stock returns",
+                "Strong investor disagreement"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejbfina/v_3a138_3ay_3a2022_3ai_3ac_3as0378426622000103.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The short of it: Investor sentiment and anomalies",
+            "abstract": "This study explores the role of investor sentiment in a broad set of anomalies in cross-sectional stock returns. We consider a setting in which the presence of market-wide sentiment is combined with the argument that overpricing should be more prevalent than underpricing, due to short-sale impediments. Long-short strategies that exploit the anomalies exhibit profits consistent with this setting. First, each anomaly is stronger (its long-short strategy is more profitable) following high levels of sentiment. Second, the short leg of each strategy is more profitable following high sentiment. Finally, sentiment exhibits no relation to returns on the long legs of the strategies.",
+            "keywords": [
+                "Investor sentiment",
+                "Anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a104_3ay_3a2012_3ai_3a2_3ap_3a288-302.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Dissecting green returns",
+            "abstract": "Green assets delivered high returns in recent years. This performance reflects unexpectedly strong increases in environmental concerns, not high expected returns. German green bonds outperformed their higher-yielding non-green twins as the \u00e2\u0080\u009cgreenium\u00e2\u0080\u009d widened, and U.S. green stocks outperformed brown as climate concerns strengthened. Despite that outperformance, we estimate lower expected returns for green stocks than for brown, consistent with theory. We estimate expected returns in two ways: ex ante, using implied costs of capital, and ex post, using realized returns purged of shocks from climate concerns and earnings. A theoretically motivated green factor explains much of value stocks\u00e2\u0080\u0099 recent underperformance.",
+            "keywords": [
+                "Sustainable investing",
+                "ESG",
+                "Environment",
+                "Climate change",
+                "Green bonds"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejfinec/v_3a146_3ay_3a2022_3ai_3a2_3ap_3a403-424.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price adjustment to news with uncertain precision",
+            "abstract": "We analyze how markets adjust to new information when the reliability of news is uncertain and has to be estimated itself. We propose a Bayesian learning model where market participants receive fundamental information along with noisy estimates of news\u00e2\u0080\u0099 precision. It is shown that the efficiency of a precision estimate drives the slope and the shape of price response functions to news. Increasing estimation errors induce stronger nonlinearities in price responses. Analyzing high-frequency reactions of Treasury bond futures prices to employment releases, we find strong empirical support for the model\u00e2\u0080\u0099s predictions and show that the consideration of precision uncertainty is statistically and economically important.",
+            "keywords": [
+                "Bayesian learning",
+                "Macroeconomic announcements",
+                "Information quality",
+                "Precision signals"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeejimfin/v_3a31_3ay_3a2012_3ai_3a2_3ap_3a337-355.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "page_info": {
+        "page_number": 58,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Exploiting price misalignements",
+            "abstract": "Signi\u00ef\u00bf\u00bdcant cumulative above the market returns can be made by diversifying wealth between equity and bond assets over time. The main premise of the trading rule model is to identify when should assets be held in the bond and equity markets in real time. The model involves comparing the net present value of the equity index with the actual price. Recursive and Rolling forecasts of dividends from three regression schemes are used to proxy expected dividends. The returns are sensitive to the forecasting model and the discount factor adopted in the net present value relation.",
+            "keywords": [
+                "Net Present Value",
+                "Dividend forecasts",
+                "Real-time",
+                "Trading Rule",
+                "Excess volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/27147.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "What determines IPO underpricing ? Evidence from a frontier market",
+            "abstract": "This paper empirically analyzes the short run performance of Tunisian initial public offerings (IPO). It sheds light on the determinants of IPO\u00e2\u0080\u0099s in a context of a frontier market characterized by high information asymmetry, low information efficiency, thin trading and the presence of \u00e2\u0080\u009cnoise\u00e2\u0080\u009d traders. Using a sample of 34 Tunisian IPO\u00e2\u0080\u0099s from the period 1992-2008, we find that the average market adjusted initial return for the first three trading days is about 17.8 percent. The level of underpricing is related to retained capital, underwriter\u00e2\u0080\u0099s price support, oversubscription, listing delay and the offer price. Age of the firm, its size and the size of the offer do not seem to reduce the amount of money left on the table by issuers. It appears also that underpricing is driven by irrational investors (ipoers) seeking for short-run capital gains. These results remain unchanged after controlling for the presence of institutional investors and the existence of liquidity contract.",
+            "keywords": [
+                "Initial public offerings",
+                "Short-run underpricing",
+                "Underwriter\u00e2\u0080\u0099s price support."
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/18069.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The information content of implied volatilities of options on eurodeposit futures traded on the LIFFE: is there long memory?",
+            "abstract": "Under rather general conditions Black - Scholes implied volatilities from at-the-money options appropriately quantify, in each period, the market expectations of the average volatility of the return of the underlying asset until contract expiration. The efficiency of these expectation estimates is investigated here, for options on two major short term interest rate futures contracts traded at the LIFFE, using a long memory framework. Over the 1993 \u00e2\u0080\u0093 1997 time interval the performance of implied volatilities is not homogeneous across contracts. Information content and predictive power tests consistently suggest that implied volatility from Short Sterling contracts is more accurate as a future volatility predictor than implied volatility from 3 Month Euromark contracts. The analysis of the efficiency of the transmission of news over time and between contracts provides analogous results. Underreaction of long term volatility to changes in short term volatility is more relevant for the German interest rate contract than for the British one and Short Sterling implied volatility changes do \u00e2\u0080\u009cGranger cause\u00e2\u0080\u009d 3 Month Euromark implied volatility changes pointing to a contagion \u00e2\u0080\u0093 like interlinkage. Even in a sophisticated international financial market like the LIFFE implied volatilities have a country specific pattern as traders seem to be more proficient in predicting domestic interest rate volatility. A possible interpretation is that a (foreign) country risk premium introduces a bias in the Black \u00e2\u0080\u0093 Scholes implied volatility estimates. Whether this result is general or is instead restricted to the time period and/or to the contracts under investigation provides the scope for future research.",
+            "keywords": [
+                "Options",
+                "stochastic volatility",
+                "long memory",
+                "ARFIMA"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/28538.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Charting Technical Trading Rules and the Lottery of Technical Analysis: Empirical Evidence from Foreign Exchange Market",
+            "abstract": "We use trend-following, trend continuation and trend reversal pattern recognition techniques to apply technical charting rules to trading seven major currency pairs for the period of 1999 through early 2007. Our results suggest that the persistent popularity of technical analysis among practicing traders may be the result of a \u00e2\u0080\u009clottery\u00e2\u0080\u009d wherein most of the participants end up with zero profits. However, the rest of the participants are much more likely to end up winning rather than losing. In this way, the popularity of technical trading rules may co-exist with the validity of market efficiency hypothesis.",
+            "keywords": [
+                "market efficiency",
+                "technical analysis",
+                "forecasting",
+                "foreign exchange markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/7849.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Short-Sale Constraints and the Non-January Idiosyncratic Volatility Puzzle",
+            "abstract": "The underperformance of high idiosyncratic volatility stocks, as documented by Ang, Hodrick, Ying, and Zhang (2006, JF), is a pure non-January phenomenon. This non-January negative relation between idiosyncratic volatility and stock returns is more pronounced among firms with greater constraints in short selling, and when short-sale constraints are mitigated from the introduction of options and the end of the IPO lockup period. Apart from an average underperformance, highly volatile stocks also have the greatest dispersion in expected returns and in price reactions around earnings announcements. These findings support behavioral models suggesting that noise trading and investor overconfidence, combined with short-sale constraints, generate excess volatility, greater mispricing, and on average lower expected returns.",
+            "keywords": [
+                "Idiosyncratic Volatility",
+                "January Effect",
+                "Limits of Arbitrage",
+                "Short-Sale Constraints",
+                "Noise Trading",
+                "Overconfidence"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/pramprapa/4995.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Impact of News Sentiment on the Stock Market Fluctuation: The Case of Selected Energy Sector",
+            "abstract": "This paper examines the impact of the sentiments of OPEC news on stock market prices of public listed oil and gas companies in Bursa Malaysia. We used data of stock market prices from randomly selected oil and gas companies for the period of 2012 to 2017. For the methodology, we first established a supervised machine learning algorithm-based news classifier to classify the OPEC news following its sentiments. We developed a financial news sentiment classifier by combining machine learning algorithms and lexicon-based labelling methods. We then applied the event study method to investigate how stock market prices react to OPEC news\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 sentiment. The results showed a negative correlation between OPEC news sentiment and stock market prices of oil and gas companies during the event window based on each OPEC news release date. The results further showed that the stock market prices do not react to OPEC news sentiment on event day. These findings should provide some guides to stock investors on the movement of the selected stock market prices of energy sector companies during the event window period.",
+            "keywords": [
+                "Bursa Malaysia",
+                "OPEC",
+                "event study",
+                "machine learning",
+                "news sentiment",
+                "oil and gas industry"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/ukmjlekon/v_3a55_3ay_3a2021_3ai_3a3_3ap_3a1-21.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Kurseinfluss mittlerer und gro\u00c3\u009fer Transaktionen am deutschen Aktienmarkt",
+            "abstract": "26 Aktien des Deutschen Aktienindex DAX mit 71% Marktkapitalisierung und 84% Anteil am Gesamtumsatz werden \u00c3\u00bcber 249 Handelstage des Jahres 1997 auf den Kurseinfluss der Transaktionsgr\u00c3\u00b6\u00c3\u009fe hin analysiert. Der verwendete Satz hochfrequenter Transaktionsdaten erlaubt in dieser Form erstmals f\u00c3\u00bcr den deutschen Aktienmarkt eine differenzierte Untersuchung, inwieweit eine handelsinduzierte Preisbewegung auf mittlere und gro\u00c3\u009fe Transaktionen zur\u00c3\u00bcckgef\u00c3\u00bchrt werden kann. Methodisch findet dabei eine Orientierung an den Aufgabegesch\u00c3\u00a4ften der Makler statt, die speziell f\u00c3\u00bcr die vorliegende Analyse zur Verf\u00c3\u00bcgung gestellt worden sind. Eine Determination aufgrund \u00c3\u00b6ffentlicher Informationen kann unter Beachtung bestimmter Volumina f\u00c3\u00bcr das Transaktionsverhalten weitgehend eliminiert werden. Die Ergebnisse der Studie zeigen einen deutlichen permanenten Preiseinfluss f\u00c3\u00bcr mittlere und gro\u00c3\u009fe Transaktionen. Der Effekt ist jedoch nicht linear, d.h. der Preiseinfluss mittelgro\u00c3\u009fer Transaktionen ist h\u00c3\u00b6her. Dies kann als ein erster Beleg f\u00c3\u00bcr das sog. Stealth Trading am deutschen Markt gewertet werden, auch wenn kein exakter Beweis gef\u00c3\u00bchrt werden kann, dass die Transaktionen nur von informierten bzw. institutionellen Investoren initiiert worden sind.",
+            "keywords": [
+                "Market Microstructure",
+                "Price Impact",
+                "Institutional Investors",
+                "Stealth Trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwbamfin/20.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The weekend trading profitability: evidence from international mutual funds",
+            "abstract": "The weekend effect is described as the tendency for Monday security returns to be low (or negative) compared to other days of the week. The weekend effect may not be exploited by trading individual stocks because of transactions costs. However, the institutional characteristics of the US-based international open-end mutual funds may allow investors to exploit the weekend effect because mutual funds lack much of the transactions costs associated with individual stocks. This paper extends the study of Compton and Kunkel (1999), Varela (2002), and Miller, Prather and Mazumder (2003) by examining the weekend predictability and profitable trading opportunities for international mutual funds. The rationale behind the weekend predictability and profitability of international funds lies on the fact that the Net Asset Values (NAVs) of international funds are computed from stale prices of the underlying assets of these funds. The sample of international funds is divided into two sub-samples and the initial sub-sample is used to test the weekend effect and develop trading strategies. Returns of trading strategies are then evaluated out-of-sample and compared with the returns of a buy-and-hold strategy. Empirical findings suggest that smart investors may earn higher risk-adjusted returns by following daily dynamic trading strategies. Results also document that trading strategies based on the weekend effect produce higher risk-adjusted returns. Finally market timing models are also tested for trading strategy returns and Treynor-Mazuy and Henriksson-Merton timing measures are positive and statistically significant. Moreover, the trading rules of this study may be useful in future if fair value pricing or other institutional regularities eliminate any profitable trading opportunity based on the US market signals.",
+            "keywords": [
+                "Mutual funds",
+                "Weekend effect",
+                "Trading rule",
+                "Market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/unowpaper/2004-10.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The relationship between insider trading and volume-induced return autocorrelation",
+            "abstract": "As was establihed in Llorenteetal (2001) the dynamic relationship between return and volume is a function of information asymmetry. This study extends their analysis by linking the volume induced return auto correlarion coefficients with the level of disclosed insider trading. Using New Zealand data, we document a strong link between the sustainability of tradegenerated price changes and the extent of insidertrading. This relationship is robust to alternative econometric specifications and remains significant even after controlling for conventional measure of information asymmetry such as bid-ask spreads size ananalyst following. This suggests that volume induced autocorrelation may be a suitable criterion on which to rank firms on the level of private information trading.",
+            "keywords": [
+                "Insidertrading",
+                "return autocorrelation"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbweuvgra/20059.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sentiment indices on financial markets: What do they measure?",
+            "abstract": "Sentiment indices based on investor sentiment surveys attempt to measure the stock market sentiment. The literature on these indices focusses mainly on whether investor sentiment influences the financial markets or not. But the term 'sentiment' has never been defined in the literature. Therefore it is unclear what is measured by sentiment indices, whether it is really sentiment or something different. This paper closes this gap in the literature by using psychological definitions about feelings to explain what might be meant by 'market sentiment'. It shows how useful these definitions are with data from the German sentiment index 'Sentix'. The paper contributes to the current discussion in three ways: 1. It presents a simple concept of sentiments in general. 2. It relates short and long term sentiment indices to two distinct parts of sentiments, emotion and mood. 3. It extracts two factors representing investor emotion and mood across all markets in the dataset. These results are stable across markets and model specifications in the Sentix dataset.",
+            "keywords": [
+                "sentiment indices",
+                "investor sentiment",
+                "factor analysis",
+                "psychological analysis",
+                "financial markets"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/zbwifwedp/201358.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Testing the Efficient Market Hypothesis in The Greek Secondary Capital Market",
+            "abstract": "This study uses cointegration tests and event study methodology to provide evidence on the Efficient Market Hypothesis (EMH) in the secondary (parallel) capital market of Athens Stock Exchange (ASE). It examines the existence of interdependence between primary and secondary market in order to test the autonomy of secondary market price behaviour. It also measures the effects of the announcements for issuing new stocks by the listed companies. The empirical results indicate that there is evidence of a bi-directional causality and price co-movement between the primary and secondary capital market in Greece. These findings have significant implications for the rejection of the weak form efficiency. It also provides evidence, which suggests that the announcement of issuing new stocks gives support (total or partial) to specific classes of capital structure theories. The existence of non-zero abnormal returns around the announcement periods leads to the rejection of the semi-strong EMH for the secondary market of the ASE.",
+            "keywords": [
+                "secondary capital markets",
+                "cointegration",
+                "event study methodology",
+                "market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/zagzirebs/v_3a7_3ay_3a2004_3ai_3a1_3ap_3a23-38.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Glassdoor: Are the Top CEOs Representing the Best Investments",
+            "abstract": "In 2013, Glassdoor launched the Employees\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 Choice Awards for the Top CEOs. Glassdoor\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s awards are unique in that feedback from employees exclusively determines the winners. Given Glassdoor\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s notoriety, claiming 64 million unique visitors and 11 million job listings monthly, being listed as a Top CEO certainly has reputational value \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009d but does it translate to higher shareholder returns? We find that the overall Top CEO sample statistically outperforms a matched sample and the S&P 500 index on a raw and risk-adjusted basis with superior Tobin\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Q and annual returns one year after the announcement.",
+            "keywords": [
+                "Shareholders wealth",
+                "event study",
+                "investment strategy"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/wsiqjfxxx/v_3a12_3ay_3a2022_3ai_3a03_3an_3as2010139222500094.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

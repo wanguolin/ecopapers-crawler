@@ -1,0 +1,155 @@
+{
+    "page_info": {
+        "page_number": 51,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "Frequency and Sequence: Convertible Debt Issuance Announcement Effect on Stock Returns",
+            "abstract": "Convertible debt that shares the characteristics of debt and equity is perceived to be riskier than straight debt, therefore the issuance announcement tends to lead to adverse market reaction. In this study we show that convertible debt issuance announcement is also associated with negative abnormal returns with evidence from the Malaysia capital market. We argue that the substantially smaller and illiquid convertible debt market do not affect the consistency of the findings. However, the main purpose of this study is to examine the effect of frequency and sequence of convertible debt issuance announcement on the issuers stock return. We find that both the frequency and sequence of issuance significantly affect the announcement returns. In the longer event window, we observe negative abnormal returns for the infrequent issuers. While frequent issuers report positive abnormal returns. Looking at the sequence of issuance, the first issues of convertible debt lead to negative market reaction, but as the information gap decreases, subsequent issues of convertible debt lead to insignificant abnormal returns. We argue that the findings of this study are mainly related to the theories of asymmetric information and sequential financing. In brief, this study contributes to the convertible debt literature by highlighting the need to incorporate the effect of frequency and sequence in examining the announcement effect of securities. Furthermore, this study adds that the additional features of convertible debt such as redeemable, non-redeemable, secured and unsecured do have significant impact on the announcement returns.",
+            "keywords": [
+                "Convertible debt",
+                "asymmetric information",
+                "sequential financing",
+                "announcement effect",
+                "event study."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/mfajournl/v_3a26_3ay_3a2018_3ai_3a2_3ap_3a1-20.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mispricing Persistence and the Effectiveness of Arbitrage Trading",
+            "abstract": "This article examines whether mean reversion in stock index basis changes is actually induced by arbitrage trading, using intra-day arbitrage trade data. The empirical evidence suggests that arbitrage trading alone cannot account for all of the mean reversion in basis changes, even when infrequent trading is controlled for. This general mean reversion is consistent with mean reversion in liquidity and partial adjustment in the cash market. The behavior of arbitrageurs appears highly competitive. We find that on average the net arbitrage profit is at the competitive level of zero. Furthermore, it is suggested that some mispricing persistence may be related to time-varying liquidity. Accordingly, the results indicate that arbitrageurs pay attention to the depth of the market and value the early unwinding option.",
+            "keywords": [
+                "market microstructure",
+                "arbitrage trading",
+                "liquidity",
+                "stock index futures",
+                "market efficiency"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/mfjjournl/v_3a11_3ay_3a2007_3ai_3a1-2_3ap_3a123-156.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The Effects of Market Strength, Information Asymmetry, and Industrial Characteristics on Malaysian Firms\u00e2\u0080\u0099 CAR During COVID-19 Pandemic",
+            "abstract": "Research Question: Would the COVID-19 pandemic induce investment opportunities or threats for companies listed at Bursa Malaysia? Motivation: This study investigates whether the market strength and information asymmetry experienced during a crisis and industrial characteristics have an impact on shareholders\u00e2\u0080\u0099 abnormal returns. Idea: The study uses market strength as measured by trading volume and information asymmetry as measured by bid-ask spread aims to suggest potential investment opportunities in different categories of industries for investors. Data: The study uses data of 620 companies listed on Bursa Malaysia, collected from 16 Mar 2020 to 9 Jun 2020. The data were divided into 3 event windows based on the government\u00e2\u0080\u0099s Movement Control Order (MCO) announcements. Method/ Tools: The event study method is used to calculate the cumulative abnormal returns (CAR) as the dependent variable. Multiple regression analysis with hierarchical model specifications were used in assessing the impact of the explanatory variables on the dependent variables. Findings: The findings suggest that during periods of uncertainty, firm characteristics such as larger and older firms are at a disadvantage compared to smaller and younger firms. In terms of market characteristics, the study shows that Increased trading volume has greater returns to investors. However, the bigger bid-ask spread associated with higher abnormal returns reflects the inefficiency of the stock market. This study also found that in the month following the announcement of the first MCO, the CAR of firms in vulnerable industries reduced by an extra 5% compared to firms who were not classified as vulnerable industry category. As the MCO prolonged, the CAR of firms in vulnerable industries fell by an extra 9.5% compared to other firms listed in Bursa Malaysia. The negative impact on the vulnerable industries shows glooming prospects of those firms. Contributions: Market reactions to pandemics and MCOs are negative especially at the beginning period. The strength of the market, information asymmetry, and industrial characteristics have a strong influence on the abnormal returns during the observed periods. The study also shows that historical financial track records are not good predictors of a firm\u00e2\u0080\u0099s prospects during this unprecedented COVID-19 pandemic.",
+            "keywords": [
+                "Pandemic",
+                "Malaysia",
+                "market strength",
+                "information asymmetry",
+                "event study",
+                "vulnerable industries"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/mfajournl/v_3a30_3ay_3a2022_3ai_3a1_3ap_3a1-15.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Price and Volume Effects Associated with Changes in the Danish Blue-Chip Index: The KFX Index",
+            "abstract": "This paper considers the effects of changes in the composition of the Danish blue-chip KFX index for the period of 1989-2001. Consistent with the selection criterion used for the index, there is no evidence for a stock price effect at the announcement of a change in the index. However, deleted stocks experience an abnormal return averaging \u00e2\u0080\u009313% in a six-month period before the deletion and a decrease in trading volume and efficiency of stock prices following the deletion. For added stocks, the average abnormal return is 8% and there is no significant change in trading volume or efficiency. These long-run effects are best explained by the imperfect substitutes hypothesis or the information costs/liquidity hypothesis, suggesting that stocks in the KFX Index are exposed to a higher demand or more attention and a lower cost of trading than stocks outside the index. However, the results do not rule out the possibility that part of the stock price effect is due to the selection criterion used for the KFX Index. All in all, this paper documents that the selection criterion for and the size of an index as well as the size of the related stock market are relevant when explaining the stock market effects of index revisions.ndex. All in all, this paper documents that the selection criterion for and the size of an index as well as the size of the related stock market are relevant when explaining the stock market effects of index revisions.",
+            "keywords": [
+                "index composition",
+                "selection criterion",
+                "price and liquidity effects"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/mfjjournl/v_3a8_3ay_3a2004_3ai_3a1-2_3ap_3a3-34.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Joint Dynamics of Prices and Trading Volume on the Polish Stock Market",
+            "abstract": "This paper concerns the relationship between stock returns and trading volume. We use daily stock data of the Polish companies included in the WIG20 segment (the twenty most liquid companies quoted on the primary market of the Warsaw Stock Exchange). The sample covers the period from January 1995 to April 2005. We find that there is no empirical support for a relationship between stock return levels and trading volume. On the other hand, our calculations provide evidence for a significant contemporaneous interaction between return volatility and trading volume. Our investigations reveal empirical evidence for the importance of volume data as an indicator of the flow of information into the market. These results are in line with suggestions from the Mixture of Distribution Hypothesis. By means of the Granger causality test, we establish causality from both stock returns and return volatility to trading volume. Our results indicate that series on trading activities have little additional explanatory power for subsequent price changes over that already contained in the price series.",
+            "keywords": [
+                "abnormal stock returns",
+                "return volatility",
+                "abnormal trading volume",
+                "GARCH-cum-volume",
+                "causal relations"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/mgtyoumgt/v_3a3_3ay_3a2005_3ai_3a2_3ap_3a139-156.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock Prices and Resignation of Members of the Board: The Case of the Warsaw Stock Exchange",
+            "abstract": "In this paper we provide an empirical analysis of announcements of resignation of board members using data which comes from the Warsaw Stock Exchange. The market reaction to this information is tested at different time horizons by means of event study methodology. The results show that market reaction is rather positive immediately before the announcement release and negative over the following six-day-period starting on the event day. A possible explanation for this phenomenon is suggested. Besides the traditional examination of abnormal return behaviour, we also check whether or not resignation announcements induce increases in the variance of stock returns over the period under consideration. It turns out that a tendency towards increased stock return volatility can be observed in the whole period prior to the announcement release.",
+            "keywords": [
+                "managerial resignations",
+                "abnormal returns",
+                "event-induced variance",
+                "emerging stock market"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/mgtyoumgt/v_3a5_3ay_3a2007_3ai_3a2_3ap_3a179-192.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information Arrival, Jumps and Cojumps in European Financial Markets: Evidence Using Tick by Tick Data",
+            "abstract": "This paper investigates jumps and cojumps in European financial markets around the major U.S macroeconomic news announcements employing more than six years of high frequency data on stock indices, currency and interest rate futures. The findings show that while the U.S macroeconomic announcements cause significant jumps on all asset classes, European equity markets are found to be more responsive. Moreover, there is a strong correlation between the type of news and direction of the jumps. Significant cojumps caused by the U.S macroeconomic surprises across European stock indices futures are also reported. The time series analyses show that the European financial markets experienced more frequent and sizeable jumps during the recent global financial crisis. Similarly, more frequent cojumps are also reported across European equity markets during the same period.",
+            "keywords": [
+                "jumps and cojumps",
+                "macroeconomic announcements",
+                "tick by tick data",
+                "interest rate futures",
+                "global credit crisis"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/mfjjournl/v_3a18_3ay_3a2014_3ai_3a3-4_3ap_3a169-213.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The skew pattern of implied volatility in the DAX index options market",
+            "abstract": "The aim of this paper is twofold: to investigate how the information content of implied volatility varies according to moneyness and option type and to compare the latter option based forecasts with historical volatility in order to see if they subsume all the information contained in the latter. We run a horse race of different implied volatility estimates: at the money and out of the money call and put implied volatilities and average implied that is a weighted average of at the money call and put implied volatilities with weights proportional to trading volume. Two hypotheses are tested: unbiasedness and efficiency of the different volatility forecasts. The investigation is pursued in the Dax index options market, by using synchronous prices matched in a one minute interval. The results highlight that the information content of implied volatility has a humped shape, with out of the money options being less informative than at the money ones. Overall, the best forecast is at the money put implied volatility: it is unbiased (after a constant adjustment) and efficient, in that it subsumes all the information contained in historical volatility.",
+            "keywords": [
+                "implied Volatility",
+                "volatility Smile",
+                "volatility forecasting",
+                "option type"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/moddepeco/0617.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Cointegration analysis of tourism demand by Mainland China in Taiwan and stock investment strategy",
+            "abstract": "Mainland China is the most important source of tourism for Taiwan in recent years. The purpose of this paper is to investigate the changes in the long-run demand for tourism in Taiwan by Mainland China. Using program trading and three different data sources, including the stock prices of Regent Taipei (2707), weighted index of the tourism sector (2700) and CSI ETF (0061), we find support for our hypotheses. That is, Taiwan\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s tourism market does not fulfil the conditions of a strong-form efficient market hypothesis. Also, positive feedback trading does exit in Taiwan\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s tourism market.",
+            "keywords": [
+                "Cointegration analysis",
+                "Error correction model",
+                "Program trading."
+            ],
+            "eco_link": "https://econpapers.repec.org/article/lrclareco/v_3a3_3ay_3a2015_3ai_3a5_3ap_3a1-9.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Noise Trading in Stamm- und Vorzugsaktien",
+            "abstract": "F\u00c3\u00bcr eine Gruppe von DAX-Unternehmen wird die Bedeutung von Noise Trading f\u00c3\u00bcr das Pricing von Stamm- und Vorzugsaktien untersucht. Dabei kann f\u00c3\u00bcr Renditen von Long-Short Portfolios gebildet aus Index- und Nicht-Indexgattung Excess-Comovement mit dem Markt nachgewiesen werden. Unter der Annahme, dass zugrunde gelegte Aktiengattungen fundamental identisch sind, l\u00c3\u00a4sst sich das Noise-Trader-Risiko in einem modellfreien Ansatz absch\u00c3\u00a4tzen. Rund 80% der Variation in Wochenrenditen kann fundamental erkl\u00c3\u00a4rt werden. Die Restgr\u00c3\u00b6\u00c3\u009fe scheint auch unter Ber\u00c3\u00bccksichtigung m\u00c3\u00b6glicher Transaktionskosten beachtlich. Ableitbares Noise-Trader-Risiko ist im Zeitverlauf starken Schwankungen ausgesetzt. Werte f\u00c3\u00bcr die bedingte Volatilit\u00c3\u00a4t der Long-Short Portfoliorenditen rangieren zwischen 0,6% und 5,8% pro Woche. Die Sichtweise, dass Stimmrechtspr\u00c3\u00a4mien unter anderem die Reflexion kumulativer Effekte aus korreliertem Noise Trading darstellen, ist neu.",
+            "keywords": [
+                "Noise",
+                "Markteffizienz",
+                "Stimmrechtspr\u00c3\u00a4mie",
+                "Dual-Class Shares"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/lmumsmdpa/10218.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Neue Erkenntnisse zur Stimmrechtspr\u00c3\u00a4mie in Deutschland",
+            "abstract": "Nach Miller (1977) f\u00c3\u00bchrt eine erh\u00c3\u00b6hte Sichtbarkeit f\u00c3\u00bcr Aktien tendenziell zu einem Preisanstieg, da die Nachfrage potentieller Investoren in Abwesenheit von Leerverk\u00c3\u00a4ufen auf ein limitiertes Angebot trifft. Die Visibility-Hypothese wird in der vorliegenden Studie anhand des Indexeffekts der Stimmrechtspr\u00c3\u00a4mie in Deutschland f\u00c3\u00bcr den Zeitraum 1995-2007 \u00c3\u00bcberpr\u00c3\u00bcft und traditionellen Erkl\u00c3\u00a4rungsdeterminanten gegen\u00c3\u00bcbergestellt. Das relative Shapley-Ma\u00c3\u009f deutet in Anlehnung an Zingales (1995) auf einen Anteil privater Kontrollrenten am Wert der Unternehmens-Cashflows von rund 11% hin. Die Indexzugeh\u00c3\u00b6rigkeit der Stammaktien (Vorzugsaktien) im DAX, MDAX oder SDAX erh\u00c3\u00b6ht (reduziert) die Stimmrechtspr\u00c3\u00a4mie im Durchschnitt um 13 (10) Prozentpunkte. Der Effekt f\u00c3\u00a4llt mit 16 (13) Prozentpunkten f\u00c3\u00bcr die Periode von 1999-2007 noch deutlicher aus. Die Visibility-Hypothese scheint die Zusammenh\u00c3\u00a4nge insgesamt besser abbilden zu k\u00c3\u00b6nnen als ein rein liquidit\u00c3\u00a4tsbasierter Ansatz. Entgegen der Effizienzmarkthypothese sprechen die Ergebnisse f\u00c3\u00bcr langfristig negativ geneigte Nachfragekurven und die Preiseinflussnahme eines \u00e2\u0080\u009eDisagreements\u00e2\u0080\u009c unter den Investoren.",
+            "keywords": [
+                "Stimmrechtspr\u00c3\u00a4mie",
+                "Dual-Class Shares",
+                "Visibility-Hypothese"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/lmumsmdpa/11264.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Sentiment in foreign exchange markets: Hidden fundamentals by the back door or just noise?",
+            "abstract": "Foreign exchange markets have to deal next to hard facts with lots of expectations and emo-tions. One of the major puzzles in international finance remains the \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093exchange rate discon-nect puzzle\u00c3\u00a2\u00e2\u0082\u00ac . Analyzing sentiment in foreign exchange markets, it appears in fact that senti-ment contains some forward looking information. Particularly due to the unknown economic relevance of sentiment in foreign exchange markets so far, we first analyze the relationship between fundamentals and sentiment in order to reveal underlying forces of the latter; sec-ond we accomplish our analysis by concentrating on popular expectation concepts and con-sidering threshold effects. Third, we evaluate sentiment by testing on accuracy and on for-ward looking elements of subsequent exchange rate returns",
+            "keywords": [
+                "Foreign exchange market",
+                "sentiment",
+                "bootstrap",
+                "threshold"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/mmfmmfc06/118.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

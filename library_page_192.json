@@ -1,0 +1,160 @@
+{
+    "page_info": {
+        "page_number": 192,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "The aggregate and sectoral time-varying market efficiency during crisis periods in Turkey: a comparative analysis with COVID-19 outbreak and the global financial crisis",
+            "abstract": "Abstract This study aims to examine the time-varying efficiency of the Turkish stock market\u00e2\u0080\u0099s major stock index and eight sectoral indices, including the industrial, financial, service, information technology, basic metals, tourism, real estate investment, and chemical petrol plastic, during the COVID-19 outbreak and the global financial crisis (GFC) within the framework of the adaptive market hypothesis. This study employs multifractal detrended fluctuation analysis to illustrate these sectors\u00e2\u0080\u0099 multifractality and short- and long-term dependence. The results show that all sectoral returns have greater persistence during the COVID-19 outbreak than during the GFC. Second, the real estate and information technology industries had the lowest levels of efficiency during the GFC and the COVID-19 outbreak. Lastly, the fat-tailed distribution has a greater effect on multifractality in these industries. Our results validate the conclusions of the adaptive market hypothesis, according to which arbitrage opportunities vary over time, and contribute to policy formulation for future outbreak-induced economic crises.",
+            "keywords": [
+                "MF-DFA",
+                "Adaptive market hypothesis",
+                "Global financial crisis",
+                "COVID-19 outbreak",
+                "Sectoral indices"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/sprfininn/v_3a9_3ay_3a2023_3ai_3a1_3ad_3a10.1186_5fs40854-023-00484-4.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "News Trading and Speed",
+            "abstract": "Speed matters: we show that an investor's optimal trading strategy is significantly different when he observes news faster than others versus when he does not, holding the precision of his signals constant. When the investor has fast access to news, his trades are much more sensitive to news, account for a much bigger fraction of trading volume, and forecast short run price changes. Moreover, in this case, an increase in news informativeness increases liquidity, volume, and the fast investor's share of trading volume. Last, price changes are more correlated with news and trades contribute more to volatility when the investor has fast access to news.",
+            "keywords": [
+                "Informed trading",
+                "news",
+                "volatility",
+                "volume",
+                "price discovery",
+                "high frequency trading"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgheccah/0975.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "False News, Informational Efficiency, and Price Reversals",
+            "abstract": "Speculators can discover whether a signal is true or false by processing it but this takes time. Hence they face a trade-off between trading fast on a signal (i.e., before processing it), at the risk of trading on a false positive, or trading after processing the signal, at the risk that prices already reflect their information. The number of speculators who choose to trade fast increases with news reliability and decreases with the cost of fast trading technologies. The authors derive testable implications for the effects of these variables on (i) the value of information, (ii) patterns in returns and trades, (iii) the frequency of price reversals in a stock, and (iv) informational efficiency. Cheaper fast trading technologies simultaneously raise informational efficiency and the frequency of \"mini-flash crashes\": large price movements that revert quickly.",
+            "keywords": [
+                "News",
+                "High-Frequency Trading",
+                "Price Reversals",
+                "Informational Efficiency",
+                "Mini-Flash Crashes"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/ebgheccah/1036.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Market Uncertainty and Sentiment, and the Post-Earnings Announcement Drift",
+            "abstract": "The post-earnings announcement drift (PEAD) was first identified over 40 years ago and seems to be as much alive today as it ever was. There have been numerous attempts to explain its continued existence. In this paper we provide evidence to support a new explanation: the PEAD is very much a reflection of the level of market uncertainty and sentiment that prevails during the post-announcement period. The finding that uncertainty plays a role in explaining how investors respond to information suggests that it should be included as a factor in our pricing models while the fact that market sentiment also has a role is another instance of the importance of human behaviour in establishing prices.",
+            "keywords": [],
+            "eco_link": "https://econpapers.repec.org/paper/utspwcwps/15.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "A Continuous-Time Measurement of the Buy-Sell Pressure in a Limit Order Book Market",
+            "abstract": "In this paper, we investigate the buy and sell arrivl process in a limit order book market. Using an intensity framework allows to estimate the simultaneous buy and sell intensity and to derive a continuous-time measure for the buy-sell pressure in the market. Based on limit order book data from the Australian Stock Exchange (ASX), we show that the buy-sell pressure is particularly influenced by recent market and limit orders and the current depth in the ask and bid queue. We find evidence for the hypothesis that traders use order book information in order to infer from the price setting behavior of market participants. Furthermore, our results indicate that the buy-sell pressure is clearly predictable and is a significant determinant of trade-to-trade returns and volatility.",
+            "keywords": [
+                "buy and sell arrival process",
+                "order book information",
+                "market depth",
+                "bivariate autoregressive intensity model",
+                "buy-sell exces intensity"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/utsrpaper/121.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Learning and Evolution of Trading Strategies in Limit Order Markets",
+            "abstract": "How do traders process and learn from market information, what trading strategies should they use, and how does learning affect the market? This paper proposes a learning model of an artificial limit order market with asymmetric information to address these issues. Using a genetic algorithm as a learning mechanism, we show that learning, in particular the learning from uninformed traders, improves market informational efficiency and has a significant impact on the stylized facts of limit order markets, order submission, liquidity supply and consumption, the hump shaped order book near the quote, and the bid-ask spread. Moreover, the learning affects the evolution process of the trading strategies for all traders. The model provides some insights into market efficiency, the interaction of traders, the dynamics of limit order books, and the evolution of trading strategies.",
+            "keywords": [
+                "Limit order book",
+                "evolution",
+                "genetic algorithm learning",
+                "asymmetric information",
+                "trading strategy"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/utsrpaper/335.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Predictability in Financial Markets: What Do Survey Expectations Tell Us?",
+            "abstract": "There is widespread evidence of excess return predictability in financial markets. In this paper we examine whether this predictability is related to expectational errors. To consider this issue, we use data on survey expectations of market participants in the stock market, the foreign exchange market, and the bond and money markets in various countries. We find that the predictability of expectational errors coincides with the predictability of excess returns: when a variable predicts expectational errors in a given market, it typically predicts the excess return as well. Understanding expectational errors appears crucial for explaining excess return predictability.",
+            "keywords": [
+                "excess returns",
+                "expectations survey",
+                "predictability"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp0615.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Event studies on investor sentiment",
+            "abstract": "60 million tweets are scraped from Stocktwits.com over 10 years and classified into bullish, bearish or neutral classes to create firm-individual polarity time-series. Changes in polarity are associated with changes of the same sign in contemporaneous stock returns. On average, polarity is not able to predict next day stock returns but when we focus on specific events (defined as sudden peak of tweet activity), polarity has predictive powers on abnormal returns. Finally, we show that bad events act more as surprises than good events.",
+            "keywords": [
+                "Investor sentiment",
+                "Event study",
+                "Polarity",
+                "Social Media",
+                "Microblogging",
+                "Natural Language Processing",
+                "Crowd Wisdom"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp2133.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Liquidity, Volume, and Order Imbalance Volatility",
+            "abstract": "We examine the relation between liquidity, volume, and volatility using a comprehensive sample of U.S. stocks in the post-decimalization period. For large stocks, effective spread and volume are positively related in the time series even after controlling for volatility, contrary to most theoretical predictions. This relation is mostly driven by the systematic component of volume. In contrast, for small stocks the evidence matches the predictions of standard adverse selection models. In line with a continuous-time inventory model, we show that the volatility of order imbalances can reconcile our puzzling finding with standard intuition. Order imbalance volatility is strongly associated with spreads both in the time series and cross-section. Evidence from alternative liquidity measures (price impact and depth), spread decomposition, and intraday patterns support our interpretation of order imbalance volatility as a measure of inventory risk. Furthermore, order imbalance volatility is priced in the cross-section of weekly returns.",
+            "keywords": [
+                "liquidity",
+                "volume",
+                "volatility",
+                "order imbalance",
+                "inventory",
+                "adverse selection"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp1969.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "How Integrated Are Corporate Bond and Stock Markets?",
+            "abstract": "In this paper, I study the degree of market integration between US corporate bonds and stocks of the corresponding issuing firms, accounting for their characteristics. I find that short-selling constraints are essential restrictions to optimal Sharpe ratio portfolios that yield admissible portfolio positions and implied pricing errors within quoted bid-ask spreads. My empirical evidence suggests that markets are more integrated for larger firms, with more liquid corporate bonds and stocks. Similarly, firms that are more leveraged, have a higher asset growth and profitability feature a greater extent of integration between their debt and equity securities.",
+            "keywords": [
+                "stochastic discount factor",
+                "corporate bonds",
+                "stocks",
+                "market integration",
+                "firm characteristics"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp2009.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Implied Volatility Changes and Corporate Bond Returns",
+            "abstract": "Option implied volatility change has significant cross-sectional predictive power for the underlying firms\u00e2\u0080\u0099 bond returns. Corporate bonds with large increases in implied volatilities over the past month underperform those with large decreases in implied volatilities by approximately 0.6% per month. The results are robust to various bond characteristics and volatility related variables, as well as to stock and bond factor models. Our results are consistent with the notion that informed traders with new information about default risk prefer to trade in the option market, and that the corporate bond market is slow in incorporating that information.",
+            "keywords": [
+                "Corporate bonds",
+                "implied volatility changes",
+                "default risk",
+                "information diffusion"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp1975.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does Market Irrationality in the Media Affect Stock Returns?",
+            "abstract": "This paper investigates whether news suggestive of irrationality within financial markets have an impact on stock returns. We construct a lexicon of words for 'market irrationality' and score daily news articles based on the number and proportion of words they contain from the lexicon. We find that reported market irrationality has a significant negative impact on subsequent stock market returns and exacerbates stock market volatility. Furthermore, stocks with large, negative irrationality risk betas outperform stocks with large, positive betas on average by 10.3% annually. Accounting for the Fama-French factors, this results in an alpha of 8.6% annually, which is significant at the 1% level. These results suggest that a large, positive IRR beta amplifies a stock's reaction to market irrationality while a large, negative IRR beta dampens it. The subsequent IRR betas' mean-reversion is consistent with this conjecture.",
+            "keywords": [
+                "Linguistics",
+                "Market Irrationality",
+                "Mean-Reversion",
+                "Media",
+                "Stock Market Returns",
+                "Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/paper/chfrpseri/rp1525.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}

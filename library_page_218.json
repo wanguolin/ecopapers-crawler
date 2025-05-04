@@ -1,0 +1,152 @@
+{
+    "page_info": {
+        "page_number": 218,
+        "total_pages": 259
+    },
+    "items": [
+        {
+            "title": "News sentiment, credit spreads, and information asymmetry",
+            "abstract": "This paper examines how the sentiment of firm-specific news affects CDS spreads conditional on the degree of information asymmetry. Using a large set of news releases, we document a strong negative relationship between the sentiment of firm-specific news and CDS spreads. More importantly, consistent with the role of public news in reducing information asymmetry, we find evidence that the relation between news sentiment and CDS spreads is stronger for firms with higher information asymmetry. Furthermore, the relation is stronger for news with negative sentiment and during the 2008 financial crisis. Our results are robust to alternative sentiment measures.",
+            "keywords": [
+                "Credit default swap",
+                "Credit risk",
+                "News sentiment",
+                "RavenPack",
+                "Institutional investors"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecofin/v_3a52_3ay_3a2020_3ai_3ac_3as1062940820300760.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Does retail investor attention improve stock liquidity? A dynamic perspective",
+            "abstract": "The purpose of this paper is to examine the dynamic relationship between retail investor attention and stock liquidity. Using high-frequency data for China\u00e2\u0080\u0099s stock market, we find that retail investor attention, measured by Baidu search volume, has a significantly positive short-term effect on future stock liquidity. When the time horizon expands, however, the positive effect weakens and eventually reverses after four weeks. More importantly, the observed short-term improvement on stock liquidity is mainly attributable to attention-induced retail investor net-buys. Taking advantage of variations of retail investor attention to stocks, sophisticated traders with superior information appear to engage in trades against retail investors. Overall, our findings help practitioners, academics, and policy makers understand the nature of retail investor attention and its consequences regarding trading behavior and stock liquidity.",
+            "keywords": [
+                "Retail investor attention",
+                "Stock liquidity",
+                "Baidu search volume",
+                "Retail investor net-buys"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a94_3ay_3a2021_3ai_3ac_3ap_3a170-183.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Reinforcement learning and rational expectations equilibrium in limit order markets",
+            "abstract": "This paper shows that simple payoff-based reinforcement learning can help to achieve rational expectations equilibrium in limit order markets. In equilibrium, speculators mainly supply liquidity, while liquidity consumption increases in the private values of no-speculators with intrinsic motives for trade. Driven by information acquisition of the non-speculators, liquidity consumption is hump-shaped in fundamental volatility for the speculators but U-shaped for the non-speculators. In contrast, liquidity supply decreases in fundamental volatility for the speculators but is hump-shaped for the non-speculators. Unlike the informed traders who trade on asset fundamentals, the uninformed traders trade more on order book and trading information.",
+            "keywords": [
+                "Limit order market",
+                "Reinforcement learning",
+                "Rational expectations",
+                "Liquidity supply and consumption"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeedyncon/v_3a172_3ay_3a2025_3ai_3ac_3as0165188924001830.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Information demand and stock market liquidity: International evidence",
+            "abstract": "The aim of this paper is to investigate whether information demand is a significant determinant of stock liquidity. For a large sample of 209 firms from 7 countries over the 2004\u00e2\u0080\u00932014 period, we show that information demand, as proxied by daily search volume in Google, is positively associated with stock market liquidity. Most importantly, this relationship is found to be shaped by the firm's overall visibility and information asymmetry levels. We test the robustness of our results by employing different estimation methods and alternative proxies. Thus, it may be that investors and managers who are concerned with stock liquidity should consider investor information demand in addition to specific investment fundamentals.",
+            "keywords": [
+                "Information demand",
+                "Abnormal Google search volume",
+                "Financial markets",
+                "Stock market liquidity"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a70_3ay_3a2018_3ai_3ac_3ap_3a194-202.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Investor attention and stock market activity: Evidence from France",
+            "abstract": "The aim of this paper is to study the influence of investor attention on the French stock market activity and volatility. Following an original way, we construct a non-standard proxy of investor attention on the basis of investors' online search behavior exclusively provided by \u00e2\u0080\u009cGoogle insights for search\u00e2\u0080\u009d. We find that Google search volume is a reliable proxy of investor attention. Interestingly, we show that investor attention is strongly correlated to trading volume and is a significant determinant of the stock market illiquidity and volatility. Most importantly, this evidence is maintained even after controlling for the financial crisis effect.",
+            "keywords": [
+                "Google search volume",
+                "Information asymmetry",
+                "Stock illiquidity",
+                "Volatility"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeecmode/v_3a35_3ay_3a2013_3ai_3ac_3ap_3a674-681.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Betting on mean reversion in the VIX? Evidence from ETP flows",
+            "abstract": "We investigate how investors apply VIX ETPs with long VIX exposure by analyzing the relation between the flows of these products and the VIX. We find that increases in the VIX are followed by outflows meaning that VIX ETP investors, in aggregate reduce their VIX ETP positions immediately after there is an increase in market risk. Since the returns of VIX ETPs are closely linked to the VIX, our results imply that VIX ETP investors expect mean reversals in market risk. By comparing the ability of different asset pricing models to predict the flows, we find no evidence that investors in VIX ETPs consider systematic risk factors. Finally, studying the relation between VIX ETP flows and the VIX premium, we find that large outflows following increases in the VIX may be the cause of the low response puzzle in the VIX premium.",
+            "keywords": [
+                "VIX ETPs",
+                "Flows",
+                "Asset pricing tests",
+                "VIX premium"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a95_3ay_3a2024_3ai_3apb_3as1057521924003533.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Black mouth, investor attention, and stock return",
+            "abstract": "We investigate \u00e2\u0080\u009cblack mouth\u00e2\u0080\u009d in the Chinese stock market, which is a form of manipulation based on disinformation, and examine how investors react to such \u00e2\u0080\u009ccredible signals.\u00e2\u0080\u009d Credible signals simply refer to those that easily gain investor trust and influence investor behavior. Black mouth temporarily leads to abnormal investor attention and triggers an abnormal stock return. We show that different types of manipulators send different credible signals with black mouth by security analysts having a larger impact on stock returns. Media attention impacts investor attention more, while media sentiment has a greater impact on stock return. We also find that publicity supervision enhances the role of credible signals and makes investors more distrustful of information disseminated by ordinary manipulators, indicating the need for regulators to strengthen the supervision of black mouth.",
+            "keywords": [
+                "Black mouth",
+                "Disinformation",
+                "Investor attention",
+                "Stock return",
+                "Publicity supervision"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a90_3ay_3a2023_3ai_3ac_3as1057521923004374.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Asset-pricing anomalies at the firm level",
+            "abstract": "We introduce a hierarchical Bayes approach to model conditional firm-level alphas as a function of firm characteristics. Our empirical framework is motivated by growing concerns in the literature regarding the reliability of inferences from portfolio-based methods. In our initial tests, we confirm the existence of several CAPM anomalies at the firm level. Prominent multifactor models deliver only a modest improvement, however, as they often resolve only those anomalies which are directly linked to their additional factors. Further results suggest that the economic importance of CAPM anomalies is overstated. We find that anomalies are primarily confined to small stocks, few characteristics are associated with CAPM alphas out of sample, and many firm characteristics do not contain unique information about abnormal returns.",
+            "keywords": [
+                "Hierarchical Bayes",
+                "Factor models",
+                "Asset-pricing anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeeeconom/v_3a186_3ay_3a2015_3ai_3a1_3ap_3a113-128.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "The January sentiment effect in the U.S. stock market",
+            "abstract": "We document the January sentiment effect in the U.S. stock market over the 1978\u00e2\u0080\u00932017 period where January sentiment of individual investors has a significant impact on their asset allocation decisions and therefore, stock market returns from February to December. This effect is not likely driven by the other January effect and it appears to concentrate on riskier stocks including smaller stocks, higher market-to-book ratio stocks, and stocks with worse firm performance.",
+            "keywords": [
+                "January sentiment",
+                "Stock return anomalies"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a59_3ay_3a2018_3ai_3ac_3ap_3a94-104.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Stock price swings and fundamentals: The role of Knightian uncertainty",
+            "abstract": "As deviations of stock prices from intrinsic values grow, there is a concurrence of novel events that impart instability and, thus, greater uncertainty, onto investors\u00e2\u0080\u0099 understanding of the process driving market outcomes. This paper proxies for Knightian uncertainty based on the frequency of unscheduled, or novel, corporate events reported in the financial news as relevant for share prices and earnings prospects each day. Empirical findings suggest unscheduled events help explain variation in expected returns, especially at longer horizons. Results show a significant positive relationship between the absolute stock price-gap from intrinsic values (based on constant and time-varying returns) and the frequency of unscheduled events through time. When shocks derail the longer-run relationship, the stock price-gap adjusts. Valuation-based gaps generate similar results, but display nonlinear effects with unscheduled events by producing positive and significant coefficients only for the largest absolute gap values.",
+            "keywords": [
+                "Absolute stock price-gap",
+                "Unscheduled events",
+                "Knightian uncertainty",
+                "Textual news analytics",
+                "Unforeseeable change"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a91_3ay_3a2024_3ai_3ac_3as1057521923005033.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Mutual fund performance persistence: Factor models and portfolio size",
+            "abstract": "We re-examine US mutual fund performance persistence. We investigate persistence (i) using both \u00e2\u0080\u009cacademic\u00e2\u0080\u009d factor models and \u00e2\u0080\u009cpractitioner\u00e2\u0080\u009d index models, (ii) using decile-size recursive portfolios and also portfolios formed from smaller numbers of funds, (iii) using nonparametric bootstrap p-values as well as conventional t-tests and (iv) using both net-of-fee fund returns (net alphas) and gross alphas. Our key result is that positive net alpha performance persistence can be found using small portfolios of funds together with a holding period of 6 months or less, for both practitioner index models and academic factor models.",
+            "keywords": [
+                "Mutual fund performance persistence",
+                "Factor models",
+                "Portfolio size"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a81_3ay_3a2022_3ai_3ac_3as1057521922001016.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        },
+        {
+            "title": "Global uncertainties and Australian financial markets: Quantile time-frequency connectedness",
+            "abstract": "Contrary to previous research, this study examines the transmission mechanisms between daily trade policy uncertainty (TPU), geopolitical risk (GPR), global financial stress index (FSI) and the three Australian financial markets (i.e., conventional, sustainable, Islamic stock markets) by using the quantile time-frequency connectedness approach. We also utilize the DCC-GARCH-t copula approach to examine the hedging effectiveness of the Australian sustainable and Islamic financial markets against the Australian conventional market's long-term volatility during high and low uncertainty. The time domain QVAR approach show that the Australian sustainable financial market returns receive the highest spillovers of shocks from TPU, FSI and GPR at the lower, medium and higher quantiles. Moreover, in the short term, at the lower quantiles the sustainable financial market receives the highest error variance contributions from FSI, while at higher quantiles, TPU, FSI and GPR transmit higher spillovers of shocks towards the sustainable market. Similarly, in the long term, the sustainable market receives the highest contributions to the error variances from TPU, FSI and GPR (GPR and TPU) at the lower (higher) quantiles. Moreover, at the lower, middle and higher quantiles, a shock in the Islamic (sustainable) market returns causes the highest contribution of error variances in the conventional market, compared with the (sustainable) Islamic market in the short and long run. Finally, the hedging strategy results show that investment in the Islamic financial market is the cheapest hedge against the long-term conventional market risk during high and low uncertainty periods.",
+            "keywords": [
+                "QVAR dynamic time and frequency connectedness",
+                "Trade policy uncertainty",
+                "geopolitical risk",
+                "global financial stress indices",
+                "Hedging effectiveness"
+            ],
+            "eco_link": "https://econpapers.repec.org/article/eeefinana/v_3a92_3ay_3a2024_3ai_3ac_3as1057521924000309.htm",
+            "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+        }
+    ]
+}
