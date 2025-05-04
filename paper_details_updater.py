@@ -397,8 +397,8 @@ class PaperDetailsUpdater:
 
         logger.info(f"Fetching details for paper: {paper.get('title')[:50]}...")
 
-        response = self.fetch_with_retry(url)
-        if not response:
+            response = self.fetch_with_retry(url)
+            if not response:
             return None  # Failure already logged by fetch_with_retry
 
         try:
@@ -576,8 +576,8 @@ class PaperDetailsUpdater:
                                 logger.warning(
                                     f"Failed to decode redirect URL {final_url}: {decode_err}"
                                 )
-                        else:
-                            logger.warning(
+            else:
+                logger.warning(
                                 f"Could not parse redirect URL structure: {original_href}"
                             )
 
