@@ -67,16 +67,3 @@ for paper_id, details in paper_details.items():
 
 with open("library.json", "w") as f:
     json.dump(library, f, indent=4)
-
-# paginate the library
-for i in range(0, len(library), 12):
-    page_items = library[i : i + 12]
-    page_data = {
-        "page_info": {
-            "page_number": i // 12 + 1,
-            "total_pages": math.ceil(len(library) / 12),
-        },
-        "items": page_items,
-    }
-    with open(f"library_page_{i // 12 + 1}.json", "w") as f:
-        json.dump(page_data, f, indent=4)

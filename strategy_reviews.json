@@ -26232,5 +26232,891 @@
     "strategy": false,
     "reason": "The abstract discusses the Taylor rule and its application in monetary policy, including considerations of financial stability. However, it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on monetary policy analysis and the Fed's decision-making process, with no implications for portfolio management or trading decisions.",
     "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/aeaaecrev/v_3a108_3ay_3a2018_3ai_3a9_3ap_3a2590-2628.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses a theoretical model of stock price bubbles in production economies with credit constraints and their macroeconomic implications. While it provides insights into market dynamics, it does not present any quantifiable, implementable, or conceptually backtestable trading strategy, nor does it imply any actionable trading signals or portfolio construction approaches.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeejetheo/v_3a181_3ay_3a2019_3ai_3ac_3ap_3a1-43.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses theoretical aspects of market selection and agent behavior in an exchange economy with heterogeneous beliefs and preferences. While it provides insights into economic theory and agent dynamics, it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on theoretical results and robustness checks rather than practical trading implications or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/66494.htm": {
+    "strategy": true,
+    "reason": "The abstract describes a portfolio construction approach using Sharpe's single index model, specifies stock selection and allocation percentages, and implies trading actions (short selling specific stocks). It meets the criteria for a tradable strategy concept, implicit trading signals, broad data acceptance, and conceptual testability.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/84009.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses changes in oil market dynamics and the reduced effectiveness of traditional forecasting techniques, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. It focuses on market analysis without implications for portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/risqjatoe/0278.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on the relationship between personality traits, financial literacy, and economic behavior, but it does not discuss or imply any tradable strategy, portfolio construction, or asset allocation concepts. It is purely theoretical and does not provide any practical application for trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/sprdecfin/v_3a43_3ay_3a2020_3ai_3a2_3ad_3a10.1007_5fs10203-020-00307-6.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on extending a mathematical model for electricity spot prices and deriving pricing formulas for electricity forwards under future information. While it discusses modeling and pricing, it does not present a tradable strategy concept, implicit trading signals, or any implications for portfolio construction or trading decisions. The content is more theoretical and focused on pricing rather than actionable trading strategies.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/nbrnberwo/19705.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses macro shocks and their impact on marginal utility in general equilibrium models, but it does not present any tradable strategy concept, implicit trading signals, or implications for portfolio construction. The focus is on theoretical asset pricing puzzles rather than practical trading or portfolio management applications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/61418.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on the relevance of Asymmetric Information and the Theory of Argumentation in financial crises, particularly examining persuasion in advertising and financial communication in Colombia. It discusses investors' beliefs changing with market prices but does not present any quantifiable, implementable, or conceptually backtestable trading strategy or portfolio construction approach.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/114258.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses a method for estimating treatment effects of policy changes on outcome variables, focusing on statistical analysis and econometric techniques. It does not present any concepts, signals, or methodologies that could inform trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/nbrnberwo/21224.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses momentum-trading strategies employed by rational traders to exploit cursed traders, which implies a potential trading strategy. It also explores market behavior and trader interactions that could inform trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/nbrnberwo/29210.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses market dynamics and theoretical conditions for trade freezes in OTC markets, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on economic analysis and policy implications rather than portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/imxjournl/v_3a13_3ay_3a2018_3ai_3a3_3ap_3a295-323.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the relationship between election-related data and financial market performance, which could inform trading decisions or portfolio management strategies, particularly for portfolios exposed to Mexican markets. It provides empirical findings that could be used to develop trading signals or hedging strategies during US election periods.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/imxjournl/v_3a13_3ay_3a2018_3ai_3a2_3ap_3a273-289.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on testing the unbiasedness hypothesis of the forward exchange rate in the Mexican currency market using a nonlinear Markov regime-switching model. While it identifies different states of market efficiency, it does not propose or imply any tradable strategy, portfolio construction approach, or asset selection methodology. The paper is more about market efficiency analysis than informing trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeeriibaf/v_3a75_3ay_3a2025_3ai_3ac_3as0275531924005117.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses interrelationships and connectedness between different market segments, including tail-based dependencies and spillover effects, which could inform investment strategies and risk management approaches. The findings have practical implications for market participants, suggesting potential trading or portfolio construction insights.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/zbwwzbmdn/spii2017502.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the impact of messaging delays on market dynamics and price efficiency but does not propose or imply any quantifiable, implementable, or conceptually backtestable trading strategy. It focuses on market design and equilibrium modeling without suggesting actionable trading or portfolio construction approaches.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeeglofin/v_3a60_3ay_3a2024_3ai_3ac_3as1044028324000279.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses portfolio optimization and risk management strategies during periods of global uncertainty, specifically suggesting adjustments in investment strategies and hedging approaches. It implies actionable trading decisions based on the relationship between NFTs and stock markets, meeting the criteria for a tradable strategy concept and implicit trading signals.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeejeborg/v_3a228_3ay_3a2024_3ai_3ac_3as0167268124003068.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses market behavior and information aggregation by algorithmic traders following behavioral heuristics, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on market dynamics and equilibrium outcomes rather than actionable trading or portfolio construction insights.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeefinana/v_3a91_3ay_3a2024_3ai_3ac_3as1057521923005616.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses optimal portfolio weights and hedging strategies, which are directly applicable to trading and portfolio construction. It also examines asset relationships (Islamic gold-backed cryptocurrencies and GCC equities) that could inform trading decisions, meeting the criteria for a tradable strategy concept and implicit trading signals.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/kapcompec/v_3a49_3ay_3a2017_3ai_3a4_3ad_3a10.1007_5fs10614-016-9582-3.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses market outcomes and the behavior of algorithmic agents in achieving rational expectations equilibria, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on market structure and agent behavior rather than on informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeejetheo/v_3a212_3ay_3a2023_3ai_3ac_3as0022053123001102.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses a dynamic model of trading through market-makers and the effects of reduced trading frictions on liquidity, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on theoretical insights about market microstructure and liquidity rather than actionable trading or portfolio construction ideas.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeejetheo/v_3a191_3ay_3a2021_3ai_3ac_3as0022053120301496.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses theoretical economic concepts such as equilibrium, inefficiency, and taxation policy, but it does not present any ideas that could reasonably inform trading decisions or portfolio construction. The focus is on economic analysis without any implications for practical trading strategies.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/nbrnberwo/19590.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a quantifiable relationship between call/put implied volatilities and future stock returns, which could inform trading decisions. It presents empirical findings that could be used to construct a portfolio strategy based on volatility signals, meeting the criteria for a tradable strategy concept and conceptual testability.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/ejwjournl/v_3a22_3ay_3a2025_3ai_3a1_3ap_3a1-17.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on disproving a theoretical economic concept (rational bubbles) and discussing equilibrium models, without presenting any actionable trading ideas, portfolio construction methods, or implicit signals that could inform trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeeeconom/v_3a226_3ay_3a2022_3ai_3a2_3ap_3a399-422.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on a methodological contribution for detecting structural breaks in panel data models, with an application examining the impact of algorithmic trading on market quality. While it involves financial data, it does not propose or imply any trading strategy, portfolio construction approach, or actionable trading signals. The paper is more about econometric methodology than practical trading applications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/101891.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses theoretical concepts about market efficiency and information symmetry without presenting any actionable trading strategies, portfolio construction approaches, or implicit trading signals. It focuses on economic analysis without practical implications for trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/ehllserod/120846.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses market inefficiencies, arbitrage opportunities, and behavioral biases in racetrack and lottery markets, which could inform trading strategies. It also mentions that similar models can be applied to stock market anomalies, implying potential trading implications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/ehllserod/118866.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the relationship between dark trading activity and market conditions, which could inform trading decisions regarding venue selection. It also implies potential trading signals based on volatility and liquidity, and the analysis of execution priority rules could guide portfolio construction or trading strategy adjustments.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/ehllserod/118873.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses market efficiency and pricing in racetrack and lottery markets, along with behavioral biases and fundamental information, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on market analysis and survey of research rather than informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/ehllserod/119135.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a trading strategy based on exploiting private information before and after public announcements, including specific behaviors like aggressive trading and position unwinding, which could inform trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/tortecipa/tecipa-249.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses herding behavior and its effects on prices and volatility, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on theoretical analysis of market behavior rather than practical trading or portfolio construction implications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/117001.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses calendar anomalies and their potential implications for market efficiency, which could inform trading decisions or portfolio construction strategies. While the paper finds no evidence of day-of-the-week effects, the examination of such anomalies is relevant to trading strategy development and conceptual testability.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeemoneco/v_3a92_3ay_3a2017_3ai_3ac_3ap_3a78-95.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the relationship between macroeconomic news announcements and their impact on U.S. Treasury yields, which could inform trading decisions or portfolio construction based on the intrinsic value of announcements. This implies potential trading signals or portfolio tilts based on macroeconomic news analysis.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeejetheo/v_3a175_3ay_3a2018_3ai_3ac_3ap_3a491-517.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses a theoretical model of investor behavior and market dynamics, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on economic analysis and market behavior without specific implications for portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeeecofin/v_3a62_3ay_3a2022_3ai_3ac_3as1062940822000900.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the relationship between news sentiment, high-frequency indicators, and intraday price jumps, which could inform trading decisions based on news events and sentiment analysis. This implies potential trading signals and is conceptually testable with standard market data.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cprceprdp/7734.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a relationship between demographic variables (MY ratio) and the dividend-price ratio (dpt), which in turn explains fluctuations in stock market returns. This implies potential trading signals based on deviations of dpt from its long-run trend, which could inform market timing or asset allocation decisions. The paper presents empirically testable relationships that could reasonably inform trading strategies.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/nbrnberwo/23424.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the impact of monetary policy shocks on stock returns and the decomposition of these effects into direct and indirect components. While it provides valuable insights into the transmission mechanisms of monetary policy, it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on economic analysis and propagation mechanisms rather than informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeeecofin/v_3a63_3ay_3a2022_3ai_3ac_3as1062940822001292.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on analyzing informed trading and market behavior during a specific bank resolution case, rather than presenting a quantifiable, implementable, or conceptually backtestable trading strategy. While it discusses market implications, it does not propose any actionable trading or portfolio construction approach.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cprceprdp/12965.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on analyzing redenomination risk and its impact on yield spreads during the euro crisis, along with the effects of ECB interventions. While it provides valuable insights into market dynamics and risk assessment, it does not discuss or imply any tradable strategy, portfolio construction approach, or asset selection methodology that could inform trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeeempfin/v_3a19_3ay_3a2012_3ai_3a4_3ap_3a497-510.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the effects of Federal funds target rate changes on volatility but does not present any tradable strategy concept, implicit trading signals, or portfolio construction approach. It focuses on market analysis without implications for trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/zbwcfrwps/311832.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a stochastic discount factor (SDF) for single-stock options, which outperforms benchmark models in pricing option return anomalies and portfolios. It identifies specific factors like implied-realized volatility spread, option return momentum, and jump risk, which could inform trading decisions. The robustness after controlling for transaction costs and the focus on characteristics linked to behavioral biases further suggest practical implications for trading strategies.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cesceswps/_5f6486.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the impact of monetary policy shocks on stock market returns and production networks, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on economic analysis and propagation mechanisms rather than informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/kapexpeco/v_3a23_3ay_3a2020_3ai_3a2_3ad_3a10.1007_5fs10683-019-09605-2.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a market design study comparing two auction mechanisms (FBA and CDA) with implications for trading behavior, technology investment, and market dynamics. These findings could inform trading strategy decisions, particularly in high-frequency trading environments.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeejbfina/v_3a128_3ay_3a2021_3ai_3ac_3as0378426621000959.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses investor disagreement and its impact on asset prices, particularly in the context of collateralized debt products. However, it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on explaining price effects due to investor behavior and macroeconomic uncertainty, rather than proposing a strategy for trading or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/rtrwpaper/0250.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses probability forecasting, expert combination, and prediction markets, but does not present any concepts that could inform trading decisions or portfolio construction. It focuses on theoretical and statistical aspects without practical trading implications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/sipdpaper/06-044.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the relationship between market belief and risk premia, which could inform trading decisions or portfolio construction. It provides empirical findings on how market optimism and pessimism affect risk premia, suggesting potential trading signals or portfolio tilts based on market sentiment.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/boeboeewp/1089.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses market dynamics and price pressure effects but does not present a quantifiable, implementable, or conceptually backtestable trading strategy. It focuses on analyzing historical events and market behavior without suggesting any actionable trading or portfolio construction approaches.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/chfrpseri/rp2118.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a novel measure (attention score) derived from FOMC press conferences that is associated with equity returns and volatility. This could inform trading decisions based on the resolution of uncertainty around FOMC events, implying a potential trading signal or market timing strategy.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/37071.htm": {
+    "strategy": true,
+    "reason": "The abstract examines market efficiency in the foreign exchange market, which could inform trading decisions based on inefficiencies. The use of variance ratio tests implies potential trading signals or strategies could be derived from the findings.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/chfrpseri/rp2190.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses machine learning portfolios and their performance in market timing strategies, which implies potential trading actions and portfolio construction approaches. It also presents empirical findings that could inform trading decisions, meeting the criteria for a tradable strategy concept and conceptual testability.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/chfrpseri/rp2067.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses an asset-pricing framework that includes cross-predictability and derives an optimal strategy in closed form, referred to as 'principal portfolios.' It also mentions empirical results showing significant out-of-sample alphas, which implies practical trading implications and conceptual testability.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/chfrpseri/rp2257.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses non-linear return prediction models and their impact on optimal portfolio Sharpe ratios, which directly informs portfolio construction and asset allocation decisions. It implies potential trading signals through model-based return predictions and meets the criteria for conceptual testability and broad data acceptance.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/chfrpseri/rp2319.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses machine learning asset pricing models and their performance, which could inform security selection and portfolio construction. It also mentions the maximal Sharpe ratio achievable by a feasible portfolio strategy, implying practical trading implications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/chfrpseri/rp1419.htm": {
+    "strategy": false,
+    "reason": "The abstract primarily focuses on studying behavioral biases in a soccer wagering market and their implications for understanding similar biases in financial markets. While it provides insights into investor behavior, it does not describe or imply a quantifiable, implementable, or conceptually backtestable trading strategy. The discussion is more about market efficiency and behavioral analysis rather than actionable trading or portfolio construction approaches.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/fipfednsr/654.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the relationship between monetary policy operations and interbank borrowing/lending, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on economic analysis and policy implications rather than portfolio construction or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/umcwpaper/1621.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the impact of news and central bank announcements on markets and volatility but does not present any quantifiable, implementable, or conceptually backtestable trading strategy. It focuses on economic analysis without specific implications for portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/umcwpaper/2001.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the concept of toxic assets and market dynamics, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on theoretical market behavior rather than practical trading or portfolio construction implications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/ldejournl/y_3a2014_3ai_3a81_3ap_3a57-90.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses financial bubbles and stock market behavior in Latin America but does not present any quantifiable, implementable, or conceptually backtestable trading strategy. It focuses on market analysis without implications for portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/col000174/014708.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on testing economic hypotheses about financial bubbles and their synchronization across markets, without discussing any trading strategies, portfolio construction, or actionable investment implications. It is purely analytical with no practical application for trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/col000443/015411.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the identification and characterization of financial bubbles in international stock markets, which could inform trading decisions or portfolio construction by signaling potential market risks or timing for asset allocation adjustments.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/col000149/011028.htm": {
+    "strategy": false,
+    "reason": "The abstract describes a methodology for detecting economic bubbles and analyzing financial time series, but it does not present or imply any tradable strategy, portfolio construction approach, or asset selection methodology. The focus is on detection and analysis rather than informing trading decisions or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cbiwpaper/3_2frt_2f18.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a securitisation solution for sovereign bonds with different tranches, which implies a portfolio construction approach. The use of dynamic VaR and Marginal Expected Shortfall methods suggests risk assessment that could inform trading decisions. The findings about the safety of different tranches could guide asset allocation decisions, meeting the criteria for a tradable strategy concept and implicit trading signals.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/aeaaejmac/v_3a12_3ay_3a2020_3ai_3a2_3ap_3a1-43.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on analyzing the effects of central bank announcements on the economy using a structural vector autoregression. While it discusses the impact on interest rates and stock prices, it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The paper is more about economic analysis and inference rather than informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cbiwpaper/07_2frt_2f13.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on analyzing the effectiveness of the ECB's Securities Markets Programme (SMP) on Irish sovereign yields, without discussing any allocation strategies, portfolio construction approaches, or asset relationships that could inform trading decisions. It is purely an economic/market analysis with no implications for portfolio management or trading strategies.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cbiwpaper/09_2frt_2f14.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the relationship between monetary policy operations and interbank trading of funds using sovereign bonds as collateral, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on economic analysis and market behavior rather than on informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/bdiwptemi/td_5f1129_5f17.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a new indicator based on central bank communications that affects financial markets' expectations on future short-term interest rates. This could inform trading decisions, particularly in fixed income or interest rate derivatives, based on the verbal guidance from central banks.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeeecofin/v_3a59_3ay_3a2022_3ai_3ac_3as1062940821001753.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses a framework for identifying and quantifying surprises in financial markets, but it does not present a tradable strategy, implicit trading signals, or concepts that could inform portfolio construction or trading decisions. It focuses on analyzing market reactions to specific events without suggesting how this analysis could be used to develop a trading strategy.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/dukdukeec/10-73.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses volatility characteristics and develops an equilibrium model to explain empirical facts about volatility and returns. While it uses high-frequency data and examines relationships between returns and volatilities, it does not propose or imply any specific trading strategy, portfolio construction approach, or actionable trading signals. The focus is on theoretical modeling and empirical validation rather than practical trading implications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeejfinec/v_3a108_3ay_3a2013_3ai_3a2_3ap_3a425-448.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on analyzing the effects of the Federal Reserve's Treasury purchase program on yield curves and market segmentation. While it provides valuable insights into market dynamics, it does not discuss or imply any tradable strategy, portfolio construction approach, or actionable trading signals. The paper is more about economic analysis and market behavior rather than presenting a quantifiable or implementable trading strategy.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/dukdukeec/10-34.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses volatility characteristics and develops an equilibrium model to explain empirical facts, but it does not present or imply any tradable strategy, portfolio construction approach, or actionable trading signals. The focus is on theoretical modeling and empirical validation rather than practical trading implications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/eclohidic/2009-17.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the predictability of market returns based on Fama-French factors and momentum factor variances and correlations, which could inform trading decisions or portfolio construction. It implies potential trading signals based on these predictive relationships, meeting the criteria for a tradable strategy concept and implicit trading signals.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/diwdiwwpp/dp1740.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on analyzing redenomination risk and its impact on yield spreads during the euro crisis, along with the effects of ECB interventions. While it provides valuable insights into market dynamics and risk assessment, it does not discuss or imply any tradable strategy, portfolio construction approach, or asset selection methodology that could inform trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/dukdukeec/10-09.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on analyzing the nature of stock market volatility and its relationship with stock prices, but it does not discuss or imply any trading strategies, portfolio construction approaches, or actionable insights for trading decisions. It is purely theoretical and empirical in nature without practical application to trading.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cwlcwldpp/2182.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses information aggregation in financial markets and the role of algorithmic traders, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on market efficiency and trader behavior rather than specific trading or portfolio construction approaches.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cmfwpaper/wp2025_5f2501.htm": {
+    "strategy": true,
+    "reason": "The abstract describes a novel methodology using LLMs to classify firm-specific economic shocks in news articles, which is then applied in a simple trading strategy that outperforms a benchmark. This meets the criteria of a tradable strategy concept, implicit trading signals, broad data acceptance, and conceptual testability.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cwlcwldpp/1868.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses market outcomes and the behavior of algorithmic agents in achieving rational expectations equilibria, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on market structure and agent behavior rather than on informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cwlcwldpp/1868r.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses market outcomes and the behavior of algorithmic agents in achieving rational expectations equilibria, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on market structure and agent behavior rather than on informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/hhsrbnkwp/0300.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses a theoretical model of information acquisition and its implications for agent behavior in economic applications, but it does not present any concepts or ideas that could inform trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/aeaaecrev/v_3a107_3ay_3a2017_3ai_3a10_3ap_3a3250-56.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses methodological adjustments to economic shock analysis but does not present any concepts, signals, or approaches that could inform trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/sprclimat/v_3a176_3ay_3a2023_3ai_3a12_3ad_3a10.1007_5fs10584-023-03640-y.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses return and volatility spillover between climate change futures and carbon allowance futures, explores bivariate optimal hedging strategies and optimal portfolio strategies, and provides practical implications for investors and portfolio managers. These concepts could reasonably inform trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/ihsihsesp/38.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses regime switching models and their applications in economic time series, but it does not present any specific trading or portfolio construction concepts, implicit trading signals, or practical applications that could inform trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/fipfedbwp/16-27.htm": {
+    "strategy": true,
+    "reason": "The abstract describes a long-short trading strategy based on a monetary policy exposure index, which is quantifiable and implementable with standard market data. It also provides performance metrics, indicating conceptual testability.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/imeimedps/18-e-14.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the effects of Quantitative Easing (QE) on market liquidity and bond yields in Japanese Government Bonds, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on analyzing economic phenomena rather than informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/fipfedbwp/17-15.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the impact of monetary policy shocks on stock prices and production networks, but it does not present any tradable strategy concept, implicit trading signals, or conceptual testability that could inform trading decisions or portfolio construction. The focus is on economic analysis and transmission mechanisms rather than actionable trading strategies.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/imeimedps/18-e-02.htm": {
+    "strategy": false,
+    "reason": "The abstract presents a theoretical model for understanding how traders incorporate information into prices and analyzes the impact of specific events on market sensitivity. While it uses market data and discusses market reactions, it does not propose or imply any tradable strategy, portfolio construction approach, or actionable trading signals. The focus is on market analysis rather than strategy development.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/prewpaper/201836.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses directional predictability in foreign exchange markets using a model-free econometric procedure, which implies potential trading signals based on quantile analysis. The findings could inform trading decisions or portfolio construction strategies, particularly in currency markets, aligning with the criteria for a tradable strategy concept and implicit trading signals.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/fipfedgfe/2020-01.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a sentiment measure derived from Federal Reserve Board narratives that predicts future stock returns and monetary policy, which could inform trading decisions or portfolio construction based on sentiment signals.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/fipfedgfe/2015-46.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a novel measure of the intrinsic value of macroeconomic news announcements and its impact on Treasury bond yields. This could inform trading decisions by identifying which announcements are more likely to affect asset prices, providing a basis for developing trading strategies around news releases.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/121452.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on ESG awareness among Italian SMEs and the impact of ESG factors on corporate sustainability and risk management. It discusses clustering non-performing loans and empirical analysis of relationships between non-performing loans and ESG variables, but does not present any tradable strategy concept, implicit trading signals, or portfolio construction approaches that could inform trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/zbwcfswop/624.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the impact of ECB policy announcements on yield curves and stock indices, which could inform trading decisions based on monetary policy surprises. It also mentions constructing a database for policy-related news releases, implying potential for developing trading strategies around such events.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pavdemwpp/demwp0139.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the analysis of financial news data and its predictive power, which could inform trading decisions based on sentiment or topic evolution. The use of news archives and Granger causality tests implies potential trading signals or portfolio adjustments based on news trends.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pavdemwpp/demwp0140.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the use of financial news and deep learning to classify bank distress, which could inform trading decisions or portfolio construction by identifying distressed banks. This implies potential trading signals based on the classifier's output.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cprceprdp/13759.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the impact of ECB policy communication on various asset prices, including yield curves, sovereign yields, exchange rates, and stock prices. This information could inform trading decisions or portfolio construction, particularly in terms of timing trades around policy announcements or adjusting portfolio allocations based on anticipated market reactions. The creation of the Euro Area Monetary Policy Event-Study Database (EA-MPD) also provides a tool that could be used to develop or backtest trading strategies based on policy-related events.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/hhsumnees/0614.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses statistical properties of returns (asymmetry and kurtosis) at different frequencies but does not propose or imply any trading strategy, portfolio construction approach, or actionable market signal. It is purely an analysis of return characteristics without practical trading implications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cprceprdp/14235.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a model where investors use firm characteristics to price assets, implying a potential asset selection or portfolio construction strategy based on these characteristics. This aligns with the criteria of presenting ideas that could inform trading decisions or portfolio construction, even if specific implementation details are not provided.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/hhsumnees/0610.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses statistical models and estimators for analyzing trading durations, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on methodological improvements for analyzing data rather than informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/hhsumnees/0637.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on modeling the number of transactions in intra-day data and discusses statistical estimators and model properties. While it provides insights into transaction behavior and the impact of price news, it does not discuss or imply any trading strategy, portfolio construction, or asset allocation that could inform trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/hhsumnees/0656.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on advancing statistical models for financial count data (number of stock transactions) and their properties, but does not discuss or imply any trading strategies, portfolio construction, or asset allocation approaches. The content is methodological and empirical in nature, without practical implications for trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/hhsumnees/0673.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses a statistical model for high-frequency stock transactions data and its properties, but it does not present any tradable strategy concept, implicit trading signals, or portfolio construction approach. The focus is on statistical estimation and properties of the data rather than any actionable trading or investment strategy.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/hhsumnees/0655.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses a statistical model (BINMA) for analyzing correlation between stock transactions but does not propose or imply any tradable strategy, portfolio construction approach, or actionable trading signals. It focuses on modeling techniques rather than practical trading applications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/hhsumnees/0674.htm": {
+    "strategy": false,
+    "reason": "The abstract describes a statistical model (VINMA) for analyzing correlations and spillover effects in intra-day transaction frequency data. While it provides insights into market dynamics, it does not propose or imply any tradable strategy, portfolio construction approach, or actionable trading signals. The focus is on modeling rather than strategy implementation or conceptual backtesting.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/kocwpaper/1304.htm": {
+    "strategy": true,
+    "reason": "The abstract describes a quantifiable trading strategy based on long-short portfolios sorted on past liquidity shocks, which generates significant returns. It also provides empirical evidence of the strategy's performance across different conditions, making it implementable and backtestable.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cesceswps/_5f7699.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the impact of ECB policy announcements on yield curves and stock indices, which could inform trading decisions based on monetary policy surprises. It also provides a methodology for analyzing policy-related news releases, suggesting potential trading signals or portfolio adjustments in response to such events.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/hhsumnees/0675.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on advancing statistical models for financial count data, specifically the number of stock transactions in intra-day data. While the research has implications for understanding market microstructure and transaction dynamics, it does not present or imply any tradable strategy, portfolio construction approach, or asset selection methodology. The work is methodological and does not suggest any actionable trading signals or portfolio management implications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/nbrnberwo/15189.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses theoretical aspects of market selection and survival of traders with inaccurate forecasts, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on economic theory and asset pricing models without implications for portfolio construction or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/41407.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses changes in the S&P-500 Index's persistence and multifractal spectrum, but it does not present any tradable strategy concept, implicit trading signals, or conceptual testability that could inform trading decisions or portfolio construction. The focus is on theoretical analysis of market behavior without practical implications for trading.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/kyowpaper/1012.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on understanding the relationship between monetary policy and stock price volatility within a theoretical model, without presenting any actionable trading strategies, portfolio construction approaches, or implicit trading signals. It is purely theoretical with no practical application for trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/kyowpaper/1013.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the impact of monetary policy on stock price volatilities and investor beliefs, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on theoretical analysis and economic relationships rather than actionable trading or portfolio construction insights.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/aahcreate/2011-51.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the relationship between volatility risk premium and return predictability, which could inform trading decisions based on volatility signals. It implies potential trading actions through the analysis of variance risk premium and its predictive power for returns, meeting the criteria for a tradable strategy concept and implicit trading signals.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/circirwor/2003s-33.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on statistical tests for error distributions in multivariate linear regression models, with an application to asset pricing models. While it mentions asset returns, the primary focus is on methodological development in statistics rather than presenting a tradable strategy or portfolio construction approach.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/bcabocsan/20-17.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses market performance and economic recovery implications but does not present any tradable strategy concept, implicit trading signals, or conceptual testability that could inform trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/circirwor/2002s-85.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on statistical tests for mean-variance efficiency within the CAPM framework, including considerations for non-normal error distributions. While it discusses portfolio efficiency, it does not propose or imply any tradable strategy, allocation method, or actionable trading signals. The paper is methodological in nature, aimed at improving statistical tests rather than informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/avmwpaper/0902.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on analyzing relationships between exchange rate volatility, default rates, interest rates, and credit availability, but does not propose or imply any specific trading strategy, portfolio construction approach, or actionable trading signals. It is primarily an economic analysis without direct implications for portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cprceprdp/13371.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on analyzing the impact of ECB measures on crash risk and asset markets, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. It discusses market reactions to policy announcements but does not suggest any specific trading actions, portfolio construction approaches, or asset allocation strategies.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/circirwor/2005s-03.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on statistical methods for asset pricing models and error distribution analysis, without proposing or implying any tradable strategy, portfolio construction approach, or asset selection methodology. It discusses model fitting and hypothesis testing rather than actionable trading concepts.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/circirwor/2003s-34.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on developing and applying statistical tests for multivariate linear regressions in the context of asset pricing models. While it discusses empirical results and applications to asset pricing, it does not propose or imply any specific trading strategy, portfolio construction approach, or asset allocation methodology. The content is primarily methodological and statistical, without clear implications for trading decisions or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/ijcijcjou/y_3a2014_3aq_3a2_3aa_3a14.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on analyzing the anchoring of long-term inflation expectations in Brazil, Chile, and Mexico using survey-based and market-based measures. While it discusses financial-market-based measures and macroeconomic data releases, it does not present any tradable strategy concept, implicit trading signals, or portfolio construction approaches. The paper is purely analytical and does not imply any practical application for trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/grswpegrs/2004-04.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses market dynamics and the role of financial intermediaries in influencing investor behavior, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on theoretical analysis of market behavior rather than practical trading or portfolio construction implications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/mbrjmonec/v_3a9_3ay_3a2014_3ai_3a3_3ap_3a31-57.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses monetary policy and expectations management without presenting any quantifiable, implementable, or conceptually backtestable trading strategy. It focuses on economic theory and policy implications rather than portfolio construction or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeefinlet/v_3a21_3ay_3a2017_3ai_3ac_3ap_3a272-276.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the relationship between stock returns and market liquidity in the Norwegian market but does not propose or imply any trading strategy, portfolio construction approach, or actionable insights for trading decisions. It is purely an empirical analysis without practical application to trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/col000443/012602.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the relationship between economic cycles and Equity Risk Premium (ERP) in the Colombian stock market, revealing counter-cyclical relationships with specific lags. This information could inform timing or allocation decisions in portfolio construction, meeting the criteria for a tradable strategy concept and implicit trading signals.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/zbwbubdp1/4196.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on statistical tests for mean-variance efficiency within the CAPM framework and discusses error distributions and diagnostic checks. While it provides insights into model validation and statistical properties, it does not propose or imply any tradable strategy, portfolio construction approach, or asset selection methodology that could inform trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/col000442/012007.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the relationship between ex-post market risk premiums and business cycles in Colombia using statistical methodologies, but it does not present any tradable strategy concept, implicit trading signals, or conceptual testability that could inform trading decisions or portfolio construction. The focus is on economic analysis without implications for actionable trading strategies.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/bcabocsan/18-37.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses how market prices react to non-headline economic news, which could inform trading decisions by focusing on these underappreciated data points. This implies a potential trading signal based on the analysis of non-headline economic data.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/risejessy/0114.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses market dynamics and the role of financial intermediaries in influencing investor behavior, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on theoretical analysis of market behavior rather than practical trading or portfolio construction implications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/spdjournl/v_3a72_3ay_3a2022_3ai_3a3-4_3ap_3a3-55.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses optimal portfolio construction for different types of investors, including the use of alternative asset classes, which could inform trading decisions and portfolio management. It presents a conceptual approach that could be tested and implemented with standard market data.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/sprdecfin/v_3a42_3ay_3a2019_3ai_3a1_3ad_3a10.1007_5fs10203-019-00231-4.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses equilibrium properties in a theoretical market microstructure model but does not present any tradable strategy concept, implicit trading signals, or practical implications for portfolio construction or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/aeaaejmac/v_3a15_3ay_3a2023_3ai_3a2_3ap_3a279-305.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on measuring the effects of monetary policy in the euro area using a structural vector autoregression and high-frequency financial market data. While it discusses monetary policy shocks and their macroeconomic effects, it does not present a tradable strategy, implicit trading signals, or concepts that could inform portfolio construction or trading decisions. The paper is more aligned with economic analysis rather than providing actionable trading insights.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/68715.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses a theoretical model of information flow in financial markets and provides empirical evidence supporting the concept of attention-driven information efficiency. While it mentions market anomalies like the momentum effect and provides examples like the housing bubble, it does not propose or imply any specific trading strategy, portfolio construction approach, or actionable trading signals. The focus is on theoretical and empirical analysis without practical implications for trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/46499.htm": {
+    "strategy": true,
+    "reason": "The abstract examines stock return patterns in Indian exchanges, which could inform trading decisions based on the findings that returns do not follow a random walk. This implies potential predictability or inefficiencies that could be exploited in a trading strategy.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/aeaaecrev/v_3a107_3ay_3a2017_3ai_3a4_3ap_3a1059-1103.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses macroeconomic implications of information aggregation in stock markets and its effects on welfare, but it does not present any concepts, methodologies, or relationships that could inform trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cesceswps/_5f10923.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the relationship between monetary expansion and asset bubbles but does not present any quantifiable, implementable, or conceptually backtestable trading strategy. It focuses on economic analysis without implications for portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeequaeco/v_3a79_3ay_3a2021_3ai_3ac_3ap_3a151-160.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on testing unobserved heterogeneity in a nonlinear model and its application to identifying heterogeneous agents in a specific bank's trading scenario. It does not discuss or imply any tradable strategy, portfolio construction, or asset relationships that could inform trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/nbrnberwo/27388.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses an asset-pricing framework that includes cross-predictability and derives an optimal strategy in closed form, referred to as 'principal portfolios.' It also mentions empirical results showing significant out-of-sample alphas, which implies practical application and testability in trading or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/tinwpaper/20180096.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the impact of ECB policies on crash risk and asset markets but does not present a quantifiable, implementable, or conceptually backtestable trading strategy. It focuses on economic analysis without specific implications for portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/bisbiswps/203.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the impact of macroeconomic variables on the term structure of corporate bond spreads, which could inform trading decisions or portfolio construction, particularly in fixed income markets. The findings about sensitivity to macro shocks could be used to develop strategies for credit spread trading or hedging.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/venwpaper/2018_3a01.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on theoretical market fluctuations and equilibrium concepts without presenting any practical trading or portfolio construction implications. It discusses strategic trade and market efficiency but does not suggest any quantifiable or implementable trading strategies.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/boeboeewp/1023.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses a price formation model and its implications for information aggregation and acquisition in the presence of trading delays, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on theoretical and empirical analysis of market dynamics rather than on informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/camcamdae/1735.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on analyzing the effects of unconventional monetary policies on financial markets and the real economy, without presenting any concepts or implications for trading strategies or portfolio construction. It is purely theoretical and analytical with no practical application to trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cbiwpaper/5_2frt_2f11.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the inclusion of an investor sentiment indicator along with earnings and growth fundamentals to explain value, which could inform trading decisions. The resulting index of 'the valuation effects of sentiment' could be used to identify conditions conducive to asset bubbles, implying potential trading signals or portfolio adjustments based on sentiment analysis.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/fipfedlwp/96490.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the construction of a Fed-driven systemic tail risk (STR) indicator, which could inform trading decisions or portfolio construction by identifying tail events and explaining pre-FOMC announcement drift. This implies potential trading signals and is conceptually testable with standard market data.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeejfinec/v_3a150_3ay_3a2023_3ai_3a2_3as0304405x23001551.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a market anomaly (low-risk stocks outperforming high-risk stocks) and identifies a specific investor behavior (social status concern of rich households) that explains this anomaly. This information could inform trading decisions or portfolio construction by suggesting a potential factor (risk level) to consider in security selection or portfolio tilts, even though explicit trading rules are not provided.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/mcdmcddps/2008_5f09.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the study of complex structures behind short-term predictability of stock returns, which implies potential trading signals or strategies based on these findings. The use of various tests and forecasting models suggests that the findings could inform trading decisions or portfolio construction, even if specific trading rules are not detailed.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/mtlmontec/04-2005.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on statistical methods for asset pricing models and goodness-of-fit tests for error distributions, without discussing any trading strategies, portfolio construction, or implicit trading signals. It is purely theoretical with no practical application to trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/mtlmontec/06-2003.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on developing and applying statistical tests for multivariate linear regressions in the context of asset pricing models. While it discusses empirical results and statistical methods, it does not propose or imply any tradable strategy, portfolio construction approach, or asset relationships that could inform trading decisions. The content is purely methodological and theoretical without practical implications for trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/mtlmontec/07-2003.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on statistical testing of error distributions in multivariate linear regression models and their application to an asset pricing model. While it involves financial data (NYSE portfolio returns), it does not discuss or imply any trading strategies, portfolio construction approaches, or actionable trading signals. The content is purely methodological and theoretical without practical implications for trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/mtlmontde/2002-17.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on statistical tests for mean-variance efficiency within the CAPM framework and discusses error distributions and diagnostic checks. While it provides insights into model validation and statistical properties, it does not propose or imply any tradable strategy, portfolio construction approach, or asset selection methodology that could inform trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/mtlmontde/2003-08.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on developing and applying statistical tests for multivariate linear regressions in the context of asset pricing models. While it discusses empirical results and statistical methods, it does not propose or imply any tradable strategy, portfolio construction approach, or asset relationships that could inform trading decisions. The content is purely methodological and theoretical without practical trading implications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/aeaaecrev/v_3a113_3ay_3a2023_3ai_3a2_3ap_3a548-84.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the influence of detected emotions from Federal Reserve press conferences on financial markets, which could inform trading decisions based on vocal cues from central bank communications. This implies a potential trading signal based on emotional tone analysis.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/mtlmontde/2003-09.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on statistical testing of error distributions in multivariate linear regression models and their application to an asset pricing model. While it involves financial data, it does not discuss or imply any trading strategies, portfolio construction approaches, or actionable trading signals. The content is purely methodological and theoretical without practical implications for trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/mtlmontde/2005-04.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on statistical methods for asset pricing models and goodness-of-fit tests for error distributions, without discussing or implying any trading strategies, portfolio construction approaches, or actionable market signals.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/ctcserie1/def022.htm": {
+    "strategy": false,
+    "reason": "API error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "model": "Pro/deepseek-ai/DeepSeek-V3",
+    "error": "api_error"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/47217.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses theoretical aspects of hidden persistence in dividend growth rates and its implications for asset prices, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on economic/market analysis without any direct implications for portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeedyncon/v_3a37_3ay_3a2013_3ai_3a8_3ap_3a1403-1433.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses a New Keynesian Model with diverse beliefs and aggregation problems, focusing on theoretical economic modeling and equilibrium conditions. It does not present any concepts, signals, or methodologies that could inform trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeedyncon/v_3a37_3ay_3a2013_3ai_3a9_3ap_3a1911-1928.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses theoretical aspects of hidden persistence in dividend growth rates and its implications for asset prices, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on economic/market analysis without any direct implications for portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/ehllserod/119044.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on surveying theoretical and empirical literature on market liquidity, its measurement, and its relationship with market imperfections and asset returns. While it provides valuable insights into liquidity and market imperfections, it does not discuss or imply any specific trading strategies, portfolio construction approaches, or actionable trading signals. The content is more theoretical and analytical without practical implications for trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cesceswps/_5f2539.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses an optimal debt ratio derived from stochastic optimal control, which could inform portfolio allocation and risk management decisions. It also introduces a measure of excess debt as an early warning signal, implying potential trading or risk mitigation actions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cesceswps/_5f2924.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on evaluating empirical relations between asset price bubbles and financial crises, and critiques existing literature. While it mentions stochastic optimal control and dynamic risk management, it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The discussion is more theoretical and analytical, without clear implications for portfolio construction or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cesceswps/_5f5252.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the impact of diverse beliefs on monetary policy and its effects on inflation and output volatility, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on economic analysis and policy implications rather than portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/nbrnberwo/28489.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the theoretical implications of public information on risk sharing and market-insurance within a general-equilibrium model, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on economic analysis without practical implications for portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/69002.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses investor overconfidence and its effects on asset prices and trading behavior, but it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The focus is on explaining market phenomena rather than informing trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/sipdpaper/15-004.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on the impact of diverse beliefs on monetary policy and its implications for economic variables like inflation and output volatility. While it discusses policy responses and their effects, it does not present a quantifiable, implementable, or conceptually backtestable trading strategy. The content is more theoretical and policy-oriented, with no direct implications for portfolio construction or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/nbrnberwo/18251.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on surveying theoretical and empirical literature on market liquidity, including measurement, relationships with market imperfections, and effects on expected returns. While it provides valuable insights into liquidity and market imperfections, it does not discuss or imply any specific trading strategies, portfolio construction approaches, or actionable signals that could inform trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cerpapers/wp522.htm": {
+    "strategy": false,
+    "reason": "The abstract describes a methodological approach to analyzing time series data with regime switches using Bayesian techniques, but it does not discuss or imply any trading strategy, portfolio construction, or asset allocation concepts that could inform trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/hhsumnees/0689.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses trade durations and limit order book information, which could inform trading decisions. Specifically, Paper [3] tests whether an open limit order book contains information about future short-run stock price movements, implying potential trading signals. The other papers also study aspects of market microstructure that could be relevant for developing trading strategies.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/ctewerepe/we084422.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the dynamic relationship between volatility and equity returns, which could inform trading decisions. It provides evidence on mechanisms like the leverage effect and volatility feedback effect, which could be used to develop trading strategies. The use of high-frequency data and analysis of news impact on returns and volatility further supports the potential for practical application in trading.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/circirwor/2011s-27.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the interaction between returns and volatilities, distinguishing between realized and implied volatilities, and examines the leverage effect and volatility feedback effect. These concepts have direct implications for trading strategies, particularly in options and volatility trading. The analysis of dynamic impacts of news on returns and volatility, including the variance risk premium, provides insights that could inform trading decisions and portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/bcabocsan/25-7.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses central bank programs and their impact on market conditions, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy. It focuses on market analysis and the role of central banks without implications for portfolio management or trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeephsmap/v_3a592_3ay_3a2022_3ai_3ac_3as037843712100964x.htm": {
+    "strategy": true,
+    "reason": "The abstract describes a pair trading strategy using specific methods (Generalized Hurst Exponent, Correlation, and Cointegration) for stock selection within the NASDAQ 100 index. It discusses implementation details such as dataset frequency, time period, and performance comparisons, which clearly inform trading decisions and portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/warwpaper/2020-39.htm": {
+    "strategy": true,
+    "reason": "The abstract describes a pair trading strategy using specific methods (Generalized Hurst Exponent, Correlation, and Cointegration) for pair selection and evaluates performance against benchmarks. It involves tradable concepts (pair trading), implies trading signals (pair selection and rebalancing), uses standard market data, and presents empirically testable results.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/hhsrbnkwp/0396.htm": {
+    "strategy": false,
+    "reason": "The abstract focuses on analyzing the effects of monetary policy on economic activity and asset prices, and on identifying different types of shocks. While it discusses high-frequency market surprises and stock market changes, it does not propose or imply any tradable strategy, portfolio construction approach, or asset selection methodology. The paper is more about economic analysis and does not provide any implications for trading or portfolio management.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/nbrnberwo/18451.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses theoretical aspects of insider trading and market dynamics, but does not present any quantifiable, implementable, or conceptually backtestable trading strategy. It focuses on equilibrium conditions and price impact without suggesting practical trading actions or portfolio construction approaches.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/bcabocsan/23-1.htm": {
+    "strategy": false,
+    "reason": "The abstract describes a survey tool for gathering market participants' expectations but does not discuss any tradable strategy, portfolio construction, or asset relationships that could inform trading decisions. It focuses on data collection and usage by central bank staff without implications for portfolio management or trading.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/30563.htm": {
+    "strategy": false,
+    "reason": "The abstract is a tribute to Benoit Mandelbrot and discusses his influence on various scientific fields, but it does not present any quantifiable, implementable, or conceptually backtestable trading strategy or any ideas that could inform trading decisions or portfolio construction.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/bdiwptemi/td_5f1175_5f18.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the impact of ECB's asset purchase programs on asset price volatility in Central and Eastern European economies but does not propose or imply any quantifiable, implementable, or conceptually backtestable trading strategy. It focuses on empirical findings and transmission channels without suggesting any actionable trading or portfolio construction approaches.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/112474.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses a mathematical formulation of economic principles using the Principle of Least Action from classical mechanics. While it touches on economic theories and models like CAPM, game theory, and behavioral economics, it does not present any tradable strategy concept, implicit trading signals, or practical application for portfolio management or trading decisions. The focus is purely theoretical with no implications for implementable trading strategies.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/pramprapa/36656.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses the performance of different measures of inflation expectations but does not present or imply any trading strategy, portfolio construction approach, or asset allocation method. It focuses on forecasting accuracy rather than actionable trading decisions.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/paper/cwlcwldpp/1647.htm": {
+    "strategy": false,
+    "reason": "The abstract discusses equilibrium models in economics and their limitations, but it does not present any concepts, methodologies, or relationships that could inform trading decisions or portfolio construction. It is purely theoretical and focused on economic theory rather than practical trading applications.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
   }
 }
