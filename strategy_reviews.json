@@ -27118,5 +27118,50 @@
     "strategy": false,
     "reason": "The abstract discusses equilibrium models in economics and their limitations, but it does not present any concepts, methodologies, or relationships that could inform trading decisions or portfolio construction. It is purely theoretical and focused on economic theory rather than practical trading applications.",
     "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeejrpoli/v_3a103_3ay_3a2025_3ai_3ac_3as0301420725000996.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the connectedness between REITs, commodity futures, and green bonds, identifying relationships that could inform trading decisions, particularly in terms of hedging and portfolio diversification. It provides empirical findings on market conditions and asset relationships that could be used to develop a trading strategy, meeting the criteria for a tradable strategy concept, implicit trading signals, broad data acceptance, and conceptual testability.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeejimfin/v_3a154_3ay_3a2025_3ai_3ac_3as0261560625000464.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the impact of hedge funds' net flow on CHF returns, particularly during monetary policy surprises, which could inform trading decisions. The findings suggest a potential trading signal based on hedge fund activity and SNB policy announcements, meeting the criteria for a tradable strategy concept and implicit trading signals.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeefinlet/v_3a76_3ay_3a2025_3ai_3ac_3as1544612325002272.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the decomposition of stock returns into systematic and firm-specific components, which could inform trading decisions based on momentum anomalies. It implies potential trading signals through the analysis of firm-specific momentum and factor momentum, even without explicit trading rules.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeeriibaf/v_3a76_3ay_3a2025_3ai_3ac_3as0275531925001187.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the relationship between media coverage and investment-to-price sensitivity, which could inform trading decisions by identifying opportunities through media-disseminated information. This meets the criteria for a tradable strategy concept and implicit trading signals, as it suggests a potential method for security selection based on media coverage and investor attention.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeeecolet/v_3a250_3ay_3a2025_3ai_3ac_3as0165176525000953.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses a relationship between political corruption and mutual fund performance that could inform investment decisions, such as selecting funds based on the corruption levels of their home states. This implies a potential trading or portfolio construction strategy, even if specific rules are not detailed.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeeecolet/v_3a250_3ay_3a2025_3ai_3ac_3as0165176525001429.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses market reactions to crypto-specific announcements, including cumulative returns, intraday volatility, and trading volume, which could inform trading decisions. It also introduces wallet-transaction measures that could be used to develop trading signals. The paper's findings on the impact of different types of announcements on market behavior provide a conceptual basis for a trading strategy.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeefinlet/v_3a76_3ay_3a2025_3ai_3ac_3as1544612325002156.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the use of satellite data for environmental risk assessment in sustainable investment, which could inform portfolio construction and asset selection decisions for investors concerned with climate risks. This approach provides an alternative to conventional ESG metrics, implying potential trading or investment actions based on the findings.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/eeecorfin/v_3a92_3ay_3a2025_3ai_3ac_3as0929119925000471.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses the relationship between financial distress and realized returns, identifying mispricing patterns that could inform trading decisions. It implies potential trading signals based on overvaluation and undervaluation, which could be used for portfolio construction or security selection.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  "https://econpapers.repec.org/article/sprfininn/v_3a11_3ay_3a2025_3ai_3a1_3ad_3a10.1186_5fs40854-025-00763-2.htm": {
+    "strategy": true,
+    "reason": "The abstract discusses technical chart patterns in the Bitcoin market, identifies trading signals, and associates these signals with abnormal trading volume and higher returns. This implies a quantifiable and implementable trading strategy based on technical analysis, meeting the criteria for a tradable strategy concept, implicit trading signals, broad data acceptance, and conceptual testability.",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
   }
 }
