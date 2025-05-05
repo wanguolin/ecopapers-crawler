@@ -1,60 +1,69 @@
-# EconPapers Crawler and Updater
+# EconPapers Trading Strategy Library
 
-A set of tools for crawling and updating economics paper metadata from EconPapers.
+A set of tools for crawling, processing, and analyzing economics papers from EconPapers to build a library of trading strategy papers.
 
 ## Overview
 
-This project consists of two main components:
+This project implements a workflow to collect, analyze, and categorize economics papers with a focus on trading strategies:
 
-1. **Crawler** (`crawler.py`) - Fetches basic paper metadata from EconPapers search results
-2. **Details Updater** (`paper_details_updater.py`) - Enriches the paper data with abstracts and download links
+1. **Crawl Basic Data** (`get_abstracts.py`) - Fetches paper metadata from EconPapers search results
+2. **Enrich Data** (`paper_details_updater.py`) - Adds abstracts and download links to paper data
+3. **Analyze Papers** (`review_strategy_paper.py`) - Uses AI to determine if papers describe trading strategies
+4. **Generate Library** (`generate_library.py`) - Creates a curated library of trading strategy papers
 
-## Requirements
+## Manually Install Requirements
 
 ```
-requests
-fake_useragent
-beautifulsoup4
+git commit --allow-empty -m "force update"
+git push
+# Unless it will be scheduled as running monthly
 ```
 
 Install the requirements using:
 
 ```bash
-pip install requests fake_useragent beautifulsoup4
+pip install -r requirements.txt
 ```
 
-## Usage
+## Environment Setup
 
-### Step 1: Run the Crawler
+Create a `.env` file in the project root with the following API keys:
 
-First, run the crawler to fetch basic paper metadata:
+```
+DEEPSEEK_OFFICIAL_API_KEY=your_deepseek_api_key_here
+SILICONFLOW_APIKEY=your_siliconflow_api_key_here
+```
+
+These API keys are used by the `review_strategy_paper.py` script to analyze paper abstracts.
+
+## Workflow Usage
+
+### Step 1: Crawl Papers Basic Data
+
+Run the crawler to fetch basic paper metadata:
 
 ```bash
-python crawler.py
+python get_abstracts.py
 ```
 
-This will generate a `papers_data.json` file containing basic information about papers.
+This will generate a `papers_data.json` file containing basic information about papers from EconPapers. The script will replace any existing file with fresh data.
 
-### Step 2: Run the Details Updater
+### Step 2: Update Paper Details
 
-Next, run the details updater to fetch abstracts and download links for each paper:
+Run the details updater to fetch abstracts and download links for each paper:
 
 ```bash
 python paper_details_updater.py
 ```
 
-This will read the `papers_data.json` file, fetch additional details for each paper, and save the results to `paper_details.json`.
+This script reads `papers_data.json`, fetches additional details for papers not already processed, and updates `paper_details.json` with the results. It preserves existing paper details and only adds new ones.
 
 #### Command-line Options
 
-The details updater supports various command-line options:
+The details updater supports these command-line options:
 
 ```
-usage: paper_details_updater.py [-h] [--input INPUT] [--output OUTPUT]
-                               [--threads THREADS] [--min-sleep MIN_SLEEP]
-                               [--max-sleep MAX_SLEEP] [--retries RETRIES]
-                               [--checkpoint-minutes CHECKPOINT_MINUTES]
-                               [--verbose]
+usage: paper_details_updater.py [-h] [--input INPUT] [--output OUTPUT] [--threads THREADS]
 
 Update paper details with abstracts and download links
 
@@ -66,57 +75,27 @@ optional arguments:
                         Output JSON file for paper details (default: paper_details.json)
   --threads THREADS, -t THREADS
                         Number of concurrent threads (default: 4)
-  --min-sleep MIN_SLEEP
-                        Minimum sleep time between requests in seconds (default: 1.0)
-  --max-sleep MAX_SLEEP
-                        Maximum sleep time between requests in seconds (default: 3.0)
-  --retries RETRIES, -r RETRIES
-                        Maximum number of retries for failed requests (default: 3)
-  --checkpoint-minutes CHECKPOINT_MINUTES, -c CHECKPOINT_MINUTES
-                        Time interval in minutes for automatic checkpoint saves (default: 15)
-  --verbose, -v         Enable verbose logging (debug level)
 ```
 
-#### Examples
+### Step 3: Review Papers for Trading Strategies
 
-Run with 8 threads and more aggressive timing:
+Run the strategy reviewer to identify papers that describe trading strategies:
 
 ```bash
-python paper_details_updater.py --threads 8 --min-sleep 0.5 --max-sleep 2.0
+python review_strategy_paper.py
 ```
 
-Use custom input and output files:
+This script reads `paper_details.json`, analyzes the abstracts using DeepSeek AI through the SiliconFlow API, and generates `strategy_reviews.json` containing the analysis results. Make sure your `.env` file is properly configured before running this script.
+
+### Step 4: Generate Trading Strategy Library
+
+Finally, generate the library of trading strategy papers:
 
 ```bash
-python paper_details_updater.py -i my_papers.json -o my_paper_details.json
+python generate_library.py
 ```
 
-Modify checkpoint interval for more frequent saves:
-
-```bash
-python paper_details_updater.py --checkpoint-minutes 5
-```
-
-## Features
-
-### Crawler (`crawler.py`)
-
-- Fetches paper metadata from EconPapers search results
-- Extracts title, authors, institution, year, keywords, JEL codes, and dates
-- Handles pagination automatically
-- Uses rate limiting to avoid server overload
-
-### Details Updater (`paper_details_updater.py`)
-
-- Multi-threaded processing for efficient downloading
-- Robust error handling with automatic retries
-- Respects existing data (only processes new papers)
-- Extracts abstracts and download links
-- Detailed logging
-- Automatic backup of output file
-- Automatic checkpointing every 100 papers and at regular time intervals
-- Graceful shutdown on keyboard interrupt
-- Configurable through command-line arguments
+This script combines data from `paper_details.json` and `strategy_reviews.json` to create `library.json`, which contains only papers identified as describing trading strategies. This file can be loaded by the alpha.isnow.ai website.
 
 ## Data Structure
 
@@ -156,12 +135,7 @@ Contains enriched paper information with abstracts and download links:
     "title": "Paper Title",
     "url": "https://econpapers.repec.org/paper/...",
     "authors": "Author Names",
-    "year": "YYYY",
-    "institution": "Institution Name",
-    "keywords": "keyword1, keyword2",
-    "jel_codes": "G14, ...",
-    "created_date": "YYYY-MM-DD",
-    "modified_date": "YYYY-MM-DD",
+    "date": "YYYY",
     "abstract": "The paper abstract text...",
     "download_links": [
       {
@@ -176,41 +150,57 @@ Contains enriched paper information with abstracts and download links:
 }
 ```
 
+### `strategy_reviews.json`
+
+Contains the AI analysis of whether papers describe trading strategies:
+
+```json
+{
+  "https://econpapers.repec.org/paper/...": {
+    "strategy": true,
+    "reason": "This paper presents a quantifiable trading strategy based on...",
+    "model": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  ...
+}
+```
+
+### `library.json`
+
+Contains only papers identified as trading strategies, formatted for use by alpha.isnow.ai:
+
+```json
+[
+  {
+    "title": "Paper Title",
+    "abstract": "The paper abstract text...",
+    "keywords": ["keyword1", "keyword2", ...],
+    "eco_link": "https://econpapers.repec.org/paper/...",
+    "reviewed_by": "Pro/deepseek-ai/DeepSeek-V3"
+  },
+  ...
+]
+```
+
 ## Notes
 
-- The script respects rate limits by adding random delays between requests
-- Dual checkpointing system for maximum reliability:
-  - Count-based checkpoints: Saves progress after every 100 papers processed
-  - Time-based checkpoints: Saves progress every 15 minutes (configurable)
-- If interrupted, the script will save its progress
-- The script creates backups of the output file to prevent data loss
+- The scripts respect rate limits by adding random delays between requests
+- The paper_details_updater script uses multi-threading for efficiency
+- The review_strategy_paper script skips papers that have already been reviewed
+- All scripts save progress periodically to prevent data loss if interrupted
 
 ## Automated Updates
 
-This repository is configured with GitHub Actions to run the crawler monthly and automatically commit any updates to the papers data.
+You can set up a cron job or scheduled task to run the full workflow monthly:
 
-### Manual Trigger
-
-You can manually trigger the workflow in two ways:
-
-1. **Via GitHub Web Interface**:
-   - Go to your repository on GitHub
-   - Click the "Actions" tab
-   - Select "Monthly Paper Crawler"
-   - Click "Run workflow"
-   - Choose the branch to run on
-
-2. **Via GitHub CLI**:
-   ```bash
-   # Install GitHub CLI if you haven't
-   brew install gh  # macOS
-   # Login to GitHub
-   gh auth login
-   # Trigger the workflow
-   gh workflow run "Monthly Paper Crawler"
-   # Check the workflow status
-   gh run list --workflow "Monthly Paper Crawler"
-   ```
+```bash
+#!/bin/bash
+cd /path/to/project
+python get_abstracts.py
+python paper_details_updater.py
+python review_strategy_paper.py
+python generate_library.py
+```
 
 ## License
 
