@@ -1,6 +1,7 @@
 # EconPapers Trading Strategy Library
 
 A set of tools for crawling, processing, and analyzing economics papers from EconPapers to build a library of trading strategy papers.
+The results are used by the [alpha.isnow.ai](https://alpha.isnow.ai) website - an AI-powered platform for trading strategies and marketing insights.
 
 ## Overview
 
